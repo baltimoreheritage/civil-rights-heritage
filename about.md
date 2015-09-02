@@ -8,7 +8,17 @@ title: About
 </p>
 
 ## Overview
-Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement is an ongoing project to research and document the historic context for the long Civil Rights movement for African Americans in Baltimore. Our goal is to complete a National Register of Historic Places Multiple Property Documentation Form formally recognizing the significance of this history and supporting the designation and preservation of local Civil Rights landmarks in the future. During the course of the project, we are using this site to share our working documents and related resources. We hope you can explore the site and share your own ideas, comments, questions and suggestions.
+Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement is an ongoing project to research and document the historic context for the long Civil Rights movement for African Americans in Baltimore. Our goal is to complete a National Register of Historic Places Multiple Property Documentation Form formally recognizing the significance of this history and supporting the designation and preservation of local Civil Rights landmarks in the future.
+
+During the course of the project, we are using this site to share our working documents and related resources. We hope you can explore the site and share your own ideas, comments, questions and suggestions. Our published material currently includes:
+
+- An [inventory]({{ site.baseurl }}/properties) and [map of associated properties]({{ site.baseurl }}/map)
+- A collection of [educational resources]({{ site.baseurl }}/educational-resources)
+- A [timeline of Baltimore Civil Rights history]({{ site.baseurl }}/timeline)
+- A [historiography]({{ site.baseurl }}/historiography) on African American history and Civil Rights in Baltimore
+- A [draft study]({{ site.baseurl }}/criminal-injustice) on theme of criminal injustice and Civil Rights in Baltimore
+
+Stay tuned for project updates when new material or related resources are published.
 
 ## Project Partners
 - Baltimore Heritage
