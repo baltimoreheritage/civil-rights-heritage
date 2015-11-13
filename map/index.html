@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Map &middot; Baltimore's Civil Rights Heritage</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+
+
+<div id='map'></div>
+
+<!-- jQuery is required for this example. -->
+<script src='https://code.jquery.com/jquery-1.11.0.min.js'></script>
+<script>
+L.mapbox.accessToken = 'pk.eyJ1IjoiYmFsdGltb3JlaGVyaXRhZ2UiLCJhIjoiYWYwYjRkZTI3NjBkMmM0MjA2YjcxYWE3MzI2NmRmYmYifQ.9DwCW0w7rlxljgOi0IbD1A';
+var url = 'https://raw.githubusercontent.com/baltimoreheritage/baltimore-geojson/master/baltimore-civil-rights-heritage.geojson';
+
+var map = L.mapbox.map('map', 'mapbox.streets', {
+    legendControl: {
+        position: 'bottomright'
+    }
+  }).setView([39.290385, -76.612189], 13);
+
+function load() {
+  // Fetch just the contents of a .geojson file from GitHub by passing
+  // `application/vnd.github.v3.raw` to the Accept header
+  // As with any other AJAX request, this technique is subject to the Same Origin Policy:
+  // http://en.wikipedia.org/wiki/Same_origin_policy the server delivering the request should support CORS.
+  $.ajax({
+    headers: {
+      'Accept': 'application/vnd.github.v3.raw'
+    },
+    xhrFields: {
+      withCredentials: false
+    },
+    dataType: 'json',
+    url: url,
+    success: function(geojson) {
+        // On success add fetched data to the map.
+        L.mapbox.featureLayer(geojson).addTo(map);
+    }
+  });
+}
+
+$(load);
+
+map.legendControl.addLegend('Learn more about <a href="http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/about">this project</a> and <a href="http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/properties">map of historic properties</a>. Nonextant or properties with an unknown status are noted with light markers. <strong>This map is a working draft and may contain errors.</strong>');
+</script>
+
+
+</body>
+</html>

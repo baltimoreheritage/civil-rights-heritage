@@ -26,4 +26,20 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Annotator JS -->
+  {% if page.categories contains 'annotate' %}
+  <script async defer src="//hypothes.is/embed.js"></script>
+  {% endif %}
+
+  <!-- Bigfoot JS/CSS -->
+  {% if page.categories contains 'bigfoot' %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/bigfoot-default.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script type="text/javascript" src="{{ site.baseurl }}/public/js/bigfoot.js"></script>
+  <script type="text/javascript">
+  $.bigfoot();
+  </script>
+  {% endif %}
+
 </head>
