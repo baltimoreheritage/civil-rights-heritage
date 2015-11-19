@@ -1,4 +1,5 @@
 ---
+categories: 'bigfoot,annotate'
 layout: post
 title: Joseph C. Briscoe/George W. King House
 ---
@@ -7,7 +8,7 @@ We are working on a study of the Joseph C. Briscoe/George W. King House at 1232 
 
 # Potential CHAP Landmark Nomination — 1232 Druid Hill Avenue, Baltimore, MD (Joseph C. Briscoe/George W. King House)
 
-**Please note**: This document is a working draft prepared by Eli Pousson, Director of Preservation & Outreach for Baltimore Heritage on November 19, 2015. This document may contain errors or omissions. We anticipated continuing to expand and improve this potential landmark designation in the near future. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337. 
+<p class="message"><b>Please note</b>: This document is a working draft prepared by Eli Pousson, Director of Preservation & Outreach for Baltimore Heritage on November 19, 2015. This document may contain errors or omissions. We anticipated continuing to expand and improve this potential landmark designation in the near future. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.</p>
 
 # History of 1232 Druid Hill Avenue
 
@@ -112,11 +113,11 @@ The _Afro-American_ newspaper reported on March 8, 1930:
 
 By 1938, 1232 Druid Hill Avenue was a advertised for rent for $6.50 [a week? a month? advertisement is unclear]. Other properties advertised in same listing included: 2437 N. Charles Street, 1417 Mt. Royal Avenue, 1127 Druid Hill Avenue, 1215 Park Avenue, 2119 St. Paul Street, 2803 Rayner.
 
-**Note**: We are still researching the later history of the property up until Bethel AME Church took control of the building in the late 1970s [?].
+<p class="message"><b>Note</b>: We are still researching the later history of the property up until Bethel AME Church took control of the building in the late 1970s [?].</p>
 
 # History of Upton/Marble Hill
 
-**Note**: The following section provides a broader neighborhood context to explain the significance of the Joseph C. Briscoe House to Baltimore’s social and architectural history. This section is still a work in progress and includes substantial excerpts from secondary sources in addition to primary sources that have not yet been fully developed.
+<p class="message"><b>Note<b>: The following section provides a broader neighborhood context to explain the significance of the Joseph C. Briscoe House to Baltimore’s social and architectural history. This section is still a work in progress and includes substantial excerpts from secondary sources in addition to primary sources that have not yet been fully developed.</p>
 
 ## Population Movement: 1890s – 1910s
 
@@ -158,7 +159,6 @@ On December 20, 1910, Baltimore Mayor John Barry Mahool signed into law the West
 In 1910, the  _Afro-American_, reported under the headline, “OBJECT TO LIVING NEAR RESPECTABLE NEGROES,” writing:
 
 > Riot and every othar sort of intimidation were hinted at by the white people who crowded the First Branch City Council chamber last Monday, when a hearing…[^8]
-
 
 ### 1911: Bethel AME Church moves
 
