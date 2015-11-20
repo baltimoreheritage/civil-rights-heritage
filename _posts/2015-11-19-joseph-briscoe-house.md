@@ -1,5 +1,4 @@
 ---
-categories: 'bigfoot,annotate'
 layout: post
 title: Joseph C. Briscoe/George W. King House
 ---
@@ -34,7 +33,7 @@ King’s death in 1898 coincided with the broader transition of district (now kn
 
 > Messrs Joseph Briscoe and Columbus Ramsey entertained many of their friends at dinner, Wednesday evening, December 31st, at the former's residence 1232 Druid Hill Ave. The dining and drawing rooms were artistically decorated with holly, evergreen and smilax, while large potted plants completed the decoration. The Menu which was nicely prepared but more nicely consumed, consisted of oysters on the shell, bouillon, turkey stuffed with chestnuts, Smithfield ham, hominy on chafing, individual ices and beverages to the course. At the stroke of twelve the guest knelt down in silent prayer which was lead by Mr. Abram Briscoe.
 
-Joseph C. Briscoe was the long-time principal of the Colored Vocational School (designated school no. 454( located at Carrollton and Lafayette Avenues. Briscoe later lived at 1713 N. Calhoun Street but Briscoe and his family appear to be one of the first African American households to move to 1232 Druid Hill Avenue.
+Joseph C. Briscoe (1886 – 1944) was the long-time principal of the Colored Vocational School (designated school no. 454) located at Carrollton and Lafayette Avenues. Briscoe later lived at 1713 N. Calhoun Street but Briscoe and his family appear to be one of the first African American households to move to 1232 Druid Hill Avenue.
 
 By October 4, 1908, 1232 Druid Hill Avenue was up for sale, advertised under “Real Estate for Sale” in the _Baltimore Sun_: 
 
