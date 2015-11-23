@@ -2,7 +2,7 @@
 categories: 'bigfoot,annotate'
 layout: page
 title: Baltimore’s Confederate Memory & Monuments
-...
+---
 
 <p class="message">
 This document is a <strong>working draft</strong> prepared by Eli Pousson for Baltimore Heritage in response to the June 30, 2015 announcement <a href="http://mayor.baltimorecity.gov/news/press-releases/2015-06-30-mayor-rawlings-blake-announces-review-baltimore%E2%80%99s-confederate-statues">of a formal review for Baltimore’s Confederate Statues</a>—creating a special commission to examine these monuments and launch a public conversation about their appropriate role. This version was first published on September 15, 2015. We welcome comments, questions and criticisms and anticipate continuing to revise and improve this draft in the weeks ahead.
