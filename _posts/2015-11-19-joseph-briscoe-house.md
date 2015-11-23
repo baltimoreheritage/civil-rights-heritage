@@ -116,7 +116,7 @@ By 1938, 1232 Druid Hill Avenue was a advertised for rent for $6.50 [a week? a m
 
 # History of Upton/Marble Hill
 
-<p class="message"><b>Note<b>: The following section provides a broader neighborhood context to explain the significance of the Joseph C. Briscoe House to Baltimore’s social and architectural history. This section is still a work in progress and includes substantial excerpts from secondary sources in addition to primary sources that have not yet been fully developed.</p>
+<p class="message"><b>Note</b>: The following section provides a broader neighborhood context to explain the significance of the Joseph C. Briscoe House to Baltimore’s social and architectural history. This section is still a work in progress and includes substantial excerpts from secondary sources in addition to primary sources that have not yet been fully developed.</p>
 
 ## Population Movement: 1890s – 1910s
 
