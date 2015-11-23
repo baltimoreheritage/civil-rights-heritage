@@ -1,7 +1,16 @@
+---
+layout: post
+title: How we organized a South Baltimore Civil Rights walking tour for Digital Harbor High School 
+---
 
-These notes were prepared for a 2015 November 20 walking tour for students from Digital Harbor High School in South Baltimore.
+Last Friday, I put together a walking tour program for a group of students from Digital Harbor High School who are learning about the history of African Americans and the Civil Rights movement in South Baltimore as part of our ongoing educational outreach around this project. As a resource for anyone who might be interested in retracing our steps, we are publishing a copy of our notes here with plans to expand this post into a resource on how we're approaching our school outreach this fall.
 
-Map: [https://gist.github.com/elipousson/4672f3f95e95685c8cc1](https://gist.github.com/elipousson/4672f3f95e95685c8cc1)
+# South Baltimore Civil Rights Walking Tour
+
+- Around 1-2 hours
+- Around 1.5 miles
+
+_**Note:** These notes were prepared by Eli Pousson for Baltimore Heritage to lead a 2015 November 20 walking tour for students from Digital Harbor High School in South Baltimore. The map for this tour is available in our [Baltimore Heritage collection of GeoJSON map data](https://github.com/baltimoreheritage/baltimore-geojson/blob/master/digital-harbor-hs-south-baltimore-tour.geojson)._
 
 ## Southern High School Site
 
@@ -10,12 +19,15 @@ Map: [https://gist.github.com/elipousson/4672f3f95e95685c8cc1](https://gist.gith
 - Originally located on the southeast corner of Warren Avenue and William Street, the building was constructed of brick with limestone trim in a Jacobean/English Tudor style architecture used for a number of Baltimore City and other American schools of that era.
 - 1955: school had an enrollment of 1,800 students
 - 1956: $2 million expansion project designed to accommodate 600 additional students completed; added eight more regular classrooms, a double classroom, five new art rooms, eight commercial classrooms for typing and business machines, three music rooms, a three shops for machine, print and auto mechanic instruction
+- When was the building demolished?
 
-Source: [https://en.wikipedia.org/wiki/Southern\_High\_School\_(Baltimore)](https://en.wikipedia.org/wiki/Southern_High_School_(Baltimore))
+Source: [Southern High School – Wikipedia](https://en.wikipedia.org/wiki/Southern_High_School_(Baltimore))
 
-Southern High School On October 1, 1954, 500 white students gathered outside Southern High School protesting school integration with signs including "We Want Southern Back" and "Negroes Not Allowed." After some of the 39 black students enrolled at the school are attacked, police intervene and arrest several white protestors.
+_On resistance to desegregation at Southern High School_
 
-_See also:_
+On October 1, 1954, 500 white students gathered outside Southern High School protesting school integration with signs including "We Want Southern Back" and "Negroes Not Allowed." After some of the 39 black students enrolled at the school are attacked, police intervene and arrest several white protestors.
+
+_On violence and housing segregation in South Baltimore:_
 
 On October 8, 1910, as the city wrestled  the Baltimore Sun published an article under the loud headline, "THEY BLOCKED INVASION / Residents Of Locust Point Quickly Solved Negro Problem. BY FORCE AND MORAL SUASION / Young Men Of Southeast Baltimore Always Ready To Protect The Female Sex From Discourtesies," continuing:
 
@@ -60,14 +72,21 @@ Seven of Ebenezer's pastors were ordained bishops in the African Methodist Churc
 
 Ebenezer also played an important part in the education of black children. In 1839, the church took pride in operating a day school on the premise.
 
+Source: [Ebenezer AME Church](http://www.ebenezer-amec-baltimore.com/history.html)
+
 Ebenezer's English Gothic design, its stained glass windows with geometric Victorian patterns, its pews and ceiling beams of Georgia pine, its marble pulpit and its electrified Bronze bell - which can be used to signal us to worship - are all representative of the sacrifices and accomplishments of dedicated, loyal and supportive people.
 
 ## John Wesley Chapel
+
 Prior to 1838, a “Watch Meeting” under Methodist principles was held in a carpenter’s shop on the corner of Sharp and Little Hughes streets. In 1838, the Methodist congregation purchased the shop and renamed it John Wesley Chapel in honor of the founder of the Methodist denomination.
+
+Source: Baltimore National Heritage Area
 
 ## Public School #126
 
 Public School #126 was designed by J.J. Husband of Avery & Husband who created the prototypical models for grammar and primary schools for Baltimore. This school served the African American residents of South Baltimore in the neighborhood now known as Sharp Leadenhall.
+
+Source: MIHP
 
 ## Leadenhall Baptist Church
 
@@ -81,6 +100,6 @@ The church was designed and built by Joseph B. Thomas and Son, who owned and ope
 
 On May 27, 1887, a meeting was held to draw up the church’s charter to establish, by government standards, Leadenhall as a Christian place of worship with a governing body to administer the duties. The meeting included the pastor, the trustees, and selected church members. The charter was officially completed and sealed by the City of Baltimore on November 26, 1883. In attendance at the signing of the charter were the pastor, Reverend Ananias Brown, and five trustees. They were Levin I. Hughes, Richard H. Freeman, Richard Harris, Lawrence Carrington, and Oscar Bowen. One of the six original members, Richard H. Freeman has descendants who still attend the church. This makes the Freeman family one of the oldest families in attendance at Leadenhall.
 
-Source: [http://leadenhallbc.org/history.html](http://leadenhallbc.org/history.html)
+Source: [History - Leadenhall Baptist Church](http://leadenhallbc.org/history.html)
 
 [^1]:	phillips_freedoms_1997, p. 104-105
