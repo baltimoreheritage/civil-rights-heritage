@@ -5,6 +5,8 @@ title: Joseph C. Briscoe/George W. King House
 
 We are working on a study of the Joseph C. Briscoe/George W. King House at 1232 Druid Hill Avenue in response to the recent demolition of the Freedom House at 1234 Druid Hill Avenue. We've published the draft document here to help open up the process of our research, writing and documentation of this important landmark in the Upton neighborhood.
 
+![1232-1234 Druid Hill Avenue, Baltimore, MD](http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg)
+
 # Potential CHAP Landmark Nomination — 1232 Druid Hill Avenue, Baltimore, MD (Joseph C. Briscoe/George W. King House)
 
 <p class="message"><b>Please note</b>: This document is a working draft prepared by Eli Pousson, Director of Preservation & Outreach for Baltimore Heritage on November 19, 2015 with revisions and expansions on December 22, 2015. This document may contain errors or omissions. We anticipated continuing to expand and improve this potential landmark designation in the near future. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.</p>
