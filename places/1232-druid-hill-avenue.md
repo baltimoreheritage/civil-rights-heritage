@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 1232 Druid Hill Avenue – George W. King/Abraham Briscoe House
+categories: 'bigfoot'
 ---
 
 # Landmark Designation Report — 1232 Druid Hill Avenue, Baltimore, MD (George W. King/Abraham Briscoe House)
