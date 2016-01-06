@@ -4,11 +4,9 @@ title: 1232 Druid Hill Avenue – George W. King/Abraham Briscoe House
 categories: 'bigfoot'
 ---
 
-# Landmark Designation Report — 1232 Druid Hill Avenue, Baltimore, MD (George W. King/Abraham Briscoe House)
+<p class="message"><b>Please note</b>: This document is a working draft prepared by Eli Pousson, Director of Preservation & Outreach for Baltimore Heritage on November 19, 2015 with revisions on December 22, 2015 and January 4-6, 2016. This document may contain errors or omissions. We anticipated continuing to expand and improve this potential landmark designation in the near future. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.</p>
 
 ![1232-1234 Druid Hill Avenue, Baltimore, MD](http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg)
-
-<p class="message"><b>Please note</b>: This document is a working draft prepared by Eli Pousson, Director of Preservation & Outreach for Baltimore Heritage on November 19, 2015 with revisions on December 22, 2015 and January 4-6, 2016. This document may contain errors or omissions. We anticipated continuing to expand and improve this potential landmark designation in the near future. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.</p>
 
 Following the recommendations of CHAP staff, this landmark nomination is organized into four sections: 
 
@@ -466,5 +464,3 @@ On February 9, 1986, Lynn Williams reported, “UPTON REVITALIZED: Neighborhood 
 [^4]:	_want_1915
 
 [^5]:	_negroes_1916
-
-<p class="message"><b>Correction:</b> A previous version of this draft that described the property as the Joseph C. Briscoe House incorrectly confused Joseph Briscoe (b. 1873, Maryland) a waiter who lived at 1232 Druid Hill Avenue with Joseph C. Briscoe (b. 1883, North Carolina) who served as a noted educator and educational administrator. We have updated the title of the post and our identification of the house to reflect the association with Abraham Briscoe and his family—not Joseph C. Briscoe.</p>
