@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 1232 Druid Hill Avenue – George W. King/Abraham Briscoe House
 ---
 
