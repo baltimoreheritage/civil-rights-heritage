@@ -4,7 +4,7 @@ title: 1232 Druid Hill Avenue – George W. King/Abraham Briscoe House
 categories: 'bigfoot'
 ---
 
-<p class="message"><b>Please note</b>: This document was prepared by Eli Pousson, Director of Preservation & Outreach for Baltimore Heritage on November 19, 2015 with revisions on December 22, 2015 and January 4-9, 2016. This document may contain errors or omissions. We anticipated continuing to expand and improve this potential landmark designation in the near future. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.</p>
+<p class="message"><b>Please note</b>: This document is a working draft prepared by Eli Pousson, Director of Preservation & Outreach for Baltimore Heritage on November 19, 2015 with revisions on December 22, 2015 and January 4-9, 2016. This document may contain errors or omissions. We anticipated continuing to expand and improve this potential landmark designation in the near future. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.</p>
 
 ![1232-1234 Druid Hill Avenue, Baltimore, MD](http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg)
 
