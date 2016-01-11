@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Equal Employment
+categories: bigfoot
 ---
 
 <p class="message">
@@ -9,24 +10,24 @@ This document is a <strong>working draft</strong> - please <a href="http://balti
 
 Civil Rights advocacy efforts related to employment can be divided between **public employment** (with local, state or federal government agencies) or **private employment**. In addition, Civil Rights advocates have necessarily addressed the  **public programs and independent efforts that support employment** in other ways including relief and welfare services, job training, and the right of workers to unionize. Finally, African Americans in Baltimore, like other communities, have focused on the potential for **self-employment** or entrepreneurship as a strategy for securing economic opportunities outside of a discriminatory labor market.
 
-- 1831-1870
-- 1870-1905
-- 1905-1929
-- 1929-1954
-- 1954-1968
-- 1968-1976
+- 1831 – 1870
+- 1870 – 1905
+- 1905 – 1929
+- 1929 – 1954
+- 1954 – 1968
+- 1968 – 1976
 
-# 1831-1870
+# 1831 – 1870
 
 
-# 1870-1905
+# 1870 – 1905
 
 ## 1891: Navassa Riot
 
-[Navassa riot][1]:
+[Navassa riot](http://www.executedtoday.com/2013/05/18/1891-benjamin-harrison-spares-the-navassa-rioters/):
 
 > Not surprisingly, Navassa’s “convict” laboring population rebelled in 1889, and in a vicious hour-long riot slew five overseers while maiming several others.
-> Warships calling on the island shipped 18 back to face murder charges; ultimately, three black guano-miners were sentenced to death for the affair.* > However, a huge clemency push spearheaded by the Baltimore-based black fraternal organization the Grand United Order of Galilean Fishermen raised the cry to spare the condemned men.
+> Warships calling on the island shipped 18 back to face murder charges; ultimately, three black guano-miners were sentenced to death for the affair.\* \> However, a huge clemency push spearheaded by the Baltimore-based black fraternal organization the Grand United Order of Galilean Fishermen raised the cry to spare the condemned men.
 
 ## 1894: Northwestern Family Supply Company organized
 
@@ -45,7 +46,7 @@ James R. Grossman in _To Make Our World Anew_ writing about black small business
 
 > ”In most cases, however, such businesses were precarious enterprises whose owners had little cash for emergencies or to tide them over during occasional slow months. The limited clientele had little to spend and often needed short-term credit […] Retail businesses were especially risky because whites (often European immigrants with few other business opportunities) could open stores in black neighborhoods and compete, largely because they had greater access to borrowed money and supplies. Barbering, undertaking, and beauty shops, on the other hand, did not face competition from white entrepreneurs reluctant to deal with black bodies.” (p. 95)
 
-# 1905-1929
+# 1905 – 1929
 
 In 1910, only 135 black people had non teaching government positions, 90 in “common labor”
 
@@ -57,9 +58,9 @@ From Afro book:
 
 In 1906, “THEIR HOPE IS IN WORK”
 
-> Harry S. Cummlngs, the colored lawyer, delivered -an address Tuesday night tho Allen Literary and Christian League in Allen African Methodist pal Church, Lexington and Carlton streets. He said,* in part:' "I am deeply concerned,' as this subject of work affects -the people of…[^2]
+> Harry S. Cummlngs, the colored lawyer, delivered -an address Tuesday night tho Allen Literary and Christian League in Allen African Methodist pal Church, Lexington and Carlton streets. He said,\* in part:' "I am deeply concerned,' as this subject of work affects -the people of…[^2]
 
-# 1929-1954
+# 1929 – 1954
 
 By 1930, only 1.7% of municipal workers were black, only 1,350 black people employed by city, state or federal government in Baltimore
 
@@ -122,11 +123,11 @@ On April 29, 1945, the _Baltimore Sun_ reported “SEEKS NEGRO CAB SERVICE: J. F
 > Asserting "it is impossible" for Negroes to obtain taxi service from Baltimore bus and railroad stations, Josiah F. Henry, Jr., has asked the Public Service Commission to issue permits needed to organize a Negro owned and operated company. ‘[^3]
 
 
-# 1954-1968
+# 1954 – 1968
 
 …
 
-# 1968-1976
+# 1968 – 1976
 
 …
 
@@ -135,5 +136,3 @@ On April 29, 1945, the _Baltimore Sun_ reported “SEEKS NEGRO CAB SERVICE: J. F
 [^2]:	_their_1906
 
 [^3]:	_seeks_1945
-
-[1]:	http://www.executedtoday.com/2013/05/18/1891-benjamin-harrison-spares-the-navassa-rioters/
