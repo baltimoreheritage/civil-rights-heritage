@@ -15,5 +15,10 @@ paginate:            5
 # About/contact
 author:
   name:              Baltimore Heritage
-  url:               https://baltimoreheritage.org
+  url:               http://baltimoreheritage.org
   email:             info@baltimoreheritage.org
+
+# Required Gems
+
+gems:
+  - jekyll-redirect-from # Redirection https://help.github.com/articles/redirects-on-github-pages/
