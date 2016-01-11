@@ -1,7 +1,8 @@
 ---
-categories: 'bigfoot,annotate'
-layout: page
 title: Baltimore’s Confederate Memory & Monuments
+layout: page
+categories: 'bigfoot,annotate'
+redirect_from: "/confederate-memory"
 ---
 
 <p class="message">
