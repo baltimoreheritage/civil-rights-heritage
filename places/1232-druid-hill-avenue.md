@@ -2,29 +2,13 @@
 layout: page
 title: 1232 Druid Hill Avenue – George W. King/Abraham Briscoe House
 categories: 'bigfoot'
+tags:
+- housing
 ---
 
-<p class="message"><b>Please note</b>: This document is a working draft prepared by Eli Pousson, Director of Preservation & Outreach for Baltimore Heritage on November 19, 2015 with revisions on December 22, 2015 and January 4-9, 2016. This document may contain errors or omissions. We anticipated continuing to expand and improve this potential landmark designation in the near future. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.</p>
+<p class="message"><b>Please note</b>: This document was prepared and submitted as a CHAP Landmark Designation Report by Baltimore Heritage in support of a landmark designation hearing  for 1232 Druid Hill Avenue on January 12, 2015. This document was written by Eli Pousson, Director of Preservation & Outreach for on November 19, 2015, expanded on December 22, 2015 and substantially revised January 4-9, 2016. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.</p>
 
-![1232-1234 Druid Hill Avenue, Baltimore, MD](http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg)
-
-Following the recommendations of CHAP staff, this landmark nomination is organized into four sections: 
-
-**Significance Summary**
-
-This section briefly summarizes the history and significance of 1232 Druid Hill Avenue.
-
-**Property History**
-
-This section addresses how 1232 Druid Hill Avenue was developed, who occupied the building and how that occupancy has changed over time.
-
-**Contextual History**
-
-This section expands on the property history to provide biographical background information on key occupants of 1232 Druid Hill Avenue and explore the theme of racial transition and segregation in Upton in detail. 
-
-**Architectural Description**
-
-This section provides a physical description of the building.
+![Photograph of 1232 Druid Hill Avenue, November 2015.](http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg "1232-1234 Druid Hill Avenue, Baltimore, MD")
 
 # Significance Summary: 1232 Druid Hill Avenue
 
@@ -150,7 +134,6 @@ Despite present-day working class associations, working as drivers and waiters p
 
 Joseph and John Briscoe’s employment as waiters highlighted in their ability to entertain in style also reflects the segregation that shaped the lives of Baltimore’s workers throughout the twentieth century. Prior to the Civil War, employing black enslaved workers as waiters had a long history in Baltimore, as one English visitor Alfred Pairpont noted, “the more genteel of [slaves] are here employed principally as waiters.”[^3] Men employed as waiters took on important leadership roles in early black institutions. For example, among the 33 class leaders at Bethel AME Church between 1825 and 1853 only 5 worked as laborers. The rest held skilled or semi-skilled jobs, such as a waiter, painter, porter, tailor, or cordwainer.[^4]
 
-
 After the Civil War, factories and industrial employers largely excluded black workers but service work remained an important source of support for black households. In the years after the Civil War, the number of African American waiters grew from 350 in 1864, 662 in 1868, and 798 in 1871. In total, the Woods’ City Directory in 1868 counted 8,000 employed black heads of households, a 100% increase over 1864. In a few cases, work as a waiter led to a more independent enterprise. For example, Richard Macks, born into slavery in Charles County, Maryland, arrived in Baltimore in 1868 and spent 17 years working as a waiter and butler before starting his own catering business in the late 1880s. Macks and other independent black caterers in the late 19th and early twentieth century (including James W. Hughes, Benjamin Simms, and Mrs. Emma Simmes) provided key financial support for black churches and early Civil Rights organizations. In many cases, however, conflict with white workers and white-owned businesses, and, for some African Americans, the perception of a waiter’s work as menial or degrading, made even the service sector a difficult place to work in the twentieth century.
 
 Family also played an important role in shaping both activism and socialization. One nearby relative was Ella B. Morris who lived at 524 Laurens Street as early as 1904. According to a _Sun_ report on December 17, 1900, Abraham Briscoe was a founding member of the "Ancient United Order Sons and Daughters, Brothers and Sisters of Moses," (an African American fraternal and civic organization) along with James M. Seward, Solomon A. Bond, John W. Henson, Louis H. Davenport, Andrew E. Bolden, Andrew A. Spriggs, Dennis Hall, John H. Bailey, James Harris, and Andrew Johnson. Abraham’s relatives Mrs. Ella B. Morris and Pinkney Briscoe were also involved in the Order of Moses, as the _Afro American_ noted on October 22, 1904:
@@ -167,7 +150,7 @@ Civic activism and organizing often different forms for men and women. For examp
 
 > A very delightful tea was given last Sunday evening by the Misses Briscoe at their residence, 1232 Druid Hill Ave.
 
-Social engagements like this provided a basis for fundraising and organizing efforts with family, friends, neighbors, and fellow congregants. Living next door to Ida R. Cummings, daughter of Harry S. Cummings and resident at 1324 Druid Hill Avenue, likely encouraged women in the Briscoe family to help raise funds for youth programs. The _Afro American_ published an account of “Summer Work of the Fresh Air and Empty Stocking Circle” by Miss Ida R. Cummings, President, and Mrs. Mamie R. Bruce, Secretary, on November 3, 1906, noting:
+Social engagements like this provided a basis for fundraising and organizing efforts with family, friends, neighbors, and fellow congregants. Living next door to Ida R. Cummings, daughter of Harry S. Cummings and resident at 1234 Druid Hill Avenue, likely encouraged women in the Briscoe family to help raise funds for youth programs. The _Afro American_ published an account of “Summer Work of the Fresh Air and Empty Stocking Circle” by Miss Ida R. Cummings, President, and Mrs. Mamie R. Bruce, Secretary, on November 3, 1906, noting:
 
 > Among the latest contributions received were $5.45 from a Lawn Party given by the Misses Briscoe's Druid Hill avenue.
 
@@ -282,7 +265,7 @@ The _Afro-American_ newspaper reported on March 8, 1930:
 
 > Redemption of her maiden name was granted Mrs. Ida Barber, 1232 Druid Hill Avenue along with her decree of divorce from George Barber. Mrs. Barber was formerly Miss Ida King. She was married June 12, 1916, and abandoned June 4, 1920. There are no children.
 
-The 1930 Census recorded five people living at 1232 Druid Hill Avenue in two apartments (presumably one of three was vacant at the time). In the first apartment:
+The 1930 Census recorded five people living at 1232 Druid Hill Avenue in two apartments. In the first apartment:
 
 - John H. Jones, Head (b. 1875, Maryland) / Married / Carpenter (Own Business)
 - Minnie Jones, Wife (b. 1888, Maryland) / Married
@@ -293,7 +276,7 @@ In the second apartment:
 - Emma Wilson, Wife (b. 1900, Georgia) / Married / Maid
 - Elizzie Wilson, Mother (b. 1900, Georgia) / Housework
 
-Notably, most of the homes in the row in 1930, including 1234, 1230, 1228, 1226 and 1224, are owner-occupied making 1232 Druid Hill Avenue’s continued  operation as a rental property a relative an unusual occurrence in that year.
+Notably, most of the homes in the row in 1930, including 1234, 1230, 1228, 1226 and 1224, are owner-occupied making 1232 Druid Hill Avenue’s continued  operation as a rental property a relative an unusual occurrence in that year. It seems likely that the first floor apartment continued to be occupied as offices for Mt. Zion Cemetery, as well as the Trustee Board of Baltimore Conference and headquarters of the Second Episcopal District. Historian Phillip Merrill noted a 1931 booklet on the “Council of Bishops and Connectional Council of the A.M.E. Church” that further identified 1232 Druid Hill Avenue as the office for Bishop A. L. Gaines, presiding Bishop of the Second Episcopal District.
 
 ## 1935: 1232 Druid Hill Avenue sold to John Stewart Morton
 
@@ -355,21 +338,22 @@ George W. King died in November 1898, with an obituary appearing in the _Baltimo
 
 ## African Americans and Druid Hill Avenue
 
-One important theme in the contextual history of 1232 Druid Hill Avenue is the Druid Hill Avenue corridor’s broader history of race, segregation and Civil Rights in the late nineteenth and early twentieth century. During the same period the Briscoe household lived on Druid Hill Avenue, they and other African Americans faced the animus of white property owners and elected officials who organized to restrict housing opportunities for African Americans and deny African American districts public services. The community that developed on and around Druid Hill Avenue provided a foundation for the resistance to these efforts exemplified through the important role the neighboring Freedom House at 1234 Druid Hill Avenue played in supporting Civil Rights struggle prior to its demolition in 2015. Over the past fifty years, however, the persistent patterns of racial disparity in housing and transportation have led to the destruction of much of the neighborhood. This demolition has left 1232 Druid Hill Avenue as a rare survivor carrying the story of Baltimore’s African American history and the history of segregation and Civil Rights.
+One important theme in the contextual history of 1232 Druid Hill Avenue is the Druid Hill Avenue corridor’s broader history of race, segregation and Civil Rights in the late nineteenth and early twentieth century. In the same period the Briscoe household lived on Druid Hill Avenue, African Americans residents faced the animus of white property owners and elected officials who organized to restrict housing opportunities for African Americans and deny public services to black neighborhoods. Black residents on Druid Hill Avenue resisted these efforts through advocating for community improvements and Civil Rights—resistance exemplified by the important role the neighboring Freedom House at 1234 Druid Hill Avenue played in supporting Civil Rights struggle prior to its demolition in 2015. Over the past fifty years, however, the persistent patterns of racial disparity in housing and transportation have led to the destruction of much of the neighborhood. This demolition has left 1232 Druid Hill Avenue as a rare survivor carrying the story of Baltimore’s African American history and the history of segregation and Civil Rights.
 
 ### 1860s-1890s: Early History of African Americans in West Baltimore
 
-During the first half of the nineteenth century, African Americans households could be found across the city, often concentrated in alley houses. Despite this concentration, the city was not wholly segregated, as historian Christopher Phillips noted:
+During the first half of the nineteenth century, African Americans households could be found in houses across the city, often concentrated along narrow alleys. Despite this concentration, the city was not wholly segregated, as historian Christopher Phillips noted:
 
 > While alleys early on became predominantly black areas of residence in Baltimore, the city as a whole did not so quickly exhibit such segregation. [...] As in other southern cities, no legal segregation existed in antebellum Baltimore, and all residential streets (and even the alleys) had black family dwellings interspersed with those of laboring and poor whites.[^7]
 
-African Americans in South Baltimore (Hughes Street), Fell’s Point, Pigtown, and Biddle Alley (the southern end of Druid Hill Avenue). Poor conditions, particularly in Pigtown and South Baltimore where residents often had little access to clean water, served to push middle class African Americans (including Abraham Briscoe and his family) to seek better housing beyond the alleys in northwest Baltimore. New opportunities on Druid Hill Avenue existed, in part, because of the city’s explosive growth following the 1888 annexation. New homes built on exurban land at the edge of the city pulled the ethnic German resident who developed and settled along Druid Hill Avenue in the 1860s and 1870s away from the neighborhood and out to the annex. 
+Even as late as 1880, the city’s black population could be found distributed evenly over three-quarters of Baltimore’s 20 wards and 8 districts. By 1890, however, African Americans began to concentrate in 11th Ward (the neighborhood of Biddle Alley) where a little over 11,000 of the 21,2699 residents were African American (making the ward 51.74% black). 
+By 1904, the city’s Northwestern District (including the 11th Ward) held more than 40% of Baltimore’s 81,381 African Americans.[^8]
 
-Before 1880, the city’s black population could be found distributed evenly over three-quarters of Baltimore’s 20 wards and 8 districts. By 1890, however, African Americans began to concentrate in 11th Ward (the neighborhood of Biddle Alley) where a little over 11,000 of the 21,2699 residents were African American (making the ward 51.74% black). By 1904, the city’s Northwestern District (including the 11th Ward) held more than 40% of Baltimore’s 81,381 African Americans.[^8]
+A combination of factors contributed to this pattern of emerging segregation. New homes built during a period of explosive growth sparked by the city’s annexation of a belt of land in Baltimore County in 1888 pulled German ethnic residents away from Druid Hill Avenue and other central neighborhoods to the edge’s of the city. Poor health conditions for African Americans in south and southwest Baltimore pushed African Americans (especially members of the city’s emerging middle class) out of the alleys and onto the more desirable main streets.
 
 ### 1890s-1910s: African Americans move into Northwest Baltimore
  
-A personal perspective on the experience of this movement is found in a 1926 account published in the _Afro-American_ reflecting on the changes thirty years before:
+One perspective on the movement of African Americans onto Druid Hill Avenue is found in a 1926 account published in the _Afro-American_ reflecting on the changes twenty-five years before:
 
 > The Baltimores' "Who's Who" has been constantly moving northwest in the city during the last 25 years, is revealed by a glance at old files which show the addresses of many families in the bygone days.
 > Although a few prominent families still live in the South and Northeast Baltimore, the bulk of the population now resides in that section of the city known as Northwest Baltimore. […]
@@ -398,17 +382,12 @@ By January 2, 1911, the _Baltimore Sun_ reported, “NEGROES TAKE POSSESSION: St
 The story of three nearby schools also  from segregation white to segregated black during this same period:
 
 - **Public School 103** was built on Division Street in 1877 and changed from serving white to black students in 1910 when it was first used for students from nearby Public School No. 112. In March 1911, the school was officially designated Public School 103.
-- **Western Female High School** erected at Lafayette Avenue and McCulloh Street in 1896 with the annex completed in 1911.
+- **Western Female High School** erected at Lafayette Avenue and McCulloh Street in 1896 with the annex completed in 1911. In January 1928, Western High School moved to a new building at Pulaski Street and Gwynns Falls Parkway and the Coppin Normal School, Colored Junior High School, and offices for the Baltimore colored school administration moved into the building on McCulloh Street.
 - **Colored High School** opened in January 1901 at the northeast corner of Pennsylvania Avenue and Dolphin Street occupying a building erected in 1891 for the English-German School No. 1 previously located on Druid Hill Avenue.
 
 Proponents of segregation in this period often couched their appeals in the context of preserving property values, rents and property tax revenue. This language can be found in a _Sun_ editorial in favor of residents protesting the move to use the Division Street school building for African American students:
 
 > It is a well-known fact that as soon as a colored family moves into a block white families begin to move away. The owners of the vacated houses deciding they cannot get white tenants are forced to take such as they can get. To rent to negroes means a reduction of rentals and a deterioration in the value of property… But perhaps even stronger than any question of values and revenues is another reason waged against the change of this school. That is the proximity to the Western Female High School, which is only two blocks distant. Every street leading to the high school would be filled morning and evening with throngs of negroes of both sexes and all ages up, perhaps, to 20 years. Morning and evening the young ladies attending the high school would encounter these negroes and it is not fair nor public spirited of the School Board to subject them to that. There is a growing disposition among negro men and boys all over the land to be unmannerly, insolent and violent to white women.
-
-Unfortunately, even as it developed, the African American district on and around Druid Hill Avenue was threatened with demolition and . For example, in 1906, Colonel C. Baker Clotworthy, commander of the Fifth Regiment, argued in favor of the northward extension of Howard Street that would require the demolition of houses just a few blocks south of 1232 Druid Hill Avenue:
-
-> I would be deeply interested in this improvement because it means so much more than simply tearing down some houses and opening a street. Everyone in the city is familiar with the steady decrease which has taken place in the value of property in this neighborhood for the last 20 years.
-> All about Richmond Market, and extending north, there are hundreds of undesirable houses and, in many cases, huts. This sore is spreading rapidly. A great many negroes, not of the best class,  gradually tenant the houses on the edge of this district and immediately the white people move from the block invaded. If this continues no one knows where it will stop.
 
 On October 27, 1909, the _Baltimore Sun_ headlined an article on the racial transition: “NEGROES ENCROACHING / Taxpayer Tells Of Conditions In Seventeenth Ward. / FINE RESIDENCES OCCUPIED / Following Booker Washington’s Advice, They Move From Alleys To The Principal Streets.” The article (illustrated with a photograph of the 1200 block of Druid Hill Avenue) quoted “a well-known taxpayer of the Seventeenth ward” who advocated in favor of the “suffrage amendment” limiting voting to white Marylanders. On the topic of housing within the Seventeenth ward, the individual is quoted:
 
@@ -426,84 +405,13 @@ Educational institutions (both white and black) served as particular point of co
 
 > There are four negro schools in the Seventeenth ward. The negroes of this ward do not pay enough in taxes to pay for the running of these schools. Not only do they not do this, but their very presence and intrusion into strictly white streets there cause a loss to the city in taxes.
 
-In 1910, the  _Afro-American_, reported under the headline, “OBJECT TO LIVING NEAR RESPECTABLE NEGROES,” writing:
+Ultimately, such residents won a victory of sorts on December 20, 1910, when Baltimore Mayor John Barry Mahool signed into law the West Segregation Ordinance, named for the bill’s sponsor, Council Samuel L. West. The new law was the first city ordinance in the nation to require racially segregated housing. It forbid black residents from moving to designated “white blocks” and white residents from moving to designated “colored blocks.” A campaign against the bill led by African American activists and lawyers living in the Druid Hill Avenue area soon succeeded in overturning the law in Maryland state court as unconstitutional but the legacy of segregated housing endures.
 
-> Riot and every othar sort of intimidation were hinted at by the white people who crowded the First Branch City Council chamber last Monday, when a hearing…[^9]
+# Architectural Description
 
-Union Baptist Church was located on Guilford Avenue between E. Lexington and E. Saratoga Streets. Union Baptist moved to Druid Hill Avenue in 1910.
+1232 Druid Hill Avenue is a three-story tall, three-bay wide Italianate brick rowhouse. Historically, the building stood second from the northern end of the row—near identical to the rowhouse built at 1234 Druid Hill Avenue excepting the location of the front door in the northern-most bay rather than the southern most. Aligned to the orientation of Druid Hill Avenue, the front of the building faces northeast. The building is approximately 20 feet wide by 80 feet deep and follows a rectangular plan. Prior to the demolition of 1234 Druid Hill Avenue, the building was fully attached and separated from 1230 Druid Hill Avenue by a partial areaway to allow light and air into the rear extension of the building. The building steps down in height from the front to the back, creating a flat sloping roof. The front of the building has been painted with a flat red paint. The cornice is painted white.
 
-### Advocating for Neighborhood Improvements: 1910s – 1920s
-
-* Most major sewer lines laid by 1915, percentage of houses in 17th wardmore than twice as high as in any of the four poorest white wards
-
-
-On March 8, 1913, the _Afro-American_ reported, “HUNDREDS THRONG COURT HOUSE TO PROTEST AGAINST SALOONS IN THE SEVENTEENTH WARD: Ministers And Laymen Join In Urging That Conditions On Pennsylvania Avenue and Druid Hill Avenue Be Improved By The Elimination Of A Number of The Saloons--All Denominations Are United In The Effort,” writing:
-
-> The excessive number of saloons along Pennsylvania avenue, Druid Hill avenue and nearby streets were made the subject of a vigorous protest before the Board of...
-
-In 1915, the _Afro American_ reported under the headline, “WANT ASPHALT ON DRUID HILL AVENUE,” writing:
-
-> City Councilman Harry S. Cummings, Dr. E. J. Wheatley and Rev. Dr. Harvey Johnson appeared before the Paving Commission Wednesday to ask that asphalt, and…[^10]
-
-In 1916, the _Afro American_ reported under the headline, “NEGROES FOR CLEAN CITY” writing:
-
-> Colored people enlisted their services in the cause of a cleaner and more healthful Baltimore at a meeting arranged by the Clean City Campaign Committee, held in Bethel African Methodist Episcopal Church, Druid Hill avenue and Lanvale street, last night. The principal speakers were Mayor Preston…[^11]
-
-On Sep 9, 1924, the _Baltimore Sun_ reported, “IMPROVEMENT OF APPROACH TO ARMORY URGED: Razing Of Buildings On Bolton Street Is Proposed NEGRO HOME SECTION WOULD BE WIPED OUT Plan Will Be Submitted At Meeting Of Residents Tomorrow,” writing:
-
-> Beautitication of the Bolton approach to tlie Fifth Regiment Armory, partly by elimination from section of a number of structures considered undesirable, is the purpose a plan to be proposed at a public ing tomorrow night.
-
-Oct 10, 1929, the _Baltimore Sun_ editorialized under the headline, “Lung Block,” writing:
-
-> There is--or there should lie--general public support for the project lo provide a play and recreation center for Negroes on Preston street, near Druid Hill avenue. N'o section of the city given over to people of the colored race is more congested than the area surrounding the intersection of these two streets. For years it -.'is hem the source ol...
-
-### Struggle for West Baltimore: 1930s – 1950s
-
-On Aug 13, 1939, the _Baltimore Sun_ reported, “UNCERTAINTY IRKS SLUM-AREA FOLK: Tenants Speculate On Time They Will Be Forced To Vacate Their Homes Conditions In Northwestern Site Outlined -- Some Houses Dilapidated,” writing:
-
-> Tenants of the houses that occupy the 21.3-acrc site in the Dolphin street Madison nvemic-Biddle ,. street-Druid Hill avenue section nre speculating on the time when the Baltimore Housing Authority will advance its proposed slum-clearance program to the stage...
-
-On March 8, 1941, Max Johnson reported for the _Afro-American_, “Civic Worker Named to Afro Hall of Fame: Mrs. Snowden Honored for Organization of Groups to Protect Home Owners,” writing:
-
-> The AFRO's nominee, this week, for its mythical Hall of Fame is Mrs. Florence Snowden, of 1134 Druid Hill Avenue, ardent church and social worker and president and founder of what is probably one of the more active and beneficial civic organizations...
-
-On July 22, 1946, the _Baltimore Sun_ reported, “‘Y’ REPORT CITES NEGRO AREA NEEDS: Urges Program Extension ln East, South Sections,” writing:
-
-> Asserting the present facilities of the Young Men's Christian As sociation arc "woefully inadequate," Carlton Harrison, general secretary of the organization, has recommended in his 1945 report I that its program for Negroes in East and South Baltimore be extended.
-
-On June 12, 1948, the _Baltimore Sun_ reported, “Court Asked To Halt One-Way Plan For McCulloh, Druid Hill,” writing:
-
-> Injunction proceedings to halt making of Druid Hill avenue McCulloh street one-way streets were filed in Circuit Court No. 2 yesterday by residents of those two arteries.
-
-On April 8, 1956, the _Baltimore Sun_ reported, “YOUTH GANGS ARE REPORTED: Spreading Of Fear In Northwest Baltimore Cited,” writing:
-
-> Gangs of juveniles have been spreading fear along the streets in Northwestern. Baltimore according to John H. Henderson, director, of the Druid Hill avenue branch of the Young Men's Christian Association.
-
-### Urban Renewal: 1950s – 1960s
-
-On July 26, 1957, the _Baltimore Sun_ reported, “Smith Hotel, Noted Negro Landmark, Is Being Razed,” writing:
-
-> A landmark which was almost a shrine to much of Baltimore's Negro population is being razed.
-
-On April 11, 1966, Frank P. L. Somerville reported for the _Baltimore Sun_, “GROUP SEES LOSS TO OLD HOUSES: Mayor, Ward, Kirby Told Of 'Human Needs' In Renewal,” writing:
-
-> A small neighborhood organization yesterday accused the mayor, a city councilman and a building contractor of failure "to consider our human needs" in seeking to preserve old houses in the St. Mary’s street-Druid Hill avenue area.
-
-On June 15, 1968, the _Afro-American_ reported, “New pastor hopes Bethel will continue service in inner city,” writing:
-
-> The Rev. Walter L. Hildebrand, new pastor of Bethel AME Church, told the AFRO this week he hopes to put into effect plans that will make the church "of utmost service to the poor, the hopeless and the op...
-
-On March 12, 1971, the _Baltimore Sun_ reported, “White 'Doc' Chooses To Stay: Druggist Is Expanding In West Baltimore While Others Flee,” writing:
-
-> At a time when many merchants are fleeing more's inner city, at least white entrepreneur has to stay-- in a big way.
-
-On Nov 21, 1983, Patrick A. McGuire reported for the Baltimore Sun, “Neighborhood hopes ride subway, though its building left some bitter,” writing:
-
-> Once, says Walter Thomas, it was a beautiful place.
-
-On February 9, 1986, Lynn Williams reported, “UPTON REVITALIZED: Neighborhood near Bolton Hill seeks historic designation,” writing:
-
-> WHEN PEOPLE THINK OF A REVITAL ized Baltimore, they tend to think of the Inner Harbor. Federal Hill. Bolton Hill, Fells Point.
+The windows openings had until recently been covered with wooden boards. They appear to be contemporary replacement 1/1 windows. Historically, the building likely had 4/4 wood windows on the upper stories and 4/6 wood windows on the first floor. The window sills are composed of a light-colored stone (marble). The raised basement is also faced in stone. Five marble steps lead to the wooden exterior double doors. Above the double-doors is a clear glass transom window. The front entrance has a carved stone surround capped by a carved ornamental keystone. 
 
 [^1]:	Hayward, Mary Ellen, and Charles Belfoure. The Baltimore Rowhouse. Princeton Architectural Press, 2001. p.77.
 
@@ -520,9 +428,3 @@ On February 9, 1986, Lynn Williams reported, “UPTON REVITALIZED: Neighborhood 
 [^7]:	Phillips, Christopher. Freedom’s Port: The African American Community of Baltimore, 1790-1860. University of Illinois Press, 1997.
 
 [^8]:	Roberts, Samuel. Infectious Fear: Politics, Disease, and the Health Effects of Segregation. Univ of North Carolina Press, 2009.
-
-[^9]:	_object_1910
-
-[^10]:	_want_1915
-
-[^11]:	_negroes_1916

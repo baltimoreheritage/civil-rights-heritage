@@ -11,15 +11,16 @@ In highlighting the theme of criminal injustice, the National Historic Landmark 
 
 Police brutality in Baltimore’s historically African-American neighborhoods has been a near constant challenge since the 1860s. Black communities have been **underpoliced** as the police or courts discriminate by not pursuing justice for black victims or not protecting black people in their custody from mistreatment while incarcerated. They have also been  **overpoliced** with African-Americans particularly subject to police violence and brutality, false arrest, discriminatory sentencing. Concerned not just with local issues, however, black Baltimoreans have pushed for fairness in communities around the state particularly in the sustained campaigns against lynching in southern Maryland and the Eastern Shore, and discrimination in the application of the death penalty.
 
-- [1776-1865](#17761865)
-- [1865-1900](#18651900)
-- [1900-1941](#19001941)
-- [1941-1954](#19411954)
-- [1954-1964](#19541964)
-- [1964-1976](#19641976)
+- 1831 – 1870
+- 1870 – 1905
+- 1905 – 1929
+- 1929 – 1954
+- 1954 – 1968
+- 1968 – 1976
+- 1976 – Present
 
+# 1831 – 1870
 
-# <a name="17761865"></a>1776–1865
 According to the Baltimore City Archives, in their [summary of police records](http://baltimorecityhistory.net/police-records/):
 
 > ”The first police force for Baltimore Town was created in 1784. Constables were appointed and given police powers to keep the peace. The State Legislature on March 16, 1853, passed a bill, “to provide for the better security … in the City of Baltimore.” This statute provided that police officers should be armed and that a badge and commission be furnished each member.”
@@ -42,7 +43,6 @@ Such conditions became even worse with the passage of the infamous [Fugitive Sla
 
 Baltimore’s courts, jails and police officers played a very active role in enforcing this new legislation. They also began to professionalize in this same period. On March 16, 1853, the Maryland legislature passed a bill, "To provide for the better security for the citizens and property in the City of Baltimore,” that established new requirements that all Baltimore police officers be armed and be furnished with a bade and commission.
 
-
 The significant association between Baltimore’s jails and courts and efforts to suppress abolition work in the South dated back to the early 19th century. Additional research is needed on individuals such as Elisha Tyson - a Quaker merchant and influential abolitionist - whose [summer home](http://explore.baltimoreheritage.org/items/show/230) is still located in the Stone Hill neighborhood. Elisa Tyson’s life is chronicled in the [Life of Elisha Tyson, the philanthropist](https://archive.org/details/lifeofelishatyso00tyso) published 1825.
 
 Writing in the 1883 [History of the colored race in America](https://archive.org/details/historyofcolored00alex), William T. Alexander observed a "remarkable" growth in the "activity and universality of slave hunting" under the new law. The examples Alexander highlighted included James Hamlet captured in New York City at the request of a Baltimore slave-holder and the murder of William Smith in Pennsylvania by a Baltimore police officer :
@@ -51,10 +51,7 @@ Writing in the 1883 [History of the colored race in America](https://archive.org
 
 > "The needless brutality with which these seizures were often made tended to intensify the popular repugnance which they occasioned. In repeated instances, the first notice the alleged fugitive had of his peril was given him by a blow on the head, sometimes with a club or stick of wood; and being thus knocked down, he was carried bleeding and insensible, before the facile commissioner, who made short work of identifying him and earning his ten dollars by remanding him into slavery. In Columbia, Penn., March, 1852, a colored person named William Smith was seized as a fugitive by a Baltimore police officer, while working in a lumber yard, and, attempting to escape the officer drew a pistol and shot him dead."
 
-# <a name="18651900"></a>1865–1900
-
 At the outset of the Civil War, Union troops occupied Baltimore City taking control of the Baltimore City police on June 27, 1861, just two months after the [Pratt Street riot](https://en.wikipedia.org/wiki/Baltimore_riot_of_1861) where Baltimoreans sympathetic to the Confederacy attacked the Union Army as they passed through the city. In March 1862, the military turned authority  over the police department to the state of Maryland.
-
 
 ## 1867: Board of Police Commissioners established
 
@@ -93,6 +90,7 @@ This growth continued, in 1882, according to the [Maryland State Archives](http:
 
 > In 1882, the Industrial Home for Colored Girls was established and given tax-exempt status (Chapter 291, Acts of 1882). The Governor appointed two of its eleven managers.
 
+# 1870 – 1905
 
 ## 1870: Baltimore Police disarm black “military companies,” challenge public assembly
 
@@ -162,7 +160,7 @@ In 1885, Everett J. Waring was admitted to practice law in Baltimore and became 
 
 > Waring's participation in Baltimore community affairs began as soon as he arrived there, and by the time he left, Waring was known as "a leader for many years among his race." While living in Washington D. C., Waring attended Howard University Law School and did "considerable lecturing." He received his law degree in 1885, and shortly thereafter Reverend Harvey Johnson recruited Waring to come to Baltimore. Johnson was the founder of the Mutual Brotherhood of Liberty, a group formed to advocate and facilitate fair treatment for African Americans. The Brotherhood had been fighting Maryland's law restricting African Americans from practicing law in state courts, and needed a qualified African American lawyer like Waring to present to the Baltimore City Superior Court bar for admission. The bar accepted Waring, and he became an attorney for the Brotherhood. During his tenure with the group, Waring "challenged segregation on steamships, discrimination in insurance, and handled several racial issue cases." He also argued for the hiring of black schoolteachers, the desegregation of juries, and the eradication of lynching. Waring belonged to several fraternal and philanthropic organizations, including the Odd Fellows and the St. James Beneficial Society in Baltimore, and the Knights of Pythias in Philadelphia. When nationally prominent civil rights leader Ida Wells came to Baltimore, he chaired the meeting at which she spoke. In addition, Waring was responsible for the formation of the Lexington Savings Bank, the first bank in Maryland originated and run by African Americans.
 
-# <a name="19001941"></a>1900-1941
+# 1905 – 1929
 
 Some have attributed broader changes in the technology of policing and the relationship between police officers and local communities (e.g. the advent of motorized vehicles, the development of more efficient mass transportation systems, police officers not living in the same jurisdiction in which they patrolled) in creating a “breakdown in police–community relations.”
 
@@ -237,11 +235,15 @@ On June 12, 1926, the Afro-American reported on an efforts by Baptist ministers 
 > Another practice which is said to be common among some officers is to mete punishment themselves for things said to them by those they arrest. This punishment is against the law, it is said, and those so treated should take their cases always to the Criminal Court, it was advised.
 
 ## 1927: Clubbing of Henry Simuels prompts protest
+
 On April 27, 1927, the _Afro_ reported on “RAISE PROTEST OVER POLICE BRUTALITY: Commissioner Gaither Asked To Investigate Unprovoked Clubbing Of Henry Simuels”:
 
 > Police Commissioner Gaither has been asked to investigate what is claimed to have been a brutal and unprovoked attack on Henry Simuels, 804 N [… incomplete transcription]
 
+# 1929 – 1954
+
 ## March 17, 1930: Baltimore police officer Herman Trautner kills Roosevelt Yates
+
 On March 22, 1930, the Afro reported on the death of Roosevelt Yates after he was shot and killed by Herman Trautnet in his home at 905 Bennett Place:
 
 > Police here chalked up another victim when Officer Herman Trautner shot and fatally wounded Roosevelt Yates during arrest of the latter at his home, 905 Bennett Place, Monday. [Trautner] shot Roosevelt in the chest after the latter had grabbed the officer's espantoon before it landed in a blow on his head, it was said. In his report, officer Trautner declared that he shot in self defense when Yates started towards him with the night stick after wresting it from his hand in a struggle.
@@ -257,6 +259,7 @@ On March 29, 1930, the *Afro* reflect on the killing as a pattern of brutality b
 > Every unnecessary drop of blood shed by murderous police we place at the doors of, first, Captain Lastner who is responsible for directions given his own men, and secondly, Police Commissioner Gaither who permits Captain Lastner to continue his policy of "shoot first, investigate and explain later."
 
 ## September 1, 1930: William Johnson dies after assault by police officer Harry Holley
+
 On September 6, 1930, the *Afro-American* reported on the NAACP protesting to the governor after an assault on William Johnson by police officer Harry Holley left Johnson unconscious for two weeks before dying at the University Hospital:
 
 > At an inquest at the Western police station Thursday night, Officer Harry Holly was exonerated in the killing of William Johnson who died after being struck with a blackjack by the officer. Fourteen witnesses testified that the officer brutally assaulted Johnson without provocation. One white man and the officer testified for the defense.
@@ -272,6 +275,7 @@ According to the [Maryland State Archives](http://msa.maryland.gov/msa/mdmanual/
 > When Maryland, in 1931, established the Maryland Training School for Colored Girls as a reformatory, superseding the Industrial Home for Colored Girls, it too came under the oversight of the State Superintendent of Schools (Chapter 367, Acts of 1931). The State completed its acquisition of private reform schools in 1937 by taking over the House of Reformation at Cheltenham as the State reformatory for black boys and renaming it Cheltenham School for Boys (Chapter 70, Acts of 1937).
 
 ## December 12, 1931: Lynching of Matthew Williams covered in the Afro-American
+
 Afro publishes “Maryland’s Shame Edition,” covering the lynching of Matthew Williams in Salisbury, Maryland.
 
 ## 1932: Grand Jury recommends hiring black police
@@ -281,6 +285,7 @@ On May 21, 1932, the _Baltimore Sun_ reported under the headline, WOULD COLORED 
 > The recommendation of the retiring January term of the grand jury, that colored patrolmen and policewomen be appointed in colored sections of Baltimore, recalls [… incomplete transcription]
 
 ## 1933: George Armwood lynched
+
 City editor William N. Jones assigned reporters Ralph Matthews Sr., Clarence Mitchell, Levi Jolley, and photographer Paul Henderson to cover the Armwood lynching. They all carried guns to protect themselves from potential lynchers. Their mission was to report the lynching against all odds. The intrepid Afro team drove from Baltimore to Princess Anne (an almost 400 mile round trip in the era before the construction of the Chesapeake Bay Bridge). One there the reporters interviewed Armwood’s mother, helped bury Armwood’s body, interviewed local black leaders, and attended the coroner’s inquest.
 
 ## October 28, 1933: Euel Lee executed
@@ -298,12 +303,12 @@ In _Street Justice: A History of Police Violence in New York City_ historian Mar
 > ”In the landmark Brown v. Mississippi case in 1936, however, the Supreme Court excluded the confessions of three black murder suspects who had been tortured by Mississippi police. In a horrific case of racist southern justice, police openly admitted whipping the defendants and stringing up one of them on a lynch rope to force a confession. Shocked by this brutal treatment, the justices were even more outraged that the Mississippi high court had condoned such police torture. In ruling the confessions inadmissible, the court extended the common law rule to state and local cases under the due process clause of the Fourteenth Amendment. In the 1940s, the Supreme Court expanded this precedent to cases involving prolonged police grilling and psychological coercion as well.”
 
 ## December 1937: Baltimore Police appoint Violet Hill Whyte as the first black police officer
+
 Baltimore Police Department hires Violet Hill Whyte as the first black police officer.
 
 ## July 1938: Police Commissioner William Lawson appoints the first black male police officers
-Police Commissioner William Lawson appointed Walter T. Eubanks, Jr., Harry S. Scott, Milton Gardner, and J. Hiram Butler, Jr., from a list of police candidates. The three officers were forced only to wear plain-clothes (a policy similar to Louisville, KY which appointed plain-clothes black police officers in 1928). Anticipating this change, the League of Colored Republican Voters had sponsored a school to prepare blacks Baltimoreans for the police examination.
 
-# <a name="19411954"></a>1941-1954
+Police Commissioner William Lawson appointed Walter T. Eubanks, Jr., Harry S. Scott, Milton Gardner, and J. Hiram Butler, Jr., from a list of police candidates. The three officers were forced only to wear plain-clothes (a policy similar to Louisville, KY which appointed plain-clothes black police officers in 1928). Anticipating this change, the League of Colored Republican Voters had sponsored a school to prepare blacks Baltimoreans for the police examination.
 
 ## February 21, 1942: Police officer Edward R. Bender kills Thomas Broadus
 On February 7, 1942, the Afro reported on the death of Thomas Broadus after he was shot and killed by Edward R. Bender:
@@ -350,7 +355,7 @@ On May 16, 1950, a delegation of black Baltimoreans approached city police Commi
 
 > Protests were made yesterday to Commissioner Beverly Ober regarding alleged Instances of police brutality in recent handling of Negro prisoners.
 
-# <a name="19541964"></a>1954-1964
+# 1954 – 1968
 
 The Baltimore jail expanded substantially during this period. In 1952, Baltimore voters approved a $6 million loan to build a new facility but, after concern over the proposed location near City Hospital (now Johns Hopkins Bayview Medical Center), the city opted to renovate the existing building. Work began on the planned  $2 million project in 1962 requiring, according to the _Baltimore Sun_ the  “destruction of the interior of the building and the refacing of the exterior" to build a “gym, offices, and other improvements to accommodate an inmate population of 1,500.” The new expansion ultimately cost $3.8 million. Mayor Theodore R. McKeldin spoke at the dedication ceremony in 1967, noting:
 
@@ -375,7 +380,6 @@ Witnesses and police officials who testified notably disagreed on whether Willia
 
 > Statements made on the character of Negro witnesses during the extraordinary twenty-hour preliminary hearing on homicide charges against Patrolman William Ray were criticized in yesterday's resolution as: "…a deliberate effort to discredit the entire Negro community by creating the false impression that its leaders are without principle." The patrolman's attorney, Paul Berman, in his summation of his case, called the State's witnesses "murderers, cutthroats, thieves… and now, deliberate, inspired, manufactured perjurers."  
 
-# <a name="19641976"></a>1964-1976
 
 On December 4, 1961, the Baltimore City Council initiated an investigation into alleged racial discrimination in the city's Police Boys Clubs.
 
@@ -391,11 +395,15 @@ In 1966, the Baltimore City police finally became “fully integrated” accordi
 
 > Prior to 1966, African American officers were limited to foot patrols as they were barred from the use of squad cars. These officers were quarantined in rank, barred from patrolling in white neighbourhoods, and would often only be given specialty assignments in positions in the Narcotics division or as undercover plainclothes officers. […] During this time African American officers were subject to racial slurs from white co-workers during roll call,and encountered degrading racial graffiti in the very districts/units they were assigned. During this time period, two future police commissioners of Baltimore,Bishop L. Robinson and Edward J. Tilghman were amongst Baltimore's African American police officers.
 
-The site continues to note:
+In July 1967, again according to [Baltimore Police History](http://baltimorecitypolicehistory.com/), the Baltimore City Police established the first of four “Community Relations Store Front Operations” noting, “The purpose of these centers is to reach the community on an intimate basis. This was the first such project in the Northeastern region of the United States.”
+
+# 1968 – 1976
+
+## 1971: Vanguard Justice Society founded
+
+The [Baltimore Police History site](http://baltimorecitypolicehistory.com/) that notes:
 
 > In 1971, the Vanguard Justice Society was founded, an organization representing the rights and interests of the department's African American officers. Throughout the 1970s, more African Americans advanced in the department with Black officers holding the positions of district commanders and chief of patrol. In 1984, in a political move by Mayor Donald Schaefer to give the majority African American population more power in the city, Bishop L. Robinson was named as Baltimore's Police Commissioner. Robinson was the first African American police officer to command the department which was previously controlled by Irish American and Italian American police officers. Robinson was also the force's first Black officer to command the Eastern District and the Patrol Division.
-
-In July 1967, again according to [Baltimore Police History](http://baltimorecitypolicehistory.com/), the Baltimore City Police established the first of four “Community Relations Store Front Operations” noting, “The purpose of these centers is to reach the community on an intimate basis. This was the first such project in the Northeastern region of the United States.”
 
 On August 31, 1969, the _Baltimore Sun_ reported on protests by young people concerned about harassment by the police:
 
@@ -419,9 +427,11 @@ After Pomerleau's death in 1992, journalist Michael Olesker [shared a memory](ht
 
 Olesker continued his recollection: "I sat there not believing my ears: Not merely because he was verifying these acts but because, in his arrogance, he would assume he could tell me about it because we shared a skin tone. It was a lie, by the way. His minions were collecting stuff on all sorts of community leaders, and skin color didn't much matter."
 
+# 1976 – Present
+
 In _Street Justice: A History of Police Violence in New York City_ historian Marilynn S. Johnson described the creation of new regulations in New York restricting the use of deadly force in 1972:
 
-> ”The positive experience of the NYPD and other departments that adopted such restrictions helped convince the Supreme Court to ban police use of deadly force against unarmed nonviolent suspects in its 1985 decision in Tennessee v. Garner. Based on Fourth Amendment protections against bodily seizure, the ruling invalidated laws in roughly half the states that permitted police to shoot unarmed nonviolent felons.
+> The positive experience of the NYPD and other departments that adopted such restrictions helped convince the Supreme Court to ban police use of deadly force against unarmed nonviolent suspects in its 1985 decision in Tennessee v. Garner. Based on Fourth Amendment protections against bodily seizure, the ruling invalidated laws in roughly half the states that permitted police to shoot unarmed nonviolent felons.
 
 On August 23, 1978, the _Baltimore Sun_ reported:
 
