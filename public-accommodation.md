@@ -2,11 +2,10 @@
 layout: page
 title: Public Accommodation
 categories: bigfoot
+tags: draft
 ---
 
-<p class="message">
-This document is a <strong>working draft</strong> - please <a href="http://baltimoreheritage.org/contact">share your comments, questions and corrections</a> to help us improve this resource.
-</p>
+# Introduction
 
 In _PRECURSORS OF ROSA PARKS: MARYLAND TRANSPORTATION CASES BETWEEN THE CIVIL WAR AND THE BEGINNING OF WORLD WAR I_, historian David Bogen reflected on the importance of early activism around transportation and public accommodation, writing:
 

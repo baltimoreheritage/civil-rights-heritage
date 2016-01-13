@@ -2,11 +2,8 @@
 title: Baltimore’s Confederate Memory & Monuments
 layout: page
 categories: 'bigfoot,annotate'
+tags: draft
 ---
-
-<p class="message">
-This document is a <strong>working draft</strong> prepared by Eli Pousson for Baltimore Heritage in response to the June 30, 2015 announcement <a href="http://mayor.baltimorecity.gov/news/press-releases/2015-06-30-mayor-rawlings-blake-announces-review-baltimore%E2%80%99s-confederate-statues">of a formal review for Baltimore’s Confederate Statues</a>—creating a special commission to examine these monuments and launch a public conversation about their appropriate role. This version was first published on September 15, 2015. We welcome comments, questions and criticisms and anticipate continuing to revise and improve this draft in the weeks ahead.
-</p>
 
 # Introduction
 
@@ -17,6 +14,8 @@ Who built these monuments and statues? Why did they choose to honor Confederate 
 The public memory of the Civil War and memorials to Confederate veterans go beyond these four monuments. Two Confederate memorials stand in Loudon Park Cemetery in the section still known as Confederate Hill. Bronze figures of Confederate veterans and supporters (along with earlier generations of slave-holders) stand in parks across the city. Popular publications, exhibitions, reunions, parades and memorials all worked together transform the story of the Confederacy from a rebellion fought by slave-holders to preserve slavery into a noble “Lost Cause” fought for “state’s rights” by brave and honorable men. Public Confederate memorials present a uniquely a troubling reminder of the power of racism and white supremacy in Baltimore and Maryland for decades after the Civil War. The meaning of the works is not confined to the Civil War but reflects the racist reaction against black civil rights in Maryland and throughout the South from the 1860s to the 1960s.
 
 What do we do about this legacy of racism present in our city’s monuments? What does a commitment to fighting racism mean for public art, historic preservation and public memory? Does it take the form of including diverse voices through signage, public art and programming? Or excluding the images and voices of white supremacy? Or some more deeply radical approach to restorative justice - documenting and righting past wrongs? If justice is our goal, how do we link symbolic, political and material concerns in the present - as they were so clearly linked in the monuments of prior generations of Baltimore residents.
+
+**Note:** This study prepared by Eli Pousson for Baltimore Heritage in response to the June 30, 2015 announcement <a href="http://mayor.baltimorecity.gov/news/press-releases/2015-06-30-mayor-rawlings-blake-announces-review-baltimore%E2%80%99s-confederate-statues">of a formal review for Baltimore’s Confederate Statues</a>—creating a special commission to examine these monuments and launch a public conversation about their appropriate role. This version was first published on September 15, 2015.
 
 # Historic Context
 

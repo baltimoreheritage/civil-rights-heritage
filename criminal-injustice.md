@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Criminal Injustice
+tags: draft
 ---
 
-<p class="message">
-This document is a <strong>working draft</strong> - please <a href="http://baltimoreheritage.org/contact">share your comments, questions and corrections</a> to help us improve this resource.
-</p>
+# Introduction
 
 In highlighting the theme of criminal injustice, the National Historic Landmark program Civil Rights Framework notes the history of criminal injustice, police violence and brutality in the United States has “revealed how minority groups were categorized as antisocial and a menace to society.” African-Americans in Baltimore have fought against discrimination by the police, injustice before criminal courts and juries, and mistreatment within the prison system. This theme is closely associated with Baltimore’s police stations, court houses, jails, along with the homes of advocates of criminal justice reform, lawyers, and others.
 

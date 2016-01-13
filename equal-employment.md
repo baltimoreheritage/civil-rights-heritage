@@ -2,11 +2,10 @@
 layout: page
 title: Equal Employment
 categories: bigfoot
+tags: draft
 ---
 
-<p class="message">
-This document is a <strong>working draft</strong> - please <a href="http://baltimoreheritage.org/contact">share your comments, questions and corrections</a> to help us improve this resource.
-</p>
+# Introduction
 
 Civil Rights advocacy efforts related to employment can be divided between **public employment** (with local, state or federal government agencies) or **private employment**. In addition, Civil Rights advocates have necessarily addressed the  **public programs and independent efforts that support employment** including relief and welfare services, job training, and the right of workers to unionize. Finally, African Americans in Baltimore, like other communities, have focused on the potential for **self-employment** or entrepreneurship as a strategy for securing economic opportunities outside of a discriminatory labor market.
 
@@ -112,11 +111,11 @@ In Wages of War: The Shifting Landscape of Race and Gender in World War II Balti
 
 Bentley continued to note:
 
-> A 1942 pamphlet "The Negro and the War" bluntly spelled out the major problems blacks faced in Baltimore. Stating that "the effects of job discrimination have this city in a vise," the treatise made it clear that "despite the ever increasing demand for war industry labor in the neighborhood . . . practically no attempt had been made to hire Negroes, though the city has a Negro population of 167,000." "It is worth noting," the authors reminded readers, "that Negroes are employed at skilled work, with union membership privileges, not only north of Baltimore, but south of Baltimore." "White and colored machinists work side by side in Norfolk," they wrote, hoping to show that other Southern cities could successfully integrate their workforce. With a certain amount of prompting by the federal government, which itself had begun to hire blacks and integrate workplaces, gradually war industries became daring enough—or desperate enough for workers—to begin hiring black men and women. Eventually the percentage of African Americans in Maryland's workforce rose from 7 to 17 percent, although many held the poorest paid, the least desirable, and the most dangerous jobs. 
+> A 1942 pamphlet "The Negro and the War" bluntly spelled out the major problems blacks faced in Baltimore. Stating that "the effects of job discrimination have this city in a vise," the treatise made it clear that "despite the ever increasing demand for war industry labor in the neighborhood . . . practically no attempt had been made to hire Negroes, though the city has a Negro population of 167,000." "It is worth noting," the authors reminded readers, "that Negroes are employed at skilled work, with union membership privileges, not only north of Baltimore, but south of Baltimore." "White and colored machinists work side by side in Norfolk," they wrote, hoping to show that other Southern cities could successfully integrate their workforce. With a certain amount of prompting by the federal government, which itself had begun to hire blacks and integrate workplaces, gradually war industries became daring enough—or desperate enough for workers—to begin hiring black men and women. Eventually the percentage of African Americans in Maryland's workforce rose from 7 to 17 percent, although many held the poorest paid, the least desirable, and the most dangerous jobs.
 
 There is much more detail on women workers and black housing during the war:
 
-> Because of severe labor shortages, those black females working as domestics (85 percent of all wage-earning black women in 1940) saw their wages double during the war and their weekly work hours drop. Even so, black women in droves abandoned domestic work for more dignified and higher paying war work. During the war the number of blacks working as domestics dropped by half.TheDruid Hill YWCA's Blue Triangle Club noted that in 1941 90 percent of its members were household employees. By September of 1942 only one-third of these women were still doing domestic work. Some of the former domestics may have regretted the choice, for companies offering black men and women employment often stuck them in their firms' dirtiest and most dangerous positions. 
+> Because of severe labor shortages, those black females working as domestics (85 percent of all wage-earning black women in 1940) saw their wages double during the war and their weekly work hours drop. Even so, black women in droves abandoned domestic work for more dignified and higher paying war work. During the war the number of blacks working as domestics dropped by half.TheDruid Hill YWCA's Blue Triangle Club noted that in 1941 90 percent of its members were household employees. By September of 1942 only one-third of these women were still doing domestic work. Some of the former domestics may have regretted the choice, for companies offering black men and women employment often stuck them in their firms' dirtiest and most dangerous positions.
 
 ## 1945: Campaign for black-owned cab service
 
