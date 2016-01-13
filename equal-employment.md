@@ -8,7 +8,7 @@ categories: bigfoot
 This document is a <strong>working draft</strong> - please <a href="http://baltimoreheritage.org/contact">share your comments, questions and corrections</a> to help us improve this resource.
 </p>
 
-Civil Rights advocacy efforts related to employment can be divided between **public employment** (with local, state or federal government agencies) or **private employment**. In addition, Civil Rights advocates have necessarily addressed the  **public programs and independent efforts that support employment** in other ways including relief and welfare services, job training, and the right of workers to unionize. Finally, African Americans in Baltimore, like other communities, have focused on the potential for **self-employment** or entrepreneurship as a strategy for securing economic opportunities outside of a discriminatory labor market.
+Civil Rights advocacy efforts related to employment can be divided between **public employment** (with local, state or federal government agencies) or **private employment**. In addition, Civil Rights advocates have necessarily addressed the  **public programs and independent efforts that support employment** including relief and welfare services, job training, and the right of workers to unionize. Finally, African Americans in Baltimore, like other communities, have focused on the potential for **self-employment** or entrepreneurship as a strategy for securing economic opportunities outside of a discriminatory labor market.
 
 - 1831 – 1870
 - 1870 – 1905
@@ -27,7 +27,8 @@ Civil Rights advocacy efforts related to employment can be divided between **pub
 [Navassa riot](http://www.executedtoday.com/2013/05/18/1891-benjamin-harrison-spares-the-navassa-rioters/):
 
 > Not surprisingly, Navassa’s “convict” laboring population rebelled in 1889, and in a vicious hour-long riot slew five overseers while maiming several others.
-> Warships calling on the island shipped 18 back to face murder charges; ultimately, three black guano-miners were sentenced to death for the affair.\* \> However, a huge clemency push spearheaded by the Baltimore-based black fraternal organization the Grand United Order of Galilean Fishermen raised the cry to spare the condemned men.
+> Warships calling on the island shipped 18 back to face murder charges; ultimately, three black guano-miners were sentenced to death for the affair.
+> However, a huge clemency push spearheaded by the Baltimore-based black fraternal organization the Grand United Order of Galilean Fishermen raised the cry to spare the condemned men.
 
 ## 1894: Northwestern Family Supply Company organized
 
@@ -82,6 +83,7 @@ Joe William Trotter, Jr. in _To Make Our World Anew_ wrote:
 
 
 ## Fall 1933: Prophet Kiowah Costonie (Tony Green) persuaded some Pennsylvania Avenue businesses to hire black people
+
 Organized a picket line with support from City-Wide Young People’s Forum, Housewives’ League, Interdenominational Ministers Alliance, Independent Automobile Owners Association, cut trade on the Avenue by 60%
 
 # December 16, 1933: Merchants receive injunction banning the picketing, made permanent in June 1934 despite appeals
@@ -131,8 +133,8 @@ On April 29, 1945, the _Baltimore Sun_ reported “SEEKS NEGRO CAB SERVICE: J. F
 
 …
 
-[^1]:	farrar_baltimore_1998
+[^1]:	farrar\_baltimore\_1998
 
-[^2]:	_their_1906
+[^2]:	\_their\_1906
 
-[^3]:	_seeks_1945
+[^3]:	\_seeks\_1945
