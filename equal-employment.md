@@ -2,13 +2,12 @@
 layout: page
 title: Equal Employment
 categories: bigfoot
+tags: draft
 ---
 
-<p class="message">
-This document is a <strong>working draft</strong> - please <a href="http://baltimoreheritage.org/contact">share your comments, questions and corrections</a> to help us improve this resource.
-</p>
+# Introduction
 
-Civil Rights advocacy efforts related to employment can be divided between **public employment** (with local, state or federal government agencies) or **private employment**. In addition, Civil Rights advocates have necessarily addressed the  **public programs and independent efforts that support employment** in other ways including relief and welfare services, job training, and the right of workers to unionize. Finally, African Americans in Baltimore, like other communities, have focused on the potential for **self-employment** or entrepreneurship as a strategy for securing economic opportunities outside of a discriminatory labor market.
+Civil Rights advocacy efforts related to employment can be divided between **public employment** (with local, state or federal government agencies) or **private employment**. In addition, Civil Rights advocates have necessarily addressed the  **public programs and independent efforts that support employment** including relief and welfare services, job training, and the right of workers to unionize. Finally, African Americans in Baltimore, like other communities, have focused on the potential for **self-employment** or entrepreneurship as a strategy for securing economic opportunities outside of a discriminatory labor market.
 
 - 1831 – 1870
 - 1870 – 1905
@@ -27,7 +26,8 @@ Civil Rights advocacy efforts related to employment can be divided between **pub
 [Navassa riot](http://www.executedtoday.com/2013/05/18/1891-benjamin-harrison-spares-the-navassa-rioters/):
 
 > Not surprisingly, Navassa’s “convict” laboring population rebelled in 1889, and in a vicious hour-long riot slew five overseers while maiming several others.
-> Warships calling on the island shipped 18 back to face murder charges; ultimately, three black guano-miners were sentenced to death for the affair.\* \> However, a huge clemency push spearheaded by the Baltimore-based black fraternal organization the Grand United Order of Galilean Fishermen raised the cry to spare the condemned men.
+> Warships calling on the island shipped 18 back to face murder charges; ultimately, three black guano-miners were sentenced to death for the affair.
+> However, a huge clemency push spearheaded by the Baltimore-based black fraternal organization the Grand United Order of Galilean Fishermen raised the cry to spare the condemned men.
 
 ## 1894: Northwestern Family Supply Company organized
 
@@ -82,6 +82,7 @@ Joe William Trotter, Jr. in _To Make Our World Anew_ wrote:
 
 
 ## Fall 1933: Prophet Kiowah Costonie (Tony Green) persuaded some Pennsylvania Avenue businesses to hire black people
+
 Organized a picket line with support from City-Wide Young People’s Forum, Housewives’ League, Interdenominational Ministers Alliance, Independent Automobile Owners Association, cut trade on the Avenue by 60%
 
 # December 16, 1933: Merchants receive injunction banning the picketing, made permanent in June 1934 despite appeals
@@ -110,11 +111,11 @@ In Wages of War: The Shifting Landscape of Race and Gender in World War II Balti
 
 Bentley continued to note:
 
-> A 1942 pamphlet "The Negro and the War" bluntly spelled out the major problems blacks faced in Baltimore. Stating that "the effects of job discrimination have this city in a vise," the treatise made it clear that "despite the ever increasing demand for war industry labor in the neighborhood . . . practically no attempt had been made to hire Negroes, though the city has a Negro population of 167,000." "It is worth noting," the authors reminded readers, "that Negroes are employed at skilled work, with union membership privileges, not only north of Baltimore, but south of Baltimore." "White and colored machinists work side by side in Norfolk," they wrote, hoping to show that other Southern cities could successfully integrate their workforce. With a certain amount of prompting by the federal government, which itself had begun to hire blacks and integrate workplaces, gradually war industries became daring enough—or desperate enough for workers—to begin hiring black men and women. Eventually the percentage of African Americans in Maryland's workforce rose from 7 to 17 percent, although many held the poorest paid, the least desirable, and the most dangerous jobs. 
+> A 1942 pamphlet "The Negro and the War" bluntly spelled out the major problems blacks faced in Baltimore. Stating that "the effects of job discrimination have this city in a vise," the treatise made it clear that "despite the ever increasing demand for war industry labor in the neighborhood . . . practically no attempt had been made to hire Negroes, though the city has a Negro population of 167,000." "It is worth noting," the authors reminded readers, "that Negroes are employed at skilled work, with union membership privileges, not only north of Baltimore, but south of Baltimore." "White and colored machinists work side by side in Norfolk," they wrote, hoping to show that other Southern cities could successfully integrate their workforce. With a certain amount of prompting by the federal government, which itself had begun to hire blacks and integrate workplaces, gradually war industries became daring enough—or desperate enough for workers—to begin hiring black men and women. Eventually the percentage of African Americans in Maryland's workforce rose from 7 to 17 percent, although many held the poorest paid, the least desirable, and the most dangerous jobs.
 
 There is much more detail on women workers and black housing during the war:
 
-> Because of severe labor shortages, those black females working as domestics (85 percent of all wage-earning black women in 1940) saw their wages double during the war and their weekly work hours drop. Even so, black women in droves abandoned domestic work for more dignified and higher paying war work. During the war the number of blacks working as domestics dropped by half.TheDruid Hill YWCA's Blue Triangle Club noted that in 1941 90 percent of its members were household employees. By September of 1942 only one-third of these women were still doing domestic work. Some of the former domestics may have regretted the choice, for companies offering black men and women employment often stuck them in their firms' dirtiest and most dangerous positions. 
+> Because of severe labor shortages, those black females working as domestics (85 percent of all wage-earning black women in 1940) saw their wages double during the war and their weekly work hours drop. Even so, black women in droves abandoned domestic work for more dignified and higher paying war work. During the war the number of blacks working as domestics dropped by half.TheDruid Hill YWCA's Blue Triangle Club noted that in 1941 90 percent of its members were household employees. By September of 1942 only one-third of these women were still doing domestic work. Some of the former domestics may have regretted the choice, for companies offering black men and women employment often stuck them in their firms' dirtiest and most dangerous positions.
 
 ## 1945: Campaign for black-owned cab service
 
@@ -131,8 +132,8 @@ On April 29, 1945, the _Baltimore Sun_ reported “SEEKS NEGRO CAB SERVICE: J. F
 
 …
 
-[^1]:	farrar_baltimore_1998
+[^1]:	farrar\_baltimore\_1998
 
-[^2]:	_their_1906
+[^2]:	\_their\_1906
 
-[^3]:	_seeks_1945
+[^3]:	\_seeks\_1945

@@ -2,17 +2,14 @@
 layout: page
 title: Voting
 categories: bigfoot
+tags: draft
 ---
 
-<p class="message">
-This document is a <strong>working draft</strong> - please <a href="http://baltimoreheritage.org/contact">share your comments, questions and corrections</a> to help us improve this resource.
-</p>
-
-# Voting (Civil Rights)
+# Introduction
 
 “Unlike their counterparts in most Southern cities and a few Northern ones, Baltimore’s blacks voted uninterruptedly from 1867 onward.
 
-See [https://books.google.com/books?id=6Hw6AQAAMAAJ&dq=table%20baltimore%20population&pg=PA204#v=onepage&q=table%20baltimore%20population&f=false](https://books.google.com/books?id=6Hw6AQAAMAAJ&dq=table%20baltimore%20population&pg=PA204#v=onepage&q=table%20baltimore%20population&f=false) 
+See [https://books.google.com/books?id=6Hw6AQAAMAAJ&dq=table%20baltimore%20population&pg=PA204#v=onepage&q=table%20baltimore%20population&f=false](https://books.google.com/books?id=6Hw6AQAAMAAJ&dq=table%20baltimore%20population&pg=PA204#v=onepage&q=table%20baltimore%20population&f=false)
 
 - 1831 – 1870
 - 1870 – 1905
@@ -45,7 +42,7 @@ Notes on the Progress of the Colored People of Maryland Since the War: A ...
  By Jeffrey Richardson Bracket
 [https://books.google.com/books?id=W8szAQAAMAAJ&dq=Jeffrey%20R.%20Brackett%20maryland&pg=PA15#v=onepage&q=police&f=false](https://books.google.com/books?id=W8szAQAAMAAJ&dq=Jeffrey%20R.%20Brackett%20maryland&pg=PA15#v=onepage&q=police&f=false)
 
-> It is interesting to note that shortly before the congressional election the chairman of both the republican and democratic state committees joined in asking the judges of election in Baltimore that fences might be erected in front of the polling windows and that the colored voters should approach on one side the whites on the other exclusively This they said would conduee to a quiet and honest election The republican chairman soon withdrew his name after finding as he stated that the plan was opposed by the United States marshal as drawing a race or color line There was opposition to it among the judges also for as votes were to be taken alternately and the white voters were many more than the colored unfairness might result to the whites especially were the polls crowded 
+> It is interesting to note that shortly before the congressional election the chairman of both the republican and democratic state committees joined in asking the judges of election in Baltimore that fences might be erected in front of the polling windows and that the colored voters should approach on one side the whites on the other exclusively This they said would conduee to a quiet and honest election The republican chairman soon withdrew his name after finding as he stated that the plan was opposed by the United States marshal as drawing a race or color line There was opposition to it among the judges also for as votes were to be taken alternately and the white voters were many more than the colored unfairness might result to the whites especially were the polls crowded
 
 From NHL Study:
 
@@ -213,7 +210,7 @@ _Harper v. Virginia Board of Elections_, 383 U.S. 663 (1966), Virginia
 The Supreme Court found the state’s poll tax unconstitutional in state and local elections. This ruling’s impact was limited since only three other states used poll taxes (Alabama, Texas, and Mississippi).  (Hall, 366)
  
 _Katzenbach v. Morgan_, 384 U.S. 641 (1966), New York
-The Supreme Court determined that Congress had authority to prohibit literacy tests. A New York resident had sued the Attorney General to prevent those Puerto Ricans who lacked familiarity with the English language from 
+The Supreme Court determined that Congress had authority to prohibit literacy tests. A New York resident had sued the Attorney General to prevent those Puerto Ricans who lacked familiarity with the English language from
 
 
 # 1968 – 1976
@@ -221,7 +218,7 @@ The Supreme Court determined that Congress had authority to prohibit literacy te
 
 ## 1971
 
-> In 1971, an African American, George Russell, the incumbent city solicitor and a former state trial judge, challenged William Donald Schaefer, the powerful former president of the City Council, for the Democratic nomination. Russell built a multicultural coalition and had solid support amongst older, middle-class black Baltimoreans. However, Clarence Mitchell III, an incumbent state senator and scion of the Jackson-Mitchell clan, soon entered the race, and garnered the support of younger African Americans. His entrance effectively split the black vote, allowing Schafer to become mayor, beginning a long reign that did not end until he retired in 1986.633 Disappointed but not defeated, African Americans’ attempts to acquire other important city administration positions began that same year and were successful with the appointment of Roland Patterson as school superintendent in 1971. Three black Baltimoreans were later appointed to the school board in 1975, along with a new African American superintendent, John L. Crew. These victories gave African Americans a majority on the school board for the first time in history. 
+> In 1971, an African American, George Russell, the incumbent city solicitor and a former state trial judge, challenged William Donald Schaefer, the powerful former president of the City Council, for the Democratic nomination. Russell built a multicultural coalition and had solid support amongst older, middle-class black Baltimoreans. However, Clarence Mitchell III, an incumbent state senator and scion of the Jackson-Mitchell clan, soon entered the race, and garnered the support of younger African Americans. His entrance effectively split the black vote, allowing Schafer to become mayor, beginning a long reign that did not end until he retired in 1986.633 Disappointed but not defeated, African Americans’ attempts to acquire other important city administration positions began that same year and were successful with the appointment of Roland Patterson as school superintendent in 1971. Three black Baltimoreans were later appointed to the school board in 1975, along with a new African American superintendent, John L. Crew. These victories gave African Americans a majority on the school board for the first time in history.
 
 [^1]:	_colored_1890
 

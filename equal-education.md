@@ -2,11 +2,10 @@
 layout: page
 title: Equal Education
 categories: bigfoot
+tags: draft
 ---
 
-<p class="message">
-This document is a <strong>working draft</strong> - please <a href="http://baltimoreheritage.org/contact">share your comments, questions and corrections</a> to help us improve this resource.
-</p>
+# Introduction
 
 - 1831 – 1870
 - 1870 – 1905
@@ -26,4 +25,3 @@ This document is a <strong>working draft</strong> - please <a href="http://balti
 # 1954 – 1968
 
 # 1968 – 1976
-

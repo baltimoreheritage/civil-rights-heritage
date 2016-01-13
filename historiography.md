@@ -2,10 +2,8 @@
 layout: page
 title: Historiography
 categories: bigfoot
+tags: draft
 ---
-<p class="message">
-This document is a <strong>working draft</strong> — please <a href="http://baltimoreheritage.org/contact/">share your comments, questions and corrections</a> to help us improve this resource.
-</p>
 
 # Introduction
 
