@@ -14,11 +14,14 @@
     {% endif %}
   </title>
 
-  <!-- CSS -->
+  <!-- Lanyon CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/lanyon.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/figure.css" />
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
@@ -35,11 +38,14 @@
   <!-- Bigfoot JS/CSS -->
   {% if page.categories contains 'bigfoot' %}
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/bigfoot-default.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>   <!-- jQuery -->
   <script type="text/javascript" src="{{ site.baseurl }}/public/js/bigfoot.js"></script>
   <script type="text/javascript">
   $.bigfoot();
   </script>
   {% endif %}
+
+  <!-- Anchor JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/2.0.0/anchor.min.js"></script>
 
 </head>
