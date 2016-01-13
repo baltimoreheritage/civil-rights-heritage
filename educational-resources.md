@@ -5,11 +5,7 @@ title: Educational Resources
 
 We created this guide to connect teachers and families to relevant information about the history of the Civil Rights movement in Baltimore and around the country. If you have suggestions for additional resources or other ideas for how we can improve this guide, please <a href="http://baltimoreheritage.org/contact/">get in touch</a>.
 
-{% include figure.html
-src="{{ site.baseurl }}/public/images/1955-06-26-darkroom-stacks.jpg"
-caption="First grade at Public School 60, say the pledge of allegiance to the flag, June 26, 1955."
-credit-text="Richard Stacks/Baltimore Sun"
-credit-url="http://darkroom.baltimoresun.com/2013/02/richard-stacks-award-winning-sun-photographer/#8" %}
+{% include figure.html src="{{ site.baseurl }}/public/images/1955-06-26-darkroom-stacks.jpg" caption="First grade at Public School 60, say the pledge of allegiance to the flag, June 26, 1955." credit-text="Richard Stacks/Baltimore Sun" credit-url="http://darkroom.baltimoresun.com/2013/02/richard-stacks-award-winning-sun-photographer/#8" %}
 
 ## Baltimore & Maryland Resources
 
