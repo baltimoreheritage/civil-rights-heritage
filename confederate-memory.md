@@ -5,29 +5,49 @@ categories: 'bigfoot,annotate'
 tags: draft
 ---
 
+# Executive Summary
+
+On June 30, 2015, Baltimore City Mayor Stephanie Rawlings Blake announced plans to undertake[a formal review for Baltimore’s Confederate statues](http://mayor.baltimorecity.gov/news/press-releases/2015-06-30-mayor-rawlings-blake-announces-review-baltimore%E2%80%99s-confederate-statues). The Mayor announced this move in direct response to growing protests against the public display of Confederate flags and monuments throughout the country in the wake of the June 17, 2015 mass shooting at Emanuel African Methodist Episcopal Church in downtown Charleston, South Carolina. This study seeks to support the city’s review and informed public participation in the review process by exploring the historic context for the four Confederate monuments identified by the city’s special commission and the role of Confederate memory in Baltimore and Maryland more broadly.
+
+This study is closely focused on the contemporary context for the erection of these monuments between 1906 and 1948—a period during which policies and programs endorsing racial segregation and discrimination received broad support from many white voters and elected officials in Baltimore and Maryland. This focus builds on the past two decades of historical scholarship that has illustrated how  the theme of the “Lost Cause” shaped Civil War public memory during the late 19th and early 20th century and the relationship of Confederate memory to race and politics on a national scale.
+
+This study is organized chronologically from the Civil War up through the present. Given the significant scope of this topic, we anticipate that this document may be incomplete or unclear at points. We welcome comments, questions and criticisms and anticipate continuing to revise and improve this draft in the future.
+
 # Introduction
 
-Baltimore has three Confederate monuments located in public parks and on public roads:  the “Spirit of the Confederacy” (1903) on Mount Royal Avenue, the Confederate Women’s Monument (1917) on University Parkway, and the Lee-Jackson Monument (1948) located at Wyman Park Dell. A fourth statue on Mount Vernon Place—Chief Justice Roger Brooke Taney (1887)—memorializes a Maryland lawyer whose 1857 Dred Scott decision earned him lasting infamy as a bitter opponent of black freedom and a partisan supporter of Southern slave-holders.
+Baltimore has three Confederate monuments located on public property:  the **Confederate Soldiers and Sailors Monument ** or the **“Spirit of the Confederacy”** (1903) on Mount Royal Avenue, the ** Confederate Women’s Monument ** (1917) on University Parkway, and the ** Lee-Jackson Monument ** (1948) located at Wyman Park Dell. A fourth statue on Mount Vernon Place—the ** Roger Brooke Taney Monument ** (1887)—memorializes a Maryland lawyer and Supreme Court Justice whose decision in the 1857 Dred Scott case earned him lasting infamy as a bitter opponent of black freedom.
 
-Who built these monuments and statues? Why did they choose to honor Confederate rebellion when Maryland remained in the Union during the Civil War? What meaning did the monuments hold when they were first erected — between 22 and 83 years after the end of the Civil War? What meaning do they hold today – 150 years after the end of the Civil War?
+Who built these four monuments and statues? Why did they choose to honor Confederate rebellion when Maryland remained part of the Union during the Civil War? What meaning did the monuments hold when they were first erected? What meaning do the monuments hold today—over 150 years after the end of the Civil War and 67 years since the Lee-Jackson monument was installed?
 
-The public memory of the Civil War and memorials to Confederate veterans go beyond these four monuments. Two Confederate memorials stand in Loudon Park Cemetery in the section still known as Confederate Hill. Bronze figures of Confederate veterans and supporters (along with earlier generations of slave-holders) stand in parks across the city. Popular publications, exhibitions, reunions, parades and memorials all worked together transform the story of the Confederacy from a rebellion fought by slave-holders to preserve slavery into a noble “Lost Cause” fought for “state’s rights” by brave and honorable men. Public Confederate memorials present a uniquely a troubling reminder of the power of racism and white supremacy in Baltimore and Maryland for decades after the Civil War. The meaning of the works is not confined to the Civil War but reflects the racist reaction against black civil rights in Maryland and throughout the South from the 1860s to the 1960s.
+During and after the Civil War, many Americans from both northern and southern states understood the central role of slavery to the conflict. They saw the Confederate rebellion as a fight by slave-holders to preserve slavery. By the early 20th century, however, popular publications, exhibitions, reunions, parades and memorials all worked together transform the story of the Confederacy into a noble “Lost Cause” fought by brave and honorable men for a cause of state’s rights. The success of this transformation (what writer Jamelle Bouie has called a “prograganda coup, the end point of 150 years of myth-making”) continues to shape the popular and political reception of these Confederate monuments and memorials today. 
 
-What do we do about this legacy of racism present in our city’s monuments? What does a commitment to fighting racism mean for public art, historic preservation and public memory? Does it take the form of including diverse voices through signage, public art and programming? Or excluding the images and voices of white supremacy? Or some more deeply radical approach to restorative justice - documenting and righting past wrongs? If justice is our goal, how do we link symbolic, political and material concerns in the present - as they were so clearly linked in the monuments of prior generations of Baltimore residents.
+Due in part to the legacy of memorials as an intentional re-interpretation and ennobling of Confederate history, public Confederate memorials present a troubling reminder of the power of racism and white supremacy in Baltimore and Maryland between the 1880s and 1940s. The meaning of the works is not limited to what they say about the Civil War but what they say about the racist reaction against black civil rights in Maryland and throughout the South in the 19th and 20th centuries. 
 
-**Note:** This study prepared by Eli Pousson for Baltimore Heritage in response to the June 30, 2015 announcement <a href="http://mayor.baltimorecity.gov/news/press-releases/2015-06-30-mayor-rawlings-blake-announces-review-baltimore%E2%80%99s-confederate-statues">of a formal review for Baltimore’s Confederate Statues</a>—creating a special commission to examine these monuments and launch a public conversation about their appropriate role. This version was first published on September 15, 2015.
+What do we do about the legacy of racism present in our city’s monuments? What does a commitment to fighting racism mean for public art, historic preservation and public memory? Does it require us to include diverse voices in public art through signage and programming? Or simply to exclude the images and voices of white supremacy? Or some deeper commitment to restorative justice—documenting past wrongs and working to make them right? If justice is our goal, then how do we link these symbolic issues to political and material concerns in the present—as they were so clearly linked in the monuments erected by earlier generations of Baltimoreans? These are some of the questions facing Baltimore today, which this paper hopes to inform.
 
-# Historic Context
+While Baltimore Heritage has not recommended any particular approach for the reinterpretation, removal or relocation of Baltimore’s Confederate monuments, we do hope this study encourages our neighbors, elected officials, and key decision-makers to take seriously the concerns that activists have raised about these public artworks and acknowledge their importance to Baltimore’s past, present and future.
 
-## 1861: Civil War begins
+## Sources
+
+This study draws on a variety of sources nearly all accessible online for free or with a Enoch Pratt Free Library card. We relied extensively on contemporary accounts from the Baltimore Sun and the Afro American newspapers from the ProQuest Historical Newspaper Database. The Internet Archive (and Google Books) provided access to a number of relevant 19th century publications that we have linked to throughout the text. This study is also shaped by more recent scholarship and journalism that has drawn greater attention to public memory of the Civil War, particularly David Blight’s _Race and Reunion_, Paul Shackel’s _Memory in Black and White_, Jamelle Bouie’s writing from Slate, and Ta-Nehisi Coates’ writing for The Atlantic. Where this study is limited, readers can find many more details and a broader perspective in these and other related works. 
+
+# History of Baltimore’s Confederate Memory and Monuments
+
+## April 26, 1861: James Ryder Randall writes the poem “Maryland, My Maryland”
+
+The death of  Francis X. Ward inspired of James Ryder Randall, a native Marylander living and teaching in Louisiana, to compose a poem, "Maryland, My Maryland,” published on April 26, 1861 in the New Orleans newspaper _Sunday Delta_.  Jennie Cary, a young woman living in Baltimore, set the poem to the tune of a popular song leading to its widespread adoption by Confederate troops during the Civil War and its popularity among Maryland’s Confederate veterans after the war. The lyrics describe President Abraham, Lincoln as a "tyrant," "despot," and "Vandal," and in using the phrase "sic semper," provided the same words shouted by Marylander John Wilkes Booth immediately after assassinating Lincoln in 1865.[^1]
+
+Baltimore is famously the site of the first bloodshed associated with the Civil War. As Union troops marched from the President Street Station to Camden Station, a mob of Confederate supporters attacked the troops. In the days that followed, others destroyed railroad bridges and telegraph lines in an effort to delay, disrupt or stop the movement of Union troops through Maryland.
 
 Before the Civil War, the frequency of manumissions in Maryland made the state home to 74,723 free blacks, largest number of any state in the nation. Although many individuals in Maryland supported slavery or sympathized with the Confederate rebellion, as a whole, the state remained firmly within the Union throughout the war. In April 1861, after months of pressure from members of the state legislature, [Governor Hicks](https://en.wikipedia.org/wiki/Thomas_Holliday_Hicks) convened a special session of the assembly to consider a “course of action” – but lawmakers ultimately declined to consider secession ending the discussion for good. Other proposals for Maryland to stay “neutral” in the fight went nowhere.
 
-According to the Maryland Historical Society, [Guide to Civil War Sources](https://www.mdhs.org/sites/default/files/Civil_War.pdf):
+According to the Maryland Historical Society [Guide to Civil War Sources](https://www.mdhs.org/sites/default/files/Civil_War.pdf):
 
 > ”It is estimated that up to 60,000 Marylanders fought for the Union during the Civil War.  Maryland raised 20 infantry and four cavalry regiments for Union service, along with six artillery batteries.  There were no official Maryland troops in the Confederacy, but sympathetic Marylanders organized infantry, cavalry, and artillery units.  Others joined military outfits from other states.  As many as 25,000 Marylanders fought for the South in the war.  On the whole, those officers who fought for the Confederacy tended to represent the landed gentry of Maryland, while Union officers were more likely to be farmers or artisans.  Those Marylanders fighting for the Confederacy suffered greater combat losses than those who sided with the North.
 
 A variety of forces began to challenge slavery early in the war. In April 1862, the emancipation of enslaved people in Washington, DC created new opportunities for enslaved blacks to escape from bondage. In 1863, the federal government began recruiting for the new U.S. Colored Troops, enlisting over 8,700 black men in six Maryland regiments.
+
+In 1864, Maryland passed a new state constitution abolishing slavery. The passage of the 14th Amendment and 15th Amendment to the Constitution  passage of the 14th and 15th amendments, etc. Maryland only ratified the amendments well after they came into effect: 1959 (for the 14th) and 1973 (for the 15th).
 
 ## 1865: Loudon Park Memorial Association established
 
@@ -47,8 +67,11 @@ In 1871, the Loudon Park Memorial Association became the Society of the Army and
 
 Local organizing in Baltimore was matched by new regional organizations such as the [Southern Historical Society](https://en.wikipedia.org/wiki/Southern_Historical_Society) (established 1868-69) and a rush of public talks and publications promoting the perceived virtues of the South before the Civil War and the righteousness of the Confederate cause—a set of ideas that became popularly known as the [“Lost Cause.”](https://en.wikipedia.org/wiki/Lost_Cause_of_the_Confederacy)
 
-## January 19, 1880: Society of the Army and Navy of the Confederate States in Maryland resolve to erect a monument
+**Note**: What does the Lost Cause mean to people in Baltimore at this time? How many of the members of the Society of the Army and Navy of the Confederate States in the State of Maryland came from Baltimore?
 
+Over two-thirds of the 402 members listed in an 1883 membership roster are identified as having a Baltimore City address – with scores of others located in close vicinity in Baltimore County or Anne Arundel County.
+
+## January 19, 1880: Society of the Army and Navy of the Confederate States in Maryland resolve to erect a monument
 
 On January 19, 1880, at the annual meeting of the Society of the Army and Navy of the Confederate States in Maryland, a group of Confederate veterans passed a series of resolutions organizing a committee to "secure funds for the purpose of erecting a monument in the city of Baltimore to the memory of Marylanders who died in the service of the Confederate States." The group worked quickly and, on March 24, the first branch of the Baltimore City Council passed a resolution permitting the Society to "erect a monument on Eutaw Place, near Lanvale st." Three days later, a letter from Confederate veteran Charles T. Crane opposing the monument proposal appeared in _The Sun_.
 
@@ -88,24 +111,34 @@ Symbols of Confederate or Southern heritage were often deployed to justify discr
 
 > “The cause given for their conduct by those who voted against Dr. Winsey was purely his color, one of them stating that **his Southern birth prevented him from recognizing a negro practitioner**. A distinguished Maryland medical Professor replied that he had carried a sword in the Confederate Army, but that his political sentiments would never interfere with his recognition of scientific merit in a member of the colored race."
 
-## November 12, 1887: Chief Justice Taney statue unveiled in Mount Vernon Place
+## June 1883: Ladies' Confederate Memorial and Beneficial Association reorganizes
 
 The concerns of black activists and even other Confederate veterans did not limit the growth of memorial efforts in the 1880s and 1890s. On May 22, 1883, the Ladies' Confederate Memorial and Beneficial Association reorganized after a decade long hiatus, with the stated objective "to keep green the memory of dead soldiers, and to raise a fund of money to assist their widows and orphans.” In June 1883, Baltimore's chapter of the Lee Memorial Association played a critical role in the fundraising campaign to build a statue to Robert E. Lee in Lexington, Virginia. In May 1885, Baltimore hosted a reunion of the Army of the Potomac where Confederate and Union veterans came together in a reportedly celebratory reunion. Local efforts also continued to combine into a larger national effort. The United Confederate Veterans founded in 1889 followed by the United Daughters of the Confederacy founded in 1894.
+
+## November 12, 1887: Chief Justice Taney statue unveiled in Mount Vernon Place
 
 Memorial and reunion efforts often drew support from Baltimore’s wealthiest and most influential residents, among them William T. Walters who supported the installation of a monument to Chief Justice Roger B. Taney in the north square of Mount Vernon Place in 1887. Walters arrived in Baltimore from Pennsylvania in 1841 and, beginning in 1847, built a fortune as a liquor wholesaler. In the summer of 1861, Walters left Baltimore for Paris where he remained until 1865.
 
 In 1874, Walters began to show his art collection to the public at his home on Mount Vernon Place and, in 1887, commissioned a copy of an earlier 1872 statue of Taney by [William Henry Rinehart](https://en.wikipedia.org/wiki/William_Henry_Rinehart) (located outside the Maryland State House in Annapolis).
 
+While Roger B. Taney stayed in his position as Chief Justice of the U.S. Supreme Court up until his death on October 12, 1864, his personal sympathy and direct support for the Confederacy is clear.
+
+During the Civil War, Roger B. Taney had expressed his pride in a son-in-law for his service in the Confederate army and told a young Confederate Army recruit that they were performing a patriotic service like that of the recruit's grandfather during the American Revolution. Taney also opposed every Union war measure that came before the Supreme Court. Some of this opposition may have been based in legal principle but his goal clearly included obstruction of the war effort. In Maryland, Taney also served as a circuit court judge and always fell "ill" just in time to prevent any trial for treason or sabotage from moving forward.
+
+Roger B. Taney expressed pride in a son-in-law for his service in the Confederate army and told a young Confederate Army recruit that they were performing a patriotic service like that of the recruit's grandfather during the American Revolution. Taney also opposed every Union war measure that came before the Supreme Court. Some of this opposition may have been based in legal principle but his goal clearly included obstruction of the war effort. In Maryland, Taney also served as a circuit court judge and always fell "ill" just in time to prevent any trial for treason or sabotage from moving forward.
+
+**Note**: See [Dred Scott and the Dangers of a Political Court](https://books.google.com/books?id=_5DCJaGAdsQC&lpg=PA99&dq=taney%20confederacy&pg=PA99#v=onepage&q=taney%20confederacy&f=false)for more on this topic.
+  
 Contemporary accounts of the gift acknowledged the divisive legacy of the Dred Scott decision but also presented a call for unity. On November 12, 1887, _The Sun_ described the significance of the statue:
 
-> ”Maryland continues to honor a judge whose decision in a famous case is reprobated in one section of the Union, notwithstanding its struct agreement with the constitution, and as heartily commended in the other. Fierce disputes, historical in their results, raged about the Dred Scott decision. But the issues of that period of conflict are now dead, and all our people respect the memory of the brave, pure and learned judge whose career did so much honor to his native State.”
+> “Maryland continues to honor a judge whose decision in a famous case is reprobated in one section of the Union, notwithstanding its strict agreement with the constitution, and as heartily commended in the other. Fierce disputes, historical in their results, raged about the Dred Scott decision. But the issues of that period of conflict are now dead, and all our people respect the memory of the brave, pure and learned judge whose career did so much honor to his native State.”
 
 _The Sun_ continued to report on the November 12 dedication the next day:
 
 > “The bronze statue of Chief Justice Taney, by Rinehart, which has been placed on the handsome pedestal erected for it in the north square of Mount Vernon Place, will be unveiled this afternoon at 3 o’clock. The unveiling will be done by a great-grandson of Chief Justice Taney, a lad nine years of age, Master Roger Brooke Taney Anderson, grandson of Gen. James M. Anderson, of this city. The Maryland Institute Schools of Design, with Prof. Fuchs, and the Charcoal Club of Baltimore artists will attend. […]
-> [William Walter remarked] there has been no Maryland artist who has reflected the credit upon this city and State that Rinehart has. The manner, too, in which he bequeathed his estate for the advancement of art commends him to all Marylanders. There ought to be no stint, and there will be none, in recognizing his genius as represented by this great work, and approval of the generous gift of his fortune.”
+> [William Walters remarked] there has been no Maryland artist who has reflected the credit upon this city and State that Rinehart has. The manner, too, in which he bequeathed his estate for the advancement of art commends him to all Marylanders. There ought to be no stint, and there will be none, in recognizing his genius as represented by this great work, and approval of the generous gift of his fortune.”
 
-Initial plans featured Severn Teackle Wallis as the main speaker for the unveiling of the Taney statue. Wallis had similarly served as the lead orator for the original Rinehart statue of Taney unveiled in Annapolis in 1872.[^1] Historian Corey M. Brooks [recently argued](http://historynewsnetwork.org/article/160063) that Wallis’ 1872 remarks, “made clear that the State House monument stood not just as tribute to an accomplished jurist, but also as Maryland’s ‘protest in the living bronze’ against Republican politicians who had “traduced and ostracized” the man Wallis exalted as the ‘champion’ of ‘free institutions.’” The oration left Dred Scott out entirely but did include Taney’s feelings on abolition:
+Initial plans featured Severn Teackle Wallis as the main speaker for the unveiling of the Taney statue. Wallis had similarly served as the lead orator for the original Rinehart statue of Taney unveiled in Annapolis in 1872.[^2] Historian Corey M. Brooks [recently argued](http://historynewsnetwork.org/article/160063) that Wallis’ 1872 remarks, “made clear that the State House monument stood not just as tribute to an accomplished jurist, but also as Maryland’s ‘protest in the living bronze’ against Republican politicians who had “traduced and ostracized” the man Wallis exalted as the ‘champion’ of ‘free institutions.’” The oration left Dred Scott out entirely but did include Taney’s feelings on abolition:
 
 > "Abolitionism he hated and loathed with a hatred and loathing which exhausted the resources of his unmatched vocabulary of invective."
 
@@ -121,11 +154,15 @@ The Maryland Line Confederate Soldiers' Home opened in Pikesville in 1888 reusin
 
 The Baltimore Confederate Associated reportedly struggled to sustain the institution through private contributions and campaigned for state support throughout the 1890s.
 
-In 1890, the Maryland chapter of the Society for Confederate Veterans convened at the Carrollton Hotel at Maryland Hall at Mulberry and Cathedral Streets in a ceremony presided over by [Gen. Bradley T. Johnson](https://en.wikipedia.org/wiki/Bradley_Tyler_Johnson). The evening included a eulogy for Jefferson Davis that concluded:
+In 1890, the Maryland chapter of the Society for Confederate Veterans convened at the Carrollton Hotel at Maryland Hall at Mulberry and Cathedral Streets in a ceremony presided over by [Gen. Bradley T. Johnson](https://en.wikipedia.org/wiki/Bradley_Tyler_Johnson).
 
-> ”Confederates in arms for Southern rights were Davis, Lee and Jackson, heroes of the nineteenth century. They will live through the chronicles of time, when the bones of their enemies shall be graceless and their names anathematized. These men lived, fought and died for the ‘lost cause,’ and with the love and fear of God in their hearts. But in the affections of the people, and in every nook, corner and crag of the Southern country, shall live proofs of their heroism, which neither time nor vandalism can destroy or obliterate. Monuments may cover the entire face of the country and quarries may be exhausted to blot out memories of the past, but heroism lives forever.”
+The evening included a eulogy for Jefferson Davis that concluded:
 
-In 1893, Baltimore sent a delegation to Lexington, Virginia to attend the unveiling of a monument to Stonewall Jackson on July 21—led by General George H. Steuart, chief marshal of the Confederate Society from Maryland, on a special train from Camden Station. An account of the sculpture published in \_The Sun\_noted: “The letters “U.S.” on the hilt of the sword seem out of place, and cause comment here.” In November 1897, the United Daughters of the Confederacy held their fourth annual conference in Baltimore bringing together delegates from 140 chapters across the country.
+> “Confederates in arms for Southern rights were Davis, Lee and Jackson, heroes of the nineteenth century. They will live through the chronicles of time, when the bones of their enemies shall be graceless and their names anathematized. These men lived, fought and died for the ‘lost cause,’ and with the love and fear of God in their hearts. But in the affections of the people, and in every nook, corner and crag of the Southern country, shall live proofs of their heroism, which neither time nor vandalism can destroy or obliterate. Monuments may cover the entire face of the country and quarries may be exhausted to blot out memories of the past, but heroism lives forever.”
+
+**Note:** what was the ceremony? was it just to mark the death of Davis? did they regularly have ceremonies, and did they have them in Baltimore? Was the Maryland chapter large and did have a lot of participation from Baltimoreans?
+
+In 1893, local Confederate veteran organized a delegation from Baltimore to Lexington, Virginia to attend the unveiling of a monument to Stonewall Jackson on July 21—led by General George H. Steuart, chief marshal of the Confederate Society from Maryland, on a special train from Camden Station. An account of the sculpture published in _The Sun_ noted: “The letters “U.S.” on the hilt of the sword seem out of place, and cause comment here [in Lexington].” In November 1897, the United Daughters of the Confederacy held their fourth annual conference in Baltimore bringing together delegates from 140 chapters across the country.
 
 ## February 1899: Baltimore City Council approves resolution supporting the erection of a Confederate monument in Druid Hill Park
 
@@ -162,7 +199,7 @@ Major General Andrew C. Trippe, commander of the Maryland Division of the United
 
 Mr. Howard’s oration included praise for the “Southern woman”:
 
-> "The Daughters of the Confederacy, having long had it in their hearts to erect a memorial of the sons of Maryland who fought on the side of the Confederate States, now present their work. For such a monument they believe the time and place are fitting. [...] The suggestion that there is one monument yet to be raised—that to the Southern woman—will bear fruit, although every monument like this is a memorial also, for it is largely the work of their hands.”[^2]
+> "The Daughters of the Confederacy, having long had it in their hearts to erect a memorial of the sons of Maryland who fought on the side of the Confederate States, now present their work. For such a monument they believe the time and place are fitting. [...] The suggestion that there is one monument yet to be raised—that to the Southern woman—will bear fruit, although every monument like this is a memorial also, for it is largely the work of their hands.”[^3]
 
 Democratic Mayor [Thomas G. Hayes](http://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/012400/012483/html/12483bio.html), himself a Confederate veteran, praised Lee and Jackson:
 
@@ -184,16 +221,16 @@ In 1890, Maryland Senator [Arthur Pue Gorman](https://en.wikipedia.org/wiki/Arth
 
 Like many other Democrats, Gorman and his family supported Confederate memorial efforts. In 1899, Arthur P. Gorman’s wife volunteered as a “patroness” (and his son as a member of the committee of arrangements) for a “summer vaudeville and dance” organized at the Academy of Music in Laurel for the Confederate Monument fund. In May 1900, the _Sun_ recorded Gorman’s contribution of $10 to a fund to erect a monument to the Confederate soldiers and sailors of Maryland (erected on Mount Royal Terrace in 1903).
 
-By 1903, Gorman encouraged the Maryland state Democratic Party to follow other Southern states in disenfrachising black voters. In early 1904, the Democraticcontrolled State Senate easily passed legislation to disenfranchise black voters but Governor Warfield did not sign the bill into law. Finally, in 1905, the proposal went before Maryland voters.
+By 1903, Gorman encouraged the Maryland state Democratic Party to follow other Southern states in disenfrachising black voters. In early 1904, the Democratic controlled State Senate easily passed legislation to disenfranchise black voters but Governor Warfield did not sign the bill into law. Finally, in 1905, the proposal went before Maryland voters.
 
 In 1905, the state Democratic party gathered in Baltimore to launch their campaign to disenfranchise African-Americans across the state, on September 16, adopting a platform reported in the [New York Times](http://query.nytimes.com/mem/archive-free/pdf?res=9405E2DC1F3DE633A2575AC2A96F9C946497D6CF):
 
-> "By common consent, the only issue in this campaign is whether negro suffrage, put upon us against our will by force, shall be restricted and its power for evil destroyed. This Democratic convention [...] proclaims anew our resolute purpose to maintain the supremacy of our race and its control by all lawful and constitutional means of the administration of the political affairs of the State.
+> “By common consent, the only issue in this campaign is whether negro suffrage, put upon us against our will by force, shall be restricted and its power for evil destroyed. This Democratic convention [...] proclaims anew our resolute purpose to maintain the supremacy of our race and its control by all lawful and constitutional means of the administration of the political affairs of the State.
 > The negro vote, as it stands to-day is a perpetual menace to the prosperity and peace of Maryland—a menace to our very civilization—for it is ignorant, corrupt, the blind instrument of unscrupulous and selfish leaders."
 
 Among the local efforts to win support for the proposal was a rally at Lehmann’s Hall on N. Howard Street featuring Alabama Congressman [James Thomas Heflin](https://en.wikipedia.org/wiki/James_Thomas_Heflin) as the lead speaker. Heflin referenced a number of “Lost Cause” themes in his speech and concluded his remarks with the cry:
 
-> ”If you fail to disenfranchise the negro your State must bow her head in shame and humiliation. But remove the fetters from her feet, and take the dead weight of negro suffrage from about her neck, let her breathe again the pure air of white supremacy full and complete; then take her place alongside her sisters who have disenfranchised the ignorant, vicious negro, and you can exclaim in deed and in truth, “Maryland, my Maryland, through thy breadth and length a tremor passes. Look, the dark is done, and on thy proud form shines the splendor of the sun. Thine own children, with heads erect and light on all their faces are happy in the triumph of the white man’s creed.”
+> “If you fail to disenfranchise the negro your State must bow her head in shame and humiliation. But remove the fetters from her feet, and take the dead weight of negro suffrage from about her neck, let her breathe again the pure air of white supremacy full and complete; then take her place alongside her sisters who have disenfranchised the ignorant, vicious negro, and you can exclaim in deed and in truth, “Maryland, my Maryland, through thy breadth and length a tremor passes. Look, the dark is done, and on thy proud form shines the splendor of the sun. Thine own children, with heads erect and light on all their faces are happy in the triumph of the white man’s creed.”
 
 Fortunately, the subsequent vote defeated the proposal and preserved the franchise of black male voters in Maryland.
 
@@ -269,11 +306,11 @@ Erected in 1948, the planning for the Lee-Jackson Monument began two decades ear
 
 Robert E. Lee had special significance for many  supporters of Confederate memory. Historian Kirk Savage in _Standing Soldiers, Kneeling Slaves_ notes:
 
-> With the equation of canonical whiteness, and moral virtue so deeply embedded in the consciousness of race, Lee's outward appearance was easily read as a reflection of inner superiority. This equation reappears frequently in descriptions by men and women alike, as in this gushing account written by a Maryland woman: "The man who stood before us, the embodiment of a Lost Cause, was the realized King Arthur. The soul that looked out of his eye was as honest and fearless as when it first looked on life. One saw the character, as clear as crystal ... and the heart, as tender as that of ideal womanhood."[^3]
+> With the equation of canonical whiteness, and moral virtue so deeply embedded in the consciousness of race, Lee's outward appearance was easily read as a reflection of inner superiority. This equation reappears frequently in descriptions by men and women alike, as in this gushing account written by a Maryland woman: "The man who stood before us, the embodiment of a Lost Cause, was the realized King Arthur. The soul that looked out of his eye was as honest and fearless as when it first looked on life. One saw the character, as clear as crystal ... and the heart, as tender as that of ideal womanhood."[^4]
 
 Savage continues writing:
 
-> Lee offered white Southerners a hero in their own image, an instrument with which they could prod white Northerners to realign their sympathies along proper racial lines. ... The legitimation of Lee after the war helped to reestablish old lines of racial sympathy. The losers in this process of reconciliation were of course African Americans, who could not possibly accept Lee as their hero.[^4]
+> Lee offered white Southerners a hero in their own image, an instrument with which they could prod white Northerners to realign their sympathies along proper racial lines. ... The legitimation of Lee after the war helped to reestablish old lines of racial sympathy. The losers in this process of reconciliation were of course African Americans, who could not possibly accept Lee as their hero.[^5]
 
 ## 1931: Rev. George F. Bragg, Jr. speaks at the Hayward Shepherd Memorial dedication in Harper’s Ferry
 
@@ -385,7 +422,7 @@ Baltimore’s experience with Confederate memorials is in many ways typical. His
 
 Further, those who claim that art should be separate from politics find little support in the reception of these monuments in the 19th and 20th centuries where the politics of public memory shaped the forms and figures themselves. Historian Kirk Savage in _Standing Soldiers, Kneeling Slaves_ notes:
 
-> The aesthetic problems of commemorative sculpture cannot be separated from the more obviously political pressures inherent in this public medium. The dividing line between the aesthetic and the political is in fact difficult to define since the generic characteristics of heroic sculpture themselves carry profoundly political significance. The whole notion of history as a tale of great men is made palpably glorious in the statues of heroes; that glory works to marginalize cultural constructions of the past that might represent other groups and other categories of historical experience.[^5]
+> The aesthetic problems of commemorative sculpture cannot be separated from the more obviously political pressures inherent in this public medium. The dividing line between the aesthetic and the political is in fact difficult to define since the generic characteristics of heroic sculpture themselves carry profoundly political significance. The whole notion of history as a tale of great men is made palpably glorious in the statues of heroes; that glory works to marginalize cultural constructions of the past that might represent other groups and other categories of historical experience.[^6]
 
 Historians and journalists have articulated the connection between the symbolic meaning of monuments (or flags or songs) and their political purpose. Ta-Nehisi Coates’ recent piece - [What This Cruel War Was Over](http://www.theatlantic.com/politics/archive/2015/06/what-this-cruel-war-was-over/396482/) - shows how clearly Confederate leaders expressed the connection between white supremacy and the Confederate cause:
 
@@ -400,7 +437,7 @@ Between 1880 and the present, the commemorative agenda of Confederate veterans, 
 The Civil War Baltimore/Maryland's Confederate Perspective from Loyola University:
 
 - [The First Maryland Campaign. An Address by Brig-Gen'l. Bradley T. Johnson](http://eres.lndproxy.org/edoc/ArchivesHistoricalPamphlets/TheFirstMarylandCampaign.pdf)(Delivered February 22 , 1886 at the Fourth Annual Reunion of the Association of the Maryland Line, Army of Northern Virginia). (Baltimore: Printed by Andrew J. Conlon, 1886)
-- [The Cavalry, A.N.V. \[Army of Northern Virginia]. Address by Gen'l. T.L. Rosser](http://eres.lndproxy.org/edoc/ArchivesHistoricalPamphlets/TheCavalryANV.pdf) ( at the Seventh Annual Reunion of the Association of the Maryland Line, February 22, 1889). (Baltimore: The Sun Book and Job Printing Office, 1889)
+- [The Cavalry, A.N.V. [Army of Northern Virginia]. Address by Gen'l. T.L. Rosser](http://eres.lndproxy.org/edoc/ArchivesHistoricalPamphlets/TheCavalryANV.pdf) ( at the Seventh Annual Reunion of the Association of the Maryland Line, February 22, 1889). (Baltimore: The Sun Book and Job Printing Office, 1889)
 - [The Maryland Confederates . An Address by Genl. Bradley T. Johnson](http://eres.lndproxy.org/edoc/ArchivesHistoricalPamphlets/TheMarylandConfederates.pdf) (Before the Confederate Society of St. Mary's, March 1894). (Baltimore: J. Harry Trechsler, Printer, no date given)
 - [Speeches of the Hon. Henry May, of Maryland. Delivered in the House of Representatives at the Third Session of the Thirty-Seventh Congress.](http://eres.lndproxy.org/edoc/ArchivesHistoricalPamphlets/SpeechesoftheHonHenryMay.pdf)(Baltimore: Printed by Kelly, Hedian & Piet, 1863)
 - [Fourteen Months in American Bastilles. By F.K. Howard](http://eres.lndproxy.org/edoc/ArchivesHistoricalPamphlets/FourteenMonthsInAmericanBastiles.pdf) (Baltimore: Printed by Kelly, Hedian & Piet, 1863)
@@ -428,12 +465,14 @@ The Civil War Baltimore/Maryland's Confederate Perspective from Loyola Universit
 - [Beyond The Battle Flag: Controversy Over Confederate Symbols Unfurls](http://www.npr.org/2015/06/25/417202466/as-flags-drop-scrutiny-turns-to-memorials-to-confederacy-and-its-dead), June 25, 2015, Frank Morris, KCUR/NPR
 - [How Slavery Built Charleston](http://www.citylab.com/design/2015/07/how-slavery-built-charleston/399005/), Brentin Mock, July 20, 2015
 
-[^1]:	Baltimore’s Taney monument is a recast of the 1872 statue in Annapolis.
+[^1]:	The Latin phrase “sic semper tyrannis” is translated “thus always to tyrants.” Virginia has used the phrase as their state motto since 1776.
 
-[^2]:	Howard’s oration is available in full [through Google Books](https://books.google.com/books?id=5e717kjFdPIC&lpg=PA406-IA1&ots=ctHL-G_c_G&pg=PA407#v=onepage&q&f=false).
+[^2]:	Baltimore’s Taney monument is a recast of the 1872 statue in Annapolis.
 
-[^3]:	p. 132
+[^3]:	Howard’s oration is available in full [through Google Books](https://books.google.com/books?id=5e717kjFdPIC&lpg=PA406-IA1&ots=ctHL-G_c_G&pg=PA407#v=onepage&q&f=false).
 
-[^4]:	p.132
+[^4]:	p. 132
 
-[^5]:	p. 69
+[^5]:	p.132
+
+[^6]:	p. 69
