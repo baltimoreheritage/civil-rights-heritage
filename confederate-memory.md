@@ -15,13 +15,13 @@ This study is organized chronologically from the Civil War up through the presen
 
 # Introduction
 
-Baltimore has three Confederate monuments located on public property:  the **Confederate Soldiers and Sailors Monument ** or the **“Spirit of the Confederacy”** (1903) on Mount Royal Avenue, the ** Confederate Women’s Monument ** (1917) on University Parkway, and the ** Lee-Jackson Monument ** (1948) located at Wyman Park Dell. A fourth statue on Mount Vernon Place—the ** Roger Brooke Taney Monument ** (1887)—memorializes a Maryland lawyer and Supreme Court Justice whose decision in the 1857 Dred Scott case earned him lasting infamy as a bitter opponent of black freedom.
+Baltimore has three Confederate monuments located on public property:  the **Confederate Soldiers and Sailors Monument** or the **“Spirit of the Confederacy”** (1903) on Mount Royal Avenue, the **Confederate Women’s Monument** (1917) on University Parkway, and the **Lee-Jackson Monument** (1948) located at Wyman Park Dell. A fourth statue on Mount Vernon Place—the **Roger Brooke Taney Monument** (1887)—memorializes a Maryland lawyer and Supreme Court Justice whose decision in the 1857 Dred Scott case earned him lasting infamy as a bitter opponent of black freedom.
 
 Who built these four monuments and statues? Why did they choose to honor Confederate rebellion when Maryland remained part of the Union during the Civil War? What meaning did the monuments hold when they were first erected? What meaning do the monuments hold today—over 150 years after the end of the Civil War and 67 years since the Lee-Jackson monument was installed?
 
-During and after the Civil War, many Americans from both northern and southern states understood the central role of slavery to the conflict. They saw the Confederate rebellion as a fight by slave-holders to preserve slavery. By the early 20th century, however, popular publications, exhibitions, reunions, parades and memorials all worked together transform the story of the Confederacy into a noble “Lost Cause” fought by brave and honorable men for a cause of state’s rights. The success of this transformation (what writer Jamelle Bouie has called a “prograganda coup, the end point of 150 years of myth-making”) continues to shape the popular and political reception of these Confederate monuments and memorials today. 
+During and after the Civil War, many Americans from both northern and southern states understood the central role of slavery to the conflict. They saw the Confederate rebellion as a fight by slave-holders to preserve slavery. By the early 20th century, however, popular publications, exhibitions, reunions, parades and memorials all worked together transform the story of the Confederacy into a noble “Lost Cause” fought by brave and honorable men for a cause of state’s rights. The success of this transformation (what writer Jamelle Bouie has called a “prograganda coup, the end point of 150 years of myth-making”) continues to shape the popular and political reception of these Confederate monuments and memorials today.
 
-Due in part to the legacy of memorials as an intentional re-interpretation and ennobling of Confederate history, public Confederate memorials present a troubling reminder of the power of racism and white supremacy in Baltimore and Maryland between the 1880s and 1940s. The meaning of the works is not limited to what they say about the Civil War but what they say about the racist reaction against black civil rights in Maryland and throughout the South in the 19th and 20th centuries. 
+Due in part to the legacy of memorials as an intentional re-interpretation and ennobling of Confederate history, public Confederate memorials present a troubling reminder of the power of racism and white supremacy in Baltimore and Maryland between the 1880s and 1940s. The meaning of the works is not limited to what they say about the Civil War but what they say about the racist reaction against black civil rights in Maryland and throughout the South in the 19th and 20th centuries.
 
 What do we do about the legacy of racism present in our city’s monuments? What does a commitment to fighting racism mean for public art, historic preservation and public memory? Does it require us to include diverse voices in public art through signage and programming? Or simply to exclude the images and voices of white supremacy? Or some deeper commitment to restorative justice—documenting past wrongs and working to make them right? If justice is our goal, then how do we link these symbolic issues to political and material concerns in the present—as they were so clearly linked in the monuments erected by earlier generations of Baltimoreans? These are some of the questions facing Baltimore today, which this paper hopes to inform.
 
@@ -29,7 +29,7 @@ While Baltimore Heritage has not recommended any particular approach for the rei
 
 ## Sources
 
-This study draws on a variety of sources nearly all accessible online for free or with a Enoch Pratt Free Library card. We relied extensively on contemporary accounts from the Baltimore Sun and the Afro American newspapers from the ProQuest Historical Newspaper Database. The Internet Archive (and Google Books) provided access to a number of relevant 19th century publications that we have linked to throughout the text. This study is also shaped by more recent scholarship and journalism that has drawn greater attention to public memory of the Civil War, particularly David Blight’s _Race and Reunion_, Paul Shackel’s _Memory in Black and White_, Jamelle Bouie’s writing from Slate, and Ta-Nehisi Coates’ writing for The Atlantic. Where this study is limited, readers can find many more details and a broader perspective in these and other related works. 
+This study draws on a variety of sources nearly all accessible online for free or with a Enoch Pratt Free Library card. We relied extensively on contemporary accounts from the Baltimore Sun and the Afro American newspapers from the ProQuest Historical Newspaper Database. The Internet Archive (and Google Books) provided access to a number of relevant 19th century publications that we have linked to throughout the text. This study is also shaped by more recent scholarship and journalism that has drawn greater attention to public memory of the Civil War, particularly David Blight’s _Race and Reunion_, Paul Shackel’s _Memory in Black and White_, Jamelle Bouie’s writing from Slate, and Ta-Nehisi Coates’ writing for The Atlantic. Where this study is limited, readers can find many more details and a broader perspective in these and other related works.
 
 # History of Baltimore’s Confederate Memory and Monuments
 
@@ -117,6 +117,8 @@ The concerns of black activists and even other Confederate veterans did not limi
 
 ## November 12, 1887: Chief Justice Taney statue unveiled in Mount Vernon Place
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/23591479045/in/album-72157659795697524/" title="Roger B. Taney Monument, Mount Vernon Place"><img src="https://farm1.staticflickr.com/719/23591479045_156710e984_b.jpg" width="1024" height="683" alt="Roger B. Taney Monument, Mount Vernon Place"></a>
+
 Memorial and reunion efforts often drew support from Baltimore’s wealthiest and most influential residents, among them William T. Walters who supported the installation of a monument to Chief Justice Roger B. Taney in the north square of Mount Vernon Place in 1887. Walters arrived in Baltimore from Pennsylvania in 1841 and, beginning in 1847, built a fortune as a liquor wholesaler. In the summer of 1861, Walters left Baltimore for Paris where he remained until 1865.
 
 In 1874, Walters began to show his art collection to the public at his home on Mount Vernon Place and, in 1887, commissioned a copy of an earlier 1872 statue of Taney by [William Henry Rinehart](https://en.wikipedia.org/wiki/William_Henry_Rinehart) (located outside the Maryland State House in Annapolis).
@@ -188,6 +190,8 @@ According to an follow up account published in _The Sun_ on June 7, 1902:
 Captain Henry E. Shepherd, formerly Superintendent of Public Instruction in Baltimore was described as "one of the best-known educators in the country.”
 
 ## May 2, 1903: Maryland Confederate Monument dedicated on Mount Royal Avenue
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/23297999990/in/album-72157659795697524/" title="Confederate Soldiers and Sailors Monument, Mount Royal Avenue"><img src="https://farm1.staticflickr.com/736/23297999990_87c5879b3e_b.jpg" width="1024" height="683" alt="Confederate Soldiers and Sailors Monument, Mount Royal Avenue"></a>
 
 On May 2, 1903, the Maryland Confederate Monument (known as the Confederate Soldiers and Sailors Monument or the "Spirit of the Confederacy”) was dedicated on Mount Royal Terrace (now Mount Royal Avenue). The _Sun_ reported:
 
@@ -290,6 +294,8 @@ The monument was built and dedicated in Druid Hill Park on November 6, 1909. Bal
 
 ## November 2, 1918: Confederate Women's Monument erected on University Parkway
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/23597205735/in/album-72157659795697524/" title="Confederate Women&#x27;s Monument, Bishop&#x27;s Park, Charles Street and University Parkway"><img src="https://farm6.staticflickr.com/5746/23597205735_727d33f5f1_b.jpg" width="1024" height="683" alt="Confederate Women&#x27;s Monument, Bishop&#x27;s Park, Charles Street and University Parkway"></a>
+
 In 1914, the General Assembly of Maryland approved a bill entitled "An act to erect a suitable monument in the city of Baltimore to commemorate the heroism, devotion and self-sacrifice of the women of Maryland in their service to the wounded Confederate soldiers who came under their care in the war between the States—1861-1865."
 
 The act appropriated $12,000 in state funding and a large number of private contributions to "The Maryland Confederate Women's Monument Fund" On October 28, 1916, the _Sun_ reported:
@@ -340,6 +346,8 @@ In May 1946, the Sun published a light feature by Amy Grief suggests the Confede
 In October 1947, the Maryland Division of the United Daughters of the Confederacy worked with the Maryland Historical Society to open an exhibition of Confederate relics for students in Baltimore City public schools. Volunteers from the United Daughters served as guides to an exhibit that included Robert E. Lee's camp chair and "a variety of Confederate uniforms and small articles used by the soldiers in the field." The Sun invited anyone interested in making "arrangements to view the exhibition" to contact Mrs. Frank C. Orrick, 729 Colorado Avenue.
 
 ## May 1, 1948: Lee-Jackson Monument dedicated at Wyman Park Dell
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/baltimoreheritage/23597386795/in/album-72157659795697524/" title="Lee-Jackson Monument, Wyman Park Dell"><img src="https://farm6.staticflickr.com/5678/23597386795_917e4335a0_b.jpg" width="1024" height="683" alt="Lee-Jackson Monument, Wyman Park Dell"></a>
 
 In 1946, the Sun discussed the long delayed Lee-Jackson Monument writing:
 
@@ -476,3 +484,5 @@ The Civil War Baltimore/Maryland's Confederate Perspective from Loyola Universit
 [^5]:	p.132
 
 [^6]:	p. 69
+
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
