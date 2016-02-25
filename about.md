@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hello! This site is a <strong>work-in-progress</strong>. If you have questions or suggestions, please <a href="http://baltimoreheritage.org/contact/">get in touch</a> or feel free to <a href="https://github.com/baltimoreheritage/baltimore-civil-rights-heritage/issues/new">open an issue on GitHub</a>.
+  Hello! This site is a <strong>work-in-progress</strong>. If you have questions or suggestions, please <a href="http://baltimoreheritage.org/contact/">get in touch</a> or feel free to <a href="https://github.com/baltimoreheritage/civil-rights-heritage/issues/new">open an issue on GitHub</a>.
 </p>
 
 ## Overview

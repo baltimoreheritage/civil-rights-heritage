@@ -54,7 +54,7 @@ In 1831, Baltimore was home to over 17,888 free blacks and 10,653 enslaved Afric
 
 The size of Baltimore’s free black population marked a significant change in patterns of slave-holding in Baltimore and Maryland thirty years early. Between 1800 and 1860, the proportion of Baltimore city residents who held slaves declined, the share of Baltimore’s total population held in slavery declined and the share of the black population living in freedom grew. Nearly one-third of city residents held at least one enslaved person in 1800. In 1850, slaveholders made up just over one-percent of the city’s white population. Enslaved people made up 9% of the city’s population in 1790, just under 2% in 1850, and barely 1% in 1860. A small minority of the city’s African Americans, just 20%, were free in 1790. By 1830, over 75% of the same population was free and over 90% in 1860.
 
-![Chart: African Americans in Baltimore City and County, 1820-1860](http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/public/images/baltimore-free-enslaved-1820-1860.png)
+![Chart: African Americans in Baltimore City and County, 1820-1860](http://baltimoreheritage.github.io/civil-rights-heritage/public/images/baltimore-free-enslaved-1820-1860.png)
 
 This period began with [Nat Turner’s slave rebellion](https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion) on August 21, 1831. Although a number of prior slave revolts had taken place around the country, Nat Turner’s rebellion in Southampton, Virginia terrified many slaveholders with the prospect of similar uprisings in their own states. In Maryland, the state legislature moved in 1832 to prohibit free blacks from entering the state. The state also banned free black Marylanders from owning firearms without a certificate from county officials and outlawed the sale of alcohol, powder, and shot to blacks. Under the new policies, with the exception of Baltimore City, African Americans could longer hold religious meetings unless a white minister is present.
 
@@ -145,7 +145,7 @@ The period between 1905 and 1929 a continuation of the challenges of the late 19
 
 The first several decades of the 20th century saw tremendous changes at both the local and national level driven during the Progressive Era World War I (1914-1918), and the Great Depression (1929-1939). The city’s overall population grew from around 509,000 in 1900 to 859,000 in 1940. In the late 19th and early 20th centuries, huge numbers of African-Americans moved to Baltimore from rural counties in Maryland and Virginia; reflecting a pattern of migration that led to dramatic growth in the black population of Washington, New York City, and Philadelphia. The city's black population grew from 79,000 in 1900 to 84,000 in 1910.
 
-![Chart: Baltimore City Population, 1880-1980](http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/public/images/baltimore-black-population-1880-1980.png)
+![Chart: Baltimore City Population, 1880-1980](http://baltimoreheritage.github.io/civil-rights-heritage/public/images/baltimore-black-population-1880-1980.png)
 
 **Note**: What are the labor and housing issues related to race and Civil Rights during World War I?
 

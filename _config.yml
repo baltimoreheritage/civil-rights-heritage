@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Baltimore’s Civil Rights Heritage
 tagline:             'Looking for Landmarks from the Movement'
 description:         'This site is a repository for writing, data and resources related to the African-American Civil Rights movement in Baltimore. This is a project of <a href="http://baltimoreheritage.org/">Baltimore Heritage</a> and our partners.'
-url:                 http://baltimoreheritage.github.io/baltimore-civil-rights-heritage
-baseurl:             '/baltimore-civil-rights-heritage'
+url:                 http://baltimoreheritage.github.io/civil-rights-heritage
+baseurl:             '/civil-rights-heritage'
 paginate:            5
 
 # About/contact

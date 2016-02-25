@@ -4,7 +4,7 @@ A repository of writing, data and resources for [Baltimore’s Civil Rights Heri
 
 #About the Project
 
-Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement is an ongoing project to research and document the historic context for the long Civil Rights movement for African Americans in Baltimore. Planning and research for this project began in late 2014 and will continue through 2016. [Learn more about this project](http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/about/)
+Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement is an ongoing project to research and document the historic context for the long Civil Rights movement for African Americans in Baltimore. Planning and research for this project began in late 2014 and will continue through 2016. [Learn more about this project](http://baltimoreheritage.github.io/civil-rights-heritage/about/)
 
 ## What are we currently working on?
 
@@ -78,9 +78,9 @@ Funding for this project is provided by the National Park Service through the ne
 
 ## Aditional Project Links
 
-Take a look at [our project website](http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/) for more information.
+Take a look at [our project website](http://baltimoreheritage.github.io/civil-rights-heritage/) for more information.
 
-* [Project Historiography](http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/historiography/) - this working draft includes a historiography of scholarly writing, public history and preservation efforts related to Baltimore's African-American and Civil Rights history
+* [Project Historiography](http://baltimoreheritage.github.io/civil-rights-heritage/historiography/) - this working draft includes a historiography of scholarly writing, public history and preservation efforts related to Baltimore's African-American and Civil Rights history
 * Bibliography in [Civil Rights Baltimore Zotero Group](https://www.zotero.org/groups/civil_rights_history_baltimore)
 * [Baltimore Civil Rights History Timeline](http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1t75HcQTpt42j5mOdeFxmGccL3CxWTsAcTMtLy1MNZfQ&font=Arvo-PTSans&maptype=toner&lang=en&height=650)
 
