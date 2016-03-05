@@ -1,5 +1,5 @@
 ---
-title: Baltimore’s Confederate Memory & Monuments
+title: 'Baltimore’s Confederate Memory & Monuments'
 layout: page
 categories: 'bigfoot,annotate'
 tags: draft
