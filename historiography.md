@@ -180,11 +180,13 @@ In Baltimore, the National Register of Historic Places provided a new tool for c
 Other related public history and historic preservation efforts began to gain ground in the 1980s. In Annapolis, the Banneker-Douglass Museum, named for Benjamin Banneker and Frederick Douglass, was dedicated on February 24, 1984. In 1982, the Maryland Historical Trust published a volume on _Three Centuries of Maryland Architecture_ that included a chapter _Voices from the Past: Black Builders and Their Buildings_ by George McDaniel. In 1989, the Baltimore City Life Museums and Baltimore Urban League co-hosted a conference on the Black Church in Early Baltimore.
 
 Dr. Elmer Martin and Dr. Joanne Martin established the The National Great Blacks In Wax Museum in 1983 at a storefront on on Saratoga Street with the stated goals:
+
 - To stimulate an interest in African American history by revealing the little-known, often-neglected facts of history
 - To use great leaders as role models to motivate youth to achieve
 - To improve race relations by dispelling myths of racial inferiority and superiority
 - To support and work in conjunction with other nonprofit, charitable organizations seeking to improve the social and economic status of African Americans
-In 1985, the museum recieved a $100,000 matching grant that enabled them to expand into their current location on East North Avenue in the late 1980s.
+
+In 1985, the museum received a $100,000 matching grant that enabled them to expand into their current location on East North Avenue in the late 1980s.
 
 In this same period, the memorialization of Civil Rights history moved forward around the nation with the dedication of Maya Lin’s Civil Rights Monument in Montgomery, Alabama in 1990 and the opening of the National Civil Rights Museum at the site of Martin Luther King, Jr.’s assassination in Memphis, Tennessee in 1991.
 
