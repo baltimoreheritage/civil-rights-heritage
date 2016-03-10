@@ -18,6 +18,10 @@ author:
   url:               http://baltimoreheritage.org
   email:             info@baltimoreheritage.org
 
+# Google Analytics
+
+ga_tracking_code: UA-16215864-7
+
 # Required Gems
 
 gems:
