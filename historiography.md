@@ -162,8 +162,9 @@ McKeldin continued to note:
 Established in 1969, Maryland Commission on African American History and Culture (MCAAHC) is to interpret, document, preserve, and promote Maryland’s African-American heritage; to provide technical assistance to institutions and groups with similar objectives; and to educate Maryland’s citizens and visitors about the significance of the African-American experience in Maryland and the nation.
 
 The early 1970s saw an unprecedented wave of new scholarly and popular publications on the topic, including the Bettye Jane Gardner’s “The Free Blacks in Baltimore 1800-1860.” (1974) Ph.D., George Washington University, 1974. Other more popular works published in this period included:
-* Quarles, Benjamin. Frederick Douglass. New York: Atheneum, 1974.
-* Rose, Al. Eubie Blake. New York: Schirmer Books, 1979.
+
+- Quarles, Benjamin. Frederick Douglass. New York: Atheneum, 1974.
+- Rose, Al. Eubie Blake. New York: Schirmer Books, 1979.
 
 The limits of scholarship on African-American history that had been largely dominated by male historians was highlighted in experienced like that of Roslyn Terborg-Penn who began working on research related to the history of black women in the early 1970s after completing her undergraduate degree at Morgan State College. [Terborg-Penn later observed](https://books.google.com/books?id=uxGVRs9fYLsC&lpg=PA77&dq=morgan%20state%20history%20department&pg=PA77#v=onepage&q&f=false):
 
