@@ -27,3 +27,11 @@ ga_tracking_code: UA-16215864-7
 gems:
   - jekyll-redirect-from # Redirection https://help.github.com/articles/redirects-on-github-pages/
   - jekyll-paginate
+
+exclude:
+  - README.md
+  - Rakefile
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - .travis.yml
