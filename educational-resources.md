@@ -3,7 +3,7 @@ layout: page
 title: Educational Resources
 ---
 
-We created this guide to connect teachers and families to relevant information about the history of the Civil Rights movement in Baltimore and around the country. If you have suggestions for additional resources or other ideas for how we can improve this guide, please <a href="http://baltimoreheritage.org/contact/">get in touch</a>.
+We created this guide to connect teachers and families to relevant information about the history of the Civil Rights movement in Baltimore and around the country. If you have suggestions for more resources or ideas for how we can improve this guide, please [get in touch](http://baltimoreheritage.org/contact/).
 
 {% include figure.html src="http://baltimoreheritage.github.io/civil-rights-heritage/public/images/1955-06-26-darkroom-stacks.jpg" caption="First grade at Public School 60, say the pledge of allegiance to the flag, June 26, 1955." credit-text="Richard Stacks/Baltimore Sun" credit-url="http://darkroom.baltimoresun.com/2013/02/richard-stacks-award-winning-sun-photographer/#8" %}
 
@@ -24,13 +24,13 @@ We created this guide to connect teachers and families to relevant information a
 - [Civil Rights (Themed Resources)](http://www.loc.gov/teachers/classroommaterials/themes/civil-rights/) - Library of Congress
 - [Documents from the Civil Rights Era](http://teachingamericanhistory.org/library/civil-rights/) - Teaching American History
 - [Civil Rights and Racial Healing](http://www.nps.gov/nr/twhp/racialhealing.htm) - Teaching with Historic Places (National Park Service)
-- [We Shall Overcome: Historic Places of the Civil RIghts Movement: A National Register of Historic Places Travel Itinerary](http://www.nps.gov/nr/travel/civilrights/) - National Park Service
+- [We Shall Overcome: Historic Places of the Civil Rights Movement: A National Register of Historic Places Travel Itinerary](http://www.nps.gov/nr/travel/civilrights/) - National Park Service
 - [Civil Right Movement Veterans](http://www.crmvet.org/) - Primary sources curated by Civil Rights movement participants
 - [Lesson Plans on “Civil Rights Movements”](https://zinnedproject.org/teaching-materials/?themes=civil-rights-movements) - Zinn Project for Education
 - [Educator Resources](https://www.facinghistory.org/for-educators/educator-resources) - Facing History and Ourselves
 - [Classroom Resources](http://www.tolerance.org/classroom-resources) - Teaching Tolerance
 - [Perspectives for a Diverse America](http://perspectives.tolerance.org/) - Teaching Tolerance
-- [\#FergusonSyllabus for Teaching About State Violence](http://www.usprisonculture.com/blog/2014/08/31/fergusonsyllabus-talking-and-teaching-about-police-violence/)
+- [FergusonSyllabus for Teaching About State Violence](http://www.usprisonculture.com/blog/2014/08/31/fergusonsyllabus-talking-and-teaching-about-police-violence/)
 
 ## Family Resources
 

@@ -12,11 +12,11 @@ Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement is 
 
 During the course of the project, we are using this site to share our working documents and related resources. We hope you can explore the site and share your own ideas, comments, questions and suggestions. Our published material currently includes:
 
-- An [inventory]({{ site.baseurl }}/properties) and [map of associated properties]({{ site.baseurl }}/map)
-- A collection of [educational resources]({{ site.baseurl }}/educational-resources)
-- A [timeline of Baltimore Civil Rights history]({{ site.baseurl }}/timeline)
-- A [historiography]({{ site.baseurl }}/historiography) on African American history and Civil Rights in Baltimore
-- A [draft study]({{ site.baseurl }}/criminal-injustice) on theme of criminal injustice and Civil Rights in Baltimore
+- An [inventory](/properties) and [map of associated properties](/map)
+- A collection of [educational resources](/educational-resources)
+- A [timeline of Baltimore Civil Rights history](/timeline)
+- A [historiography](/historiography) on African American history and Civil Rights in Baltimore
+- A [draft study](/criminal-injustice) on theme of criminal injustice and Civil Rights in Baltimore
 
 Stay tuned for project updates when new material or related resources are published.
 
