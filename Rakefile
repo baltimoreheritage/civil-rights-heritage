@@ -1,4 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'html/proofer'
-HTML::Proofer.new("./_site").run
