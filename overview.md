@@ -15,10 +15,10 @@ We based the organization of this study on the themes and periodization suggeste
 
 - [1831 – 1870]({{site.baseurl}}/overview/1831-1870)
 - [1870 – 1905]({{site.baseurl}}/overview/1870-1905)
-- 1905 – 1929
-- 1929 – 1954
-- 1954 – 1968
-- 1968 – 1976
+- [1905 – 1929]({{site.baseurl}}/overview/1905-1929)
+- [1929 – 1954]({{site.baseurl}}/overview/1929-1954)
+- [1954 – 1968]({{site.baseurl}}/overview/1954-1968)
+- [1968 – 1976]({{site.baseurl}}/overview/1968-1976)
 
 Each section includes a brief overview that describes:
 
