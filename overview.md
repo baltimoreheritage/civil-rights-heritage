@@ -13,8 +13,8 @@ In this study, we describe how buildings, parks, monuments, and neighborhoods he
 
 We based the organization of this study on the themes and periodization suggested by the National Historic Landmark (NHL) program publication _Civil Rights in America: A Framework for Identifying Significant Sites_  (2002, rev. 2009). We have modified the periodization to exclude the period of the American Revolution and the War of 1812—beginning instead with Nat Turner's Rebellion in Virginia. Given this project’s specific focus on the African American Civil Rights movement, this study did not include immigrant rights or American Indian rights—two topics included in the original NHL study. The chronological periods for each section are:
 
-- [1831 – 1870](/overview/1831-1870)
-- [1870 – 1905](/overview/1870-1905)
+- [1831 – 1870]({{site.baseurl}}/overview/1831-1870)
+- [1870 – 1905]({{site.baseurl}}/overview/1870-1905)
 - 1905 – 1929
 - 1929 – 1954
 - 1954 – 1968
@@ -118,9 +118,3 @@ Most significant themes in this period:
 ## Related Properties
 
 - Campus YMCA, Levering Hall, Johns Hopkins University
-
-# 1968 – 1976
-
-…
-
-## Related Properties

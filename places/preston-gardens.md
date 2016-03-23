@@ -10,7 +10,7 @@ Built in the 1910s, Preston Gardens is the site of a little-known black neighbor
 
 This unusual linear park along St. Paul Street is likely familiar only as a place you may drive by on your way to the Baltimore City Courthouse. Few know that in this neighborhood, along Hamilton Street and Courtland Street – a thriving black community stood up through the early 20th century. Black lawyers, religious leaders and countless others occupied a mix of homes, offices and social halls built from the early to mid-1800s. The neighborhood had originally developed as an affluent district just north of the developed downtown when Mount Vernon Place was still a forest and a dueling ground. As the city’s African-American population grew following the U.S. Civil War, black household largely moved to south Baltimore and central Baltimore – clustering around the black institutions that predated the war and prospects for employment around the harbor. By the late 1890s and early 1900s, the district passed out of fashion with many middle-class African-Americans as they followed white Baltimoreans in moving out into the northwestern suburbs now known as Bolton Hill, Madison Park and Druid Heights.
 
-Unfortunately, this outmigration and a series of  “improvements” to St. Paul Street between the 1910s and 1930s resulted in the demolition of nearly all of the buildings in this area. The construction of Preston Gardens was one of the “improvements” that led to this clearance. One of the few surviving buildings on St. Paul Street was taken down by Mercy Hospital in 2008. The significance of the few surviving structures is unclear although some like the former Bethel AME Church Parsonage on Hamilton Street may have significant associations with Baltimore’s Civil Rights movement.
+Unfortunately, this outmigration and a series of  “improvements” to St. Paul Street between the 1910s and 1930s resulted in the demolition of nearly all of the buildings in this area. The construction of Preston Gardens was one of the “improvements” that led to this clearance. Mercy Hospital tore down a row  on St. Paul Street containing some the few surviving buildings from this district in 2008. Determining the significance of the few surviving structures requires additional research. Some, like the former Bethel AME Church Parsonage on Hamilton Street, may have significant associations with Baltimore’s Civil Rights movement.
 
 ## 1815: The African Methodist Bethel Society purchases property on Saratoga Street
 
@@ -251,7 +251,7 @@ Col. Sherlock Swann (see this [Maryland Historical Society Collection](http://ww
 
 [^15]:	\_ widen\_1904
 
-[^16]:	_favors_1909; See also _major\_1907 for more on Clotworthy’s opposition to black participation in local and state politics.
+[^16]:	_favors\_1909; See also _major\_1907 for more on Clotworthy’s opposition to black participation in local and state politics.
 
 [^17]:	mamiya\_social\_1994
 
