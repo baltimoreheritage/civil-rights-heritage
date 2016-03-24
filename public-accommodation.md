@@ -9,7 +9,7 @@ tags: draft
 
 In _PRECURSORS OF ROSA PARKS: MARYLAND TRANSPORTATION CASES BETWEEN THE CIVIL WAR AND THE BEGINNING OF WORLD WAR I_, historian David Bogen reflected on the importance of early activism around transportation and public accommodation, writing:
 
-> When Rosa Parks refused to move to a seat in the back of the bus in Montgomery, it sparked a boycott and was a critical event in the Civil Rights movement.' But Mrs. Parks was not the first African American to resist segregation. Mary Anderson, Aaron Bradley, Josephine Carr, Harriet E. Cully, John W. Fields, Professor W. H.H. Hart, Ellen Jackson, Annie A. Jakes, James Jenkins, Reverend Harvey Johnson, Reverend Robert McGuinn, the Stewart sisters, Alexander Thompson, and Thomas W. Turner were among the many teachers, ministers, businessmen, and ordinary citizens who refused to accept second class treatment on Maryland's waterways and rails.
+> When Rosa Parks refused to move to a seat in the back of the bus in Montgomery, it sparked a boycott and was a critical event in the Civil Rights movement.' But Mrs. Parks was not the first African American to resist segregation. Mary Anderson, Aaron Bradley, Josephine Carr, Harriet E. Cully, John W. Fields, Professor W. H.H. Hart, Ellen Jackson, Annie A. Jakes, James Jenkins, Reverend Harvey Johnson, Reverend Robert McGuinn, the Stewart sisters, Alexander Thompson, and Thomas W. Turner were among the many teachers, ministers, businessmen, and ordinary citizens who refused to accept second class treatment on Maryland's waterways and rails.[@bogen_precursors_2004, 721]
 
 One category of public accommodation that deserves special note is the relationship of public accommodation to public health. This may involve access to hospitals, health centers or the offices of professional physicians but also has a broader meaning for the way in which black people were conceived as a threat to public health at various times.
 
@@ -32,8 +32,8 @@ In Baltimore and other Southern cities:
 
 In Precursors of Rosa Parks, David Bogen remarks:
 
-> Prior to the Civil War, segregation in transportation was primarily a Northern phenomenon, which was on the decline. In the South, slaves rode with their masters so as to be available to provide services, while laws to prevent escapes discouraged solo travel by blacks of any status.
-> The enactment of the Civil Rights Act on April 9, 1866, spurred African-American resistance. If transportation facilities did not exclude free blacks, they were likely to segregate the few who traveled. Slavery's abolition was swiftly accompanied by the rise of broader segregation The Act provided that citizens of every race and color were entitled to the same right to make and enforce contracts as was enjoyed by white citizens. This created a plausible argument that discrimination in offering contracts for public accommodations violated the federal statute.
+> Prior to the Civil War, segregation in transportation was primarily a Northern phenomenon, which was on the decline. In the South, slaves rode with their masters so as to be available to provide services, while laws to prevent escapes discouraged solo travel by blacks of any status. If transportation facilities did not exclude free blacks, they were likely to segregate the few who traveled. Slavery's abolition was swiftly accompanied by the rise of broader segregation.
+> The enactment of the Civil Rights Act on April 9, 1866, spurred African-American resistance. The Act provided that citizens of every race and color were entitled to the same right to make and enforce contracts as was enjoyed by white citizens. This created a plausible argument that discrimination in offering contracts for public accommodations violated the federal statute.[@bogen_precursors_2004, 723-724]
 
 Between 1865 and 1867, “Black codes” adopted widely in the South:
 
@@ -43,7 +43,7 @@ Between 1865 and 1867, “Black codes” adopted widely in the South:
 
 David Bogen summarizes the Baltimore City Passenger Railway cases, writing:
 
-> About one car in three permitted African Americans to ride, but the railway permitted whites to ride in all cars.93 In February of 1871, John W. Fields, a black barber visiting Baltimore from Virginia, was ejected from a car that did not have such a sign. 4 He responded by filing suit in United States circuit court, with Mr. Presstman as his attorney.95 The case was tried before Judge Giles and Judge Hugh Lennox Bond (appointed to the Fourth Circuit Court of Appeals by President Ulysses Grant as a reward for his conduct during the Civil War and on the bench in Baltimore). 96 Judge Bond charged the jury that if the company refused to transport Fields solely because he was black, he should be awarded damages.97 That charge marked the end of segregation on horsecar trolleys, because afterwards the trolley companies found it too expensive to have separate cars for African Americans in the same numbers and with the same convenience as cars restricted to whites.98 Thus, Fields' victory integrated municipal transit in Baltimore.
+> About one car in three permitted African Americans to ride, but the railway permitted whites to ride in all cars. In February of 1871, John W. Fields, a black barber visiting Baltimore from Virginia, was ejected from a car that did not have such a sign. He responded by filing suit in United States circuit court, with Mr. Presstman as his attorney. The case was tried before Judge Giles and Judge Hugh Lennox Bond (appointed to the Fourth Circuit Court of Appeals by President Ulysses Grant as a reward for his conduct during the Civil War and on the bench in Baltimore). Judge Bond charged the jury that if the company refused to transport Fields solely because he was black, he should be awarded damages. That charge marked the end of segregation on horsecar trolleys, because afterwards the trolley companies found it too expensive to have separate cars for African Americans in the same numbers and with the same convenience as cars restricted to whites. Thus, Fields' victory integrated municipal transit in Baltimore.[@bogen_precursors_2004, 733]
 
 NPS report notes: “Streetcar exclusion and segregation became an increasingly contentious area of southern race relations that did not go unchallenged.”
 
@@ -239,89 +239,49 @@ Context around the U.S.:
 
 # 1968 – 1976
 
-# Related Sources
 
-<div style="line-height: 1.35; padding-left: 2em; text-indent:-2em;" class="csl-bib-body">
-  <div class="csl-entry">Carnegie Mellon University. “Blacks, Golf, and the Emerging Civil Rights Movement, 1947-1954.” Honors Thesis, Sanjeev Baidyaroy, 2011. http://repository.cmu.edu/cgi/viewcontent.cgi?article=1109&amp;context=hsshonors.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=Blacks%2C%20Golf%2C%20and%20the%20Emerging%20Civil%20Rights%20Movement%2C%201947-1954&amp;rft.aulast=Carnegie%20Mellon%20University&amp;rft.au=Carnegie%20Mellon%20University&amp;rft.date=2011-05&amp;rft.tpages=67"></span>
-  <div class="csl-entry">David S. Bogen. “Precursors of Rosa Parks: Maryland Transportation Cases Between the Civil War and the Beginning of World War I.” <i>Maryland Law Review</i> 63, no. 4 (2004): 721–51.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Precursors%20of%20Rosa%20Parks%3A%20Maryland%20Transportation%20Cases%20Between%20the%20Civil%20War%20and%20the%20Beginning%20of%20World%20War%20I&amp;rft.jtitle=Maryland%20Law%20Review&amp;rft.volume=63&amp;rft.issue=4&amp;rft.aulast=David%20S.%20Bogen&amp;rft.au=David%20S.%20Bogen&amp;rft.date=2004&amp;rft.pages=721-751&amp;rft.spage=721&amp;rft.epage=751"></span>
-  <div class="csl-entry">Dreck Wilson. “Druid Hill Branch, YMCA: The First Hundred Years.” <i>Maryland Historical Magazine</i> 84, no. 2 (Summer 1989): 135–47.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Druid%20Hill%20Branch%2C%20YMCA%3A%20The%20First%20Hundred%20Years&amp;rft.jtitle=Maryland%20Historical%20Magazine&amp;rft.volume=84&amp;rft.issue=2&amp;rft.aulast=Dreck%20Wilson&amp;rft.au=Dreck%20Wilson&amp;rft.date=1989&amp;rft.pages=135-147&amp;rft.spage=135&amp;rft.epage=147"></span>
-  <div class="csl-entry">Elfenbein, Jessica I. <i>The Making of a Modern City: Philanthropy, Civic Culture, and the Baltimore YMCA</i>. University Press of Florida, 2001.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-0-8130-2435-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20Making%20of%20a%20Modern%20City%3A%20Philanthropy%2C%20Civic%20Culture%2C%20and%20the%20Baltimore%20YMCA&amp;rft.publisher=University%20Press%20of%20Florida&amp;rft.aufirst=Jessica%20I.&amp;rft.aulast=Elfenbein&amp;rft.au=Jessica%20I.%20Elfenbein&amp;rft.date=2001&amp;rft.tpages=179&amp;rft.isbn=978-0-8130-2435-6&amp;rft.language=en"></span>
-  <div class="csl-entry">Luke, Bob. <i>The Baltimore Elite Giants: Sport and Society in the Age of Negro League Baseball</i>. JHU Press, 2009.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-0-8018-9116-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20Baltimore%20Elite%20Giants%3A%20Sport%20and%20Society%20in%20the%20Age%20of%20Negro%20League%20Baseball&amp;rft.publisher=JHU%20Press&amp;rft.aufirst=Bob&amp;rft.aulast=Luke&amp;rft.au=Bob%20Luke&amp;rft.date=2009-03-24&amp;rft.tpages=205&amp;rft.isbn=978-0-8018-9116-8&amp;rft.language=en"></span>
-  <div class="csl-entry">Meier, August. “The Successful Sit-Ins in a Border City: A Study in Social Causation.” In <i>We Shall Overcome</i>, edited by David Garrow, 2:721–28. Brooklyn, NY: Carlson Publishing, 1989.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The%20Successful%20Sit-Ins%20in%20a%20Border%20City%3A%20A%20Study%20in%20Social%20Causation&amp;rft.place=Brooklyn%2C%20NY&amp;rft.publisher=Carlson%20Publishing&amp;rft.aufirst=August&amp;rft.aulast=Meier&amp;rft.au=August%20Meier&amp;rft.au=David%20Garrow&amp;rft.date=1989&amp;rft.pages=721-8&amp;rft.spage=721&amp;rft.epage=8"></span>
-  <div class="csl-entry">Nathan, Amy. <i>Round and Round Together: Taking a Merry-Go-Round Ride into the Civil Rights Movement</i>. Paul Dry Books, 2011.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-1-58988-282-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Round%20and%20Round%20Together%3A%20Taking%20a%20Merry-Go-Round%20Ride%20into%20the%20Civil%20Rights%20Movement&amp;rft.publisher=Paul%20Dry%20Books&amp;rft.aufirst=Amy&amp;rft.aulast=Nathan&amp;rft.au=Amy%20Nathan&amp;rft.date=2011&amp;rft.tpages=260&amp;rft.isbn=978-1-58988-282-9&amp;rft.language=en"></span>
-  <div class="csl-entry">Paul A. Kramer. “White Sales: The Racial Policitcs of Baltimore’s Jewish-Owned Department Stores, 1935-1965.” In <i>Enterprising Emporiums: The Jewish Department Stores of Downtown Baltimore</i>, 2003.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=White%20Sales%3A%20The%20Racial%20Policitcs%20of%20Baltimore's%20Jewish-Owned%20Department%20Stores%2C%201935-1965&amp;rft.aulast=Paul%20A.%20Kramer&amp;rft.au=Paul%20A.%20Kramer&amp;rft.date=2003"></span>
-  <div class="csl-entry">Pryor-Trusty, Rosa. <i>African-American Community, History &amp; Entertainment in Maryland</i>. Xlibris Corporation, 2013.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-1-4836-1234-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=African-American%20Community%2C%20History%20%26%20Entertainment%20in%20Maryland&amp;rft.publisher=Xlibris%20Corporation&amp;rft.aufirst=Rosa&amp;rft.aulast=Pryor-Trusty&amp;rft.au=Rosa%20Pryor-Trusty&amp;rft.date=2013-05-09&amp;rft.tpages=539&amp;rft.isbn=978-1-4836-1234-8&amp;rft.language=en"></span>
-  <div class="csl-entry">Reynolds, William L. “Legal History of the Great Sit-in Case of Bell v. Maryland, The.” <i>Maryland Law Review</i> 61 (2002): 761.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Legal%20History%20of%20the%20Great%20Sit-in%20Case%20of%20Bell%20v.%20Maryland%2C%20The&amp;rft.jtitle=Maryland%20Law%20Review&amp;rft.stitle=Md.%20L.%20Rev.&amp;rft.volume=61&amp;rft.aufirst=William%20L.&amp;rft.aulast=Reynolds&amp;rft.au=William%20L.%20Reynolds&amp;rft.date=2002&amp;rft.pages=761"></span>
-  <div class="csl-entry">Robert V. Leffler, Jr. “Boom and Bust: The Elite Giants and Black Baseball in Baltimore, 1936-1951.” <i>Maryland Historical Magazine</i> 87, no. 2 (Summer 1992). http://mdhs.mdsa.net/tmp/mhm/588100010347.pdf.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Boom%20and%20Bust%3A%20The%20Elite%20Giants%20and%20Black%20Baseball%20in%20Baltimore%2C%201936-1951&amp;rft.jtitle=Maryland%20Historical%20Magazine&amp;rft.volume=87&amp;rft.issue=2&amp;rft.aulast=Robert%20V.%20Leffler%2C%20Jr.&amp;rft.au=Robert%20V.%20Leffler%2C%20Jr.&amp;rft.date=1992"></span>
-  <div class="csl-entry">Sandoval-Strausz, A. K. “Travelers, Strangers, and Jim Crow: Law, Public Accommodations, and Civil Rights in America.” <i>Law and History Review</i> 23, no. 1 (April 1, 2005): 53–94.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Travelers%2C%20Strangers%2C%20and%20Jim%20Crow%3A%20Law%2C%20Public%20Accommodations%2C%20and%20Civil%20Rights%20in%20America&amp;rft.jtitle=Law%20and%20History%20Review&amp;rft.stitle=Law%20and%20History%20Review&amp;rft.volume=23&amp;rft.issue=1&amp;rft.aufirst=A.%20K.&amp;rft.aulast=Sandoval-Strausz&amp;rft.au=A.%20K.%20Sandoval-Strausz&amp;rft.date=2005-04-01&amp;rft.pages=53-94&amp;rft.spage=53&amp;rft.epage=94&amp;rft.issn=0738-2480"></span>
-  <div class="csl-entry">Sara Patenaude. “Playing Fair: The Fight for Interracial Athletics in Baltimore,” 2011. http://www.historicbaltimore.org/pdf/Winning%20Entry.pdf.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle=Playing%20Fair%3A%20The%20Fight%20for%20Interracial%20Athletics%20in%20Baltimore&amp;rft.aulast=Sara%20Patenaude&amp;rft.au=Sara%20Patenaude&amp;rft.date=2011"></span>
-  <div class="csl-entry">Skloot, Rebecca. <i>The Immortal Life of Henrietta Lacks</i>. Broadway Paperbacks, 2011.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-1-4000-5218-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20Immortal%20Life%20of%20Henrietta%20Lacks&amp;rft.publisher=Broadway%20Paperbacks&amp;rft.aufirst=Rebecca&amp;rft.aulast=Skloot&amp;rft.au=Rebecca%20Skloot&amp;rft.date=2011&amp;rft.tpages=393&amp;rft.isbn=978-1-4000-5218-9&amp;rft.language=en"></span>
-  <div class="csl-entry">Susan Cianci Salvatore, Matt Garcia, Alton Hornsby, Jr., Steven Lawson, and Theresa Mah. “Civil Rights in America: Racial Desegregation of Public Accommodations – A National Historic Landmarks Theme Study.” Washington, D.C.: National Historic Landmarks Program, National Park Service, rev. 2009 2004. http://www.nps.gov/nhl/learn/themes/CivilRights_DesegPublicAccom.pdf.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle=Civil%20Rights%20in%20America%3A%20Racial%20Desegregation%20of%20Public%20Accommodations%20%E2%80%93%20A%20National%20Historic%20Landmarks%20Theme%20Study&amp;rft.place=Washington%2C%20D.C.&amp;rft.aulast=Susan%20Cianci%20Salvatore&amp;rft.au=Susan%20Cianci%20Salvatore&amp;rft.au=Matt%20Garcia&amp;rft.au=Alton%20Hornsby%2C%20Jr.&amp;rft.au=Steven%20Lawson&amp;rft.au=Theresa%20Mah&amp;rft.date=2004"></span>
-  <div class="csl-entry">Terry, David Taft. “Tramping for Justice: The Dismantling of Jim Crow in Baltimore, 1942–1954.” Ph.D. diss., Howard University, 2002.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=Tramping%20for%20Justice%3A%20The%20Dismantling%20of%20Jim%20Crow%20in%20Baltimore%2C%201942%E2%80%931954&amp;rft.aufirst=David%20Taft&amp;rft.aulast=Terry&amp;rft.au=David%20Taft%20Terry&amp;rft.date=2002"></span>
-  <div class="csl-entry">Wells II, James Edward. “The Historical Geography of Racial and Ethnic Access within Baltimore’s Carroll Park: 1870-1954.” Master of Arts (MA), Ohio University, Geography (Arts and Sciences), 2006. https://etd.ohiolink.edu/ap/10?0::NO:10:P10_ACCESSION_NUM:ohiou1148406265.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=The%20Historical%20Geography%20of%20Racial%20and%20Ethnic%20Access%20within%20Baltimore's%20Carroll%20Park%3A%201870-1954&amp;rft.aufirst=James%20Edward&amp;rft.aulast=Wells%20II&amp;rft.au=James%20Edward%20Wells%20II&amp;rft.date=2006&amp;rft.tpages=96"></span>
-  <div class="csl-entry">Wells, James E., Geoffrey L. Buckley, and Christopher G. Boone. “Separate but Equal? Desegregating Baltimore’s Golf Courses.” <i>Geographical Review</i> 98, no. 2 (April 1, 2008): 151–70.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Separate%20but%20Equal%3F%20Desegregating%20Baltimore's%20Golf%20Courses&amp;rft.jtitle=Geographical%20Review&amp;rft.stitle=Geographical%20Review&amp;rft.volume=98&amp;rft.issue=2&amp;rft.aufirst=James%20E.&amp;rft.aulast=Wells&amp;rft.au=James%20E.%20Wells&amp;rft.au=Geoffrey%20L.%20Buckley&amp;rft.au=Christopher%20G.%20Boone&amp;rft.date=2008-04-01&amp;rft.pages=151-170&amp;rft.spage=151&amp;rft.epage=170&amp;rft.issn=0016-7428"></span>
-</div>
+[^1]:	[@salvatore_civil_2004, 8]
 
-[^1]:	NPS, Public Accommodation. p.8.
+[^2]:	[@salvatore_civil_2004, 8]
 
-[^2]:	NPS, Public Accommodation. p.8.
+[^3]:	[@salvatore_civil_2004, 9]
 
-[^3]:	NPS, Public Accommodation. p.9.
+[^4]:	[@salvatore_civil_2004, 12]
 
-[^4]:	NPS, Public Accommodation. p.12.
+[^5]:	[@salvatore_civil_2004, 13]
 
-[^5]:	NPS, Public Accommodation. p.13.
+[^6]:	[@salvatore_civil_2004, 13]
 
-[^6]:	NPS, Public Accommodation. p.13.
+[^7]:	[@salvatore_civil_2004, 15]
 
-[^7]:	NPS, Public Accommodation. p.15.
+[^8]:	[@salvatore_civil_2004, 18]
 
-[^8]:	NPS, Public Accommodation. p.18.
+[^9]:	[@salvatore_civil_2004, 22]
 
-[^9]:	NPS, Public Accommodation. p.22.
+[^10]:	[@nightingale_transnational_2006, 671]
 
-[^10]:	nightingale\_transnational\_2006, p. 671
+[^11]:	[@salvatore_civil_2004, 23]
 
-[^11]:	NPS, Public Accommodation. p.23.
+[^12]:	[@salvatore_civil_2004, 25]
 
-[^12]:	NPS, Public Accommodation. p.25.
+[^13]:	[@salvatore_civil_2004, 26]
 
-[^13]:	NPS, Public Accommodation. p.26.
+[^14]:	[@salvatore_civil_2004, 28]
 
-[^14]:	NPS, Public Accommodation. p.28.
+[^15]:	[@salvatore_civil_2004, 34]
 
-[^15]:	NPS, Public Accommodation. p.34.
+[^16]:	[@salvatore_civil_2004, 40]
 
-[^16]:	NPS, Public Accommodation. p. 40.
+[^17]:	[@salvatore_civil_2004, 42]
 
-[^17]:	NPS, Public Accommodation. p. 42.
+[^18]:	[@salvatore_civil_2004, 44]
 
-[^18]:	NPS, Public Accommodation. p. 44.
+[^19]:	[@salvatore_civil_2004, 46]
 
-[^19]:	NPS, Public Accommodation. p. 46.
+[^20]:	[@salvatore_civil_2004, 50]
 
-[^20]:	NPS, Public Accommodation. p. 50.
+[^21]:	[@salvatore_civil_2004, 57]
 
-[^21]:	NPS, Public Accommodation. p. 57.
+[^22]:	[@salvatore_civil_2004, 64]
 
-[^22]:	NPS, Public Accommodation. p. 64.
-
-[^23]:	NPS, Public Accommodation. p. 82.
+[^23]:	[@salvatore_civil_2004, 82]

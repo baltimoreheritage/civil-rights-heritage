@@ -38,7 +38,7 @@ The decision by the U.S. Supreme Court in [Prigg v. Pennsylvania](https://en.wik
 
 ## September 18, 1850: Congress passes the Fugitive Slave Act of 1850
 
-Such conditions became even worse with the passage of the infamous [Fugitive Slave Act of 1850](https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850) – legislation passed by Congress on September 18, 1850 in an attempt to stem the tide of enslaved people escaped from bondage in the South including many who  (with support from abolitionists citizens and sympathetic local courts) had been able to live free in the north.
+Such conditions became even worse with the passage of the infamous [Fugitive Slave Act of 1850](https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850) – legislation passed by Congress on September 18, 1850 in an attempt to stem the tide of enslaved people escaped from bondage in the South including many who (with support from abolitionists citizens and sympathetic local courts) had been able to live free in the north.
 
 Baltimore’s courts, jails and police officers played an active role in enforcing this new legislation. They also began to professionalize in this same period. On March 16, 1853, the Maryland legislature passed a bill, "To provide for the better security for the citizens and property in the City of Baltimore,” that established new requirements that all Baltimore police officers be armed and be furnished with a badge and commission.
 
@@ -59,21 +59,21 @@ Following the end of the Civil War, in 1867, the Maryland state legislature esta
 Richard Paul Fuke comments extensively on the relationship between the police and African Americans in Baltimore during and after the Civil War in _Imperfect equality: African Americans and the confines of white racial attitudes in post-emancipation Maryland_, writing:
 
 > Beginning immediately after emancipation, black Baltimoreans fell afoul of the law in unprecedented numbers, a fact that exacerbated tensions both within the black community and between it and neighboring whites. Between 1864 and 1870, a growing number of blacks were charged with petty theft, assault, and disorderly conduct. The picture that emerged from the records of the justice of the peace, the Baltimore Criminal Court, and the city jail was clearly that of people chronically at odds with the police and the justice system. […]
-> Unable to cope with the increased case load, and hard-pressed to find additional jail cells, city officials dismissed many such charges, especially those against minors, and accepted them as an unavoidable consequence of black migration and the shortage of incarceration space.
+> Unable to cope with the increased case load, and hard-pressed to find additional jail cells, city officials dismissed many such charges, especially those against minors, and accepted them as an unavoidable consequence of black migration and the shortage of incarceration space.[@fuke_imperfect_1999, 127-128]
 
-In a context where conservative newspapers like the _Baltimore Gazette_ charged the relationship between black migrants and crime was determined by the “inherent shortcomings,” Fuk concluded that:
+In a context where conservative newspapers like the _Baltimore Gazette_ charged the relationship between black migrants and crime was determined by the “inherent shortcomings,” Fuke concluded that:
 
-> The degree and intensity of public attention to migration, poverty and crime and whites’ explanation of the relationship of each to the other made it difficult for blacks to defend themselves. Nor was it made any easier when the city’s main law enforcement agency—the police—operated on the basis of such assumptions. From the start, the police were quick to call attention to the presence of rural migrants, to seek their remove to the counties from whence they came, and—when that failed to keep a close eye on their behavior. Such vigilance led to constant police scrutiny of the black community and the instant deployment of armed squads whenever blacks participated in public occasions either on their own or with whites. In short, the actions of the police served as a constant reminder of white Baltimoreans’ perception of not only blacks’ place in the community, but also of the connection between it and civic disorder.
+> The degree and intensity of public attention to migration, poverty and crime and whites’ explanation of the relationship of each to the other made it difficult for blacks to defend themselves. Nor was it made any easier when the city’s main law enforcement agency—the police—operated on the basis of such assumptions. From the start, the police were quick to call attention to the presence of rural migrants, to seek their remove to the counties from whence they came, and—when that failed to keep a close eye on their behavior. Such vigilance led to constant police scrutiny of the black community and the instant deployment of armed squads whenever blacks participated in public occasions either on their own or with whites. In short, the actions of the police served as a constant reminder of white Baltimoreans’ perception of not only blacks’ place in the community, but also of the connection between it and civic disorder.[@fuke_imperfect_1999, 130]
 
 ## September 1867: Policeman Frey shoots and kills Eliza Taylor
 
 Historian Richard Paul Fuke noted the “fatal police shooting of Eliza Taylor, a black woman, in September 1867,” quoting the _Baltimore American_:
 
-> A colored woman was killed under circumstances which show the spirit of hate and oppression cherished toward that portion of the population by many of the police.
+> A colored woman was killed under circumstances which show the spirit of hate and oppression cherished toward that portion of the population by many of the police.[@fuke_imperfect_1999, 131]
 
 The police officer involved in the shooting was acquitted of murder prompting criticism from a convention of black leaders in Baltimore, as the _Baltimore American_ reported:
 
-> The President [George A. Hackett] stated the object of the meeting, quoting the Declaration of Independence in proof of the fact that the colored people have no friends in Baltimore in the Governor or the police, and cited the action of the Grand Jury in discharging the Policeman Frey, charged with the murder of the colored woman, Eliza Taylor, as a specimen of the justice which is meted out to colored people in this city.
+> The President [George A. Hackett] stated the object of the meeting, quoting the Declaration of Independence in proof of the fact that the colored people have no friends in Baltimore in the Governor or the police, and cited the action of the Grand Jury in discharging the Policeman Frey, charged with the murder of the colored woman, Eliza Taylor, as a specimen of the justice which is meted out to colored people in this city.[@fuke_imperfect_1999, 131]
 
 Given his recent military service for the Union, Hackett reasonably expected fair treatment. The Maryland State Archive [biographical profile](http://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/051300/051387/html/51387bio.html) on Hackett notes:
 
@@ -101,9 +101,9 @@ However, it soon became clear that the Baltimore police saw black political and 
 
 While the accuracy of this account has not been fully verified, the efforts to undermine black political power and public assembly in Baltimore prefigures the eventual destruction of the "Negro Militias" that formed during Reconstruction in several Southern states to protect free African-Americans and support new Republican state governments against the armed insurgency and terrorism of the Ku Klux Klan and the White League.
 
-During the decades after the Civil War, the Baltimore City Police Department frequently broke up public assemblies by African-Americans, as Jeffrey Richardson, Brackett noted in his study of _Colored People of Maryland since the War_, writing:
+During the decades after the Civil War, the Baltimore City Police Department frequently broke up public assemblies by African-Americans, as Jeffrey Richardson Brackett noted in his study of _Colored People of Maryland since the War_, writing:
 
-> ”In this respect, again, the strong influence of the clergy and intelligent leaders, ambitious for the race, seems to be bearing fruit in a general progress. The expensive social and the promenade are less popular, and the entertainments and picnics that are held are, as a rule, more creditable. The cake-walks and drum-corp matches and there were nine colored drum-corps, a few years ago used often to end with necessary interference of the police, and the patrol-wagon has sometimes been summoned to the assembly halls. One who has for years played a violin at dances of the colored people, recalls, with a laugh, how he often had to retreat for safety beneath the stage, and bears witness to the improvement, now. But there is still vast room for improvement.”
+> ”In this respect, again, the strong influence of the clergy and intelligent leaders, ambitious for the race, seems to be bearing fruit in a general progress. The expensive social and the promenade are less popular, and the entertainments and picnics that are held are, as a rule, more creditable. The cake-walks and drum-corp matches and there were nine colored drum-corps, a few years ago used often to end with necessary interference of the police, and the patrol-wagon has sometimes been summoned to the assembly halls. One who has for years played a violin at dances of the colored people, recalls, with a laugh, how he often had to retreat for safety beneath the stage, and bears witness to the improvement, now. But there is still vast room for improvement.”[@brackett_notes_1890, 59]
 
 A powerful example of the consequences of this practice can be found in the case of Daniel Brown’s shooting by Baltimore police officer Patrick McDonald in July 1875.
 
@@ -123,7 +123,7 @@ The initial argument between McDonald and Brown started with McDonald's demand t
 
 > "Brown said he paid rent for the house . The officer said he "need'nt be so - saucy." Brown had his head out the door. The officer caught Brown and struck him over the head with his club. He staggered and fell toward a closet in the front room. The police now followed his his pistol in his hand and Mrs. Brown behind him, begging him not to shoot. She said, "He is my husband" and the officer, saying he didn't care a d-n," fired. Brown never spoke after he was struck on the head. John Greason begged the officer not to shoot. The officer said the would kill every black -."
 
-The *Baltimore Sun* described Brown writing:
+The _Baltimore Sun_ described Brown writing:
 
 > "Daniel Brown, the deceased, was a dark mulatto, thirty-seven years of age, and leaves a wife but no children. He was industrious and sober, quite intelligent and strong in urging his own way. In the daytime of late he was employed as a laborer, and occasionally at night worked in Woods, Weeks & Co,'s sugar refinery."
 
@@ -133,15 +133,17 @@ On November 24, 1875, the jury returned the verdict: "Not guilty of murder, but 
 
 The protests against the murder had a lasting legacy two generations later, as Juan Williams described, _In Thurgood Marshall: American Revolutionary_:
 
-> Despite the racial tension in the city, Thurgood's father had very good white friends, including a local policeman, Captain Cook, who occasionally came by to spend some time with Willie Marshall. According to Thurgood, his dad had no hostile feelings toward whites in Baltimore. When Captain Cook knocked at the door, Thurgood knew to go get his father because the policeman would never come in without Willie Marshall's personal invitation. His father had set down a rule—if any policeman entered his house without permission, he would kill him. This rule applying even to friends, reflected a widespread concern among black Baltimoreans about the power of an all-white police force. Willie's hard-nosed stance came from an 1875 incident. Norma's father had been the leader of a citywide protest against a policeman who shot and killed a black man after forcing his way into the man's house.
+> Despite the racial tension in the city, Thurgood's father had very good white friends, including a local policeman, Captain Cook, who occasionally came by to spend some time with Willie Marshall. According to Thurgood, his dad had no hostile feelings toward whites in Baltimore. When Captain Cook knocked at the door, Thurgood knew to go get his father because the policeman would never come in without Willie Marshall's personal invitation. His father had set down a rule—if any policeman entered his house without permission, he would kill him. This rule applying even to friends, reflected a widespread concern among black Baltimoreans about the power of an all-white police force. Willie's hard-nosed stance came from an 1875 incident. Norma's father had been the leader of a citywide protest against a policeman who shot and killed a black man after forcing his way into the man's house.[@williams_thurgood_2011, 36]
 
 The intensity of the police response to cake-walks (and their close association with morality policing in the period) was also noted by late 19th century scholar Jeffrey Richardson Brackett in _Notes on the Progress of the Colored People of Maryland Since the War_ (1890), writing:
 
-> One thing peculiar to the colored people was the popularity, a few years ago, of small social clubs. There were probably 150 of these in Baltimore, with an average membership of twenty or thereabouts. [...] A few have had club-rooms, and several have had some system of friendly or beneficial work, but they met, as a rule in private houses, and were for pleasure only. [...] They frequently gave parties and promenades as benefits for their own members. [...] The cake-walks and drum-corp marches--and there were nine colored drum-corps, a few years ago--used often to end with necessary interference of the police, and the patrol-wagon has sometimes been summoned to the assembly halls. One who has for years played a violin at dances of the colored people, recalls, with a laugh, how he often had to retreat for safety beneath the stage, and bears witness to the improvement, now.
+> One thing peculiar to the colored people was the popularity, a few years ago, of small social clubs. There were probably 150 of these in Baltimore, with an average membership of twenty or thereabouts. [...] A few have had club-rooms, and several have had some system of friendly or beneficial work, but they met, as a rule in private houses, and were for pleasure only. [...] They frequently gave parties and promenades as benefits for their own members. [...] The cake-walks and drum-corp marches--and there were nine colored drum-corps, a few years ago—used often to end with necessary interference of the police, and the patrol-wagon has sometimes been summoned to the assembly halls. One who has for years played a violin at dances of the colored people, recalls, with a laugh, how he often had to retreat for safety beneath the stage, and bears witness to the improvement, now.[@brackett_notes_1890, 59]
+
+**Note:** This passage is a duplicate of the passage quoted above. One of these should be removed!
 
 ## July 19, 1884: Police officer F.L. Kruse shoots and kills John Wesley Green
 
-On July 24, 1884, the *Baltimore Sun* reported:
+On July 24, 1884, the _Baltimore Sun_ reported:
 
 > Police officer F.L. Kruse, of the Western district, who shot John Wesley Green, colored in the back and fatally injured him last Saturday night, was exonerated by the police board yesterday, and was patrolling his beat last night. […] Commissioners Milroy and Herbert voted to exonerate the officer, Mr. Colton dissenting. Mr. Colton said: "The officer did not see Green commit any offense and he did not have a warrant of law to arrest him. I consider the taking of human life too serious a matter to justify the officer in using his pistol in this case."
 
@@ -183,13 +185,14 @@ The profile of Garland also highlights the complex relationship between criminal
 
 ## June 1, 1918: Baltimore police shoot and kill a "colored man on Pennsylvania avenue"
 
-On June 7, 1918, the *Afro American* reported on a shooting involving multiple Baltimore City police officers that resulted in the death of one man:
+On June 7, 1918, the _Afro American_ reported on a shooting involving multiple Baltimore City police officers that resulted in the death of one man:
 
 > The fatal shooting of a colored man on Pennsylvania avenue by the police last Saturday night and the severe wounding of another, has aroused a great deal of comment this week. It appears that some colored men were disorderly and the police grabbed one. While dragging him to the call box some one hit the policeman with a chair. Despite the crowded condition of Pennsylvania avenue at that time, it is said the police began shooting, with the result that one man lay dead and another seriously wounded. The man killed it is averred by some was not the man who hit the policeman. A ban has been placed on pedestrians, and any who stop to talk this Saturday may be arrested. Some of the police, it is alleged are gloating over the killing of the man. They look forward to making a harvest in arrests this [Saturday] night, it is being claimed.
 
 > Pennsylvania avenue has been what some call an "indicted street" since the recent large influx from the South and many have been arrested on Saturday nights and charged with loitering. A decade ago the police indiscriminately arrested colored men and women who happened to stop even for conversation. They were invariable fined notwithstanding character witnesses appeared the next morning in a number of instances and attested to the good habits on those taken in.
 
 ## February 1919: Black soldier brutally beaten by Baltimore police officer
+
 On February 16, 1918, the _Baltimore Sun_ praised Judge Stanton for his role in protesting a recent incident of police brutality:
 
 > "Judge Stanton has rendered a service in calling the attention of the Police Commissioners to the alleged brutality of a policeman in dealing with a soldier who resisted arrest… In this case, we are sorry to say, the soldier behaved like a rowdy. But, for all that, the policeman who undertook to arrest him was not justified in treating him brutally. He could have managed him, we imagine, without resorting to methods which excited indignation in the minds of spectators. The patrolman was in civilian clothes at the time and the soldier naturally did not recognize his authority. Discretion is a virtue that is as important as valor or as muscle on the part of a police officer. We think the Commissioners should look into this incident carefully."
@@ -202,11 +205,11 @@ In 1920, the Board of Police Commissioners was established and General Charles D
 
 The conduct of officers under Gaither's oversight proved to be a powerful influence on a young Thurgood Marshall who, from his classroom, had a close-up view of the Northwestern District Police Station as a student at the Colored High School on Pennsylvania Avenue in the early 1920s. In _Thurgood Marshall: American Revolutionary_, Juan Williams writes:
 
-> Sitting in a second-floor classroom and next to the window, he had a bird's-eye view of the Northwest Baltimore police station. He could see prisoners, mostly black, being brought in by the all-white police. Often he could even hear as black suspects were questioned about crimes and sometimes hit with a club or brass knuckles to loosen up a confession. Essie Hughes remembered Thurgood being so fascinated by the goings-on in the jailhouse that teachers sometimes had to tell him to pull down the window shades.
+> Sitting in a second-floor classroom and next to the window, he had a bird's-eye view of the Northwest Baltimore police station. He could see prisoners, mostly black, being brought in by the all-white police. Often he could even hear as black suspects were questioned about crimes and sometimes hit with a club or brass knuckles to loosen up a confession. Essie Hughes remembered Thurgood being so fascinated by the goings-on in the jailhouse that teachers sometimes had to tell him to pull down the window shades.[@williams_thurgood_2011, 40]
 
 Williams continued to quote Marshall's recollection of what he heard, writing:
 
-> "We could hear police in there beating the hell out of people, saying, 'Black boy, why don't you just shut your goddamned mouth, you're going to talk yourself into the electric chair.’”
+> "We could hear police in there beating the hell out of people, saying, 'Black boy, why don't you just shut your goddamned mouth, you're going to talk yourself into the electric chair.’”[@williams_thurgood_2011, 40]
 
 Neither the original Colored High School building or the Northwest Police Station building are still extant. Williams further notes the powerful influence of Thurgood Marshall's father—Willie Marshall—who when he "wasn't working on the trains" was "a regular figure in the rear of courtrooms, a hat perched on his lap as he watched trials.”
 
@@ -243,11 +246,11 @@ On April 27, 1927, the _Afro_ reported on “RAISE PROTEST OVER POLICE BRUTALITY
 
 ## March 17, 1930: Baltimore police officer Herman Trautner kills Roosevelt Yates
 
-On March 22, 1930, the Afro reported on the death of Roosevelt Yates after he was shot and killed by Herman Trautnet in his home at 905 Bennett Place:
+On March 22, 1930, the Afro reported on the death of Roosevelt Yates after he was shot and killed by Herman Trautner in his home at 905 Bennett Place:
 
 > Police here chalked up another victim when Officer Herman Trautner shot and fatally wounded Roosevelt Yates during arrest of the latter at his home, 905 Bennett Place, Monday. [Trautner] shot Roosevelt in the chest after the latter had grabbed the officer's espantoon before it landed in a blow on his head, it was said. In his report, officer Trautner declared that he shot in self defense when Yates started towards him with the night stick after wresting it from his hand in a struggle.
 
-On March 29, 1930, the *Afro* reflect on the killing as a pattern of brutality by the Baltimore police:
+On March 29, 1930, the _Afro_ reflect on the killing as a pattern of brutality by the Baltimore police:
 
 > Baltimore police killed their eight victim in six years last week when Officer Herman Trautner, white, killed Roosevelt Yates, an unarmed man he was seeking to arrest. Five others had been killed by policemen in fifteen years previously. As a result of these thirteen shootings, only one policeman has been punished. […]
 
@@ -259,7 +262,7 @@ On March 29, 1930, the *Afro* reflect on the killing as a pattern of brutality b
 
 ## September 1, 1930: William Johnson dies after assault by police officer Harry Holley
 
-On September 6, 1930, the *Afro-American* reported on the NAACP protesting to the governor after an assault on William Johnson by police officer Harry Holley left Johnson unconscious for two weeks before dying at the University Hospital:
+On September 6, 1930, the _Afro-American_ reported on the NAACP protesting to the governor after an assault on William Johnson by police officer Harry Holley left Johnson unconscious for two weeks before dying at the University Hospital:
 
 > At an inquest at the Western police station Thursday night, Officer Harry Holly was exonerated in the killing of William Johnson who died after being struck with a blackjack by the officer. Fourteen witnesses testified that the officer brutally assaulted Johnson without provocation. One white man and the officer testified for the defense.
 > The death of William Johnson, 137 W. Camden Street, on September 1 at University Hospital after being hit with a blackjack by Policeman Harry Holley, white, of the Western district, aroused the city this week.
@@ -310,6 +313,7 @@ Baltimore Police Department hires Violet Hill Whyte as the first black police of
 Police Commissioner William Lawson appointed Walter T. Eubanks, Jr., Harry S. Scott, Milton Gardner, and J. Hiram Butler, Jr., from a list of police candidates. The three officers were forced only to wear plain-clothes (a policy similar to Louisville, KY which appointed plain-clothes black police officers in 1928). Anticipating this change, the League of Colored Republican Voters had sponsored a school to prepare blacks Baltimoreans for the police examination.
 
 ## February 21, 1942: Police officer Edward R. Bender kills Thomas Broadus
+
 On February 7, 1942, the Afro reported on the death of Thomas Broadus after he was shot and killed by Edward R. Bender:
 
 > In the presence of scores of persons who were passing along Baltimore's busy Pennsylvania Avenue late Saturday night, Patrolman Edward Bender, Northwestern district officer, shot and killed Private Thomas Broadus, 26, Pittsburgh, a member of the 1322nd Service Unit at Fort George G. Meade.
@@ -321,7 +325,7 @@ On May 9, 1942, the _Afro_ reported – “Mrs. Bauernschmidt Urges Uniformed Co
 
 > “The following is the speech given by Mrs. Marie O. Bauernschmidt, white, over Station WBAL on Monday evening, the fourth in a series of weekly talks made over the station”
 
-On September 25, 1942, the *Afro* reported that the commission released a report urging the Bender case to be reopened:
+On September 25, 1942, the _Afro_ reported that the commission released a report urging the Bender case to be reopened:
 
 > Charging that there is prima facie evidence that the killing by Patrolman Edward R. Bender, of the Northwestern district, of a Negro soldier last February "was unlawful," a subcommittee of the State Commission to Study Colored Problems yesterday recommended the case be resubmitted to the grand jury. In a report highly critical of the administration of Robert F. Stanton as Police Commissioner, the subcommittee also characterized as "unsatisfactory" the handling of the case by J. Bernard Wells, State's Attorney.
 
@@ -332,6 +336,7 @@ In the summer of 1944, Baltimore's first police (segregated white) boys' club mo
 The city started four boys' clubs in the 1940s, with a segregated facility for black children at the Northwestern District Police Station on Gold Street.
 
 ## May 16, 1946: Wilbur Bundley shot and killed by patrolman Walter J. Weber
+
 On June 10, 1946, the Baltimore Sun reported on the organized protests in response to the shooting of Wilbur Bundley by patrolman Walter J. Weber:
 
 > Calling for a more militant attitude by the Negroes of Baltimore in the maintenance of their constitutional rights and privileges, speakers at a meeting held in Leadenhall Baptist Church yesterday afternoon charged the city's police with brutality toward both white and Negro citizens.
@@ -361,7 +366,8 @@ The Baltimore jail expanded substantially during this period. In 1952, Baltimore
 > ”building a new structure is not enough. We need substantiative rehabilitation programs for these men. ... They are an essential part of any crime-fighting program."
 
 ## June 22, 1964: Louis C. Petty dies after beating by police officers Glen Russell and Joseph Mulling
-On June 23, 1964, the *Baltimore Sun* reported on the death of Louis C. Petty from injuries following a beating by two Baltimore City police officers:
+
+On June 23, 1964, the _Baltimore Sun_ reported on the death of Louis C. Petty from injuries following a beating by two Baltimore City police officers:
 
 > A 44-year-old man, injured in a scuffle with a policeman Saturday, died last night, bringing demands from a city councilman for an investigation into charges of police brutality and protests from neighbors who witnessed the fray. The patrolman, Glen Russell, of the Southwestern district, was temporarily suspended by Chief Inspector George J. Murphy. Delegate Clarence M. Mitchell 3d (D., Fourth), said he had testimony from about fifteen eyewitnesses swearing that Patrolman Russell and Patrolman Joseph Mulling had beaten Louis C. Petty, 44, a Negro, of the 500 block Edgewood street, after they had arrested and handcuffed him. […]
 > Petty died of head injuries yesterday afternoon in Franklin Square Hospital.

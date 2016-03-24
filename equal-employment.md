@@ -7,7 +7,7 @@ tags: draft
 
 # Introduction
 
-Civil Rights advocacy efforts related to employment can be divided between **public employment** (with local, state or federal government agencies) or **private employment**. In addition, Civil Rights advocates have necessarily addressed the  **public programs and independent efforts that support employment** including relief and welfare services, job training, and the right of workers to unionize. Finally, African Americans in Baltimore, like other communities, have focused on the potential for **self-employment** or entrepreneurship as a strategy for securing economic opportunities outside of a discriminatory labor market.
+Civil Rights advocacy efforts related to employment can be divided between **public employment** (with local, state or federal government agencies) or **private employment**. In addition, Civil Rights advocates have necessarily addressed the **public programs and independent efforts that support employment** including relief and welfare services, job training, and the right of workers to unionize. Finally, African Americans in Baltimore, like other communities, have focused on the potential for **self-employment** or entrepreneurship as a strategy for securing economic opportunities outside of a discriminatory labor market.
 
 - 1831 – 1870
 - 1870 – 1905
@@ -38,13 +38,13 @@ Firm later went bankrupt and sold assets of the Afro to two investors who sold t
 
 Some black business owners built lasting enterprises but many black-owned businesses struggled to survive in a racist society.
 
-Barbara Bair  in _To Make Our World Anew_ wrote:
+Barbara Bair in _To Make Our World Anew_ wrote:
 
 > The late 1880s and 1890s were a time when many new black businesses were started and when growing black urban populations brought increased business to black grocers, barbers, butchers, hotel and retail shop owners, undertakers, and real estates dealers. Black banks and insurance companies, cemeteries, and building and loan companies were also founded.
 
 James R. Grossman in _To Make Our World Anew_ writing about black small business (1900-1929):
 
-> ”In most cases, however, such businesses were precarious enterprises whose owners had little cash for emergencies or to tide them over during occasional slow months. The limited clientele had little to spend and often needed short-term credit […] Retail businesses were especially risky because whites (often European immigrants with few other business opportunities) could open stores in black neighborhoods and compete, largely because they had greater access to borrowed money and supplies. Barbering, undertaking, and beauty shops, on the other hand, did not face competition from white entrepreneurs reluctant to deal with black bodies.” (p. 95)
+> ”In most cases, however, such businesses were precarious enterprises whose owners had little cash for emergencies or to tide them over during occasional slow months. The limited clientele had little to spend and often needed short-term credit […] Retail businesses were especially risky because whites (often European immigrants with few other business opportunities) could open stores in black neighborhoods and compete, largely because they had greater access to borrowed money and supplies. Barbering, undertaking, and beauty shops, on the other hand, did not face competition from white entrepreneurs reluctant to deal with black bodies.”[@kelley_make_2005, 95]
 
 # 1905 – 1929
 
@@ -58,7 +58,7 @@ From Afro book:
 
 In 1906, “THEIR HOPE IS IN WORK”
 
-> Harry S. Cummlngs, the colored lawyer, delivered -an address Tuesday night tho Allen Literary and Christian League in Allen African Methodist pal Church, Lexington and Carlton streets. He said,\* in part:' "I am deeply concerned,' as this subject of work affects -the people of…[^2]
+> Harry S. Cummings, the colored lawyer, delivered -an address Tuesday night tho Allen Literary and Christian League in Allen African Methodist pal Church, Lexington and Carlton streets. He said, in part:' "I am deeply concerned,' as this subject of work affects -the people of…[^2]
 
 # 1929 – 1954
 
@@ -78,8 +78,7 @@ Baltimore banks suffered from the depositor’s panic of other cities, February 
 
 Joe William Trotter, Jr. in _To Make Our World Anew_ wrote:
 
-> In 1933, the NAACP, the Urban League, and other interracial organizations formed the Joint Committee on National Recovery (JCNR). Although underfunded and ill staffed, the JCNR lobbied in Washington, D.C. on behalf of blacks and helped to publicize the plight of African Americans in the relief and recovery programs. The Urban League also formed Emergency Advisory Councils and Negro workers councils in major cities across the country and played a major role in promoting closer ties between blacks and organized labor. (p.151)
-
+> In 1933, the NAACP, the Urban League, and other interracial organizations formed the Joint Committee on National Recovery (JCNR). Although underfunded and ill staffed, the JCNR lobbied in Washington, D.C. on behalf of blacks and helped to publicize the plight of African Americans in the relief and recovery programs. The Urban League also formed Emergency Advisory Councils and Negro workers councils in major cities across the country and played a major role in promoting closer ties between blacks and organized labor.[@kelley_make_2005, 151]
 
 ## Fall 1933: Prophet Kiowah Costonie (Tony Green) persuaded some Pennsylvania Avenue businesses to hire black people
 
@@ -103,26 +102,25 @@ According to an Urban League Study, 13% of Baltimore whites and 40% of Baltimore
 Joe William Trotter, Jr. in _To Make Our World Anew_ wrote:
 
 > Despite the persistence of discrimination, as the wartime labor shortages increased, the FEPC played a key role in helping black workers find jobs in defense plants. The number of blacks in war production increased from less than three percent in March 1942 to over eight percent in 1944. […]
-> At its annual convention in 1941, for example, the CIO denounced racially discriminatory hiring policies as a “direct attack on our nation’s policy to build democracy in our fight against Hitlerism,” A year later, the organization established its own Committee to Abolish Racial Discrimination and urged its affiliates to support national policy against discrimination. (p.166)
+> At its annual convention in 1941, for example, the CIO denounced racially discriminatory hiring policies as a “direct attack on our nation’s policy to build democracy in our fight against Hitlerism,” A year later, the organization established its own Committee to Abolish Racial Discrimination and urged its affiliates to support national policy against discrimination.[@kelley_make_2005, 166]
 
-In Wages of War: The Shifting Landscape of Race and Gender in World War II Baltimore, Amy Betnley notes:
+In Wages of War: The Shifting Landscape of Race and Gender in World War II Baltimore, Amy Bentley notes:
 
-> Despite some wartime integration in the workplace, the tradition ofJim Crow kept most blacks out of the more desirable jobs. With only a few exceptions, the city maintained its color hierarchies. While many blacks had worked at Bethlehem Steel for years, they were barred from most of the high-paying jobs because of an entrenched Southern system defining acceptable work for blacks. During the Depression blacks comprised a disproportionately large percentage of the un- employed. As the wartime economy picked up, companies still resisted hiring blacks. In 1941 young black men just graduating from high school were told at the Glenn L. Martin Aircraft plant, "We do not hire Negro labor." "Unbiased, Bendix Says, But Only 100 Out of 3500 Workers Colored" read a wartime headline in the Baltimore Afro-American. Black women, who found it especially hard to break into lucrative war jobs, worked overwhelmingly as domestics or held clerical or teaching positions in black businesses and schools. The Social Security Board noted that even with increasing shortages of labor, Baltimore companies were not willing to hire blacks for positions, no matter how qualified. Of 8,769 skilled and semi-skilled aircraft jobs available in the first quarter of 1941, only thirteen went to non-white workers.
+> Despite some wartime integration in the workplace, the tradition ofJim Crow kept most blacks out of the more desirable jobs. With only a few exceptions, the city maintained its color hierarchies. While many blacks had worked at Bethlehem Steel for years, they were barred from most of the high-paying jobs because of an entrenched Southern system defining acceptable work for blacks. During the Depression blacks comprised a disproportionately large percentage of the un- employed. As the wartime economy picked up, companies still resisted hiring blacks. In 1941 young black men just graduating from high school were told at the Glenn L. Martin Aircraft plant, "We do not hire Negro labor." "Unbiased, Bendix Says, But Only 100 Out of 3500 Workers Colored" read a wartime headline in the Baltimore Afro-American. Black women, who found it especially hard to break into lucrative war jobs, worked overwhelmingly as domestics or held clerical or teaching positions in black businesses and schools. The Social Security Board noted that even with increasing shortages of labor, Baltimore companies were not willing to hire blacks for positions, no matter how qualified. Of 8,769 skilled and semi-skilled aircraft jobs available in the first quarter of 1941, only thirteen went to non-white workers.[@bentley_wages_1993, 423-424]
 
 Bentley continued to note:
 
-> A 1942 pamphlet "The Negro and the War" bluntly spelled out the major problems blacks faced in Baltimore. Stating that "the effects of job discrimination have this city in a vise," the treatise made it clear that "despite the ever increasing demand for war industry labor in the neighborhood . . . practically no attempt had been made to hire Negroes, though the city has a Negro population of 167,000." "It is worth noting," the authors reminded readers, "that Negroes are employed at skilled work, with union membership privileges, not only north of Baltimore, but south of Baltimore." "White and colored machinists work side by side in Norfolk," they wrote, hoping to show that other Southern cities could successfully integrate their workforce. With a certain amount of prompting by the federal government, which itself had begun to hire blacks and integrate workplaces, gradually war industries became daring enough—or desperate enough for workers—to begin hiring black men and women. Eventually the percentage of African Americans in Maryland's workforce rose from 7 to 17 percent, although many held the poorest paid, the least desirable, and the most dangerous jobs.
+> A 1942 pamphlet "The Negro and the War" bluntly spelled out the major problems blacks faced in Baltimore. Stating that "the effects of job discrimination have this city in a vise," the treatise made it clear that "despite the ever increasing demand for war industry labor in the neighborhood . . . practically no attempt had been made to hire Negroes, though the city has a Negro population of 167,000." "It is worth noting," the authors reminded readers, "that Negroes are employed at skilled work, with union membership privileges, not only north of Baltimore, but south of Baltimore." "White and colored machinists work side by side in Norfolk," they wrote, hoping to show that other Southern cities could successfully integrate their workforce. With a certain amount of prompting by the federal government, which itself had begun to hire blacks and integrate workplaces, gradually war industries became daring enough—or desperate enough for workers—to begin hiring black men and women. Eventually the percentage of African Americans in Maryland's workforce rose from 7 to 17 percent, although many held the poorest paid, the least desirable, and the most dangerous jobs.[@bentley_wages_1993, 424]
 
 There is much more detail on women workers and black housing during the war:
 
-> Because of severe labor shortages, those black females working as domestics (85 percent of all wage-earning black women in 1940) saw their wages double during the war and their weekly work hours drop. Even so, black women in droves abandoned domestic work for more dignified and higher paying war work. During the war the number of blacks working as domestics dropped by half.TheDruid Hill YWCA's Blue Triangle Club noted that in 1941 90 percent of its members were household employees. By September of 1942 only one-third of these women were still doing domestic work. Some of the former domestics may have regretted the choice, for companies offering black men and women employment often stuck them in their firms' dirtiest and most dangerous positions.
+> Because of severe labor shortages, those black females working as domestics (85 percent of all wage-earning black women in 1940) saw their wages double during the war and their weekly work hours drop. Even so, black women in droves abandoned domestic work for more dignified and higher paying war work. During the war the number of blacks working as domestics dropped by half. TheDruid Hill YWCA's Blue Triangle Club noted that in 1941 90 percent of its members were household employees. By September of 1942 only one-third of these women were still doing domestic work. Some of the former domestics may have regretted the choice, for companies offering black men and women employment often stuck them in their firms' dirtiest and most dangerous positions.[@bentley_wages_1993, 436]
 
 ## 1945: Campaign for black-owned cab service
 
 On April 29, 1945, the _Baltimore Sun_ reported “SEEKS NEGRO CAB SERVICE: J. F. Henry, Jr., Petitions PSC For Negro-Owned Company,” writing:
 
 > Asserting "it is impossible" for Negroes to obtain taxi service from Baltimore bus and railroad stations, Josiah F. Henry, Jr., has asked the Public Service Commission to issue permits needed to organize a Negro owned and operated company. ‘[^3]
-
 
 # 1954 – 1968
 
@@ -132,8 +130,8 @@ On April 29, 1945, the _Baltimore Sun_ reported “SEEKS NEGRO CAB SERVICE: J. F
 
 …
 
-[^1]:	farrar\_baltimore\_1998
+[^1]:	[@farrar_baltimore_1998]
 
-[^2]:	\_their\_1906
+[^2]:	@_their_1906
 
-[^3]:	\_seeks\_1945
+[^3]:	@_seeks_1945

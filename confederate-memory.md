@@ -87,7 +87,7 @@ Just days after the _Sun_ published Crane's letter, the proposal moved to the Se
 
 Despite this opposition, on March 31, 1880, the Society of the Army and Navy of the Confederate States in Maryland succeeded in pushing the second branch of the Baltimore City Council to approve the resolution and send it to Mayor Ferdinand C. Latrobe.
 
-On April 5, 1880, the Mayor returned the resolution to the first branch of the City Council - "without his approval" - writing:
+On April 5, 1880, the Mayor returned the resolution to the first branch of the City Council—"without his approval"—writing:
 
 > "During the late civil war the people of Baltimore were divided in sentiment and action on the questions which, after a prolonged and embittered struggle, were finally decided by the sword. The ardor, bravery and devotion to principle of the Maryland soldiers, and the honor due to the memory of those who fell upon the battle-field is universally acknowledged. But while the issues involved in the war have been settled by its result, in most cases the convictions of those who as actors or sympathizers took part in the contest continue to exist. Under these circumstances the erection at this time in one of the public squares of a memorial monument commemorative of the acts of those who fought upon either side would not fail to be repugnant to the opinions and sentiments of very many people. **The public highways and squares of the city are the common property of all, and we who are temporarily entrusted with their control, whatever our personal opinions may be, are not, in my judgment, justified in dedicating any portion of them to a purpose which would be in direct opposition to the sensibilities and wishes of large numbers of citizens.**”
 
@@ -310,11 +310,11 @@ Erected in 1948, the planning for the Lee-Jackson Monument began two decades ear
 
 Robert E. Lee had special significance for many supporters of Confederate memory. Historian Kirk Savage in _Standing Soldiers, Kneeling Slaves_ notes:
 
-> With the equation of canonical whiteness, and moral virtue so deeply embedded in the consciousness of race, Lee's outward appearance was easily read as a reflection of inner superiority. This equation reappears frequently in descriptions by men and women alike, as in this gushing account written by a Maryland woman: "The man who stood before us, the embodiment of a Lost Cause, was the realized King Arthur. The soul that looked out of his eye was as honest and fearless as when it first looked on life. One saw the character, as clear as crystal ... and the heart, as tender as that of ideal womanhood."[^5]
+> With the equation of canonical whiteness, and moral virtue so deeply embedded in the consciousness of race, Lee's outward appearance was easily read as a reflection of inner superiority. This equation reappears frequently in descriptions by men and women alike, as in this gushing account written by a Maryland woman: "The man who stood before us, the embodiment of a Lost Cause, was the realized King Arthur. The soul that looked out of his eye was as honest and fearless as when it first looked on life. One saw the character, as clear as crystal ... and the heart, as tender as that of ideal womanhood."[@savage_standing_1999, p. 132]
 
 Savage continues writing:
 
-> Lee offered white Southerners a hero in their own image, an instrument with which they could prod white Northerners to realign their sympathies along proper racial lines. ... The legitimation of Lee after the war helped to reestablish old lines of racial sympathy. The losers in this process of reconciliation were of course African Americans, who could not possibly accept Lee as their hero.[^6]
+> Lee offered white Southerners a hero in their own image, an instrument with which they could prod white Northerners to realign their sympathies along proper racial lines. ... The legitimation of Lee after the war helped to reestablish old lines of racial sympathy. The losers in this process of reconciliation were of course African Americans, who could not possibly accept Lee as their hero.[@savage_standing_1999, p. 132]
 
 ## 1931: Rev. George F. Bragg, Jr. speaks at the Hayward Shepherd Memorial dedication in Harper’s Ferry
 
@@ -428,13 +428,13 @@ In 2008, Johns Hopkins University declined to rent their facilities to the Sons 
 
 # Conclusion
 
-Baltimore’s experience with Confederate memorials is in many ways typical. Historian Cynthia Mills, writing in Monuments to the Lost Cause: Women, Art, and the Landscapes of Southern Memory, described the [consistent character](https://books.google.com/books?id=sFzzUvCTkpkC&lpg=PA200&ots=4sexx2nFq5&pg=PR21#v=onepage&q=baltimore&f=false) of Confederate memorials:
+Baltimore’s experience with Confederate memorials is in many ways typical. Historian Cynthia Mills, writing in _Monuments to the Lost Cause: Women, Art, and the Landscapes of Southern Memory_, described the [consistent character](https://books.google.com/books?id=sFzzUvCTkpkC&lpg=PA200&pg=PR21#v=onepage&q&f=false) of Confederate memorials:
 
-> A clear, narrative style with carefully described figures was chosen for all of the Confederate sculptures, including the less common allegorical or male-female groupings, as the best way to relay their message of southern pride. [...] The unveiling ritual [...] always included elaborate procession and speeches. Children usually pulled the cord, a potent symbol of the monument's role in speaking to future generations. In addition to sites in the eleven seceding states, Confederate memorials can be found in a number of other places, including Illinois, Kansas, Kentucky, Maryland, Missouri, New York, and West Virginia.
+> A clear, narrative style with carefully described figures was chosen for all of the Confederate sculptures, including the less common allegorical or male-female groupings, as the best way to relay their message of southern pride. [...] The unveiling ritual [...] always included elaborate procession and speeches. Children usually pulled the cord, a potent symbol of the monument's role in speaking to future generations. In addition to sites in the eleven seceding states, Confederate memorials can be found in a number of other places, including Illinois, Kansas, Kentucky, Maryland, Missouri, New York, and West Virginia.[@mills_monuments_2003, xxi]
 
 Further, those who claim that art should be separate from politics find little support in the reception of these monuments in the 19th and 20th centuries where the politics of public memory shaped the forms and figures themselves. Historian Kirk Savage in _Standing Soldiers, Kneeling Slaves_ notes:
 
-> The aesthetic problems of commemorative sculpture cannot be separated from the more obviously political pressures inherent in this public medium. The dividing line between the aesthetic and the political is in fact difficult to define since the generic characteristics of heroic sculpture themselves carry profoundly political significance. The whole notion of history as a tale of great men is made palpably glorious in the statues of heroes; that glory works to marginalize cultural constructions of the past that might represent other groups and other categories of historical experience.[^7]
+> The aesthetic problems of commemorative sculpture cannot be separated from the more obviously political pressures inherent in this public medium. The dividing line between the aesthetic and the political is in fact difficult to define since the generic characteristics of heroic sculpture themselves carry profoundly political significance. The whole notion of history as a tale of great men is made palpably glorious in the statues of heroes; that glory works to marginalize cultural constructions of the past that might represent other groups and other categories of historical experience.[@savage_standing_1999, 69]
 
 Historians and journalists have articulated the connection between the symbolic meaning of monuments (or flags or songs) and their political purpose. Ta-Nehisi Coates’ 2015 post—[What This Cruel War Was Over](http://www.theatlantic.com/politics/archive/2015/06/what-this-cruel-war-was-over/396482/)—shows how Confederate leaders expressed the connection between white supremacy and the Confederate cause:
 
@@ -486,9 +486,3 @@ The Civil War Baltimore/Maryland's Confederate Perspective from Loyola Universit
 [^3]:	Baltimore’s Taney monument is a recast of the 1872 statue in Annapolis.
 
 [^4]:	Howard’s oration is available in full [through Google Books](https://books.google.com/books?id=5e717kjFdPIC&lpg=PA406-IA1&ots=ctHL-G_c_G&pg=PA407#v=onepage&q&f=false).
-
-[^5]:	p. 132
-
-[^6]:	p.132
-
-[^7]:	p. 69
