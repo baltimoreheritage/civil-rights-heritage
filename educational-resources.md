@@ -5,7 +5,7 @@ title: Educational Resources
 
 We created this guide to connect teachers and families to relevant information about the history of the Civil Rights movement in Baltimore and around the country. If you have suggestions for more resources or ideas for how we can improve this guide, please [get in touch](http://baltimoreheritage.org/contact/).
 
-{% include figure.html src="http://baltimoreheritage.github.io/civil-rights-heritage/public/images/1955-06-26-darkroom-stacks.jpg" caption="First grade at Public School 60, say the pledge of allegiance to the flag, June 26, 1955." credit-text="Richard Stacks/Baltimore Sun" credit-url="http://darkroom.baltimoresun.com/2013/02/richard-stacks-award-winning-sun-photographer/#8" %}
+![First grade at Public School 60, say the pledge of allegiance to the flag, June 26, 1955. Photo by Richard Stacks/Baltimore Sun.]({{ site.url }}/public/images/1955-06-26-darkroom-stacks.jpg)
 
 ## Baltimore & Maryland Resources
 
@@ -13,7 +13,7 @@ We created this guide to connect teachers and families to relevant information a
 - [Blockbusting: Social and Economic Change through Real Estate](http://www.umbc.edu/che/tahlessons/lessondisplay.php?lesson=79) - UMBC Center for History Education
 - [Is Baltimore Burning?](http://msa.maryland.gov/msa/stagser/s1259/121/2395/html/0000.html) - Maryland State Archives Documents for the Classroom
 - [Paul Henderson Photographs](https://hendersonphotos.wordpress.com/) - Maryland Historical Society
-- [Baltimore Syllabus](https://docs.google.com/document/d/1B_oyOyu_tAwOVq5MY1oJL3orN6ps04O82JxWxnkGpho/preview?sle=true) started by [@iteach4change](https://twitter.com/iteach4change/)
+- [Baltimore Syllabus](https://docs.google.com/document/d/1B_oyOyu_tAwOVq5MY1oJL3orN6ps04O82JxWxnkGpho/preview?sle=true) started by [iteach4change](https://twitter.com/iteach4change/)
 - [Baltimore Syllabus](https://docs.google.com/document/d/1VyKR6ljHHv3vz2auwlPT1Du0DdnXyVE0FiuHZ484Sqs/edit) via [Ernest J. Gaines](http://ernestgainescenter.blogspot.com/2015/04/baltimoresyllabus.html)
 
 ## Teacher Resources
