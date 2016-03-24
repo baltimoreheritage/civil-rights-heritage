@@ -20,7 +20,6 @@ The earliest school for African Americans in Baltimore began in 1797 when the Ma
 
 Overall, less than one-third of all children in Baltimore attended school and one-third of students attended private or religious schools. The 12,000 children enrolled in Baltimore’s public schools in 1854 were largely middle-class white Protestants. Most black children who attended school went to Sabbath schools organized by black churches, or white Methodist, Presbyterian or Quaker schools. In 1859, African Americans established the Colored Sabbath School Union of Baltimore formed to improve black education and support poor children to attend private schools. In 1864, a group of thirty white businessmen, lawyers and ministers (mostly Quakers) formed the Baltimore Association for the Moral and Educational Improvement of Colored People with the goal of establishing a black public school system. Within a year, the group had established seven schools in Baltimore with 3,000 students enrolled. At their peak in 1867, the group had set up more than 100 schools in Baltimore and on the Eastern Shore.[@baum_brown_2011, 25-26]
 
-
 # 1870 – 1905
 
 # 1905 – 1929

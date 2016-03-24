@@ -20,9 +20,9 @@ This study is organized around the themes and periodization suggested by _Civil 
 
 Following approach suggested by the 2009 white paper _The Components of a Historic Contest_ by Barbara Wyatt, each section (or context) addresses:
 
-- how local Civil Rights issues developed and changed;
+- how the Civil Rights movement developed and changed;
 - why those changes took place;
-- what contributions individuals and groups made to that process;
+- what contributions individuals and groups made to those changes;
 - and what factors outside of Baltimore contributed to those changes.
 
 A series of thematic studies supplement these chronologically organized sections with detailed descriptions of key events and patterns. To identify the themes, this study again followed the model of the NHL _Civil Rights Framework_ which suggested a list of key themes represented by the Civil Rights Act of 1964, the Voting Rights Act of 1965, and the Fair Housing Act of 1968:
