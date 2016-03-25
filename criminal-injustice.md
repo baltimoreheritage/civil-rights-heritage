@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Criminal Injustice
+categories: bigfoot
 tags: draft
 ---
 
@@ -441,3 +442,6 @@ In _Street Justice: A History of Police Violence in New York City_ historian Mar
 On August 23, 1978, the _Baltimore Sun_ reported:
 
 > The Baltimore Community Relations Commission has scheduled a meeting with Mayor Schaefer and two days of public hearings to consider an apparent doubling of citizens complaints of police brutality and discourtesy.
+
+---
+## Sources

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Preston Gardens
+categories: bigfoot
 tags:
 - draft
 - housing
@@ -16,25 +17,25 @@ Unfortunately, this outmigration and a series of  “improvements” to St. Paul
 
 Historian Lawrence H. Mamiya in “A Social History of the Bethel African Methodist Episcopal Church in Baltimore: The House of God and the Struggle for Freedom,” (1994) writes:
 
-> On May 9, 1815, this separatist group of black Methodists assembled and selected the name "The African Methodist Bethel Society." With Daniel Coker as its leader, the group included the Gilliard family, Charles Hackett, Don Carlos Hall, and Stephen Hill. When it was established as a formal church, Bethel had about 633 members who were led by Daniel Coker as preacher, along with seven trustees. They purchased property on Fish Street (now Saratoga Street) from John Carman, a white abolitionist, for their church building.[^1]
+> On May 9, 1815, this separatist group of black Methodists assembled and selected the name "The African Methodist Bethel Society." With Daniel Coker as its leader, the group included the Gilliard family, Charles Hackett, Don Carlos Hall, and Stephen Hill. When it was established as a formal church, Bethel had about 633 members who were led by Daniel Coker as preacher, along with seven trustees. They purchased property on Fish Street (now Saratoga Street) from John Carman, a white abolitionist, for their church building. [@mamiya_social_1994]
 
 ## 1837: Baltimore Quakers split from Lombard Street meeting to form a Baltimore Yearly Meeting on Courtland Street
 
 **Note:** The details of this split and the location of the yearly meeting on Cortland Street are unclear—additional research or interpretation is required -
 
-> […]aware of the doctrines maintained by Elias Hicks and his followers and knowing the body in Lombard street to be identified with them refuse to hold any religious fellowship or correspondence with that body and formally recognize the Yearly Meeting held in Courtland street Baltimore as the Baltimore Yearly Meeting of the religious Society of Friends.[^2]
+> […]aware of the doctrines maintained by Elias Hicks and his followers and knowing the body in Lombard street to be identified with them refuse to hold any religious fellowship or correspondence with that body and formally recognize the Yearly Meeting held in Courtland street Baltimore as the Baltimore Yearly Meeting of the religious Society of Friends.[@balderston_review_1840, 6]
 
 ## 1855: Second Colored Baptist Church moves to Saratoga and Calvert Streets
 
 The 1885 _History of Baptist Churches in Maryland_  describes the history of the Saratoga Street African Baptist Church writing:
 
-> This Church originated October 29 1848 with four members under the pastorship of Noah Davis who was called from Fredericksburg Va by the Board of the Association in 1847 as a missionary among the colored people of Baltimore They were obliged to worship in a hall up a flight of stairs and Bro Davis labored under many difficulties By 1854 he reported only nineteen members At that time the body was called the Second Colored Baptist Church On Feb 18 1855 a large and commodious chapel on the corner of Saratoga and Calvert streets erected by Bro Win Crane was occupied by this Church and its name changed accordingly The congregations at once increased four fold and the Church began to prosper By 1857 they reported seventy one members In 1861 they enjoyed a revival 70 were baptized and they reported one hundred and sixty seven members But quite a number of these were afterwards excluded so that in 1866 the membership had fallen to one hundred and forty eight In May of that year the Church though assisted liberally by Mr Crane and others found themselves unable to raise the amount necessary to pay for their building or the interest on the debt or even a small rent Becoming entirely hopeless of success they concluded to abandon the house Bro Davis became too feeble to preach and the Church gradually disbanded uniting with the Union Church as already stated Bro Davis died April 6 1867 lamented by many who knew his great worth as a Christian and a minister.[^3]
+> This Church originated October 29 1848 with four members under the pastorship of Noah Davis who was called from Fredericksburg Va by the Board of the Association in 1847 as a missionary among the colored people of Baltimore They were obliged to worship in a hall up a flight of stairs and Bro Davis labored under many difficulties By 1854 he reported only nineteen members At that time the body was called the Second Colored Baptist Church On Feb 18 1855 a large and commodious chapel on the corner of Saratoga and Calvert streets erected by Bro Win Crane was occupied by this Church and its name changed accordingly The congregations at once increased four fold and the Church began to prosper By 1857 they reported seventy one members In 1861 they enjoyed a revival 70 were baptized and they reported one hundred and sixty seven members But quite a number of these were afterwards excluded so that in 1866 the membership had fallen to one hundred and forty eight In May of that year the Church though assisted liberally by Mr Crane and others found themselves unable to raise the amount necessary to pay for their building or the interest on the debt or even a small rent Becoming entirely hopeless of success they concluded to abandon the house Bro Davis became too feeble to preach and the Church gradually disbanded uniting with the Union Church as already stated Bro Davis died April 6 1867 lamented by many who knew his great worth as a Christian and a minister.[@adams_history_1885, 132-133]
 
 **Note:** The formatting/punctuation for the above passage needs to be corrected. -
 
 ## c. 1865: Baltimore Normal School founded
 
-One of the earliest black institutions located in this area was the Baltimore Normal School established by Quakers for training black public school teachers shortly after the end of the U.S. Civil War located on Courtland Street near Saratoga Street.[^4]
+One of the earliest black institutions located in this area was the Baltimore Normal School established by Quakers for training black public school teachers shortly after the end of the U.S. Civil War located on Courtland Street near Saratoga Street.[@_baltimores_1908]
 
 ## 1868: Union Baptist Church moves to Guilford Avenue and Saratoga Street
 
@@ -112,7 +113,7 @@ Dr. Young was an associate of Rev. Dr. Harvey Johnson and Rev. G.R. Waller.
 
 The Great Baltimore Fire of 1904 provided another significant  new impetus for street widening efforts on several major downtown streets. Just a few weeks after the fire, the judges at the Baltimore City Courthouse met and sent a joint recommendation requesting that St. Paul Street be widened to create a plaza directly in front of the courthouse building, as the _Sun_ reported on February 13, 1904:
 
-> The Judges of the Supreme Bench met yesterday with the commission on the emergency legislation appointed by the Governor for the purpose of discussing the situation. A letter was sent to the Mayor recommending that provision shall be made for widening St. Paul street opposite the Courthouse before any permits are granted to rebuild on that thoroughfare. The Mayor replied approving the suggestion.[^15]
+> The Judges of the Supreme Bench met yesterday with the commission on the emergency legislation appointed by the Governor for the purpose of discussing the situation. A letter was sent to the Mayor recommending that provision shall be made for widening St. Paul street opposite the Courthouse before any permits are granted to rebuild on that thoroughfare. The Mayor replied approving the suggestion.[@_ widen_1904]
 
 The connection between the intentional clearance of black homes and road construction on St. Paul Street is ambiguous in this early period. The judges justified the expanded demolition based on the noise nearby buildings projected into their courtrooms. [Note: I have a reference for this—but I don’t know where it is]
 
@@ -125,7 +126,7 @@ In the case of the proposed extension of Howard Street, however, a 1909 letter-t
 
 In 1909, Bethel AME Church was forced to move by post-1904 fire street widening plans, as historian Lawrence H. Mamiya writes:
 
-> The council passed an ordinance to widen Saratoga Street, but the church building was in the way. Faced with the condemnation of its building, the congregation voted to purchase the building of St. Peter Episcopal Church. The members put down $20,000 cash on a $90,000 building and took out a fifteen-year mortgage.[^17]
+> The council passed an ordinance to widen Saratoga Street, but the church building was in the way. Faced with the condemnation of its building, the congregation voted to purchase the building of St. Peter Episcopal Church. The members put down $20,000 cash on a $90,000 building and took out a fifteen-year mortgage.[@mamiya_social_1994]
 
 ## 1914: Widening of St. Paul Street debated, approved by City Council
 
@@ -141,11 +142,11 @@ The city hired Thomas Hastings to design the park. His design reflected aspects 
 
 On May 1915, the Afro-American remarked on Mayor James Preston’s election under the headline “WHO IS PRESTON?”:
 
-> During Mr. Preston's past term he failed to recognize the just and equitable expectations of the colored people of the city. The colored people are poor, and there is nothing which Mr. Preston can gain, of political value, in being fair towards them.[^18]
+> During Mr. Preston's past term he failed to recognize the just and equitable expectations of the colored people of the city. The colored people are poor, and there is nothing which Mr. Preston can gain, of political value, in being fair towards them.[@_who_1915]
 
 In 1915, the Afro-American highlighted “Praise for Mr. Preston,” writing:
 
-> The colored residents of this city are grateful to him for the fact that the scheme of municipal improvements included the colored residential sections, and were it not for the fact that he signed an ordinance to make the Negroes of Baltimore live in segregated districts, many men of the race would be among the most ardent of his supporters for another term.[^19]
+> The colored residents of this city are grateful to him for the fact that the scheme of municipal improvements included the colored residential sections, and were it not for the fact that he signed an ordinance to make the Negroes of Baltimore live in segregated districts, many men of the race would be among the most ardent of his supporters for another term.[@_praise_1915]
 
 Although some long-time residents of the area had left, many remained up until throughout the debate and up until they were forced out by the impending demolition. As late as 1915, the “Who's who of the Colored Race” directory lists:
 
@@ -161,16 +162,16 @@ On June 23, 1917, the _Afro-American_ reported on the “Passing of Former Arist
 > The 500 block of St. Paul street was a sort of aristocratic neighborhood for colored people over a quarter of a century ago. There lived the Jakes and other prominent families. Today its aristocratic past is but a memory.
 > The tearing down of St. Paul street property meant the elimination of the old Monumental Assembly Rooms, and the former home of James W. Hughes the caterer. At St. Paul and Pleasant streets, a lot marks the site of the old Pythian Castle. St. Elizabeth's Asylum still stands, but will be dismantled this summer. With a remodeled front, the Afro-American Building, at 307 St. Paul street, awaits the coming of the wrecker, while the former home of the True Reformers across the street, is a reminder of the heydey of prosperity of that order.
 > At the northwest corner of Saratoga and St. Paul streets stands the remodeled building, for many years the home of the old Baltimore Normal School. When one looks at the corner diagonally across the street from the old school property, one's mind instantly turns to John R. Keene, whose pies, cakes, buns and other good things found equal favor with students of the Colored High and Grammar School and the Polytechnic Institute.
-> A walk up Courtland street will show the Masonic Temple in the same old quarters of many years ago, Bethel A.M.E. Church, Union Baptist Church and the great majority of the Odd Fellows have secured homes up town, but the Masons and the Nazarites are still landmarks in the downtown section. It may be said for the Nazarites, however, that they have a modern building and are located at the juncture of several car lines.[^20]
+> A walk up Courtland street will show the Masonic Temple in the same old quarters of many years ago, Bethel A.M.E. Church, Union Baptist Church and the great majority of the Odd Fellows have secured homes up town, but the Masons and the Nazarites are still landmarks in the downtown section. It may be said for the Nazarites, however, that they have a modern building and are located at the juncture of several car lines.[@_events_1917]
 
 Funding for the additional development of St. Paul Street beyond the initial demolition came from a $3,000,000 bond issue that the Mayor planned to present to Baltimore voters in November 1917. The funding linked the St. Paul Street plan to the proposed “Civic Centre” that cleared the way for War Memorial Plaza in front of City Hall and several other small parks recommended by Baltimore Health Commissioner John D. Blake for "sections in which the department had grouped the largest number of cases of tuberculosis.” In their August 9, 1917 report the _Sun_ noted:
 
-> The plan is to use the proceeds of the loan in eliminating plague spots and improving health conditions in the city, as well as for building the civic centre and widening and parking St. Paul street from Centre street to the Courthouse. It has been under consideration at the City Hall for some time, and was the subject of exhaustive investigation by the Mayor's Committee on Housing Conditions, which has recommended an amendment to the Building Code that will meet the situation.[^21]
+> The plan is to use the proceeds of the loan in eliminating plague spots and improving health conditions in the city, as well as for building the civic centre and widening and parking St. Paul street from Centre street to the Courthouse. It has been under consideration at the City Hall for some time, and was the subject of exhaustive investigation by the Mayor's Committee on Housing Conditions, which has recommended an amendment to the Building Code that will meet the situation.[@_aimed_1917]
 
 In contrast to the concern for lost landmarks in the _Afro-American_, the _Baltimore Sun_ responded to the demolition with excitement and approval for the planned “improvements” and the only mention of the area’s history tied to an earlier generation of white residents, writing on February 20, 1918:
 
 > By early summer a tremendous change will have taken place in the downtown section of the city and the former Baltimoreans who returns to the old home town after a few years will hardly known the place. [...] the St. Paul street improvement will have been completed, and in the place of the buildings between St. Paul and Courtland streets and from Lexington to Franklin, once the homes of the old Baltimore aristocrats, there will be a glorified St. Paul street widened to a decent width and with all the kinks and death traps take out, and a sunken garden stretching from Lexington street to Centre street.
-> All the property required for this improvement along St. Paul street has been acquired by the city and paid far and most of the building have already been torn down. There still remains the block between Lexington and Saratoga streets, in the centre of which still stands the former home of that prince of Maryland political insurgents, Severn Teackle Wallis, but in a few weeks that too will be gone. The whole block is being torn down as the wreckers can do the job and remove the materials. As soon as the buildings are all down and the wreckage cleared away Highways Engineer Cooksey will get busy and the work of widening St. Paul street and making the sunken gardens will begin. This is regarded by Mayor Preston as the secondary civic centre.[^22]
+> All the property required for this improvement along St. Paul street has been acquired by the city and paid far and most of the building have already been torn down. There still remains the block between Lexington and Saratoga streets, in the centre of which still stands the former home of that prince of Maryland political insurgents, Severn Teackle Wallis, but in a few weeks that too will be gone. The whole block is being torn down as the wreckers can do the job and remove the materials. As soon as the buildings are all down and the wreckage cleared away Highways Engineer Cooksey will get busy and the work of widening St. Paul street and making the sunken gardens will begin. This is regarded by Mayor Preston as the secondary civic centre.[@_landmarks_1918]
 
 ## 1919 May 15: Preston Gardens dedicated
 
@@ -182,7 +183,7 @@ Catherine Larson Farnham described the original form of the park in 1919 for the
 
 Later, in 1926, the _Afro-American_ recalled:
 
-> When you pass through the beautiful Preston Gardens, now almost the heart of Baltimore's humming business section, you are passing through a section where some beautiful brown-skinned girls and chivalrous youth who glided across hardwood floors to the tune of the old-time waltz while proud matrons and father looked on.[^23]
+> When you pass through the beautiful Preston Gardens, now almost the heart of Baltimore's humming business section, you are passing through a section where some beautiful brown-skinned girls and chivalrous youth who glided across hardwood floors to the tune of the old-time waltz while proud matrons and father looked on.[@_northwest_1926]
 
 # 1935: WPA funding supports extension of Howard Street, Bath Street viaduct
 
@@ -190,12 +191,12 @@ In the 1930s, long-delayed plans for the extension of Howard Street to the north
 
 > Under the plans for the Howard street extension now awaiting approval of the City Council, an entirely new traffic artery soon will be pushed northward from the Richmond Market. Turning neither right nor left, it will follow an air line toward North avenue. Whole blocks will fall before it as it strikes diagonally from intersection to intersection through the off-kilter street plan of the area it will traverse. A plaza will open up to the south of the Fifth Regiment Armory. Churches, school, garages, homes of all kinds, a laundry, a transformer house and a little-used railroad station will disappear before the onward march. [...]
 > Once the City Council has given its approval, the project will be in the hands of the Commissioner for Opening Streets and the owners of the 150-odd pieces of property which must be purchased to complete the plan. At the outside, it is expected that some eight months will be required to complete these negotiations and acquire the titles, but the work will not have to await the signature of the last recalcitrant property owner.
-> Contracts will be advertised as rapidly as possible and, before many months, the sound of the steam shovels will be heard. Once contracts are awarded about one year will be needed to complete the project. […][^24]
+> Contracts will be advertised as rapidly as possible and, before many months, the sound of the steam shovels will be heard. Once contracts are awarded about one year will be needed to complete the project. […][@engeman_new_1935]
 
 The same _Sun_ account described the impact of the Bath Street Viaduct/Orleans Street Viaduct on Cortland Street and Preston Gardens:
 
 > Already familiar are the plans for the western terminus of the viaduct. It will cross over Courtland street and Preston Gardens, and enter the upper level between Franklin and Mulberry streets.
-> Courtland street will be widened throughout its entire length and a new feeder near the Courthouse (between St. Paul street and Courtland) will be constructed. Traffic arrangements, of course, will be left to the proper division of the Police Department, but the engineers propose to lead all west-bound traffic destined for the downtown area northward on St. Paul street to Hamilton, there turning it back toward to south via Courtland street.[^25]
+> Courtland street will be widened throughout its entire length and a new feeder near the Courthouse (between St. Paul street and Courtland) will be constructed. Traffic arrangements, of course, will be left to the proper division of the Police Department, but the engineers propose to lead all west-bound traffic destined for the downtown area northward on St. Paul street to Hamilton, there turning it back toward to south via Courtland street.[@engeman_new_1935]
 
 Catherine Larson Farnham described the changes to the park in this period for the [Preston Gardens inventory form](http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/039300/039323/pdf/msa_se5_39323.pdf):
 
@@ -211,7 +212,7 @@ As previously mentioned, the John Mifflin Hood statue was relocated to the main 
 
 There is an opportunity to explain how segregation emerged in late 19th and early 20th century Baltimore in a white supremacist culture that encouraged anxiety over interracial contact as a risk to health and safety. One example of “threatening” interracial contact is a well-publicized incident of a black teenager entering City Hall this incident involving man at City Hall in 1907:
 
-> Declaring, that he was the champion of the colored race and the owner of the City Hall, Isaiah Lampsoo, a negro youth, burst open the door of Mayor Mahool’s office shortly after 9 o'clock yesterday morning, stole the Mayor's mall and ran away. It was the second trip of the negro to Mayor Mahool’s office and the police soon…[^26]
+> Declaring, that he was the champion of the colored race and the owner of the City Hall, Isaiah Lampsoo, a negro youth, burst open the door of Mayor Mahool’s office shortly after 9 o'clock yesterday morning, stole the Mayor's mall and ran away. It was the second trip of the negro to Mayor Mahool’s office and the police soon…[@_runs_1907]
 
 **How did Baltimore City use condemnation laws to take properties?**
 
@@ -221,54 +222,27 @@ Another important theme that could be drawn out is how the city used condemnatio
 
 Col. Sherlock Swann (see this [Maryland Historical Society Collection](http://www.mdhs.org/findingaid/sherlock-swann-papers-1888-1924-ms-3064) for more background) is cited as an early author of the plans for widening St. Paul Street as a legacy of his role as the head of the Burnt District Commission. As the grandson of [Governor Thomas Swann](https://en.wikipedia.org/wiki/Thomas_Swann) and an active supporter of the Democratic Party in the early 1900s, it seems likely that Col. Swann supported white supremacy but it is unclear what role his beliefs played in shaping the St. Paul Street proposal and implementation.
 
-[^1]:	mamiya\_social\_1994
+[^5]:	[@adams_history_1885, p. 130]
 
-[^2]:	balderston\_review\_1840, p. 6
+[^6]:	[@mamiya_social_1994]
 
-[^3]:	adams\_history\_1885, p. 132-133
+[^7]:	[@_local_1892]
 
-[^4]:	\_baltimores\_1908
+[^8]:	[@_eutaw_1893]
 
-[^5]:	adams\_history\_1885, p. 130
+[^9]:	[@_northwest_1926]
 
-[^6]:	mamiya\_social\_1994
+[^10]:	[@_local_1898-1]
 
-[^7]:	\_local\_1892
+[^11]:	[@_saturday_1899]
 
-[^8]:	\_eutaw\_1893
+[^12]:	[@_taste_1903]
 
-[^9]:	\_northwest\_1926
+[^13]:	[@_they_1910]
 
-[^10]:	\_local\_1898-1
+[^14]:	[@_fifth_1913]
 
-[^11]:	\_saturday\_1899
+[^16]:	[@_favors_1909]; See also @_major_1907 for more on Clotworthy’s opposition to black participation in local and state politics.
 
-[^12]:	\_taste\_1903
-
-[^13]:	\_they\_1910
-
-[^14]:	\_fifth\_1913
-
-[^15]:	\_ widen\_1904
-
-[^16]:	_favors\_1909; See also _major\_1907 for more on Clotworthy’s opposition to black participation in local and state politics.
-
-[^17]:	mamiya\_social\_1994
-
-[^18]:	\_who\_1915
-
-[^19]:	\_praise\_1915
-
-[^20]:	\_events\_1917
-
-[^21]:	\_aimed\_1917
-
-[^22]:	\_landmarks\_1918
-
-[^23]:	\_northwest\_1926
-
-[^24]:	engeman\_new\_1935
-
-[^25]:	engeman\_new\_1935
-
-[^26]:	\_runs\_1907
+---
+## Sources
