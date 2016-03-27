@@ -9,7 +9,7 @@ tags: draft
 
 “Unlike their counterparts in most Southern cities and a few Northern ones, Baltimore’s blacks voted uninterruptedly from 1867 onward.
 
-See [https://books.google.com/books?id=6Hw6AQAAMAAJ&dq=table%20baltimore%20population&pg=PA204#v=onepage&q=table%20baltimore%20population&f=false](https://books.google.com/books?id=6Hw6AQAAMAAJ&dq=table%20baltimore%20population&pg=PA204#v=onepage&q=table%20baltimore%20population&f=false)
+See [this document](https://books.google.com/books?id=6Hw6AQAAMAAJ&dq=table%20baltimore%20population&pg=PA204#v=onepage&q=table%20baltimore%20population&f=false)
 
 - 1831 – 1870
 - 1870 – 1905
@@ -220,18 +220,18 @@ The Supreme Court determined that Congress had authority to prohibit literacy te
 
 > In 1971, an African American, George Russell, the incumbent city solicitor and a former state trial judge, challenged William Donald Schaefer, the powerful former president of the City Council, for the Democratic nomination. Russell built a multicultural coalition and had solid support amongst older, middle-class black Baltimoreans. However, Clarence Mitchell III, an incumbent state senator and scion of the Jackson-Mitchell clan, soon entered the race, and garnered the support of younger African Americans. His entrance effectively split the black vote, allowing Schafer to become mayor, beginning a long reign that did not end until he retired in 1986.633 Disappointed but not defeated, African Americans’ attempts to acquire other important city administration positions began that same year and were successful with the appointment of Roland Patterson as school superintendent in 1971. Three black Baltimoreans were later appointed to the school board in 1975, along with a new African American superintendent, John L. Crew. These victories gave African Americans a majority on the school board for the first time in history.
 
-[^1]:	_colored_1890
+[^1]:	[@_colored_1890]
 
-[^2]:	_lilywhites_1893
+[^2]:	[@_lilywhites_1893]
 
-[^3]:	nightingale_transnational_2006, p. 671
+[^3]:	[@nightingale_transnational_2006, 671]
 
-[^4]:	nightingale_transnational_2006, p. 671
+[^4]:	[@nightingale_transnational_2006, 671]
 
-[^5]:	_harry_1907
+[^5]:	[@_harry_1907]
 
-[^6]:	_another_1910
+[^6]:	[@_another_1910]
 
-[^7]:	_negroes_1913
+[^7]:	[@_negroes_1913]
 
-[^8]:	_colored_1915
+[^8]:	[@_colored_1915]
