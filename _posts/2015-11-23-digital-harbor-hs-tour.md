@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How we organized a South Baltimore Civil Rights walking tour for Digital Harbor High School 
+title: How we organized a South Baltimore Civil Rights walking tour for Digital Harbor High School
 ---
 
 Last Friday, I put together a walking tour program for a group of students from Digital Harbor High School who are learning about the history of African Americans and the Civil Rights movement in South Baltimore as part of our ongoing educational outreach around this project. As a resource for anyone who might be interested in retracing our steps, we are publishing a copy of our notes here with plans to expand this post into a resource on how we're approaching our school outreach this fall.
@@ -44,7 +44,7 @@ Source: [ Federal Hill: Past, Present and Future by Dr. Mary Ellen Hayward](htt
 
 Christopher Phillips described the condition and location of free black housing in early 19th century Baltimore, writing:
 
-> In the decades following 1810 a perceptible shift of residential patterns for thousands of free blacks occurred in Baltimore. As the commercial core of the city became an area made up almost exclusively of affluent white families, black and white laborers were pushed toward the periphery of the city. Although as late as 1810 nearly half of the city's free Negroes lived in the central wards, by 1830 less than 10 percent resided in that part of the city. The largest number moved to the western precincts, where developers had responded to the population boom by laying out new streets and erecting cheap tenement housing. The rest of the city's displaced free blacks relocated east of the commercial core, either across from Jones' Falls in Old Town, an area of the city where most were craftspeople and laborers, or into the narrow streets and alleys in and around Fells Point, where older, cheaper housing was merging with new row-house construction.[^1]
+> In the decades following 1810 a perceptible shift of residential patterns for thousands of free blacks occurred in Baltimore. As the commercial core of the city became an area made up almost exclusively of affluent white families, black and white laborers were pushed toward the periphery of the city. Although as late as 1810 nearly half of the city's free Negroes lived in the central wards, by 1830 less than 10 percent resided in that part of the city. The largest number moved to the western precincts, where developers had responded to the population boom by laying out new streets and erecting cheap tenement housing. The rest of the city's displaced free blacks relocated east of the commercial core, either across from Jones' Falls in Old Town, an area of the city where most were craftspeople and laborers, or into the narrow streets and alleys in and around Fells Point, where older, cheaper housing was merging with new row-house construction. [@phillips_freedoms_1997, 104-105]
 
 Phillips continued to note the concentration of black Baltimoreans along alleys:
 
@@ -52,7 +52,7 @@ Phillips continued to note the concentration of black Baltimoreans along alleys:
 
 Despite this concentration, the city was not wholly segregated, as Phillips noted:
 
-> While alleys early on became predominantly black areas of residence in Baltimore, the city as a whole did not so quickly exhibit such segregation. [...] As in other southern cities, no legal segregation existed in antebellum Baltimore, and all residential streets (and even the alleys) had black family dwellings interspersed with those of laboring and poor whites. 
+> While alleys early on became predominantly black areas of residence in Baltimore, the city as a whole did not so quickly exhibit such segregation. [...] As in other southern cities, no legal segregation existed in antebellum Baltimore, and all residential streets (and even the alleys) had black family dwellings interspersed with those of laboring and poor whites.
 
 ## Montgomery Street Houses
 
@@ -101,5 +101,3 @@ The church was designed and built by Joseph B. Thomas and Son, who owned and ope
 On May 27, 1887, a meeting was held to draw up the church’s charter to establish, by government standards, Leadenhall as a Christian place of worship with a governing body to administer the duties. The meeting included the pastor, the trustees, and selected church members. The charter was officially completed and sealed by the City of Baltimore on November 26, 1883. In attendance at the signing of the charter were the pastor, Reverend Ananias Brown, and five trustees. They were Levin I. Hughes, Richard H. Freeman, Richard Harris, Lawrence Carrington, and Oscar Bowen. One of the six original members, Richard H. Freeman has descendants who still attend the church. This makes the Freeman family one of the oldest families in attendance at Leadenhall.
 
 Source: [History - Leadenhall Baptist Church](http://leadenhallbc.org/history.html)
-
-[^1]:	phillips_freedoms_1997, p. 104-105
