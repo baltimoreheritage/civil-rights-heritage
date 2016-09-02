@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 1232 Druid Hill Avenue – George W. King/Abraham Briscoe House
-categories: 'bigfoot'
+categories: bigfoot
 tags:
 - housing
 ---
@@ -81,14 +81,14 @@ On April 27, 1882, a classified in the _Sun_ advertised the property for sale:
 
 > FOR SALE—No. 272 DRUID HILL AVENUE, near Lanvale Street 20 feet front, first-class in every particular. Will sell cheap. Apply on premises.
 
-George King had previously lived at 378 N. Eden St. (1872-1878), 197 N. Exeter (1868), and 37 N. Exeter (c. 1858 - mid-1860s). His move to Druid Hill Avenue exemplified King’s continued professional success further evidenced by his role as one of 25 printers who organized the Association of Employing Printers in 1877, and, a few years later, the Typographical Union. 
+George King had previously lived at 378 N. Eden St. (1872-1878), 197 N. Exeter (1868), and 37 N. Exeter (c. 1858 - mid-1860s). His move to Druid Hill Avenue exemplified King’s continued professional success further evidenced by his role as one of 25 printers who organized the Association of Employing Printers in 1877, and, a few years later, the Typographical Union.
 
 ## 1883: George W. King moves to 1232 Druid Hill Avenue
 
 In 1883, the [Woods’ City Directory](https://archive.org/stream/woodsbaltimoreci1883balt/woodsbaltimoreci1883balt_djvu.txt) lists George King, a prominent local printer, as a resident for the first time including two others:
 
-- William B. Gibson, telegraphist 
-- Alberts King, clerk 
+- William B. Gibson, telegraphist
+- Alberts King, clerk
 - George W. King, King Brothers
 
 During his residence at the house, King evidently engaged in speculative development and renting houses within the neighborhood. On July 31, 1883, a classified appeared in the _Sun_  advertising a house nearby:
@@ -162,7 +162,7 @@ By 1909, according to a city directory of that year, Abraham and Harriet Briscoe
 
 ## 1909: Mrs. Mollie Giles moves to 1232 Druid Hill Avenue
 
-Abraham Briscoe and his family moved away around 1908. By October 4, 1908, 1232 Druid Hill Avenue was up for sale, advertised under “Real Estate for Sale” in the _Baltimore Sun_: 
+Abraham Briscoe and his family moved away around 1908. By October 4, 1908, 1232 Druid Hill Avenue was up for sale, advertised under “Real Estate for Sale” in the _Baltimore Sun_:
 
 > ONLY $1,000.00 FOR 816 N. BOND ST., $2,500 for 1232 DRUID HILL AVE., $1,350 for 559 LAURENS ST.; Houses, small and large, in every section of the city for sale on very easy terms. C. MORTON, 209 St. Paul street.
 
@@ -220,7 +220,7 @@ In 1920, the US census recorded thirteen people living in three apartments. In t
 In the second apartment:
 
 - John C. Barnes, Head (b. 1886, Virginia) / Married / Harness Maker, Factory
-- Estella Barnes, Wife (b. 1887, Maryland) /  Married / 
+- Estella Barnes, Wife (b. 1887, Maryland) /  Married /
 - Calvin Barnes (b. 1913, Maryland)
 - Clamenza Barnes (b. 1920, Maryland)
 
@@ -346,13 +346,13 @@ During the first half of the nineteenth century, African Americans households co
 
 > While alleys early on became predominantly black areas of residence in Baltimore, the city as a whole did not so quickly exhibit such segregation. [...] As in other southern cities, no legal segregation existed in antebellum Baltimore, and all residential streets (and even the alleys) had black family dwellings interspersed with those of laboring and poor whites.[^7]
 
-Even as late as 1880, the city’s black population could be found distributed evenly over three-quarters of Baltimore’s 20 wards and 8 districts. By 1890, however, African Americans began to concentrate in 11th Ward (the neighborhood of Biddle Alley) where a little over 11,000 of the 21,2699 residents were African American (making the ward 51.74% black). 
+Even as late as 1880, the city’s black population could be found distributed evenly over three-quarters of Baltimore’s 20 wards and 8 districts. By 1890, however, African Americans began to concentrate in 11th Ward (the neighborhood of Biddle Alley) where a little over 11,000 of the 21,2699 residents were African American (making the ward 51.74% black).
 By 1904, the city’s Northwestern District (including the 11th Ward) held more than 40% of Baltimore’s 81,381 African Americans.[^8]
 
 A combination of factors contributed to this pattern of emerging segregation. New homes built during a period of explosive growth sparked by the city’s annexation of a belt of land in Baltimore County in 1888 pulled German ethnic residents away from Druid Hill Avenue and other central neighborhoods to the edge’s of the city. Poor health conditions for African Americans in south and southwest Baltimore pushed African Americans (especially members of the city’s emerging middle class) out of the alleys and onto the more desirable main streets.
 
 ### 1890s-1910s: African Americans move into Northwest Baltimore
- 
+
 One perspective on the movement of African Americans onto Druid Hill Avenue is found in a 1926 account published in the _Afro-American_ reflecting on the changes twenty-five years before:
 
 > The Baltimores' "Who's Who" has been constantly moving northwest in the city during the last 25 years, is revealed by a glance at old files which show the addresses of many families in the bygone days.
@@ -399,7 +399,7 @@ On October 27, 1909, the _Baltimore Sun_ headlined an article on the racial tran
 
 The account claimed to observe falling prices for residential real estate, noting:
 
-> A lady had for sale a house in the 1110 block on Argyle avenue. It was valued and offered for sale at $2,400. Before she secured a purchaser negroes moved into the house next door. She was compelled and did sell her house for $1,100. I mention this to show that the fact of negroes going into this part of the ward does depreciate property values, and consequently means a loss to the city in the way of decreased revenues from taxes. 
+> A lady had for sale a house in the 1110 block on Argyle avenue. It was valued and offered for sale at $2,400. Before she secured a purchaser negroes moved into the house next door. She was compelled and did sell her house for $1,100. I mention this to show that the fact of negroes going into this part of the ward does depreciate property values, and consequently means a loss to the city in the way of decreased revenues from taxes.
 
 Educational institutions (both white and black) served as particular point of concern:
 
@@ -411,7 +411,10 @@ Ultimately, such residents won a victory of sorts on December 20, 1910, when Bal
 
 1232 Druid Hill Avenue is a three-story tall, three-bay wide Italianate brick rowhouse. Historically, the building stood second from the northern end of the row—near identical to the rowhouse built at 1234 Druid Hill Avenue excepting the location of the front door in the northern-most bay rather than the southern most. Aligned to the orientation of Druid Hill Avenue, the front of the building faces northeast. The building is approximately 20 feet wide by 80 feet deep and follows a rectangular plan. Prior to the demolition of 1234 Druid Hill Avenue, the building was fully attached and separated from 1230 Druid Hill Avenue by a partial areaway to allow light and air into the rear extension of the building. The building steps down in height from the front to the back, creating a flat sloping roof. The front of the building has been painted with a flat red paint. The cornice is painted white.
 
-The windows openings had until recently been covered with wooden boards. They appear to be contemporary replacement 1/1 windows. Historically, the building likely had 4/4 wood windows on the upper stories and 4/6 wood windows on the first floor. The window sills are composed of a light-colored stone (marble). The raised basement is also faced in stone. Five marble steps lead to the wooden exterior double doors. Above the double-doors is a clear glass transom window. The front entrance has a carved stone surround capped by a carved ornamental keystone. 
+The windows openings had until recently been covered with wooden boards. They appear to be contemporary replacement 1/1 windows. Historically, the building likely had 4/4 wood windows on the upper stories and 4/6 wood windows on the first floor. The window sills are composed of a light-colored stone (marble). The raised basement is also faced in stone. Five marble steps lead to the wooden exterior double doors. Above the double-doors is a clear glass transom window. The front entrance has a carved stone surround capped by a carved ornamental keystone.
+
+---
+## Sources
 
 [^1]:	Hayward, Mary Ellen, and Charles Belfoure. The Baltimore Rowhouse. Princeton Architectural Press, 2001. p.77.
 

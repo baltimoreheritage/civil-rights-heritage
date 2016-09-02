@@ -4,11 +4,13 @@
 permalink:           pretty
 # relative_permalinks: true
 
+markdown: Pandoc
+
 # Setup
 title:               Baltimore’s Civil Rights Heritage
 tagline:             'Looking for Landmarks from the Movement'
 description:         'This site is a repository for writing, data and resources related to the African-American Civil Rights movement in Baltimore. This is a project of <a href="http://baltimoreheritage.org/">Baltimore Heritage</a> and our partners.'
-url:                 http://baltimoreheritage.github.io/civil-rights-heritage
+url:                 https://baltimoreheritage.github.io/civil-rights-heritage
 baseurl:             '/civil-rights-heritage'
 paginate:            5
 
@@ -25,7 +27,7 @@ google_analytics: UA-16215864-7
 # Required Gems
 
 gems:
-  - jekyll-redirect-from # Redirection https://help.github.com/articles/redirects-on-github-pages/
+  - jekyll-pandoc
   - jekyll-paginate
 
 exclude:
@@ -35,3 +37,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .travis.yml
+
+pandoc:
+  extensions:
+    - normalize
+    - smart
+    - csl: _styles/chicago-note-bibliography.csl
+    - bibliography: bibliography/references.bib
