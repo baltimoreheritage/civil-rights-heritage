@@ -47,19 +47,19 @@ In describing the growing African-American population following the Civil War, h
 
 Fuke highlights the annual City Directories published by W.H. Woods as an important source:
 
-> Between 1864 and 1871, the number of black householders listed in the _Woods’ City Directory_ tripled from 4,00 to 12,000. […] Some of Woods’s figures seem high compared to those of the United States Census, but his estimates compared favorably to other sources. The 1871 directory calculated Baltimore’s population to be approximately 300,000, a number higher than the census’s 267,354, but equal to many other assessments at the time. [@fuke_imperfect_1999]
+> Between 1864 and 1871, the number of black householders listed in the _Woods’ City Directory_ tripled from 4,000 to 12,000. […] Some of Woods’s figures seem high compared to those of the United States Census, but his estimates compared favorably to other sources. The 1871 directory calculated Baltimore’s population to be approximately 300,000, a number higher than the census’s 267,354, but equal to many other assessments at the time. [@fuke_imperfect_1999, 112]
 
 Housing in post-Civil War Baltimore had difficulty keeping pace with the rapid growth in the city’s population, as Fuke noted:
 
-> Within a month of emancipation, the Friends Association reported "many calls from women with children… who have neither food not shelter." "We find more suffering than we are able to alleviate," it added in January 1865, "They [are in] want of the most necessary food and clothing, and have crowded into alleys and callers." [@fuke_imperfect_1999]
+> Within a month of emancipation, the Friends Association reported "many calls from women with children… who have neither food not shelter." "We find more suffering than we are able to alleviate," it added in January 1865, "They [are in] want of the most necessary food and clothing, and have crowded into alleys and callers." [@fuke_imperfect_1999, 115]
 
 Historian Jeffrey Richardson Brackett writing in his 1890 study, _Notes on the Progress of the Colored People of Maryland Since the War_ observed:
 
-> It has been said that in no city are there so many colored house-holders as in Baltimore. Many of the wealthy colored men have invested largely in houses in a few cases, a whole row is owned by one man. The extent of the town, the number of alleys, and the great number of small houses, of two stories only, facilitate this for one must not suppose that the seventy-five houses said to be owned by one colored citizen of Annapolis, for instance, are all expensive buildings or on valuable ground. [@brackett_notes_1890]
+> It has been said that in no city are there so many colored house-holders as in Baltimore. Many of the wealthy colored men have invested largely in houses in a few cases, a whole row is owned by one man. The extent of the town, the number of alleys, and the great number of small houses, of two stories only, facilitate this for one must not suppose that the seventy-five houses said to be owned by one colored citizen of Annapolis, for instance, are all expensive buildings or on valuable ground. [@brackett_notes_1890, 39]
 
 Brackett highlighted the importance of black-organized housing associations continuing:
 
-> Another series of associations, organized in East Baltimore in 1868, had about a hundred members and probably facilitated the purchase of forty or fifty houses. In both cases the members have been mostly poor men. These associations are well spoken of, and have no doubt done good ; but little has been done in this way by the colored people in proportion to the work among the German residents of Baltimore […] It is said that it was not easy for colored men, until recently, to secure houses in reasonably good localities. A recent mayor of Baltimore has stated and the statement appeared in print that in his experience the colored people have proved themselves good tenants. [@brackett_notes_1890]
+> Another series of associations, organized in East Baltimore in 1868, had about a hundred members and probably facilitated the purchase of forty or fifty houses. In both cases the members have been mostly poor men. These associations are well spoken of, and have no doubt done good ; but little has been done in this way by the colored people in proportion to the work among the German residents of Baltimore […] It is said that it was not easy for colored men, until recently, to secure houses in reasonably good localities. A recent mayor of Baltimore has stated and the statement appeared in print that in his experience the colored people have proved themselves good tenants. [@brackett_notes_1890, 39]
 
 ## 1893: Racial covenants
 
