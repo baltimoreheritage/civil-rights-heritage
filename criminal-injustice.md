@@ -132,12 +132,6 @@ The protests against the murder had a lasting legacy two generations later, as J
 
 > Despite the racial tension in the city, Thurgood's father had very good white friends, including a local policeman, Captain Cook, who occasionally came by to spend some time with Willie Marshall. According to Thurgood, his dad had no hostile feelings toward whites in Baltimore. When Captain Cook knocked at the door, Thurgood knew to go get his father because the policeman would never come in without Willie Marshall's personal invitation. His father had set down a rule—if any policeman entered his house without permission, he would kill him. This rule applying even to friends, reflected a widespread concern among black Baltimoreans about the power of an all-white police force. Willie's hard-nosed stance came from an 1875 incident. Norma's father had been the leader of a citywide protest against a policeman who shot and killed a black man after forcing his way into the man's house. [@williams_thurgood_2011, 36]
 
-The intensity of the police response to cake-walks (and their close association with morality policing in the period) was also noted by late 19th century scholar Jeffrey Richardson Brackett in _Notes on the Progress of the Colored People of Maryland Since the War_ (1890), writing:
-
-> One thing peculiar to the colored people was the popularity, a few years ago, of small social clubs. There were probably 150 of these in Baltimore, with an average membership of twenty or thereabouts. [...] A few have had club-rooms, and several have had some system of friendly or beneficial work, but they met, as a rule in private houses, and were for pleasure only. [...] They frequently gave parties and promenades as benefits for their own members. [...] The cake-walks and drum-corp marches--and there were nine colored drum-corps, a few years ago—used often to end with necessary interference of the police, and the patrol-wagon has sometimes been summoned to the assembly halls. One who has for years played a violin at dances of the colored people, recalls, with a laugh, how he often had to retreat for safety beneath the stage, and bears witness to the improvement, now. [@brackett_notes_1890, 59]
-
-**Note:** This passage is a duplicate of the passage quoted above. One of these should be removed!
-
 ## July 19, 1884: Police officer F.L. Kruse shoots and kills John Wesley Green
 
 On July 24, 1884, the _Baltimore Sun_ reported:
@@ -180,6 +174,14 @@ The profile of Garland also highlights the complex relationship between criminal
 
 > The sixth and last picture is the one with which "King Bill" used to catch the galleries. It is called "Assault," and shows a negro with his hand on a white girl's throat. Mr. Garland always used to show this "Assault" picture last, and never failed to draw a storm of roars. For each picture he had comments in his best and raciest style, and always held his audience enthralled. The "Panorama," as the whole series was called, had its initial shoring in Baltimore in Mr. Garland's own bailiwick. So successful was it that it, with its inventor, was sent for a long tour of the eastern and southern counties.
 
+## February 1918: Black soldier brutally beaten by Baltimore police officer
+
+On February 16, 1918, the _Baltimore Sun_ praised Judge Stanton for his role in protesting a recent incident of police brutality:
+
+> "Judge Stanton has rendered a service in calling the attention of the Police Commissioners to the alleged brutality of a policeman in dealing with a soldier who resisted arrest… In this case, we are sorry to say, the soldier behaved like a rowdy. But, for all that, the policeman who undertook to arrest him was not justified in treating him brutally. He could have managed him, we imagine, without resorting to methods which excited indignation in the minds of spectators. The patrolman was in civilian clothes at the time and the soldier naturally did not recognize his authority. Discretion is a virtue that is as important as valor or as muscle on the part of a police officer. We think the Commissioners should look into this incident carefully."
+
+African-Americans faced a terrible series of anti-black riots in cities around the country. In 1917, riots in East St. Louis, Illinois Riot killed at least 39 black people and 8 white, injured hundreds, and caused millions of damages. In 1917, followed in 1919 by riots in Washington, DC and Chicago, Illinois, and, in 1921, in Tulsa, Oklahoma, and, in 1923, Elaine, Arkansas.
+
 ## June 1, 1918: Baltimore police shoot and kill a "colored man on Pennsylvania avenue"
 
 On June 7, 1918, the _Afro American_ reported on a shooting involving multiple Baltimore City police officers that resulted in the death of one man:
@@ -187,14 +189,6 @@ On June 7, 1918, the _Afro American_ reported on a shooting involving multiple B
 > The fatal shooting of a colored man on Pennsylvania avenue by the police last Saturday night and the severe wounding of another, has aroused a great deal of comment this week. It appears that some colored men were disorderly and the police grabbed one. While dragging him to the call box some one hit the policeman with a chair. Despite the crowded condition of Pennsylvania avenue at that time, it is said the police began shooting, with the result that one man lay dead and another seriously wounded. The man killed it is averred by some was not the man who hit the policeman. A ban has been placed on pedestrians, and any who stop to talk this Saturday may be arrested. Some of the police, it is alleged are gloating over the killing of the man. They look forward to making a harvest in arrests this [Saturday] night, it is being claimed.
 
 > Pennsylvania avenue has been what some call an "indicted street" since the recent large influx from the South and many have been arrested on Saturday nights and charged with loitering. A decade ago the police indiscriminately arrested colored men and women who happened to stop even for conversation. They were invariable fined notwithstanding character witnesses appeared the next morning in a number of instances and attested to the good habits on those taken in.
-
-## February 1919: Black soldier brutally beaten by Baltimore police officer
-
-On February 16, 1918, the _Baltimore Sun_ praised Judge Stanton for his role in protesting a recent incident of police brutality:
-
-> "Judge Stanton has rendered a service in calling the attention of the Police Commissioners to the alleged brutality of a policeman in dealing with a soldier who resisted arrest… In this case, we are sorry to say, the soldier behaved like a rowdy. But, for all that, the policeman who undertook to arrest him was not justified in treating him brutally. He could have managed him, we imagine, without resorting to methods which excited indignation in the minds of spectators. The patrolman was in civilian clothes at the time and the soldier naturally did not recognize his authority. Discretion is a virtue that is as important as valor or as muscle on the part of a police officer. We think the Commissioners should look into this incident carefully."
-
-African-Americans faced a terrible series of anti-black riots in cities around the country. In 1917, riots in East St. Louis, Illinois Riot killed at least 39 black people and 8 white, injured hundreds, and caused millions of damages. In 1917, followed in 1919 by riots in Washington, DC and Chicago, Illinois, and, in 1921, in Tulsa, Oklahoma, and, in 1923, Elaine, Arkansas.
 
 ## 1920: Board of Police Commissioners established, Charles D. Gaither appointed first Police Commissioner
 
@@ -212,11 +206,11 @@ Neither the original Colored High School building or the Northwest Police Statio
 
 ## 1925: Conference of AME Ministers organizes to secure appointment of black police officers
 
-In 1925, the Conference of AME Ministers sets up a committee to consider the best way to place black officers on the police force.
+In 1925, the Conference of AME Ministers sets up a committee to consider the best way to place black officers on the police force.[@farrar_baltimore_1998, 112]
 
 ## 1926: Afro reports on discrimination and capital punishment
 
-In a 1926 report on capital punishment in Maryland the _Afro-American_ newspaper pointed out that from 1903 to 1926 nine of ten men executed in Maryland for murder or rape were black and called for an end to the death penalty.
+In a 1926 report on capital punishment in Maryland the _Afro-American_ newspaper pointed out that from 1903 to 1926 nine of ten men executed in Maryland for murder or rape were black and called for an end to the death penalty.[@farrar_baltimore_1998, 115-117]
 
 ## May 31, 1926: Police officer James O. Jones beats Henry Boyer
 
@@ -275,7 +269,7 @@ According to the [Maryland State Archives](http://msa.maryland.gov/msa/mdmanual/
 
 ## December 12, 1931: Lynching of Matthew Williams covered in the Afro-American
 
-Afro publishes “Maryland’s Shame Edition,” covering the lynching of Matthew Williams in Salisbury, Maryland.
+Afro publishes “Maryland’s Shame Edition,” covering the lynching of Matthew Williams in Salisbury, Maryland.[@farrar_baltimore_1998]
 
 ## 1932: Grand Jury recommends hiring black police
 
@@ -285,7 +279,7 @@ On May 21, 1932, the _Baltimore Sun_ reported under the headline, WOULD COLORED 
 
 ## 1933: George Armwood lynched
 
-City editor William N. Jones assigned reporters Ralph Matthews Sr., Clarence Mitchell, Levi Jolley, and photographer Paul Henderson to cover the Armwood lynching. They all carried guns to protect themselves from potential lynchers. Their mission was to report the lynching against all odds. The intrepid Afro team drove from Baltimore to Princess Anne (an almost 400 mile round trip in the era before the construction of the Chesapeake Bay Bridge). One there the reporters interviewed Armwood’s mother, helped bury Armwood’s body, interviewed local black leaders, and attended the coroner’s inquest.
+City editor William N. Jones assigned reporters Ralph Matthews Sr., Clarence Mitchell, Levi Jolley, and photographer Paul Henderson to cover the Armwood lynching. They all carried guns to protect themselves from potential lynchers. Their mission was to report the lynching against all odds. The intrepid Afro team drove from Baltimore to Princess Anne (an almost 400 mile round trip in the era before the construction of the Chesapeake Bay Bridge). One there the reporters interviewed Armwood’s mother, helped bury Armwood’s body, interviewed local black leaders, and attended the coroner’s inquest.[@farrar_baltimore_1998]
 
 ## October 28, 1933: Euel Lee executed
 
@@ -295,7 +289,7 @@ On Feb 22, 1936, the _Baltimore Sun_ reported on how the Young People's Forum �
 
 > ”In a spirited meeting to which it had invited George Brennan, white, secretary to Comissioner Charles Gaither [… incomplete transcription]”
 
-In a speech before the City-Wide Young People’s Forum, Governor Nice promised to appoint a police commissioner who would not discriminate against black people in hiring police officers.
+In a speech before the City-Wide Young People’s Forum, Governor Nice promised to appoint a police commissioner who would not discriminate against black people in hiring police officers.[@farrar_baltimore_1998]
 
 In _Street Justice: A History of Police Violence in New York City_ historian Marilynn S. Johnson noted:
 
@@ -307,7 +301,7 @@ Baltimore Police Department hires Violet Hill Whyte as the first black police of
 
 ## July 1938: Police Commissioner William Lawson appoints the first black male police officers
 
-Police Commissioner William Lawson appointed Walter T. Eubanks, Jr., Harry S. Scott, Milton Gardner, and J. Hiram Butler, Jr., from a list of police candidates. The three officers were forced only to wear plain-clothes (a policy similar to Louisville, KY which appointed plain-clothes black police officers in 1928). Anticipating this change, the League of Colored Republican Voters had sponsored a school to prepare blacks Baltimoreans for the police examination.
+Police Commissioner William Lawson appointed Walter T. Eubanks, Jr., Harry S. Scott, Milton Gardner, and J. Hiram Butler, Jr., from a list of police candidates. The three officers were forced only to wear plain-clothes (a policy similar to Louisville, KY which appointed plain-clothes black police officers in 1928). Anticipating this change, the League of Colored Republican Voters had sponsored a school to prepare blacks Baltimoreans for the police examination.[@farrar_baltimore_1998]
 
 ## February 21, 1942: Police officer Edward R. Bender kills Thomas Broadus
 
@@ -328,7 +322,7 @@ On September 25, 1942, the _Afro_ reported that the commission released a report
 
 ## 1943: Black police officers placed in uniform assignments
 
-In the summer of 1944, Baltimore's first police (segregated white) boys' club moved into the upper floors of the Southwestern District Police Station serving around 120 boys from eight to eighteen years old every day during the first few weeks after they opened. Police Commissioner Hamilton Atkinson placed the three of original four black officers into uniformed appointments, appointed two to begin patrolling in East Baltimore.
+In the summer of 1944, Baltimore's first police (segregated white) boys' club moved into the upper floors of the Southwestern District Police Station serving around 120 boys from eight to eighteen years old every day during the first few weeks after they opened. Police Commissioner Hamilton Atkinson placed the three of original four black officers into uniformed appointments, appointed two to begin patrolling in East Baltimore.^[See Explore Baltimore Heritage story on the [Old Southwestern District Police Station](http://explore.baltimoreheritage.org/items/show/503).]
 
 The city started four boys' clubs in the 1940s, with a segregated facility for black children at the Northwestern District Police Station on Gold Street.
 
@@ -350,7 +344,7 @@ On June 9, 1946, a meeting at the Leadenhall Baptist Church in South Baltimore r
 
 On August 22, 1946, George Cochran Doub campaigned as a Republican for the office of attorney general and highlighted the “too many complaints of brutality by policemen in Baltimore” as a violation of Citizens' Rights. Doub eventually served as the United States Attorney for Maryland from 1953 to 1956. He then became the Assistant Attorney General responsible for the Justice Department's civil division during President Eisenhower's second term.
 
-By 1950, the department had hired fifty black police officers hired and, upon Atkinson’s retirement in May 1950, the _Afro_ praised his tenure as “one devoted to serving all regardless of race”
+By 1950, the department had hired fifty black police officers hired and, upon Atkinson’s retirement in May 1950, the _Afro_ praised his tenure as “one devoted to serving all regardless of race”[@farrar_baltimore_1998]
 
 On May 16, 1950, a delegation of black Baltimoreans approached city police Commissioner Ober charging police brutality and identifying 16 cases for investigation, as the _Sun_ reported:
 
@@ -370,6 +364,7 @@ On June 23, 1964, the _Baltimore Sun_ reported on the death of Louis C. Petty fr
 > Petty died of head injuries yesterday afternoon in Franklin Square Hospital.
 
 ## July 11, 1964: Vernon Leopold shot and killed by William Ray
+
 On July 11, 1964, Vernon Leopold was shot and killed by Baltimore police officer William Ray, as the *Baltimore Sun* reported on July 18:
 
 > Vernon Leopold, 28, was the Negro shot July 11 by Patrolman William Ray, 31, a veteran of 10 years on the Baltimore force. Police said Ray was attacked by Leopold. The NAACP said Ray provoked Leopold.
@@ -439,3 +434,5 @@ On August 23, 1978, the _Baltimore Sun_ reported:
 > The Baltimore Community Relations Commission has scheduled a meeting with Mayor Schaefer and two days of public hearings to consider an apparent doubling of citizens complaints of police brutality and discourtesy.
 
 ---
+
+#References
