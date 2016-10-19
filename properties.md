@@ -3,28 +3,28 @@ layout: page
 title: Associated Properties
 ---
 
-As part of this project, we are assembling an inventory of associated historic places associated the Civil Rights movement. This inventory is required to define the historic property types for the Multiple Property Documentation Form and to identify properties that may be eligible for listing as an individual landmark or as part of a historic district on the National Register of Historic Places.
+We are assembling an inventory of associated historic places associated the Civil Rights movement. We are using this list to define a set of categories or historic property types for the Multiple Property Documentation Form. The inventory also helps us identify properties that may be eligible for listing on the National Register of Historic Places as an individual landmark or as part of a larger historic district.
 
 ## Inventory
 
-We have identified over 160 extant historic properties (properties that are still standing) with potential associations to the history of Civil Rights in the Baltimore region. To support the broader historic context, this inventory also includes sites and nonextant (demolished) properties to document the changing context of Baltimore's Civil Rights history. We are in the process of writing descriptions for each property and adding clear citations for the short descriptions that have been added.
+We have identified over 160 extant historic buildings (buildings that are still standing) with potential associations to the history of Civil Rights in the Baltimore area. To support the broader historic context, this inventory also includes a larger number of sites and nonextant (demolished) buildings to help us understand the changing context of Baltimore's Civil Rights history. We are in the process of writing descriptions for each property and adding clear citations for the short descriptions that have been added.
 
-This inventory is  <a href="https://docs.google.com/spreadsheets/d/1tYRFKry3eg_zNDWcC4KTYZnx_R-1DiccaM3_44BTne0/edit?usp=sharing">available online and open for comments as a Google Sheet</a>. We have also converted this spreadsheet into a GeoJSON file <a href="https://github.com/baltimoreheritage/baltimore-geojson">available on GitHub</a>. Finally, we turned the inventory into an interactive map that you can <a href="{{ site.baseurl }}/map">browse here</a>.
+This inventory is  [available online  as a Google Sheet](https://docs.google.com/spreadsheets/d/1tYRFKry3eg_zNDWcC4KTYZnx_R-1DiccaM3_44BTne0/edit?usp=sharing). We encourage you to share your comments, questions, or suggestion for the inventory as comments on the Google Sheet or you can [contact us through our website](http://baltimoreheritage.org/contact/). You can also explore the inventory as [an interactive map]({{ site.baseurl }}/map).
 
-<p class="message"><strong>The inventory is a work-in-progress and may include errors or ommissions</strong>. We plan to update throughout the project based on additional primary and secondary research as well as feedback from Baltimore residents.
-</p>
-
+<p class="message"><strong>The inventory is a work-in-progress. You may find errors or places where we are missing important information.</strong>. We plan to update the inventory as we continue our research adding new entries based on additional primary and secondary research as well as feedback from Baltimore residents.</p>
 
 ## Historic Property Types
 
-Following the example of earlier Multiple Property Documentation form submissions for Selma and Birmingham (as well as the guidelines of the National Park Service in its theme study of school desegregation), we have identified sex categories or "historic property types" associated with the Civil Rights movement in Baltimore. As we revise the inventory, each property can be match to one or more of these types. These include:
+Following the example of earlier Multiple Property Documentation form submissions for Selma and Birmingham (as well as the guidelines of the National Park Service in its theme study of school desegregation), we have identified six categories or "historic property types" associated with the Civil Rights movement in Baltimore. As we revise the inventory, each property can be match to one or more of these types.
 
-- strategy centers;
-- conflict centers;
-- resolution centers;
-- properties associated with prominent persons;
-- properties associated with community groups, ethnic organizations, and institutions;
-- and historic districts.
+These six types include:
+
+1. strategy centers;
+2. conflict centers;
+3. resolution centers;
+4. properties associated with prominent persons;
+4. properties associated with community groups, ethnic organizations, and institutions;
+5. and historic districts.
 
 **Strategy Centers** are properties, where prominent persons who represented local, state, or national institutions and organizations held meetings and strategy sessions both in support of, and in opposition to, the Civil Rights Movement.
 
