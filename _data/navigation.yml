@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Historical Overview"
+    url: /overview/
+  - title: "Resources"
+    url: /resources/
+  - title: "Themes"
+    url: /themes/
+
+resources:
+  - title: "Timeline"
+    url: /timeline/
+  - title: "Map"
+    url: /map/
+  - title: "Educational Resources"
+    url: /educational-resources/
+  - title: "Sources"
+    url: /sources/
