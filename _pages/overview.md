@@ -11,12 +11,12 @@ In this study, we describe how buildings, parks, monuments, and neighborhoods he
 
 The organization of this study follows a similar periodization to the National Historic Landmark (NHL) program study _Civil Rights in America: A Framework for Identifying Significant Sites_  (2002, rev. 2009). Rather than begin with the American Revolution and the War of 1812, we instead started the study with Nat Turner's Rebellion in Virginia—an event that had major consequences for free and enslaved black people living in Baltimore and Maryland. We also made changes to the periodization in the 20th century to support a closer look at black resistance to segregation and discrimination before World War II. This created six sections that each begin with major events that shaped the local and national context for African American Civil Rights:
 
-1. [Abolition and Emancipation: 1831 – 1870]({{ site.baseurl }}/overview/1831-1870)
-2. [Rights without Reconstruction : 1870 – 1905]({{site.baseurl }}/overview/1870-1905)
-3. [Segregation and WWI: 1905 – 1929]({{site.baseurl }}/overview/1905-1929)
-4. [Great Depression and WWII: 1929 – 1954]({{site.baseurl }}/overview/1929-1954)
-5. [A Changing City: 1954 – 1968]({{site.baseurl }}/overview/1954-1968)
-6. [After the Riots: 1968 – 1976]({{site.baseurl }}/overview/1968-1976)
+1. [Abolition and Emancipation: 1831 – 1870](/civil-rights-heritage/overview/1831-1870)
+2. [Rights without Reconstruction : 1870 – 1905](/civil-rights-heritage/overview/1870-1905)
+3. [Segregation and WWI: 1905 – 1929](/civil-rights-heritage/overview/1905-1929)
+4. [Great Depression and WWII: 1929 – 1954](/civil-rights-heritage/overview/1929-1954)
+5. [A Changing City: 1954 – 1968](/civil-rights-heritage/overview/1954-1968)
+6. [After the Riots: 1968 – 1976](/civil-rights-heritage/overview/1968-1976)
 
 Following the approach suggested by the 2009 white paper _The Components of a Historic Contest_ by Barbara Wyatt, each of these section of this study describes:
 
@@ -60,7 +60,7 @@ Between 1831 and 1869, black residents in Baltimore organized in new ways to res
 
 Baltimore's growing free black population and the growing strength of black institutions, including Sharp Street Church (1797) and Orchard Street Church (1837), led these early efforts. Local black religious leaders and educators, including William Watkins (1803–1858), John Fortie, Trueman Pratt (1775–1877), advocated for the broader community of black Baltimoreans by petitioning city government and trying to shape the views of sympathetic white abolitionists. Outside of Baltimore, the northern abolition movement, the economic challenges following the Panic of 1837 and 1857, and the sweeping changes brought by the Civil War shaped these local changes.
 
-[Learn more &raquo;]({{ site.baseurl }}/overview/1831-1870)
+[Learn more &raquo;](/civil-rights-heritage/overview/1831-1870)
 
 ## 1870-1905: Rights without Reconstruction
 
@@ -68,7 +68,7 @@ Between 1870 and 1905, black Baltimoreans used the new legal rights granted by c
 
 Emerging national networks of Civil Rights activists, the continued growth of Baltimore's black population, and the modest gains in wealth and opportunity seen in Baltimore's emerging black middle-class all played some part in these changes. Notable individual advocates in this period include religious leaders like Rev. Harvey Johnson (1843–1923), business owners like Isaac Myers (1835–1891) and black lawyers and professionals like Everett J. Waring (1859–1914) and Harry S. Cummings (1866-1917). Major organizations included the Mutual United Brotherhood of Liberty (1885). Outside of Baltimore, major factors include the national resurgence of white supremacist cultural beliefs and ideas (exemplified in the reframing of  Civil War memory around the "Lost Cause") and the federal government retreat from enforcing Civil Rights for African Americans.
 
- [Learn more &raquo;]({{site.baseurl }}/overview/1870-1905)
+ [Learn more &raquo;](/civil-rights-heritage/overview/1870-1905)
 
 ## 1906-1929: Segregation and WWI
 
@@ -80,7 +80,7 @@ One of the most significant changes in this period came when women in Baltimore�
 
 The cultural significance of white supremacy in the late 19th century continued in the early 20th century with examples including the 1905 novel and play _The Clansmen: An Historical Romance of the Ku Klux Klan_ (which toured in Baltimore) and, more famously, the 1915 film _The Birth of a Nation_, the Confederate Women’s Monument (1917), and the Lee-Jackson Monument (completed in 1948 but commissioned ). The Ku Klux Klan also had a significant local presence holding rallies in Frederick and Baltimore City in 1922.
 
-[Learn more &raquo;]({{site.baseurl }}/overview/1905-1929)
+[Learn more &raquo;](/civil-rights-heritage/overview/1905-1929)
 
 ## 1930-1954: The Great Depression the Double V Campaign
 
@@ -92,7 +92,7 @@ Professional organizations like the Progressive Engineers Association of Marylan
 
 Advocacy efforts focused on expanding employment opportunities for African Americans, equity in public welfare programs during the Depression, and fighting for equal public accommodation on city buses and in downtown department stores. One particular area of conflict was public housing for African Americans during WWII. This period also saw the expansion of transportation and lands planning efforts that had a disproportionate effect on black Baltimoreans, such as with the extension of Howard Street, the early planning of the East-West Expressway, the widening of Druid Lake Drive and the conversion of northwest Baltimore streets from two to one-way. Key factors in shaping local activism included the disproportionate affect of unemployment and poverty during the Great Depression on black Baltimoreans; the housing shortage for black Baltimoreans as the city’s population boomed during WWII; and changing post-war expectations in the context of the Cold War.
 
-[Learn more &raquo;]({{site.baseurl }}/overview/1929-1954)
+[Learn more &raquo;](/civil-rights-heritage/overview/1929-1954)
 
 ## 1955-1968: A Changing City
 
@@ -104,7 +104,7 @@ Other activists also focused on expanding political power for African Americans 
 
 Resistance to the Civil Rights movement took different forms. Some white Baltimoreans voted in support of segregationists political candidate George C. Wallace in the 1964 Democratic primary and 1968 general election. Others attended rallies organized by the National States' Rights Party in Patterson Park or Riverside Park in 1966. Others moved from Baltimore to the quickly developing suburbs to avoid sending their children to the city’s newly integrated schools. Other white Baltimoreans sought to promote integrated neighborhoods through groups like Baltimore Neighborhoods, Inc. founded in 1959 by James Rouse, Ellsworth Rosen, and Sidney Hollander, Jr. The continued development of infrastructure designed to accommodate this automobile-centered regional growth—such as the Baltimore Beltway (I-695) which opened in stages between 1955 and 1962—connected the issue of urban development and Civil Rights.
 
-[Learn more &raquo;]({{site.baseurl }}/overview/1954-1968)
+[Learn more &raquo;](/civil-rights-heritage/overview/1954-1968)
 
 ## 1969-1976: After the Riots
 
@@ -116,4 +116,4 @@ It was clear in August 1970 when the U.S. Civil Rights Commission held hearings 
 
 The response to the riots in Baltimore and elsewhere also included new measures relevant to Civil Rights issues in the present such as the Law Enforcement Assistance Administration (LEAA) established by Omnibus Crime Control and Safe Streets Act of 1968.
 
-[Learn more &raquo;]({{site.baseurl }}/overview/1968-1976)
+[Learn more &raquo;](/civil-rights-heritage/overview/1968-1976)
