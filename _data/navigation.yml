@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Historical Overview"
     url: /overview/
-  - title: "Resources"
-    url: /resources/
   - title: "Themes"
     url: /themes/
+  - title: "Resources"
+    url: /resources/
 
 resources:
   - title: "Timeline"
@@ -16,5 +16,3 @@ resources:
     url: /map/
   - title: "Educational Resources"
     url: /educational-resources/
-  - title: "Sources"
-    url: /sources/
