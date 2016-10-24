@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How we organized a South Baltimore Civil Rights walking tour for Digital Harbor High School
 ---
 

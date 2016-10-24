@@ -1,44 +1,21 @@
 ---
-layout: default
-title: Home
+layout: archive
+author_profile: false
+excerpt: "We are researching and documenting the long history of the Civil Rights movement for African Americans in Baltimore and the connections between the movement and local historic places."
+header:
+  overlay_image: 07916v-loc.jpg
+  cta_label: "Learn more"
+  cta_url: "https://baltimoreheritage.github.io/civil-rights-heritage/about"
+  overlay_filter: .5
+  caption: "The Presentation, of a gold snuff box to the Rev. R.T. Breckenridge, Bethel AME Church, 1845. _Courtesy [Library of Congress](http://www.loc.gov/pictures/item/2003674536/)._"
 ---
 
-<div class="page">
-<p><strong>Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement</strong> is an ongoing project to research and document the historic context for the long Civil Rights movement for African Americans in Baltimore. We are writing a National Register of Historic Places Multiple Property Documentation Form that documents the significance of the region's Civil Rights history and supports the designation and preservation of local landmarks that tell the story of the movement.</p>
+{% include base_path %}
 
-<p><a href="{{ site.baseurl }}/about">Learn more &raquo;</a></p>
-<hr/>
-</div>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+{% include paginator.html %}
