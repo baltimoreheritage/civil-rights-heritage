@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-US"
 title                    : "Baltimore’s Civil Rights Heritage"
 title_separator          : "-"
 name                     : "Baltimore Heritage"
 description              : "Looking for Landmarks from the Movement"
 url                      : https://baltimoreheritage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /civil-rights-heritage # the subpath of your site, e.g. "/blog"
-repository               : baltimoreheritage/civil-rights-heritage # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : 1870-loc-01767v.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+baseurl                  : "/civil-rights-heritage" # the subpath of your site, e.g. "/blog"
+repository               : "baltimoreheritage/civil-rights-heritage" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "1870-loc-01767v.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -55,24 +55,24 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :  bmoreheritage
+  username               :  &twitter "bmoreheritage"
 facebook:
-  username               :  baltimoreheritage
+  username               :  &facebook "baltimoreheritage"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Organization # Person or Organization (defaults to Person)
+  type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : google-universal # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-16215864-7
+    tracking_id          : "UA-16215864-7"
 
 
 # Site Author
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           : "baltimoreheritage"
-  facebook         : "baltimoreheritage"
+  facebook         : *facebook
   foursquare       :
   github           : "baltimoreheritage"
   google_plus      :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "bmoreheritage"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
@@ -201,7 +201,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
