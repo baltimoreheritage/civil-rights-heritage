@@ -5,18 +5,6 @@ permalink: /about/
 
 **Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement** is an ongoing project to research and document the historic context for the long Civil Rights movement for African Americans in Baltimore. We are writing a National Register of Historic Places Multiple Property Documentation Form that documents the significance of the region's Civil Rights history and supports the designation and preservation of local landmarks that tell the story of the movement.
 
-During the course of the project, we are using this site to share our working documents and related resources. We hope you can explore the site and share your own ideas, comments, questions and suggestions. Our published material includes:
-
-- An [inventory]({{ site.url }}/properties) and [map of associated properties]({{ site.url }}/map)
-- A collection of [educational resources]({{ site.url }}/educational-resources)
-- A [timeline of Baltimore Civil Rights history]({{ site.url }}/timeline)
-- A [historiography]({{ site.url }}/historiography) on African American history and Civil Rights in Baltimore
-- A [draft study]({{ site.url }}/criminal-injustice) on theme of criminal injustice and Civil Rights in Baltimore
-
-<p class="message">
-This site is a <strong>work-in-progress</strong>. If you have questions or suggestions, please <a href="http://baltimoreheritage.org/contact/">get in touch</a> or feel free to <a href="https://github.com/baltimoreheritage/civil-rights-heritage/issues/new">open an issue on GitHub</a>.
-</p>
-
 ## Project Partners
 
 - [Baltimore Heritage](http://baltimoreheritage.org/)
@@ -26,15 +14,17 @@ This site is a <strong>work-in-progress</strong>. If you have questions or sugge
 
 ## Funding
 
-This project is supported by a grant from the National Park Service through the  [Heritage Initiatives](https://www.nps.gov/heritageinitiatives/) program to explore the ways in which the legacy of underrepresented groups can be recognized, preserved and interpreted for future generations. Additional funding is provided by the [Preservation Maryland Heritage Fund](http://preservationmaryland.org/programs/heritage-fund-grants/).
+National Park Service  [Heritage Initiatives](https://www.nps.gov/heritageinitiatives/) program awarded funding to the Maryland Historical Trust project in 2014 as part of a national effort to explore the ways in which the legacy of underrepresented groups can be recognized, preserved and interpreted for future generations. In 2015, the [Preservation Maryland Heritage Fund](http://preservationmaryland.org/programs/heritage-fund-grants/) awarded additional support to the Maryland Historical Trust. Baltimore Heritage has recieved additional support from the [PNC Foundation](http://www1.pnc.com/pncfoundation/).
 
-## What is the National Register of Historic Places?
+## Questions?
+
+### What is the National Register of Historic Places?
 
 The National Register of Historic Places is the official list of the Nation's historic places worthy of preservation. Authorized under the National Historic Preservation Act of 1966, it is part of a national program to coordinate and support public and private efforts to identify, evaluate, and protect our historic and archeological resources. The National Register is administered by the National Park Service under the Secretary of the Interior.
 
 [Learn more about the National Register program.](http://www.nps.gov/nr/publications/bulletins/brochure/)
 
-## What is a Multiple Property Documentation Form?
+### What is a Multiple Property Documentation Form?
 
 The National Register of Historic Places Multiple Property Documentation Form (NPS 10-900-b) nominate **groups of related significant properties**. Within the form, the themes, trends, and patterns of history shared by the properties are organized into historic contexts. Individual types of properties that represent those historic contexts are defined.
 
@@ -42,7 +32,7 @@ The Multiple Property Documentation Form is a cover document and not a nominatio
 
 [Learn more about the Multiple Property Document Form.](http://www.nps.gov/Nr/publications/bulletins/nrb16b/)
 
-## What are examples of similar research projects?
+### What are examples of similar research projects?
 
 Over the past decade or more, the National Park Service has accepted several Multiple Property Document Forms dedicated to documenting African-American historic resources, historically black neighborhoods, and the Civil Rights movement. These related MPD forms include:
 
