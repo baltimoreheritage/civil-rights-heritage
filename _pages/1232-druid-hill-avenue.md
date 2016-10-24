@@ -6,7 +6,8 @@ tags:
 - housing
 ---
 
-<p class="message"><b>Please note</b>: This document was prepared and submitted as a CHAP Landmark Designation Report by Baltimore Heritage in support of a landmark designation hearing  for 1232 Druid Hill Avenue on January 12, 2015. This document was written by Eli Pousson, Director of Preservation & Outreach for on November 19, 2015, expanded on December 22, 2015 and substantially revised January 4-9, 2016. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.</p>
+**Please note:** This document was prepared and submitted as a CHAP Landmark Designation Report by Baltimore Heritage in support of a landmark designation hearing  for 1232 Druid Hill Avenue on January 12, 2015. This document was written by Eli Pousson, Director of Preservation & Outreach for on November 19, 2015, expanded on December 22, 2015 and substantially revised January 4-9, 2016. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.
+{: .notice--warning}
 
 ![Photograph of 1232 Druid Hill Avenue, November 2015.](http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg "1232-1234 Druid Hill Avenue, Baltimore, MD")
 

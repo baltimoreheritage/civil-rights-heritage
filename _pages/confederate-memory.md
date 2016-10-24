@@ -67,7 +67,8 @@ In 1871, the Loudon Park Memorial Association became the Society of the Army and
 
 Local organizing in Baltimore was matched by new regional organizations such as the [Southern Historical Society](https://en.wikipedia.org/wiki/Southern_Historical_Society) (established 1868-69) and a rush of public talks and publications promoting the perceived virtues of the South before the Civil War and the righteousness of the Confederate cause—a set of ideas that became popularly known as the [“Lost Cause.”](https://en.wikipedia.org/wiki/Lost_Cause_of_the_Confederacy)
 
-**Note**: What does the Lost Cause mean to people in Baltimore at this time? How many of the members of the Society of the Army and Navy of the Confederate States in the State of Maryland came from Baltimore?
+**Note:** What does the Lost Cause mean to people in Baltimore at this time? How many of the members of the Society of the Army and Navy of the Confederate States in the State of Maryland came from Baltimore?
+{: .notice--warning}
 
 Over two-thirds of the 402 members listed in an 1883 membership roster are listed as living in Baltimore City—with scores of others located in close vicinity in Baltimore County or Anne Arundel County.
 
@@ -127,8 +128,9 @@ Roger B. Taney is best known today as the author of the majority opinion in _[Dr
 
 During the Civil War, Roger B. Taney had expressed his pride in a son-in-law for his service in the Confederate army and told a young Confederate Army recruit that they were performing a patriotic service like that of the recruit's grandfather during the American Revolution. Taney also opposed every Union war measure that came before the Supreme Court. Some of this opposition could arguably be based in legal principle but his goal clearly included obstruction of the war effort. In Maryland, Taney also served as a circuit court judge and always fell "ill" just in time to prevent any trial for treason or sabotage from moving forward.
 
-**Note**: See [Dred Scott and the Dangers of a Political Court](https://books.google.com/books?id=_5DCJaGAdsQC&lpg=PA99&dq=taney%20confederacy&pg=PA99#v=onepage&q=taney%20confederacy&f=false)for more on this topic.
-  
+**Note:** See [Dred Scott and the Dangers of a Political Court](https://books.google.com/books?id=_5DCJaGAdsQC&lpg=PA99&dq=taney%20confederacy&pg=PA99#v=onepage&q=taney%20confederacy&f=false)for more on this topic.
+{: .notice--warning}
+
 Contemporary accounts of the gift acknowledged the divisive legacy of the Dred Scott decision but also presented a call for unity. On November 12, 1887, _The Sun_ described the significance of the statue:
 
 > “Maryland continues to honor a judge whose decision in a famous case is reprobated in one section of the Union, notwithstanding its strict agreement with the constitution, and as heartily commended in the other. Fierce disputes, historical in their results, raged about the Dred Scott decision. But the issues of that period of conflict are now dead, and all our people respect the memory of the brave, pure and learned judge whose career did so much honor to his native State.”
@@ -161,6 +163,7 @@ The evening included a eulogy for Jefferson Davis that concluded:
 > “Confederates in arms for Southern rights were Davis, Lee and Jackson, heroes of the nineteenth century. They will live through the chronicles of time, when the bones of their enemies shall be graceless and their names anathematized. These men lived, fought and died for the ‘lost cause,’ and with the love and fear of God in their hearts. But in the affections of the people, and in every nook, corner and crag of the Southern country, shall live proofs of their heroism, which neither time nor vandalism can destroy or obliterate. Monuments may cover the entire face of the country and quarries may be exhausted to blot out memories of the past, but heroism lives forever.”
 
 **Note:** What was the ceremony? Was it just to mark the death of Davis? Did they regularly have ceremonies, and did they have them in Baltimore? Was the Maryland chapter large and did have a lot of participation from Baltimoreans?
+{: .notice--warning}
 
 In 1893, local Confederate veteran organized a delegation from Baltimore to Lexington, Virginia to attend the unveiling of a monument to Stonewall Jackson on July 21—led by General George H. Steuart, chief marshal of the Confederate Society from Maryland, on a special train from Camden Station. An account of the sculpture published in _The Sun_ noted: “The letters “U.S.” on the hilt of the sword seem out of place, and cause comment here [in Lexington].” In November 1897, the United Daughters of the Confederacy held their fourth annual conference in Baltimore bringing together delegates from 140 chapters across the country.
 
@@ -244,7 +247,8 @@ Historian Garrett Power [has noted](http://digitalcommons.law.umaryland.edu/cgi/
 
 Thirty-one lynchings took place in Maryland between 1882 and 1911. In the years after the dedication of the monument, there was a [1907 lynching of William Burns in Cumberland](https://en.wikipedia.org/wiki/Lynching_of_William_Burns) and [1911 lynching of King Johnson](https://en.wikipedia.org/wiki/Lynching_of_King_Johnson) in Brooklyn, Maryland.
 
-**Note: more research and writing is necessary** to document the relationship between Confederate memory and lynching in Maryland.
+**Note:** Additional research and writing is necessary to document the relationship between Confederate memory and lynching in Maryland.
+{: .notice--warning}
 
 ## January 9, 1906: Severn Teackle Wallis statue dedicated at Mount Vernon Place
 
@@ -326,7 +330,8 @@ In a 1931 speech before the the United Daughters of the Confederacy, titled "[Th
 
 In the face of this idea, voices from Baltimore’s African-American grew louder in their criticism and opposition to confederate memory. In 1931, the _Baltimore Afro-American_ reported on the participation of Rev. George F. Bragg, Jr., the Baltimore pastor of St. James Church in the dedication of the Hayward Shepherd Memorial in Harper’s Ferry, West Virginia in a ceremony led by the United Daughters of the Confederacy. The _Afro_ quoted Mrs. S.H. Hill — “a woman of great prominence in Harpers Ferry” — who expressed surprise with Bragg’s participation in the event:
 
-> ”One who has done so much to bring the best that colored people have done to light. Most of the better thinking people of Harpers Ferry look upon the whole thing with disgust.”
+> One who has done so much to bring the best that colored people have done to light. Most of the better thinking people of Harpers Ferry look upon the whole thing with disgust.
+
 The _Afro_ continued to note:
 
 > The speeches were ofttimes made to sound low because of the laughter of the porters on the B. and O. railroad train parked on a siding above the grandstand.
@@ -398,7 +403,8 @@ In a separate editorial, the _Sun_ plaintively asked “Why Not Leave Lee and Ja
 
 ## 1950s – 2000s
 
-**Editorial Note:** The description of post-WWII issues and events related to Confederate monuments is incomplete.
+**Note:** The description of post-WWII issues and events related to Confederate monuments is incomplete.
+{: .notice--warning}
 
 On January 12, 1952, the _Afro_ reported under the headline, “Confederate Flag Revives Issues Of Civil War: Historian Says Dixie On Political Offensive Flags, Caps, States' Rights Talk Smoke Screens To Hide Opposition To Truman's Civil Rights Program,” writing:
 
@@ -413,6 +419,7 @@ In 1957, the Baltimore Sun [profiled](http://search.proquest.com/hnpbaltimoresun
 In 1959, the Maryland state legislature finally ratified the 14th Amendment to the U.S. Constitution. That same year, Baltimore moved the Union Soldiers and Sailors Monument from Druid Hill Park to Wyman Park Dell (at the southeast corner of the park) to make way for the construction of the Jones Falls Expressway.
 
 **Note:** More information on the movement of monuments may be helpful. In another example, the [Watson Monument](http://explore.baltimoreheritage.org/items/show/184#.VuHe8ZMrKAw) honoring Marylanders who lost their lives during the U.S.-Mexican War was relocated to the entrance to Druid Hill Park in 1930 for the extension of Howard Street under Mount Royal Avenue.
+{: .notice--warning}
 
 In 1961, the Washington edition of the _AFRO_ newspaper reported on remarks by Dr. L.D. Reddick, a professor of history at Coppin State Teachers College (now Coppin State University), at a San Francisco discussion of the centennial celebration of the U.S. Civil War, quoting:
 
