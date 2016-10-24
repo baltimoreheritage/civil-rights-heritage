@@ -7,7 +7,7 @@ We created this guide to connect teachers and families to relevant information a
 
 If you have suggestions for more resources or ideas for how we can improve this guide, please [get in touch](http://baltimoreheritage.org/contact/).
 
-![First grade at Public School 60, say the pledge of allegiance to the flag, June 26, 1955. Photo by Richard Stacks/Baltimore Sun.](/images/1955-06-26-darkroom-stacks.jpg)
+![First grade at Public School 60, say the pledge of allegiance to the flag, June 26, 1955. Photo by Richard Stacks/Baltimore Sun.](/civil-rights-heritage/images/1955-06-26-darkroom-stacks.jpg)
 
 ## Baltimore & Maryland Resources
 
