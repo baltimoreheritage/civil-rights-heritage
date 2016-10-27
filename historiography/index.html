@@ -114,16 +114,17 @@
 <meta name="msapplication-config" content="https://baltimoreheritage.github.io/civil-rights-heritage/images/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
-<!-- Bigfoot JS - http://www.bigfootjs.com/ -->
+<!-- Bigfoot JS links via rawgit.com - http://www.bigfootjs.com/ + jQuery from jQuery CDN -->
 
-<link rel="stylesheet" href="https://baltimoreheritage.github.io/civil-rights-heritage/assets/css/bigfoot-number.css">
-<script type="text/javascript" src="https://baltimoreheritage.github.io/civil-rights-heritage/assets/js/bigfoot.js"></script>
+<script
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://rawgit.com/lemonmade/bigfoot/master/dist/bigfoot-number.css">
+<script type="text/javascript" src="https://rawgit.com/lemonmade/bigfoot/master/dist/bigfoot.js"></script>
 <script type="text/javascript">
   var bigfoot = $.bigfoot(
       {
-          deleteOnUnhover: false,
-          preventPageScroll: false,
-          hoverDelay: 250,
           positionContent: true
       }
   );
@@ -159,10 +160,10 @@
             <li class="masthead__menu-item"><a href="https://baltimoreheritage.github.io/civil-rights-heritage/overview/">Historical Overview</a></li>
           
             
-            <li class="masthead__menu-item"><a href="https://baltimoreheritage.github.io/civil-rights-heritage/resources/">Resources</a></li>
+            <li class="masthead__menu-item"><a href="https://baltimoreheritage.github.io/civil-rights-heritage/themes/">Themes</a></li>
           
             
-            <li class="masthead__menu-item"><a href="https://baltimoreheritage.github.io/civil-rights-heritage/themes/">Themes</a></li>
+            <li class="masthead__menu-item"><a href="https://baltimoreheritage.github.io/civil-rights-heritage/resources/">Resources</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
