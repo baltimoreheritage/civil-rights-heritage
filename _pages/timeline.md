@@ -1,6 +1,8 @@
 ---
 title: Timeline
 permalink: /timeline/
+sidebar:
+  nav: "resources"
 ---
 <p class='full'>
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qAMj9BlkYeYCg-DAcM4M6rSItWqwuB_c0Dvq2OLlg6U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>

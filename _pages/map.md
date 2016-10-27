@@ -1,6 +1,8 @@
 ---
 title: Map
 permalink: /map/
+sidebar:
+  nav: "resources"
 ---
 <p class='full'>
 <iframe width="100%" height="600" frameborder="0" src="https://baltimoreheritage.cartodb.com/viz/5fc92b18-bfe2-11e5-b2b9-0ea31932ec1d/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
