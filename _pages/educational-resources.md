@@ -1,6 +1,8 @@
 ---
 title: Educational Resources
 permalink: /educational-resources/
+sidebar:
+  nav: "resources"
 ---
 
 We created this guide to connect teachers and families to relevant information about the history of the Civil Rights movement in Baltimore and around the country.
