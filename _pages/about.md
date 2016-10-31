@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-**Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement** is an ongoing project to research and document the historic context for the long Civil Rights movement for African Americans in Baltimore. We are writing a National Register of Historic Places Multiple Property Documentation Form that documents the significance of the region's Civil Rights history and supports the designation and preservation of local landmarks that tell the story of the movement.
+**Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement** is an ongoing project to research and document the historic context for the African American Civil Rights movement in Baltimore. We are writing a National Register of Historic Places Multiple Property Documentation Form that documents the significance of the region's Civil Rights history and supports the designation and preservation of local landmarks that tell the story of the movement.
 
 ## Project Partners
 
@@ -14,7 +14,9 @@ permalink: /about/
 
 ## Funding
 
-National Park Service  [Heritage Initiatives](https://www.nps.gov/heritageinitiatives/) program awarded funding to the Maryland Historical Trust project in 2014 as part of a national effort to explore the ways in which the legacy of underrepresented groups can be recognized, preserved and interpreted for future generations. In 2015, the [Preservation Maryland Heritage Fund](http://preservationmaryland.org/programs/heritage-fund-grants/) awarded additional support to the Maryland Historical Trust. Baltimore Heritage has recieved additional support from the [PNC Foundation](http://www1.pnc.com/pncfoundation/).
+The [National Park Service Heritage Initiatives](https://www.nps.gov/heritageinitiatives/) program awarded funding to the Maryland Historical Trust for this project in 2014 as part of a national effort to explore the ways in which the legacy of underrepresented groups can be recognized, preserved and interpreted for future generations.
+
+In 2015, the [Preservation Maryland Heritage Fund](http://preservationmaryland.org/programs/heritage-fund-grants/) awarded funding to the Maryland Historical Trust for this project. Baltimore Heritage has also recieved project funding from the [PNC Foundation](http://www1.pnc.com/pncfoundation/) in 2015 and 2016.
 
 ## Questions?
 
