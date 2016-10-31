@@ -1,86 +1,38 @@
 # Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement
 
-A repository of writing, data and resources for [Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement] (http://baltimoreheritage.org/project/civil-rights-heritage/) - a project of [Baltimore Heritage](http://baltimoreheritage.org/) and our partners.
+A project site including writing, data, and related resources for [Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement](http://baltimoreheritage.org/project/civil-rights-heritage/).
 
-#About the Project
+#About
 
-Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement is an ongoing project to research and document the historic context for the long Civil Rights movement for African Americans in Baltimore. Planning and research for this project began in late 2014 and will continue through 2016. [Learn more about this project](https://baltimoreheritage.github.io/civil-rights-heritage/about/)
+**Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement** is an ongoing project to research and document the historic context for the African American Civil Rights in Baltimore.
 
-## What are we currently working on?
+[Learn more about our project](https://baltimoreheritage.github.io/civil-rights-heritage/about/).
 
-**Research:** The primary product of our ongoing research will be the publication of a Multiple Property Designation Form for the National Register of Historic Places. We are also created an inventory of associated properties with an interactive map.
+## Project Partners
 
-- Historic Context
-  - Overview
-  - Criminal Injustice (Draft published)
-  - Housing (Draft in progress)
-  - Equal Employment (Draft in progress)
-  - Equal Education (Draft in progress)
-  - Voting (Draft in progress)
-  - Public Accomodation (Draft in progress)
-- Associated Property Inventory/Map
-- Case Studies/Background
-  - Historiography (Draft published)
-  - Confederate Monuments Study (Draft published)
-- Bibliography (Draft published)
-
-**Interpretation**:
-
-- Tours
-  - Upton (Central West Baltimore)
-  - Greater Rosemont (West Baltimore)
-  - Reservoir Hill/Bolton Hill (Northwest Baltimore)
-  - Sharp Leadenhall (South Baltimore)
-- Timeline (published)
-- Map (published)
-
-**Education:** partnership with BCPS and the Baltimore National Heritage Area.
-
-- Teacher training materials
-- Classroom presentation
-- Tours (adapted for student groups)
-
-**Community:** planning an open meeting for Fall 2016.
-
-- Advisory Committee
-
-#Partners
-
-- [Baltimore Heritage](http://baltimoreheritage.org)
-- [Baltimore National Heritage Area](http://explorebaltimore.org)
+- [Baltimore Heritage](http://baltimoreheritage.org/)
+- [Baltimore National Heritage Area](http://explorebaltimore.org/)
 - [Maryland Historical Trust](http://mht.maryland.gov/)
 - [Baltimore City Public Schools](http://www.baltimorecityschools.org/)
 
-#Funding
+## Funding
 
-Funding for this project is provided by the National Park Service through the new Heritage Initiative grant program funded through the Historic Preservation Fund to explore the ways in which the legacy of underrepresented groups can be recognized, preserved and interpreted for future generations. Additional funding is provided by the Preservation Maryland Heritage Fund grant program.
+The [National Park Service Heritage Initiatives](https://www.nps.gov/heritageinitiatives/) program awarded funding to the Maryland Historical Trust for this project in 2014 as part of a national effort to explore the ways in which the legacy of underrepresented groups can be recognized, preserved and interpreted for future generations.
 
-# Related Guidelines/Background Information
+In 2015, the [Preservation Maryland Heritage Fund](http://preservationmaryland.org/programs/heritage-fund-grants/) awarded funding to the Maryland Historical Trust for this project. Baltimore Heritage has also recieved project funding from the [PNC Foundation](http://www1.pnc.com/pncfoundation/) in 2015 and 2016.
 
-##National Register Program
-* [How to Complete the National Register Multiple Property Documentation Form](http://www.nps.gov/nr/publications/bulletins/nrb16b/)
+## Contributing
 
-##National Historic Landmarks Program
-* [Civil Rights in America: A Framework for Identifying Significant Sites]( http://www.nps.gov/nhl/learn/themes/CivilRights_Framework.pdf) (2002, revised 2008)
-*  [Civil Rights in America: Racial Desegregation of Public Accommodations](http://www.nps.gov/nhl/learn/themes/CivilRights_DesegPublicAccom.pdf) (2004, rev. 2009)
-* [Civil Rights in America: Racial Desegregation in Public Education in the United States](http://www.nps.gov/nhl/learn/themes/CivilRights_DesegPublicEd.pdf) (2000) and [supplement](http://www.nps.gov/nhl/learn/themes/CivilRights_DesegPublicEd_Supplement.pdf) (2004)
-* [Civil Rights in America: Racial Voting Rights](http://www.nps.gov/nhl/learn/themes/CivilRights_VotingRights.pdf) (2007, rev. 2009)
-* [African-American National Historic Landmark Assessment Study](http://www.nps.gov/nhl/learn/specialstudies/AfricanAmerican.pdf) (2008)
+If you have any questions, comments, or suggestions, please contact Eli Pousson at pousson@baltimoreheritage.org or create a [GitHub issue](https://github.com/baltimoreheritage/civil-rights-heritage/issues) for this repository. You can also comment or make annotations directly on our project site using the [Hypothe.is](https://hypothes.is/) browser plugin. Finally, we encourage comments on any of the documents in [our shared Google Drive folder](https://drive.google.com/open?id=0ByRNPnSQ-I35d3hReTdmVjVrc28) (including our inventory, timeline, and directory).
 
-##Historic Context/Multiple Property Documentation Forms (Examples)
-* [The Civil Rights Movement in Selma, Alabama, 1865-1972](http://www.nps.gov/nr/feature/places/pdfs/64501182.pdf) (accepted 2013)
-* [Civil Rights Heritage in Birmingham](http://www.nps.gov/nr/publications/sample_nominations/CivilRightsBirminghamMPS.pdf)
-* [Civil Rights Heritage in Orangeburg County, SC](http://www.nationalregister.sc.gov/MPS/MPS028.pdf)
-* [African American Historic Resources of Alexandria, Virginia MPS]
-(http://pdfhost.focus.nps.gov/docs/nrhp/text/64500873.PDF)
-* [African-American Resources in Wichita, KS]
-(http://www.kshs.org/resource/national_register/MPS/AfricanAmericanResourcesinWichitaKS.pdf)
+# License
 
-## Aditional Project Links
+All writing and images created by Baltimore Heritage for this project are available under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Images and writing from other sources include both materials in the public domain and materials where the copyright is held by the original author or creator.
 
-Take a look at [our project website](https://baltimoreheritage.github.io/civil-rights-heritage/) for more information.
+Our project site is created using the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) which is published under an open source [MIT License](https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE).
 
-* [Project Historiography](https://baltimoreheritage.github.io/civil-rights-heritage/historiography/) - this working draft includes a historiography of scholarly writing, public history and preservation efforts related to Baltimore's African-American and Civil Rights history
-* Bibliography in [Civil Rights Baltimore Zotero Group](https://www.zotero.org/groups/civil_rights_history_baltimore)
-* [Baltimore Civil Rights History Timeline](http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1t75HcQTpt42j5mOdeFxmGccL3CxWTsAcTMtLy1MNZfQ&font=Arvo-PTSans&maptype=toner&lang=en&height=650)
+# Credits
 
+- [Jekyll](http://jekyllrb.com/)
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+- [Jekyll Pandoc Markdown Converter](https://github.com/mfenner/jekyll-pandoc)
