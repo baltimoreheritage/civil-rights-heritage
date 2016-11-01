@@ -88,18 +88,18 @@ Attempts by African Americans to purchase homes in segregated white neighborhood
 
 > An indignation meeting was held last night at the home of Dr. G. W. Norris, 620 North Gllmor street, to take action against the occupation of 604 North Gilmor street by a negro orphan asylum, and there were some remarks of a heated nature.
  
-## 1906: Colonel Clotworthy advocates for clearance of "undesirable homes"
-
-In 1906, Colonel C. Baker Clotworthy, commander of the Fifth Regiment, wrote to the _Sun_ advocating for the extension of Howard Street north of the Richmond Market as a way of demolishing black households:
-
-> I would be deeply interested in this improvement because it means so much more than simply tearing down some houses and opening a street. Everyone in the city is familiar with the steady decrease which has taken place in the value of property in this neighborhood for the last 20 years.
-> All about Richmond Market, and extending north, there are hundreds of undesirable houses and, in many cases, huts. This sore is spreading rapidly. A great many negroes, not of the best class,  gradually tenant the houses on the edge of this district and immediately the white people move from the block invaded. If this continues no one knows where it will stop.
-
 ## 1907: Janet Kemp study on housing conditions in Baltimore
 
 Emily Lieb in _"We Clean-Up, Paint-Up, and Fix-Up Our Neighborhoods"_ writes:
 
 > In 1906, the sanitarian Janet Kemp began a yearlong investigation of conditions in four of Baltimore’s poorest neighborhoods: two "tenement districts" that housed mostly Eastern European immigrants and two "alley districts" that housed mostly African-Americans. (According to the City Charter, a tenement was a building that housed more than three families. An alley house was a narrow rowhouse located in an alley or "minor street" sometimes less than 10 feet wide. Though these latter houses were often extremely crowded, they could not usually hold more than one or two families and so did not qualify as "tenements.") In all, Kemp inspected nearly 600 houses occupied by around 1,200 families. Just as Frances Morton would do a generation later, she published her findings in 1907 in a photo-illustrated book called Housing Conditions in Baltimore. As historian Samuel K. Roberts has noted, Kemp’s point of view was as moralizing and frankly eugenic as any almost other white Progressive’s. (Of the African-Americans she met in the alley districts, she wrote: "It is impossible to observe these gregarious, light-hearted, shiftless, irresponsible alley dwellers without wondering to what extent their failings are the result of their surroundings, and to what extent the inhabitants, in turn, react for evil upon their environment.") However, as she pointed out, hers was a study of housing conditions and not "social conditions," so the remedy she prescribed was less incumbent on neighborhood residents than on city officials: she recommended that Baltimore write a housing code and enforce it. [@lieb_we_2014]
+
+## 1909: Colonel Clotworthy advocates for clearance of "undesirable homes"
+
+In 1909, Colonel C. Baker Clotworthy, commander of the Fifth Regiment, wrote to the _Sun_ advocating for the extension of Howard Street north of the Richmond Market as a way of demolishing black households:
+
+> I would be deeply interested in this improvement because it means so much more than simply tearing down some houses and opening a street. Everyone in the city is familiar with the steady decrease which has taken place in the value of property in this neighborhood for the last 20 years.
+> All about Richmond Market, and extending north, there are hundreds of undesirable houses and, in many cases, huts. This sore is spreading rapidly. A great many negroes, not of the best class,  gradually tenant the houses on the edge of this district and immediately the white people move from the block invaded. If this continues no one knows where it will stop.
 
 ## 1910: West Segregation Ordinance
 
