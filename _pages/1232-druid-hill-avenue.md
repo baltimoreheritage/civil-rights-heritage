@@ -6,8 +6,9 @@ tags:
 - housing
 ---
 
-**Please note:** This document was prepared and submitted as a CHAP Landmark Designation Report by Baltimore Heritage in support of a landmark designation hearing  for 1232 Druid Hill Avenue on January 12, 2015. This document was written by Eli Pousson, Director of Preservation & Outreach for on November 19, 2015, expanded on December 22, 2015 and substantially revised January 4-9, 2016. Please contact Eli Pousson with any questions or corrections at pousson@baltimoreheritage.org or 301-204-3337.
-{: .notice--warning}
+<div class="notice--info">
+Baltimore Heritage prepared and submitted this study as a CHAP Landmark Designation Report to support the landmark designation of 1232 Druid Hill Avenue on January 12, 2015. This document was written by Eli Pousson, Director of Preservation & Outreach on November 19, 2015, expanded on December 22, 2015 and substantially revised January 4-9, 2016. Please contact Eli Pousson with any questions or corrections at [pousson@baltimoreheritage.org](mailto:pousson@baltimoreheritage.org).
+</div>
 
 ![Photograph of 1232 Druid Hill Avenue, November 2015.](http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg "1232-1234 Druid Hill Avenue, Baltimore, MD")
 
@@ -151,7 +152,7 @@ Civic activism and organizing often different forms for men and women. For examp
 
 > A very delightful tea was given last Sunday evening by the Misses Briscoe at their residence, 1232 Druid Hill Ave.
 
-Social engagements like this provided a basis for fundraising and organizing efforts with family, friends, neighbors, and fellow congregants. Living next door to Ida R. Cummings, daughter of Harry S. Cummings and resident at 1234 Druid Hill Avenue, likely encouraged women in the Briscoe family to help raise funds for youth programs. The _Afro American_ published an account of “Summer Work of the Fresh Air and Empty Stocking Circle” by Miss Ida R. Cummings, President, and Mrs. Mamie R. Bruce, Secretary, on November 3, 1906, noting:
+Social engagements like this provided a basis for fundraising and organizing efforts with family, friends, neighbors, and fellow congregants. Living next door to Ida R. Cummings, sister of Harry S. Cummings and resident at 1234 Druid Hill Avenue, likely encouraged women in the Briscoe family to help raise funds for youth programs. The _Afro American_ published an account of “Summer Work of the Fresh Air and Empty Stocking Circle” by Miss Ida R. Cummings, President, and Mrs. Mamie R. Bruce, Secretary, on November 3, 1906, noting:
 
 > Among the latest contributions received were $5.45 from a Lawn Party given by the Misses Briscoe's Druid Hill avenue.
 

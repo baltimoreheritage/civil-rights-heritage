@@ -9,7 +9,7 @@ tags: draft
 
 On June 30, 2015, Baltimore City Mayor Stephanie Rawlings Blake announced plans to undertake[a formal review for Baltimore’s Confederate statues](http://mayor.baltimorecity.gov/news/press-releases/2015-06-30-mayor-rawlings-blake-announces-review-baltimore%E2%80%99s-confederate-statues). The Mayor announced this move in direct response to growing protests against the public display of Confederate flags and monuments throughout the country in the wake of the June 17, 2015 mass shooting at Emanuel African Methodist Episcopal Church in downtown Charleston, South Carolina. This study seeks to support the city’s review and informed public participation in the review process by exploring the historic context for the four Confederate monuments identified by the city’s special commission and the role of Confederate memory in Baltimore and Maryland more broadly.
 
-This study explores the contemporary context for the erection of these monuments between 1887 and 1948—a period during which policies and programs endorsing racial segregation and discrimination received broad support from many white voters and elected officials in Baltimore and Maryland. This focus builds on the past two decades of historical scholarship that has illustrated how the theme of the “Lost Cause” shaped Civil War public memory during the late 19th and early 20th century and the relationship of Confederate memory to race and politics on a national scale.
+This study explores the contemporary context for the erection of these monuments between 1887 and 1948—a period during which policies and programs endorsing racial segregation and discrimination received broad support from many white voters and elected officials in Baltimore and Maryland. This focus builds on the past two decades of historical scholarship that has illustrated how the theme of the "Lost Cause" shaped Civil War public memory during the late 19th and early 20th century and the relationship of Confederate memory to race and politics on a national scale.
 
 We organized this study chronologically from the Civil War up through the present. Given the broad scope of this topic, we expect that this document may be incomplete or unclear at points. We welcome comments, questions and criticisms and plan to continue revising and improving this study in the future.
 
@@ -67,8 +67,7 @@ In 1871, the Loudon Park Memorial Association became the Society of the Army and
 
 Local organizing in Baltimore was matched by new regional organizations such as the [Southern Historical Society](https://en.wikipedia.org/wiki/Southern_Historical_Society) (established 1868-69) and a rush of public talks and publications promoting the perceived virtues of the South before the Civil War and the righteousness of the Confederate cause—a set of ideas that became popularly known as the [“Lost Cause.”](https://en.wikipedia.org/wiki/Lost_Cause_of_the_Confederacy)
 
-**Note:** What does the Lost Cause mean to people in Baltimore at this time? How many of the members of the Society of the Army and Navy of the Confederate States in the State of Maryland came from Baltimore?
-{: .notice--warning}
+<!-- TODO: What does the Lost Cause mean to people in Baltimore at this time? How many of the members of the Society of the Army and Navy of the Confederate States in the State of Maryland came from Baltimore? -->
 
 Over two-thirds of the 402 members listed in an 1883 membership roster are listed as living in Baltimore City—with scores of others located in close vicinity in Baltimore County or Anne Arundel County.
 
@@ -126,10 +125,7 @@ In 1874, Walters began to show his art collection to the public at his home on M
 
 Roger B. Taney is best known today as the author of the majority opinion in _[Dred Scott v. Sandford](https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford)_ (1857) stating that black men “had no rights which the white man was bound to respect.”[^2] While [Roger B. Taney](https://en.wikipedia.org/wiki/Roger_B._Taney) stayed in his position as Chief Justice of the U.S. Supreme Court up until his death on October 12, 1864, his personal sympathy and direct support for the Confederacy is clear.
 
-During the Civil War, Roger B. Taney had expressed his pride in a son-in-law for his service in the Confederate army and told a young Confederate Army recruit that they were performing a patriotic service like that of the recruit's grandfather during the American Revolution. Taney also opposed every Union war measure that came before the Supreme Court. Some of this opposition could arguably be based in legal principle but his goal clearly included obstruction of the war effort. In Maryland, Taney also served as a circuit court judge and always fell "ill" just in time to prevent any trial for treason or sabotage from moving forward.
-
-**Note:** See [Dred Scott and the Dangers of a Political Court](https://books.google.com/books?id=_5DCJaGAdsQC&lpg=PA99&dq=taney%20confederacy&pg=PA99#v=onepage&q=taney%20confederacy&f=false)for more on this topic.
-{: .notice--warning}
+During the Civil War, Roger B. Taney had expressed his pride in a son-in-law for his service in the Confederate army and told a young Confederate Army recruit that they were performing a patriotic service like that of the recruit's grandfather during the American Revolution. Taney also opposed every Union war measure that came before the Supreme Court. Some of this opposition could arguably be based in legal principle but his goal clearly included obstruction of the war effort. In Maryland, Taney also served as a circuit court judge and always fell "ill" just in time to prevent any trial for treason or sabotage from moving forward.^[See [Dred Scott and the Dangers of a Political Court](https://books.google.com/books?id=_5DCJaGAdsQC&lpg=PA99&dq=taney%20confederacy&pg=PA99#v=onepage&q=taney%20confederacy&f=false)for more on this topic.]
 
 Contemporary accounts of the gift acknowledged the divisive legacy of the Dred Scott decision but also presented a call for unity. On November 12, 1887, _The Sun_ described the significance of the statue:
 
@@ -162,8 +158,7 @@ The evening included a eulogy for Jefferson Davis that concluded:
 
 > “Confederates in arms for Southern rights were Davis, Lee and Jackson, heroes of the nineteenth century. They will live through the chronicles of time, when the bones of their enemies shall be graceless and their names anathematized. These men lived, fought and died for the ‘lost cause,’ and with the love and fear of God in their hearts. But in the affections of the people, and in every nook, corner and crag of the Southern country, shall live proofs of their heroism, which neither time nor vandalism can destroy or obliterate. Monuments may cover the entire face of the country and quarries may be exhausted to blot out memories of the past, but heroism lives forever.”
 
-**Note:** What was the ceremony? Was it just to mark the death of Davis? Did they regularly have ceremonies, and did they have them in Baltimore? Was the Maryland chapter large and did have a lot of participation from Baltimoreans?
-{: .notice--warning}
+<!-- TODO: What was the ceremony? Was it just to mark the death of Davis? Did they regularly have ceremonies, and did they have them in Baltimore? Was the Maryland chapter large and did have a lot of participation from Baltimoreans? -->
 
 In 1893, local Confederate veteran organized a delegation from Baltimore to Lexington, Virginia to attend the unveiling of a monument to Stonewall Jackson on July 21—led by General George H. Steuart, chief marshal of the Confederate Society from Maryland, on a special train from Camden Station. An account of the sculpture published in _The Sun_ noted: “The letters “U.S.” on the hilt of the sword seem out of place, and cause comment here [in Lexington].” In November 1897, the United Daughters of the Confederacy held their fourth annual conference in Baltimore bringing together delegates from 140 chapters across the country.
 
@@ -175,7 +170,7 @@ On January 12, 1899, the _Baltimore Sun_ editorialized in favor of the Daughters
 
 A week later, on January 19, 1899, the Society of the Army and Navy of the Confederate States held a reunion in Baltimore and celebrated the birthday of Gen. Robert E. Lee. By February 1899, the first and second branch of the Baltimore City Council voted to approve a resolution, "authorizing the Mayor to grant a permit to the Daughters of the Confederacy for the erection in Druid Hill Park of a monument to the memory of the Confederate soldiers and sailors who died in the civil war."
 
-Their success reflects the waning criticism of Confederate memorial efforts in Maryland. This is also seen in the growing number of histories written to celebrate the Confederacy, such as writer William Worthington Goldsborough who presented the volunteers for the Confederate army as “true and brave hearted men,” in [_The Maryland Line in the Confederate Army, 1861-1865_](https://archive.org/details/marylandlineinco00gold) (1900), writing:
+Their success reflects the waning criticism of Confederate memorial efforts in Maryland. This is also seen in the growing number of histories written to celebrate the Confederacy, such as writer William Worthington Goldsborough who presented the volunteers for the Confederate army as “true and brave hearted men,” in _[The Maryland Line in the Confederate Army, 1861-1865](https://archive.org/details/marylandlineinco00gold)_ (1900), writing:
 
 > ”This is a round unvarnished tale of a few hundred heroes from a border State, who stepped bravely to the front when their rights of manhood, of freedom, and of citizenship, under what should be one protecting flag, enfolding all in its embrace, were threatened.”
 
@@ -235,7 +230,7 @@ In 1905, the state Democratic party gathered in Baltimore to launch their campai
 
 Among the local efforts to win support for the proposal was a rally at Lehmann’s Hall on N. Howard Street featuring Alabama Congressman [James Thomas Heflin](https://en.wikipedia.org/wiki/James_Thomas_Heflin) as the lead speaker. Heflin referenced “Lost Cause” themes in his speech and concluded his remarks with the cry:
 
-> “If you fail to disenfranchise the negro your State must bow her head in shame and humiliation. But remove the fetters from her feet, and take the dead weight of negro suffrage from about her neck, let her breathe again the pure air of white supremacy full and complete; then take her place alongside her sisters who have disenfranchised the ignorant, vicious negro, and you can exclaim in deed and in truth, “Maryland, my Maryland, through thy breadth and length a tremor passes. Look, the dark is done, and on thy proud form shines the splendor of the sun. Thine own children, with heads erect and light on all their faces are happy in the triumph of the white man’s creed.”
+> If you fail to disenfranchise the negro your State must bow her head in shame and humiliation. But remove the fetters from her feet, and take the dead weight of negro suffrage from about her neck, let her breathe again the pure air of white supremacy full and complete; then take her place alongside her sisters who have disenfranchised the ignorant, vicious negro, and you can exclaim in deed and in truth, "Maryland, my Maryland," through thy breadth and length a tremor passes. Look, the dark is done, and on thy proud form shines the splendor of the sun. Thine own children, with heads erect and light on all their faces are happy in the triumph of the white man’s creed.
 
 Fortunately, voters defeated the proposal and preserved the franchise of black male voters in Maryland.
 
@@ -247,8 +242,7 @@ Historian Garrett Power [has noted](http://digitalcommons.law.umaryland.edu/cgi/
 
 Thirty-one lynchings took place in Maryland between 1882 and 1911. In the years after the dedication of the monument, there was a [1907 lynching of William Burns in Cumberland](https://en.wikipedia.org/wiki/Lynching_of_William_Burns) and [1911 lynching of King Johnson](https://en.wikipedia.org/wiki/Lynching_of_King_Johnson) in Brooklyn, Maryland.
 
-**Note:** Additional research and writing is necessary to document the relationship between Confederate memory and lynching in Maryland.
-{: .notice--warning}
+<!-- TODO: Additional research and writing is necessary to document the relationship between Confederate memory and lynching in Maryland. -->
 
 ## January 9, 1906: Severn Teackle Wallis statue dedicated at Mount Vernon Place
 
@@ -403,8 +397,7 @@ In a separate editorial, the _Sun_ plaintively asked “Why Not Leave Lee and Ja
 
 ## 1950s – 2000s
 
-**Note:** The description of post-WWII issues and events related to Confederate monuments is incomplete.
-{: .notice--warning}
+<!-- FIXME: The description of post-WWII issues and events related to Confederate monuments is incomplete. -->
 
 On January 12, 1952, the _Afro_ reported under the headline, “Confederate Flag Revives Issues Of Civil War: Historian Says Dixie On Political Offensive Flags, Caps, States' Rights Talk Smoke Screens To Hide Opposition To Truman's Civil Rights Program,” writing:
 
@@ -418,8 +411,7 @@ In 1957, the Baltimore Sun [profiled](http://search.proquest.com/hnpbaltimoresun
 
 In 1959, the Maryland state legislature finally ratified the 14th Amendment to the U.S. Constitution. That same year, Baltimore moved the Union Soldiers and Sailors Monument from Druid Hill Park to Wyman Park Dell (at the southeast corner of the park) to make way for the construction of the Jones Falls Expressway.
 
-**Note:** More information on the movement of monuments may be helpful. In another example, the [Watson Monument](http://explore.baltimoreheritage.org/items/show/184#.VuHe8ZMrKAw) honoring Marylanders who lost their lives during the U.S.-Mexican War was relocated to the entrance to Druid Hill Park in 1930 for the extension of Howard Street under Mount Royal Avenue.
-{: .notice--warning}
+<!-- TODO: More information on the movement of monuments may be helpful. In another example, the [Watson Monument](http://explore.baltimoreheritage.org/items/show/184#.VuHe8ZMrKAw) honoring Marylanders who lost their lives during the U.S.-Mexican War was relocated to the entrance to Druid Hill Park in 1930 for the extension of Howard Street under Mount Royal Avenue. -->
 
 In 1961, the Washington edition of the _AFRO_ newspaper reported on remarks by Dr. L.D. Reddick, a professor of history at Coppin State Teachers College (now Coppin State University), at a San Francisco discussion of the centennial celebration of the U.S. Civil War, quoting:
 
