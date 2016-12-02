@@ -48,7 +48,6 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # Theme
-
 theme: minimal-mistakes-jekyll
 
 # SEO Related
