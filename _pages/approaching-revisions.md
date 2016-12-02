@@ -1,2 +1,0 @@
-- Focus on the response by African American activists
-- Avoid going into a whole lot of detail on the specifics of white racism/white supremacy
