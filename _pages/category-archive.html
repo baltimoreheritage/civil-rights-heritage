@@ -1,0 +1,16 @@
+---
+layout: archive
+permalink: /categories/
+title: "Pages by Category"
+author_profile: true
+---
+
+{% include group-by-array collection=site.pages field="categories" %}
+
+{% for category in group_names %}
+  {% assign pages = group_items[forloop.index0] %}
+  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  {% for page in pages %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}

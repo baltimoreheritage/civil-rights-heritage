@@ -15,7 +15,7 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 gem "jekyll"
-
+gem "minimal-mistakes-jekyll"
 gem "jekyll-pandoc"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"

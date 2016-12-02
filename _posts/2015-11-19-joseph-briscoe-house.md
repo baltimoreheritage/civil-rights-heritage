@@ -1,7 +1,7 @@
 ---
 title: "Documenting the George W. King/Abraham Briscoe House for potential landmark designation"
 header:
-  overlay_image: http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg
+  overlay_image: /assets/images/http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg
   caption: "1232-1234 Druid Hill Avenue. Photograph by Eli Pousson, November 2015."
 ---
 
