@@ -1,7 +1,7 @@
 ---
 title: "Baltimore’s Confederate Memory & Monuments"
 permalink: /confederate-memory/
-categories: 'bigfoot,annotate'
+categories: 'bigfoot'
 tags: draft
 ---
 
@@ -23,7 +23,7 @@ During and after the Civil War, Americans from both northern and southern states
 
 Due in part to the legacy of memorials as an intentional re-interpretation and ennobling of Confederate history, public Confederate memorials present a troubling reminder of the power of racism and white supremacy in Baltimore and Maryland between the 1880s and 1940s. The meaning of the works is not limited to what they say about the Civil War but what they say about the racist reaction against black civil rights in Maryland and throughout the South in the 19th and 20th centuries.
 
-What do we do about the legacy of racism present in our city’s monuments? What does a commitment to fighting racism mean for public art, historic preservation and public memory? Does it require us to include diverse voices in public art through signage and programming? Or only to exclude the images and voices of white supremacy? Or some deeper commitment to restorative justice—documenting past wrongs and working to make them right? If justice is our goal, then how do we link these symbolic issues to political and material concerns in the present—as they were linked in the monuments erected by earlier generations of Baltimoreans? These are some of the questions facing Baltimore today, which this paper hopes to inform.
+What do we do about the legacy of racism present in our city’s monuments? What does a commitment to fighting racism mean for public art, historic preservation and public memory? Does it require us to include diverse voices in public art through signage and programming? Or only to exclude the images and voices of white supremacy? Or some deeper commitment to restorative justice—documenting past wrongs and working to make them right? If justice is our goal, then how do we link these symbolic issues to political and material concerns in the present—as they were linked in the monuments erected by earlier generations of Baltimoreans? These are some of the questions facing Baltimore today, which this study hopes to inform.
 
 Baltimore Heritage has not offered any recommendations on the reinterpretation, removal or relocation of Baltimore’s Confederate monuments. Instead, our goal with this study is to encourage our neighbors, elected officials, and key decision-makers to take the concerns that activists have raised about these public artworks seriously and to acknowledge their importance to Baltimore’s past, present and future.
 
