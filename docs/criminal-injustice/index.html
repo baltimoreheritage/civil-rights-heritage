@@ -1,6 +1,10 @@
-
-
 <!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.2.2 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
 <html lang="en" class="no-js">
   <head>
     <meta charset="utf-8">
@@ -24,6 +28,8 @@
 
 
 
+
+<meta name="author" content="Baltimore Heritage">
 
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Baltimore’s Civil Rights Heritage">
@@ -49,6 +55,8 @@
     
   
 
+  
+    <meta name="twitter:creator" content="@Baltimore Heritage">
   
 
 
@@ -111,18 +119,33 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="https://baltimoreheritage.github.io/civil-rights-heritage/assets/css/main.css">
 
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
 <meta http-equiv="cleartype" content="on">
     <!-- start custom head snippets -->
 
 <!-- Favicons created w/ http://realfavicongenerator.net/ -->
 
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
-<link rel="icon" type="image/png" href="/assets/images/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/assets/images/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="/assets/images/manifest.json">
-<link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="shortcut icon" href="/assets/images/favicon.ico">
-<meta name="msapplication-config" content="/assets/images/browserconfig.xml">
+<link rel="apple-touch-icon" sizes="180x180" href="https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/manifest.json">
+<link rel="mask-icon" href="https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/favicon.ico">
+<meta name="msapplication-config" content="https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
 <!-- Bigfoot JS links via rawgit.com - http://www.bigfootjs.com/ + jQuery from jQuery CDN -->
@@ -169,9 +192,8 @@ jQuery(function() {
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+        <a class="site-title" href="https://baltimoreheritage.github.io/civil-rights-heritage/">Baltimore’s Civil Rights Heritage</a>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://baltimoreheritage.github.io/civil-rights-heritage/">Baltimore’s Civil Rights Heritage</a></li>
           
             
             <li class="masthead__menu-item"><a href="https://baltimoreheritage.github.io/civil-rights-heritage/about/">About</a></li>
@@ -186,6 +208,7 @@ jQuery(function() {
             <li class="masthead__menu-item"><a href="https://baltimoreheritage.github.io/civil-rights-heritage/resources/">Resources</a></li>
           
         </ul>
+        <button><div class="navicon"></div></button>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
@@ -193,8 +216,6 @@ jQuery(function() {
 </div>
 
     
-
-
 
 
 
@@ -240,36 +261,40 @@ jQuery(function() {
 <p>On March 9, 1826, the state transferred control of the local police to Baltimore’s Mayor with a new ordinance that required the appointment of officers for the Eastern, Middle and Western Districts. The Eastern District occupied a building at 1621 Bank Street dating from around 1822 that remained in use up through 1959. The Middle District (later renamed the Central District) occupied a building at Holiday and Saratoga Streets built in 1802 that the police continued to occupied until 1870. The Western District operated in a building on Greene Street between Baltimore Street, and Belvidere Street. On February 18, 1845, the Southern District was established and moved into a station house at Montgomery and Sharp Streets, where it remained until 1896.</p>
 <p>In the wake of <a href="https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion">Nat Turner’s Rebellion</a>, a slave revolt which took place on August 21, 1831 in Southampton, Virginia, Maryland joined other Southern states in passing legislation that placed new restrictions on free blacks. This 1832 law prohibited free African-Americans from entering the state, barred free blacks from owning firearms without a certificate from county officials, and outlawed the sale of alcohol, powder, and shot to blacks. The legislation even took away the right of African-American to hold religious meetings without the presence of a white minister.</p>
 <p>The decision by the U.S. Supreme Court in <a href="https://en.wikipedia.org/wiki/Prigg_v._Pennsylvania">Prigg v. Pennsylvania</a> (1842) upheld the <a href="https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1793">Federal Fugitive Slave Act of 1793</a> and struck down a Pennsylvania state law prohibiting African-Americans blacks from being transported out of Pennsylvania back into slavery. In 1846, Rev. Charles Torrey, an abolitionist and conductor on the “Underground Railroad,” died in the Maryland Penitentiary after his arrest and imprisonment for aiding, enticing or assisting enslaved blacks to run away.</p>
+<p>Seth Rockman describes the challenges facing free people of color at the hands of the city watch in this period, writing:</p>
+<blockquote>
+<p>Consider two sets of petitions arriving at city hall in the 1830s. The first came from free people of color facing legal discrimination in trying to earn a living. To work past an evening curfew, hack driver Alexander Henson needed a white patron to testify he was “a sober, Honest man and worthy of the privilege he asks for.” David Roberts worked in the daytime as a porter and at night as an oyster shucker in a restaurant, but walking home late at night, he was “molested by the watch.” A white patron also had to petition on his behalf for a passport. Similar requests arrived for waiter Benjamin Ford and beer bottler Perry Boudley, whose brewery shift ran from 10 p.m. until 2 a.m.<span class="citation" data-cites="rockman_scraping_2010"><a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></span></p>
+</blockquote>
 <h2 id="september-18-1850-congress-passes-the-fugitive-slave-act-of-1850">September 18, 1850: Congress passes the Fugitive Slave Act of 1850</h2>
 <p>Such conditions became even worse with the passage of the infamous <a href="https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850">Fugitive Slave Act of 1850</a> – legislation passed by Congress on September 18, 1850 in an attempt to stem the tide of enslaved people escaped from bondage in the South including many who (with support from abolitionists citizens and sympathetic local courts) had been able to live free in the north.</p>
 <p>Baltimore’s courts, jails and police officers played an active role in enforcing this new legislation. They also began to professionalize in this same period. On March 16, 1853, the Maryland legislature passed a bill, “To provide for the better security for the citizens and property in the City of Baltimore,” that established new requirements that all Baltimore police officers be armed and be furnished with a badge and commission.</p>
 <p>The significant association between Baltimore’s jails and courts and efforts to suppress abolition work in the South dated back to the early 19th century. Additional research is needed on individuals such as Elisha Tyson - a Quaker merchant and influential abolitionist - whose <a href="http://explore.baltimoreheritage.org/items/show/230">summer home</a> is still located in the Stone Hill neighborhood. Elisa Tyson’s life is chronicled in the <a href="https://archive.org/details/lifeofelishatyso00tyso">Life of Elisha Tyson, the philanthropist</a> published 1825.</p>
 <p>Writing in the 1883 <a href="https://archive.org/details/historyofcolored00alex">History of the colored race in America</a>, William T. Alexander observed a “remarkable” growth in the “activity and universality of slave hunting” under the new law. The examples Alexander highlighted included James Hamlet captured in New York City at the request of a Baltimore slave-holder and the murder of William Smith in Pennsylvania by a Baltimore police officer :</p>
 <blockquote>
-<p>“That Act became a law on the 18th of September and, within ten days thereafter, a colored man named James Hamlet had been seized in the city of New York and very summarily dispatched to a woman in Baltimore, who claimed him as her slave. […]<span class="citation" data-cites="alexander_history_1887"><a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></span></p>
+<p>“That Act became a law on the 18th of September and, within ten days thereafter, a colored man named James Hamlet had been seized in the city of New York and very summarily dispatched to a woman in Baltimore, who claimed him as her slave. […]<span class="citation" data-cites="alexander_history_1887"><a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></span></p>
 </blockquote>
 <blockquote>
-<p>“The needless brutality with which these seizures were often made tended to intensify the popular repugnance which they occasioned. In repeated instances, the first notice the alleged fugitive had of his peril was given him by a blow on the head, sometimes with a club or stick of wood; and being thus knocked down, he was carried bleeding and insensible, before the facile commissioner, who made short work of identifying him and earning his ten dollars by remanding him into slavery. In Columbia, Penn., March, 1852, a colored person named William Smith was seized as a fugitive by a Baltimore police officer, while working in a lumber yard, and, attempting to escape the officer drew a pistol and shot him dead.”<span class="citation" data-cites="alexander_history_1887"><a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></span></p>
+<p>“The needless brutality with which these seizures were often made tended to intensify the popular repugnance which they occasioned. In repeated instances, the first notice the alleged fugitive had of his peril was given him by a blow on the head, sometimes with a club or stick of wood; and being thus knocked down, he was carried bleeding and insensible, before the facile commissioner, who made short work of identifying him and earning his ten dollars by remanding him into slavery. In Columbia, Penn., March, 1852, a colored person named William Smith was seized as a fugitive by a Baltimore police officer, while working in a lumber yard, and, attempting to escape the officer drew a pistol and shot him dead.”<span class="citation" data-cites="alexander_history_1887"><a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></span></p>
 </blockquote>
 <p>At the outset of the Civil War, Union troops occupied Baltimore City taking control of the Baltimore City police on June 27, 1861, two months after the <a href="https://en.wikipedia.org/wiki/Baltimore_riot_of_1861">Pratt Street riot</a> where Baltimoreans sympathetic to the Confederacy attacked the Union Army as they passed through the city. In March 1862, the military turned authority over the police department to the state of Maryland.</p>
 <h2 id="board-of-police-commissioners-established">1867: Board of Police Commissioners established</h2>
 <p>Following the end of the Civil War, in 1867, the Maryland state legislature established a Board of Police Commissioners (Chapter 367, Acts of 1867). Between 1867 and 1920, Maryland’s governor appointed the members of the Board of Police Commissioners.</p>
 <p>Richard Paul Fuke comments extensively on the relationship between the police and African Americans in Baltimore during and after the Civil War in <em>Imperfect equality: African Americans and the confines of white racial attitudes in post-emancipation Maryland</em>, writing:</p>
 <blockquote>
-<p>Beginning immediately after emancipation, black Baltimoreans fell afoul of the law in unprecedented numbers, a fact that exacerbated tensions both within the black community and between it and neighboring whites. Between 1864 and 1870, a growing number of blacks were charged with petty theft, assault, and disorderly conduct. The picture that emerged from the records of the justice of the peace, the Baltimore Criminal Court, and the city jail was clearly that of people chronically at odds with the police and the justice system. […] Unable to cope with the increased case load, and hard-pressed to find additional jail cells, city officials dismissed many such charges, especially those against minors, and accepted them as an unavoidable consequence of black migration and the shortage of incarceration space.<span class="citation" data-cites="fuke_imperfect_1999"><a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></span></p>
+<p>Beginning immediately after emancipation, black Baltimoreans fell afoul of the law in unprecedented numbers, a fact that exacerbated tensions both within the black community and between it and neighboring whites. Between 1864 and 1870, a growing number of blacks were charged with petty theft, assault, and disorderly conduct. The picture that emerged from the records of the justice of the peace, the Baltimore Criminal Court, and the city jail was clearly that of people chronically at odds with the police and the justice system. […] Unable to cope with the increased case load, and hard-pressed to find additional jail cells, city officials dismissed many such charges, especially those against minors, and accepted them as an unavoidable consequence of black migration and the shortage of incarceration space.<span class="citation" data-cites="fuke_imperfect_1999"><a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a></span></p>
 </blockquote>
 <p>In a context where conservative newspapers like the <em>Baltimore Gazette</em> charged the relationship between black migrants and crime was determined by the “inherent shortcomings,” Fuke concluded that:</p>
 <blockquote>
-<p>The degree and intensity of public attention to migration, poverty and crime and whites’ explanation of the relationship of each to the other made it difficult for blacks to defend themselves. Nor was it made any easier when the city’s main law enforcement agency—the police—operated on the basis of such assumptions. From the start, the police were quick to call attention to the presence of rural migrants, to seek their remove to the counties from whence they came, and—when that failed to keep a close eye on their behavior. Such vigilance led to constant police scrutiny of the black community and the instant deployment of armed squads whenever blacks participated in public occasions either on their own or with whites. In short, the actions of the police served as a constant reminder of white Baltimoreans’ perception of not only blacks’ place in the community, but also of the connection between it and civic disorder.<span class="citation" data-cites="fuke_imperfect_1999"><a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a></span></p>
+<p>The degree and intensity of public attention to migration, poverty and crime and whites’ explanation of the relationship of each to the other made it difficult for blacks to defend themselves. Nor was it made any easier when the city’s main law enforcement agency—the police—operated on the basis of such assumptions. From the start, the police were quick to call attention to the presence of rural migrants, to seek their remove to the counties from whence they came, and—when that failed to keep a close eye on their behavior. Such vigilance led to constant police scrutiny of the black community and the instant deployment of armed squads whenever blacks participated in public occasions either on their own or with whites. In short, the actions of the police served as a constant reminder of white Baltimoreans’ perception of not only blacks’ place in the community, but also of the connection between it and civic disorder.<span class="citation" data-cites="fuke_imperfect_1999"><a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a></span></p>
 </blockquote>
 <h2 id="september-1867-policeman-frey-shoots-and-kills-eliza-taylor">September 1867: Policeman Frey shoots and kills Eliza Taylor</h2>
 <p>Historian Richard Paul Fuke noted the “fatal police shooting of Eliza Taylor, a black woman, in September 1867,” quoting the <em>Baltimore American</em>:</p>
 <blockquote>
-<p>A colored woman was killed under circumstances which show the spirit of hate and oppression cherished toward that portion of the population by many of the police.<span class="citation" data-cites="fuke_imperfect_1999"><a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a></span></p>
+<p>A colored woman was killed under circumstances which show the spirit of hate and oppression cherished toward that portion of the population by many of the police.<span class="citation" data-cites="fuke_imperfect_1999"><a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a></span></p>
 </blockquote>
 <p>The police officer involved in the shooting was acquitted of murder prompting criticism from a convention of black leaders in Baltimore, as the <em>Baltimore American</em> reported:</p>
 <blockquote>
-<p>The President [George A. Hackett] stated the object of the meeting, quoting the Declaration of Independence in proof of the fact that the colored people have no friends in Baltimore in the Governor or the police, and cited the action of the Grand Jury in discharging the Policeman Frey, charged with the murder of the colored woman, Eliza Taylor, as a specimen of the justice which is meted out to colored people in this city.<span class="citation" data-cites="fuke_imperfect_1999"><a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a></span></p>
+<p>The President [George A. Hackett] stated the object of the meeting, quoting the Declaration of Independence in proof of the fact that the colored people have no friends in Baltimore in the Governor or the police, and cited the action of the Grand Jury in discharging the Policeman Frey, charged with the murder of the colored woman, Eliza Taylor, as a specimen of the justice which is meted out to colored people in this city.<span class="citation" data-cites="fuke_imperfect_1999"><a href="#fn7" class="footnoteRef" id="fnref7"><sup>7</sup></a></span></p>
 </blockquote>
 <h2 id="house-of-reformation-and-instruction-for-colored-children-established">1870: House of Reformation and Instruction for Colored Children established</h2>
 <p>The expansion of police action against black Baltimoreans also included new and expanded detention facilities. In one example, according to the <a href="http://msa.maryland.gov/msa/mdmanual/19djj/html/djjf.html">Maryland State Archives</a>:</p>
@@ -290,7 +315,7 @@ jQuery(function() {
 <p>While the accuracy of this account has not been fully verified, the efforts to undermine black political power and public assembly in Baltimore prefigures the eventual destruction of the “Negro Militias” that formed during Reconstruction in several Southern states to protect free African-Americans and support new Republican state governments against the armed insurgency and terrorism of the Ku Klux Klan and the White League.</p>
 <p>During the decades after the Civil War, the Baltimore City Police Department frequently broke up public assemblies by African-Americans, as Jeffrey Richardson Brackett noted in his study of <em>Colored People of Maryland since the War</em>, writing:</p>
 <blockquote>
-<p>”In this respect, again, the strong influence of the clergy and intelligent leaders, ambitious for the race, seems to be bearing fruit in a general progress. The expensive social and the promenade are less popular, and the entertainments and picnics that are held are, as a rule, more creditable. The cake-walks and drum-corp matches and there were nine colored drum-corps, a few years ago used often to end with necessary interference of the police, and the patrol-wagon has sometimes been summoned to the assembly halls. One who has for years played a violin at dances of the colored people, recalls, with a laugh, how he often had to retreat for safety beneath the stage, and bears witness to the improvement, now. But there is still vast room for improvement.”<span class="citation" data-cites="brackett_notes_1890"><a href="#fn7" class="footnoteRef" id="fnref7"><sup>7</sup></a></span></p>
+<p>”In this respect, again, the strong influence of the clergy and intelligent leaders, ambitious for the race, seems to be bearing fruit in a general progress. The expensive social and the promenade are less popular, and the entertainments and picnics that are held are, as a rule, more creditable. The cake-walks and drum-corp matches and there were nine colored drum-corps, a few years ago used often to end with necessary interference of the police, and the patrol-wagon has sometimes been summoned to the assembly halls. One who has for years played a violin at dances of the colored people, recalls, with a laugh, how he often had to retreat for safety beneath the stage, and bears witness to the improvement, now. But there is still vast room for improvement.”<span class="citation" data-cites="brackett_notes_1890"><a href="#fn8" class="footnoteRef" id="fnref8"><sup>8</sup></a></span></p>
 </blockquote>
 <p>A powerful example of the consequences of this practice can be found in the case of Daniel Brown’s shooting by Baltimore police officer Patrick McDonald in July 1875.</p>
 <h2 id="northwestern-district-station-house-erected-on-pennsylvania-avenue">1874: Northwestern District station house erected on Pennsylvania Avenue</h2>
@@ -313,7 +338,7 @@ jQuery(function() {
 <p>On November 24, 1875, the jury returned the verdict: “Not guilty of murder, but guilty of manslaughter.”</p>
 <p>The protests against the murder had a lasting legacy two generations later, as Juan Williams described, <em>In Thurgood Marshall: American Revolutionary</em>:</p>
 <blockquote>
-<p>Despite the racial tension in the city, Thurgood’s father had very good white friends, including a local policeman, Captain Cook, who occasionally came by to spend some time with Willie Marshall. According to Thurgood, his dad had no hostile feelings toward whites in Baltimore. When Captain Cook knocked at the door, Thurgood knew to go get his father because the policeman would never come in without Willie Marshall’s personal invitation. His father had set down a rule—if any policeman entered his house without permission, he would kill him. This rule applying even to friends, reflected a widespread concern among black Baltimoreans about the power of an all-white police force. Willie’s hard-nosed stance came from an 1875 incident. Norma’s father had been the leader of a citywide protest against a policeman who shot and killed a black man after forcing his way into the man’s house.<span class="citation" data-cites="williams_thurgood_2011"><a href="#fn8" class="footnoteRef" id="fnref8"><sup>8</sup></a></span></p>
+<p>Despite the racial tension in the city, Thurgood’s father had very good white friends, including a local policeman, Captain Cook, who occasionally came by to spend some time with Willie Marshall. According to Thurgood, his dad had no hostile feelings toward whites in Baltimore. When Captain Cook knocked at the door, Thurgood knew to go get his father because the policeman would never come in without Willie Marshall’s personal invitation. His father had set down a rule—if any policeman entered his house without permission, he would kill him. This rule applying even to friends, reflected a widespread concern among black Baltimoreans about the power of an all-white police force. Willie’s hard-nosed stance came from an 1875 incident. Norma’s father had been the leader of a citywide protest against a policeman who shot and killed a black man after forcing his way into the man’s house.<span class="citation" data-cites="williams_thurgood_2011"><a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a></span></p>
 </blockquote>
 <h2 id="july-19-1884-police-officer-f.l.-kruse-shoots-and-kills-john-wesley-green">July 19, 1884: Police officer F.L. Kruse shoots and kills John Wesley Green</h2>
 <p>On July 24, 1884, the <em>Baltimore Sun</em> reported:</p>
@@ -364,17 +389,17 @@ jQuery(function() {
 <p>In 1920, the Board of Police Commissioners was established and General Charles D. Gaither was appointed as the first Police Commissioner.</p>
 <p>The conduct of officers under Gaither’s oversight proved to be a powerful influence on a young Thurgood Marshall who, from his classroom, had a close-up view of the Northwestern District Police Station as a student at the Colored High School on Pennsylvania Avenue in the early 1920s. In <em>Thurgood Marshall: American Revolutionary</em>, Juan Williams writes:</p>
 <blockquote>
-<p>Sitting in a second-floor classroom and next to the window, he had a bird’s-eye view of the Northwest Baltimore police station. He could see prisoners, mostly black, being brought in by the all-white police. Often he could even hear as black suspects were questioned about crimes and sometimes hit with a club or brass knuckles to loosen up a confession. Essie Hughes remembered Thurgood being so fascinated by the goings-on in the jailhouse that teachers sometimes had to tell him to pull down the window shades.<span class="citation" data-cites="williams_thurgood_2011"><a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a></span></p>
+<p>Sitting in a second-floor classroom and next to the window, he had a bird’s-eye view of the Northwest Baltimore police station. He could see prisoners, mostly black, being brought in by the all-white police. Often he could even hear as black suspects were questioned about crimes and sometimes hit with a club or brass knuckles to loosen up a confession. Essie Hughes remembered Thurgood being so fascinated by the goings-on in the jailhouse that teachers sometimes had to tell him to pull down the window shades.<span class="citation" data-cites="williams_thurgood_2011"><a href="#fn10" class="footnoteRef" id="fnref10"><sup>10</sup></a></span></p>
 </blockquote>
 <p>Williams continued to quote Marshall’s recollection of what he heard, writing:</p>
 <blockquote>
-<p>“We could hear police in there beating the hell out of people, saying, ‘Black boy, why don’t you just shut your goddamned mouth, you’re going to talk yourself into the electric chair.’”<span class="citation" data-cites="williams_thurgood_2011"><a href="#fn10" class="footnoteRef" id="fnref10"><sup>10</sup></a></span></p>
+<p>“We could hear police in there beating the hell out of people, saying, ‘Black boy, why don’t you just shut your goddamned mouth, you’re going to talk yourself into the electric chair.’”<span class="citation" data-cites="williams_thurgood_2011"><a href="#fn11" class="footnoteRef" id="fnref11"><sup>11</sup></a></span></p>
 </blockquote>
 <p>Neither the original Colored High School building or the Northwest Police Station building are still extant. Williams further notes the powerful influence of Thurgood Marshall’s father—Willie Marshall—who when he “wasn’t working on the trains” was “a regular figure in the rear of courtrooms, a hat perched on his lap as he watched trials.”</p>
 <h2 id="conference-of-ame-ministers-organizes-to-secure-appointment-of-black-police-officers">1925: Conference of AME Ministers organizes to secure appointment of black police officers</h2>
-<p>In 1925, the Conference of AME Ministers sets up a committee to consider the best way to place black officers on the police force.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn11" class="footnoteRef" id="fnref11"><sup>11</sup></a></span></p>
+<p>In 1925, the Conference of AME Ministers sets up a committee to consider the best way to place black officers on the police force.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn12" class="footnoteRef" id="fnref12"><sup>12</sup></a></span></p>
 <h2 id="afro-reports-on-discrimination-and-capital-punishment">1926: Afro reports on discrimination and capital punishment</h2>
-<p>In a 1926 report on capital punishment in Maryland the <em>Afro-American</em> newspaper pointed out that from 1903 to 1926 nine of ten men executed in Maryland for murder or rape were black and called for an end to the death penalty.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn12" class="footnoteRef" id="fnref12"><sup>12</sup></a></span></p>
+<p>In a 1926 report on capital punishment in Maryland the <em>Afro-American</em> newspaper pointed out that from 1903 to 1926 nine of ten men executed in Maryland for murder or rape were black and called for an end to the death penalty.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn13" class="footnoteRef" id="fnref13"><sup>13</sup></a></span></p>
 <h2 id="may-31-1926-police-officer-james-o.-jones-beats-henry-boyer">May 31, 1926: Police officer James O. Jones beats Henry Boyer</h2>
 <p>On June 12, 1926, the Afro-American reported on an efforts by Baptist ministers in Baltimore to protest the actions of Baltimore police officer James O. Jones in “beating up” Henry Boyer, writing:</p>
 <blockquote>
@@ -428,21 +453,21 @@ jQuery(function() {
 <p>When Maryland, in 1931, established the Maryland Training School for Colored Girls as a reformatory, superseding the Industrial Home for Colored Girls, it too came under the oversight of the State Superintendent of Schools (Chapter 367, Acts of 1931). The State completed its acquisition of private reform schools in 1937 by taking over the House of Reformation at Cheltenham as the State reformatory for black boys and renaming it Cheltenham School for Boys (Chapter 70, Acts of 1937).</p>
 </blockquote>
 <h2 id="december-12-1931-lynching-of-matthew-williams-covered-in-the-afro-american">December 12, 1931: Lynching of Matthew Williams covered in the Afro-American</h2>
-<p>Afro publishes “Maryland’s Shame Edition,” covering the lynching of Matthew Williams in Salisbury, Maryland.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn13" class="footnoteRef" id="fnref13"><sup>13</sup></a></span></p>
+<p>Afro publishes “Maryland’s Shame Edition,” covering the lynching of Matthew Williams in Salisbury, Maryland.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn14" class="footnoteRef" id="fnref14"><sup>14</sup></a></span></p>
 <h2 id="grand-jury-recommends-hiring-black-police">1932: Grand Jury recommends hiring black police</h2>
 <p>On May 21, 1932, the <em>Baltimore Sun</em> reported under the headline, WOULD COLORED POLICE REDUCE CRIME?: Grand Jury’s Proposal of Colored Police Officers Awakens Fight for Representation in Baltimore’s Police Department, writing:</p>
 <blockquote>
 <p>The recommendation of the retiring January term of the grand jury, that colored patrolmen and policewomen be appointed in colored sections of Baltimore, recalls [… incomplete transcription]</p>
 </blockquote>
 <h2 id="george-armwood-lynched">1933: George Armwood lynched</h2>
-<p>City editor William N. Jones assigned reporters Ralph Matthews Sr., Clarence Mitchell, Levi Jolley, and photographer Paul Henderson to cover the Armwood lynching. They all carried guns to protect themselves from potential lynchers. Their mission was to report the lynching against all odds. The intrepid Afro team drove from Baltimore to Princess Anne (an almost 400 mile round trip in the era before the construction of the Chesapeake Bay Bridge). One there the reporters interviewed Armwood’s mother, helped bury Armwood’s body, interviewed local black leaders, and attended the coroner’s inquest.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn14" class="footnoteRef" id="fnref14"><sup>14</sup></a></span></p>
+<p>City editor William N. Jones assigned reporters Ralph Matthews Sr., Clarence Mitchell, Levi Jolley, and photographer Paul Henderson to cover the Armwood lynching. They all carried guns to protect themselves from potential lynchers. Their mission was to report the lynching against all odds. The intrepid Afro team drove from Baltimore to Princess Anne (an almost 400 mile round trip in the era before the construction of the Chesapeake Bay Bridge). One there the reporters interviewed Armwood’s mother, helped bury Armwood’s body, interviewed local black leaders, and attended the coroner’s inquest.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn15" class="footnoteRef" id="fnref15"><sup>15</sup></a></span></p>
 <h2 id="october-28-1933-euel-lee-executed">October 28, 1933: Euel Lee executed</h2>
 <h2 id="governor-nice-speech-at-city-wide-young-peoples-forum">1936: Governor Nice speech at City-Wide Young People’s Forum</h2>
 <p>On Feb 22, 1936, the <em>Baltimore Sun</em> reported on how the Young People’s Forum “Launches Drive for police Appointments,” writing:</p>
 <blockquote>
 <p>”In a spirited meeting to which it had invited George Brennan, white, secretary to Comissioner Charles Gaither [… incomplete transcription]”</p>
 </blockquote>
-<p>In a speech before the City-Wide Young People’s Forum, Governor Nice promised to appoint a police commissioner who would not discriminate against black people in hiring police officers.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn15" class="footnoteRef" id="fnref15"><sup>15</sup></a></span></p>
+<p>In a speech before the City-Wide Young People’s Forum, Governor Nice promised to appoint a police commissioner who would not discriminate against black people in hiring police officers.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn16" class="footnoteRef" id="fnref16"><sup>16</sup></a></span></p>
 <p>In <em>Street Justice: A History of Police Violence in New York City</em> historian Marilynn S. Johnson noted:</p>
 <blockquote>
 <p>”In the landmark Brown v. Mississippi case in 1936, however, the Supreme Court excluded the confessions of three black murder suspects who had been tortured by Mississippi police. In a horrific case of racist southern justice, police openly admitted whipping the defendants and stringing up one of them on a lynch rope to force a confession. Shocked by this brutal treatment, the justices were even more outraged that the Mississippi high court had condoned such police torture. In ruling the confessions inadmissible, the court extended the common law rule to state and local cases under the due process clause of the Fourteenth Amendment. In the 1940s, the Supreme Court expanded this precedent to cases involving prolonged police grilling and psychological coercion as well.”</p>
@@ -450,7 +475,7 @@ jQuery(function() {
 <h2 id="december-1937-baltimore-police-appoint-violet-hill-whyte-as-the-first-black-police-officer">December 1937: Baltimore Police appoint Violet Hill Whyte as the first black police officer</h2>
 <p>Baltimore Police Department hires Violet Hill Whyte as the first black police officer.</p>
 <h2 id="july-1938-police-commissioner-william-lawson-appoints-the-first-black-male-police-officers">July 1938: Police Commissioner William Lawson appoints the first black male police officers</h2>
-<p>Police Commissioner William Lawson appointed Walter T. Eubanks, Jr., Harry S. Scott, Milton Gardner, and J. Hiram Butler, Jr., from a list of police candidates. The three officers were forced only to wear plain-clothes (a policy similar to Louisville, KY which appointed plain-clothes black police officers in 1928). Anticipating this change, the League of Colored Republican Voters had sponsored a school to prepare blacks Baltimoreans for the police examination.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn16" class="footnoteRef" id="fnref16"><sup>16</sup></a></span></p>
+<p>Police Commissioner William Lawson appointed Walter T. Eubanks, Jr., Harry S. Scott, Milton Gardner, and J. Hiram Butler, Jr., from a list of police candidates. The three officers were forced only to wear plain-clothes (a policy similar to Louisville, KY which appointed plain-clothes black police officers in 1928). Anticipating this change, the League of Colored Republican Voters had sponsored a school to prepare blacks Baltimoreans for the police examination.<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn17" class="footnoteRef" id="fnref17"><sup>17</sup></a></span></p>
 <h2 id="february-21-1942-police-officer-edward-r.-bender-kills-thomas-broadus">February 21, 1942: Police officer Edward R. Bender kills Thomas Broadus</h2>
 <p>On February 7, 1942, the Afro reported on the death of Thomas Broadus after he was shot and killed by Edward R. Bender:</p>
 <blockquote>
@@ -466,7 +491,7 @@ jQuery(function() {
 <p>Charging that there is prima facie evidence that the killing by Patrolman Edward R. Bender, of the Northwestern district, of a Negro soldier last February “was unlawful,” a subcommittee of the State Commission to Study Colored Problems yesterday recommended the case be resubmitted to the grand jury. In a report highly critical of the administration of Robert F. Stanton as Police Commissioner, the subcommittee also characterized as “unsatisfactory” the handling of the case by J. Bernard Wells, State’s Attorney.</p>
 </blockquote>
 <h2 id="black-police-officers-placed-in-uniform-assignments">1943: Black police officers placed in uniform assignments</h2>
-<p>In the summer of 1944, Baltimore’s first police (segregated white) boys’ club moved into the upper floors of the Southwestern District Police Station serving around 120 boys from eight to eighteen years old every day during the first few weeks after they opened. Police Commissioner Hamilton Atkinson placed the three of original four black officers into uniformed appointments, appointed two to begin patrolling in East Baltimore.<a href="#fn17" class="footnoteRef" id="fnref17"><sup>17</sup></a></p>
+<p>In the summer of 1944, Baltimore’s first police (segregated white) boys’ club moved into the upper floors of the Southwestern District Police Station serving around 120 boys from eight to eighteen years old every day during the first few weeks after they opened. Police Commissioner Hamilton Atkinson placed the three of original four black officers into uniformed appointments, appointed two to begin patrolling in East Baltimore.<a href="#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a></p>
 <p>The city started four boys’ clubs in the 1940s, with a segregated facility for black children at the Northwestern District Police Station on Gold Street.</p>
 <h2 id="may-16-1946-wilbur-bundley-shot-and-killed-by-patrolman-walter-j.-weber">May 16, 1946: Wilbur Bundley shot and killed by patrolman Walter J. Weber</h2>
 <p>On June 10, 1946, the Baltimore Sun reported on the organized protests in response to the shooting of Wilbur Bundley by patrolman Walter J. Weber:</p>
@@ -487,7 +512,7 @@ jQuery(function() {
 <p>Calling for. a more militant attitude by the Negroes of Baltimore in the maintenance of their constitutional rights and privileges, speakers at a meeting held in Leadenhall Baptist Church yesterday afternoon charged the city’s police with brutality toward both…</p>
 </blockquote>
 <p>On August 22, 1946, George Cochran Doub campaigned as a Republican for the office of attorney general and highlighted the “too many complaints of brutality by policemen in Baltimore” as a violation of Citizens’ Rights. Doub eventually served as the United States Attorney for Maryland from 1953 to 1956. He then became the Assistant Attorney General responsible for the Justice Department’s civil division during President Eisenhower’s second term.</p>
-<p>By 1950, the department had hired fifty black police officers hired and, upon Atkinson’s retirement in May 1950, the <em>Afro</em> praised his tenure as “one devoted to serving all regardless of race”<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a></span></p>
+<p>By 1950, the department had hired fifty black police officers hired and, upon Atkinson’s retirement in May 1950, the <em>Afro</em> praised his tenure as “one devoted to serving all regardless of race”<span class="citation" data-cites="farrar_baltimore_1998"><a href="#fn19" class="footnoteRef" id="fnref19"><sup>19</sup></a></span></p>
 <p>On May 16, 1950, a delegation of black Baltimoreans approached city police Commissioner Ober charging police brutality and identifying 16 cases for investigation, as the <em>Sun</em> reported:</p>
 <blockquote>
 <p>Protests were made yesterday to Commissioner Beverly Ober regarding alleged Instances of police brutality in recent handling of Negro prisoners.</p>
@@ -585,24 +610,25 @@ jQuery(function() {
 <section class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>Alexander, <em>History of the Colored Race in America</em>. <a href="#fnref1">↩</a></p></li>
-<li id="fn2"><p>Ibid., 208. <a href="#fnref2">↩</a></p></li>
-<li id="fn3"><p>Fuke, <em>Imperfect Equality</em>, 127–28. <a href="#fnref3">↩</a></p></li>
-<li id="fn4"><p>Ibid., 130. <a href="#fnref4">↩</a></p></li>
-<li id="fn5"><p>Ibid., 131. <a href="#fnref5">↩</a></p></li>
+<li id="fn1"><p><span class="citeproc-not-found" data-reference-id="rockman_scraping_2010"><strong>???</strong></span> <a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>Alexander, <em>History of the Colored Race in America</em>. <a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>Ibid., 208. <a href="#fnref3">↩</a></p></li>
+<li id="fn4"><p>Fuke, <em>Imperfect Equality</em>, 127–28. <a href="#fnref4">↩</a></p></li>
+<li id="fn5"><p>Ibid., 130. <a href="#fnref5">↩</a></p></li>
 <li id="fn6"><p>Ibid., 131. <a href="#fnref6">↩</a></p></li>
-<li id="fn7"><p>Brackett, <em>Notes on the Progress of the Colored People of Maryland Since the War.</em>, 59. <a href="#fnref7">↩</a></p></li>
-<li id="fn8"><p>Williams, <em>Thurgood Marshall</em>, 36. <a href="#fnref8">↩</a></p></li>
-<li id="fn9"><p>Ibid., 40. <a href="#fnref9">↩</a></p></li>
+<li id="fn7"><p>Ibid., 131. <a href="#fnref7">↩</a></p></li>
+<li id="fn8"><p>Brackett, <em>Notes on the Progress of the Colored People of Maryland Since the War.</em>, 59. <a href="#fnref8">↩</a></p></li>
+<li id="fn9"><p>Williams, <em>Thurgood Marshall</em>, 36. <a href="#fnref9">↩</a></p></li>
 <li id="fn10"><p>Ibid., 40. <a href="#fnref10">↩</a></p></li>
-<li id="fn11"><p>Farrar, <em>The Baltimore Afro-American, 1892-1950</em>, 112. <a href="#fnref11">↩</a></p></li>
-<li id="fn12"><p>Ibid., 115–17. <a href="#fnref12">↩</a></p></li>
-<li id="fn13"><p>Ibid. <a href="#fnref13">↩</a></p></li>
+<li id="fn11"><p>Ibid., 40. <a href="#fnref11">↩</a></p></li>
+<li id="fn12"><p>Farrar, <em>The Baltimore Afro-American, 1892-1950</em>, 112. <a href="#fnref12">↩</a></p></li>
+<li id="fn13"><p>Ibid., 115–17. <a href="#fnref13">↩</a></p></li>
 <li id="fn14"><p>Ibid. <a href="#fnref14">↩</a></p></li>
 <li id="fn15"><p>Ibid. <a href="#fnref15">↩</a></p></li>
 <li id="fn16"><p>Ibid. <a href="#fnref16">↩</a></p></li>
-<li id="fn17"><p>See Explore Baltimore Heritage story on the <a href="http://explore.baltimoreheritage.org/items/show/503">Old Southwestern District Police Station</a>.<a href="#fnref17">↩</a></p></li>
-<li id="fn18"><p>Ibid. <a href="#fnref18">↩</a></p></li>
+<li id="fn17"><p>Ibid. <a href="#fnref17">↩</a></p></li>
+<li id="fn18"><p>See Explore Baltimore Heritage story on the <a href="http://explore.baltimoreheritage.org/items/show/503">Old Southwestern District Police Station</a>.<a href="#fnref18">↩</a></p></li>
+<li id="fn19"><p>Ibid. <a href="#fnref19">↩</a></p></li>
 </ol>
 </section>
 
@@ -628,6 +654,7 @@ jQuery(function() {
   
   
 </div>
+
 
     <div class="page__footer">
       <footer>
@@ -673,11 +700,12 @@ jQuery(function() {
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-16215864-7', 'auto');
   ga('send', 'pageview');
 </script>
+
 
 
 
