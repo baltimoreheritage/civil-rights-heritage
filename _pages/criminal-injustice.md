@@ -37,6 +37,10 @@ In the wake of [Nat Turner’s Rebellion](https://en.wikipedia.org/wiki/Nat_Turn
 
 The decision by the U.S. Supreme Court in [Prigg v. Pennsylvania](https://en.wikipedia.org/wiki/Prigg_v._Pennsylvania) (1842) upheld the [Federal Fugitive Slave Act of 1793](https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1793) and struck down a Pennsylvania state law prohibiting African-Americans blacks from being transported out of Pennsylvania back into slavery. In 1846, Rev. Charles Torrey, an abolitionist and conductor on the “Underground Railroad,” died in the Maryland Penitentiary after his arrest and imprisonment for aiding, enticing or assisting enslaved blacks to run away.
 
+Seth Rockman describes the challenges facing free people of color at the hands of the city watch in this period, writing:
+
+>Consider two sets of petitions arriving at city hall in the 1830s. The first came from free people of color facing legal discrimination in trying to earn a living. To work past an evening curfew, hack driver Alexander Henson needed a white patron to testify he was “a sober, Honest man and worthy of the privilege he asks for.” David Roberts worked in the daytime as a porter and at night as an oyster shucker in a restaurant, but walking home late at night, he was “molested by the watch.” A white patron also had to petition on his behalf for a passport. Similar requests arrived for waiter Benjamin Ford and beer bottler Perry Boudley, whose brewery shift ran from 10 p.m. until 2 a.m.[@rockman_scraping_2010, 253]
+
 ## September 18, 1850: Congress passes the Fugitive Slave Act of 1850
 
 Such conditions became even worse with the passage of the infamous [Fugitive Slave Act of 1850](https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850) – legislation passed by Congress on September 18, 1850 in an attempt to stem the tide of enslaved people escaped from bondage in the South including many who (with support from abolitionists citizens and sympathetic local courts) had been able to live free in the north.
