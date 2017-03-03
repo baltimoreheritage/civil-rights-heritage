@@ -31,11 +31,11 @@ Christopher Phillips described the condition and location of free black housing 
 
 Phillips continued to note the concentration of black Baltimoreans along alleys:
 
-> Unlike many cities in the Deep South, where high walls enclosed yards containing slave quarters (thus often precluding the incorporation of alleys into the municipal design), Baltimore had a maze of alleyways and court-yards in which most of the city's free blacks soon came to make their homes. [...] In 1820 such places as Happy Alley, Argyle Alley, Strawberry Alley, Petticoat Alley, Apple Alley in or near Fells Point; Union Alley and Liberty Alley in Old Town; Bottle Alley, Whiskey Alley, and Brandy Alley in the core city; and Welcome Alley, Waggon Alley, Dutch Alley, Sugar Alley, and Honey Alley just to the west of the central city and to the south of it in the Federal Hill area were lined with small row houses in which multiple free black and slave families lived.
+> Unlike many cities in the Deep South, where high walls enclosed yards containing slave quarters (thus often precluding the incorporation of alleys into the municipal design), Baltimore had a maze of alleyways and court-yards in which most of the city's free blacks soon came to make their homes. [...] In 1820 such places as Happy Alley, Argyle Alley, Strawberry Alley, Petticoat Alley, Apple Alley in or near Fells Point; Union Alley and Liberty Alley in Old Town; Bottle Alley, Whiskey Alley, and Brandy Alley in the core city; and Welcome Alley, Waggon Alley, Dutch Alley, Sugar Alley, and Honey Alley just to the west of the central city and to the south of it in the Federal Hill area were lined with small row houses in which multiple free black and slave families lived.[@phillips_freedoms_1997]
 
 Despite this concentration, the city was not wholly segregated, as Phillips noted:
 
-> While alleys early on became predominantly black areas of residence in Baltimore, the city as a whole did not so quickly exhibit such segregation. [...] As in other southern cities, no legal segregation existed in antebellum Baltimore, and all residential streets (and even the alleys) had black family dwellings interspersed with those of laboring and poor whites.
+> While alleys early on became predominantly black areas of residence in Baltimore, the city as a whole did not so quickly exhibit such segregation. [...] As in other southern cities, no legal segregation existed in antebellum Baltimore, and all residential streets (and even the alleys) had black family dwellings interspersed with those of laboring and poor whites.[@phillips_freedoms_1997]
 
 # 1870 – 1905
 
@@ -69,14 +69,14 @@ Roland Park …
 
 On April 11, 1898, the _Sun_ reported under the headline "HOMES OF COLORED PERSONS: The Ministerial Union To Have An Investigation Made In The Interest Of Public Health":
 
-> At the next meeting of the Ministerial Union, the first Thursday in May, committees will be appointed to visit various sections of the city where colored persons reside, principally and report as to the condition of the dwellings and the sanitary arrangements thereof, with a view of furnishing data for public meetings to be held...
+> At the next meeting of the Ministerial Union, the first Thursday in May, committees will be appointed to visit various sections of the city where colored persons reside, principally and report as to the condition of the dwellings and the sanitary arrangements thereof, with a view of furnishing data for public meetings to be held...[@_homes_1898]
 
 ## 1904: White residents in Locust Point reportedly attack black households
 
 On October 8, 1910, as the city wrestled  the Baltimore Sun published an article under the loud headline, "THEY BLOCKED INVASION / Residents Of Locust Point Quickly Solved Negro Problem. BY FORCE AND MORAL SUASION / Young Men Of Southeast Baltimore Always Ready To Protect The Female Sex From Discourtesies," continuing:
 
 > As time passed negroes moved into Sharp street, in Southwest Baltimore, and some began to work in developing Locust Point water front. Some families evidenced a desire to live near their work. They were told by some of the Locust Point white men that if they moved into that section they would also die near their work. The white men meant it, the negroes realized it, and it is doubtful if there is a negro family in all Locust Point.
-> On evening about six years ago a negro family moved into a house in Locust Point. The furniture arrived at 6 o'clock. At midnight the house was a total wreck. The doors had been torn from their hinges and the window frames smashed. At 7 o'clock the next morning the negroes had left. They never came back.
+> On evening about six years ago a negro family moved into a house in Locust Point. The furniture arrived at 6 o'clock. At midnight the house was a total wreck. The doors had been torn from their hinges and the window frames smashed. At 7 o'clock the next morning the negroes had left. They never came back.[@_they_1910]
 
 This Locust Point example illustrates the violence frequently used to enforce the boundaries of racially segregated housing.
 
@@ -86,7 +86,7 @@ This Locust Point example illustrates the violence frequently used to enforce th
 
 Attempts by African Americans to purchase homes in segregated white neighborhoods continued to attract attention, as the _Baltimore Sun_ reported on an example from North Gilmore Street in 1906:
 
-> An indignation meeting was held last night at the home of Dr. G. W. Norris, 620 North Gllmor street, to take action against the occupation of 604 North Gilmor street by a negro orphan asylum, and there were some remarks of a heated nature.
+> An indignation meeting was held last night at the home of Dr. G. W. Norris, 620 North Gllmor street, to take action against the occupation of 604 North Gilmor street by a negro orphan asylum, and there were some remarks of a heated nature.[@_sale_1906]
  
 ## 1907: Janet Kemp study on housing conditions in Baltimore
 
@@ -99,31 +99,33 @@ Emily Lieb in _"We Clean-Up, Paint-Up, and Fix-Up Our Neighborhoods"_ writes:
 In 1909, Colonel C. Baker Clotworthy, commander of the Fifth Regiment, wrote to the _Sun_ advocating for the extension of Howard Street north of the Richmond Market as a way of demolishing black households:
 
 > I would be deeply interested in this improvement because it means so much more than simply tearing down some houses and opening a street. Everyone in the city is familiar with the steady decrease which has taken place in the value of property in this neighborhood for the last 20 years.
-> All about Richmond Market, and extending north, there are hundreds of undesirable houses and, in many cases, huts. This sore is spreading rapidly. A great many negroes, not of the best class,  gradually tenant the houses on the edge of this district and immediately the white people move from the block invaded. If this continues no one knows where it will stop.
+> All about Richmond Market, and extending north, there are hundreds of undesirable houses and, in many cases, huts. This sore is spreading rapidly. A great many negroes, not of the best class,  gradually tenant the houses on the edge of this district and immediately the white people move from the block invaded. If this continues no one knows where it will stop.[@_favors_1909]
 
 ## 1910: West Segregation Ordinance
 
-On September 9, 1910, the _Sun_ reported on "NEGRO HOMES STONED: Windows And Vestibules Damaged On McCulloh Street WHITE RESIDENTS WORRIED Third Family Of Negroes Now Moving Into No. 1804 Causes Neighbors To Fear For Their Property" —
+In response to the attempt by George W. F. McMechen to move into 1834 McCulloh Street <!-- TODO: This may be incorrect – Power mentioned something about McMechen actually acting as an agent for someone else in this transaction – maybe his law partner? --> in the early summer of 1910, Baltimore moved to establish a formal segregation ordinance which forbid black residents from moving to designated "white blocks" and white residents from moving to designated "colored blocks."[@power_apartheid_1983, 298]
 
-> "I expect to live here permanently," yesterday declared William B. Hamer, the negro who created a stir among his white neighbors on Wednesday when he moved into the house at 1802 McCulloh street.
+Violent white reaction against attempts by black residents to move onto the 1800 block of McCulloh Street continued on September 9, 1910, when the _Sun_ reported on "NEGRO HOMES STONED: Windows And Vestibules Damaged On McCulloh Street WHITE RESIDENTS WORRIED Third Family Of Negroes Now Moving Into No. 1804 Causes Neighbors To Fear For Their Property", writing:
 
-The relationship between racial transition and racial segregation is clear beginning in 1910 when Baltimore became the first city in the United States to enact a law requiring racial segregation. In response to the attempt by George W. F. McMechen to move onto the 1800 block of McCulloh Street in 1910, Baltimore established a formal segregation ordinance which forbid black residents from moving to designated "white blocks" and white residents from moving to designated "colored blocks."
+> "I expect to live here permanently," yesterday declared William B. Hamer, the negro who created a stir among his white neighbors on Wednesday when he moved into the house at 1802 McCulloh street.[@_negro_1910]
 
-On December 20, 1910, Baltimore Mayor John Barry Mahool signed into law the West Segregation Ordinance, named for sponsor Council Samuel L. West, which identified each block in the city according to the racial identity of the majority of each block’s residents in 1910. While the West Segregation Ordinance was soon overturned as unconstitutional, its passage and the multiple subsequent attempts to enact a municipal law to enforce racial segregation reflected the deep resistance of white Baltimore residents to racial integration. As a consequence, the area of Old West Baltimore, including the neighborhoods of Harlem Park, Sandtown-Winchester, and Upton, became a predominantly African American community and together with a segregated area in East Baltimore some of the only areas open to African American residents. [@power_apartheid_1983]
+On September 26, the _Sun_ chronicles further attacks on two houses occupied by African American families at 1324 Mosher Street and 828 N. Stricker Street.[@_negro_1913-3]
+
+On December 20, 1910, Baltimore Mayor John Barry Mahool signed into law the West Segregation Ordinance, named for sponsor Council Samuel L. West, which identified each block in the city according to the racial identity of the majority of each block’s residents in 1910. While the West Segregation Ordinance was soon overturned as unconstitutional, its passage and the multiple subsequent attempts to enact a municipal law to enforce racial segregation reflected the deep resistance of white Baltimore residents to racial integration. As a consequence, the area of Old West Baltimore, including the neighborhoods of Harlem Park, Sandtown-Winchester, and Upton, became a predominantly African American community and together with a segregated area in East Baltimore some of the only areas open to African American residents.[@power_apartheid_1983]
 
 ## 1917: Mayor Preston creates new committee on housing conditions for African Americans
 
-On February 27, 1917, Mayor Preston organized a committee as the _Sun_ reported under the headline – TO PLAN NEGRO HOUSING: Mayor Names Committee To Consider Baltimore's Problem Of Health Conditions –
+On February 27, 1917, Mayor Preston organized a committee as a _Sun_ report headlined "TO PLAN NEGRO HOUSING: Mayor Names Committee To Consider Baltimore's Problem Of Health Conditions" noted:
 
-> Mayor Preston took another step yesterday in the movement to provide better housing and living conditions for the 90,000 negroes in Baltimore by appointing the committee authorized at the City Hall conference last Friday to study the problem and recommend a plan looking to its solution. He named...
+> Mayor Preston took another step yesterday in the movement to provide better housing and living conditions for the 90,000 negroes in Baltimore by appointing the committee authorized at the City Hall conference last Friday to study the problem and recommend a plan looking to its solution.[@_plan_1917]
 
 On March 26, 1917, the _Sun_ reported:
 
-> NEW CITY LOAN INDORSED: Improvements Declared To Mean Much For Baltimore's Future DR. WELCH SEES BIG BENEFITS Says Solution Of Negro Housing Problem Alone Would Be Inestimable Public Service / A solution of the problem of better housing for Baltimore's 90,000 negroes will be offered to the voters of Baltimore in November when they will to asked to approve a bond issue of $3,000.000 which will serve a four-fold purpose without cost to the taxpayers.
+> NEW CITY LOAN INDORSED: Improvements Declared To Mean Much For Baltimore's Future DR. WELCH SEES BIG BENEFITS Says Solution Of Negro Housing Problem Alone Would Be Inestimable Public Service / A solution of the problem of better housing for Baltimore's 90,000 negroes will be offered to the voters of Baltimore in November when they will to asked to approve a bond issue of $3,000.000 which will serve a four-fold purpose without cost to the taxpayers.[@_new_1917]
 
 On June 18, 1919, the _Sun_ reported that little had been done, writing:
 
-> PARK BOARD IS WILLING: Ready To Provide Breathing Place In Congested Negro Area CANNOT GO AHEAD, HOWEVER And Project Apparently Is Halted Unless Mayor Recognizes Preston Commission Of 1917 / All that the Park Board is waiting -for the to create a big breathing space in Congested negro districts of Baltimore is for somebody to take; the initiative. …"
+> PARK BOARD IS WILLING: Ready To Provide Breathing Place In Congested Negro Area CANNOT GO AHEAD, HOWEVER And Project Apparently Is Halted Unless Mayor Recognizes Preston Commission Of 1917 / All that the Park Board is waiting -for the to create a big breathing space in Congested negro districts of Baltimore is for somebody to take; the initiative. …"[@_park_1919]
 
 ## 1924: Racial covenants in West Baltimore
 
@@ -157,7 +159,7 @@ First planned public housing project, Poe Homes – 298 3-story garden apartment
 
 On June 3, 1935, the _Sun_ reported:
 
-> FHA "WORTHLESS," SAYS RABBI ISRAEL: He Holds It Valueless In So Far As Providing Housing For The Very Poor SLUM HOMES DEPLORED Hundreds Of Children Murdered In City Because Of Conditions, Is Claim In Speech / Public housing for "those who need it most," rather than for "those best able to pay for it," was advocated by Rabbi Edward L. Israel, last night in an address during which he described tho Federal Housing Administration—for any social purposes — as. "absolutely worthless."
+> FHA "WORTHLESS," SAYS RABBI ISRAEL: He Holds It Valueless In So Far As Providing Housing For The Very Poor SLUM HOMES DEPLORED Hundreds Of Children Murdered In City Because Of Conditions, Is Claim In Speech / Public housing for "those who need it most," rather than for "those best able to pay for it," was advocated by Rabbi Edward L. Israel, last night in an address during which he described tho Federal Housing Administration—for any social purposes — as. "absolutely worthless."[@_fha_1935]
 
 ## 1937: Frances H. Morton publishes study on black housing conditions in East Baltimore
 
@@ -173,9 +175,9 @@ During the 1910s and 1920s, racial transition in West Baltimore neighborhoods wa
 
 On October 3, 1941, the _Sun_ reported:
 
-> NEGRO HOUSING HELD HEALTH MENACE HERE: Colored Doctor Tells Plan Body Of Race Overcrowding Warns Contagious Disease May Spread As Result  / Large areas of the city populated by Negroes are overcrowded to the point where it is almost impossible to secure living quarters of even the most primitive type and there is grave danger that this condition may result in a spread of contagious disease, it was asserted yesterday at the City Hall.
+> NEGRO HOUSING HELD HEALTH MENACE HERE: Colored Doctor Tells Plan Body Of Race Overcrowding Warns Contagious Disease May Spread As Result  / Large areas of the city populated by Negroes are overcrowded to the point where it is almost impossible to secure living quarters of even the most primitive type and there is grave danger that this condition may result in a spread of contagious disease, it was asserted yesterday at the City Hall.[@_negro_1941]
 
-In one indication of the worsening conditions that led to quickening racial transitions, from January 1941 to November 1941 alone, housing vacancies for units open to African American occupancy shrank from .8% to .1%.
+In one indication of the worsening conditions that led to quickening racial transitions, from January 1941 to November 1941 alone, housing vacancies for units open to African American occupancy shrank from 0.8% to 0.1%.
 
 According to Emily Lieb in _"We Clean-Up, Paint-Up, and Fix-Up Our Neighborhoods": The Baltimore Plan and the Broken Promise of Housing Rehabilitation in the Postwar American City_, 1941 was a watershed year:
 
@@ -187,12 +189,6 @@ According to Emily Lieb in _"We Clean-Up, Paint-Up, and Fix-Up Our Neighborhoods
 
 > A big part of McKeldin’s appeal was his stance on Baltimore’s substandard-housing problem: that is, he seemed genuinely to want to solve it. He favored building new housing for low-income people, and he had campaigned on a promise to "[break] the deadlock between city officials in the matter of Negro housing." More immediately, though, McKeldin was determined to carry out the Baltimore Plan in word and deed. "What I have seen appalls me," he told a Sun reporter after accompanying Health Commissioner Williams on a tour of Baltimore’s slums. "We have got to have unanimity of action if we are to correct these conditions. Therefore, I want to…lend support to blotting out the flagrant violations and forcing landlords to bring substandard buildings up to safe and sound condition at the very least."
 
-On May 5, 1944 the _Sun_ reported:
-
-> Slow Progress In Negro Housing / The real meat in the report of Housing Authority of Baltimore on rent lists can be found in the data Negro housing. Not one of the dwelling units assigned for Negro is vacant. Jn contrast, there are vacancies in the white and these vacancies cover an...
-
-In a letter to Mayor McKeldin in July 1945, in response to the efforts by a group of 350 residents in the Fulton Avenue area to prevent black residents from moving west, the NAACP argued "growth demands that we take in those streets that fringe our area since every attempt to enter new sections is vigorously denied." The Citizens Committee for Justice and the Baltimore Urban League observed "the need for more housing is most sharply felt in the Negro community, where there are virtually no vacancies of any type."
-
 In _Wages of War: The Shifting Landscape of Race and Gender in World War II Baltimore_, Amy Betnley describes the housing conditions for African-Americans living in Baltimore during WWII:
 
 > Although by 1940 available housing for white families was about average for cities the size of Baltimore, there was practically no city housing for African Americans. Strict segregation limited blacks mainly to three small areas in the oldest and most dilapidated sections of town, although the newcomers swelling the ranks forced some enlargement of the boundaries. The area totaled only about three square miles, resulting in population density of as high as 78,000 persons per square mile. Because of the cramped spaces, lack of employment, and discrimination in general, most of Baltimore's black population experienced dismal living conditions. In 1945 the director of the sanitary section of the Baltimore City Health Department noted that living conditions like those described as follows "were not unusual in Baltimore."
@@ -201,15 +197,17 @@ In _Wages of War: The Shifting Landscape of Race and Gender in World War II Balt
 
 ## 1943: Baltimore Sun reports on "Negro Archipelegos"
 
-An October 1948 editorial in the *Baltimore Sun* described the "colored section of most cities" as "already dangerously overcrowded" and noted that only 2% of new housing built in 1948 was open to African Americans, despite representing 20% of Baltimore’s total population. By 1950, Baltimore had 226,053 black residents, representing 23.8% of the population but occupying only 19.4% of dwelling units. This pattern continued into the early 1950s: of the 53,000 permits issued new homes in Baltimore metropolitan area from 1950 to 1953, only 3,200 of those were open to African American households, even as the black population increased another 10%.
+An October 1948 editorial in the _Baltimore Sun_ described the "colored section of most cities" as "already dangerously overcrowded" and noted that only 2% of new housing built in 1948 was open to African Americans, despite representing 20% of Baltimore’s total population. By 1950, Baltimore had 226,053 black residents, representing 23.8% of the population but occupying only 19.4% of dwelling units. This pattern continued into the early 1950s: of the 53,000 permits issued new homes in Baltimore metropolitan area from 1950 to 1953, only 3,200 of those were open to African American households, even as the black population increased another 10%.
 
 On May 5, 1944, the Sun reported on "Slow Progress In Negro Housing," writing:
 
-> The real meat in the report of Housing Authority of Baltimore on rent lists can be found in the data Negro housing. Not one of the dwelling units assigned for Negro is vacant. Jn contrast, there are vacancies in the white and these vacancies cover an...
+> The real meat in the report of Housing Authority of Baltimore on rent lists can be found in the data Negro housing. Not one of the dwelling units assigned for Negro is vacant. Jn contrast, there are vacancies in the white and these vacancies cover an...[@_slow_1944]
 
 ## 1945: White neighbors attack black household at 816 N. Fulton Avenue
 
-When African American residents began responding to this housing crisis by purchasing homes in formerly segregated white neighborhoods some white resident met them with violence. In 1945, a group of people, described by the Baltimore Afro American as "hoodlums who resented having the Millers move into a white neighborhood," threw bricks at the home of James Miller and his family at 816 N. Fulton Avenue, breaking glass in the front door and windows.
+When African American residents began responding to this housing crisis by purchasing homes in formerly segregated white neighborhoods some white resident met them with violence. In a letter to Mayor McKeldin in July 1945, in response to the efforts by a group of 350 residents in the Fulton Avenue area to prevent black residents from moving west, the NAACP argued "growth demands that we take in those streets that fringe our area since every attempt to enter new sections is vigorously denied." The Citizens Committee for Justice and the Baltimore Urban League observed "the need for more housing is most sharply felt in the Negro community, where there are virtually no vacancies of any type."
+
+In 1945, a group of people, described by the Baltimore Afro American as "hoodlums who resented having the Millers move into a white neighborhood," threw bricks at the home of James Miller and his family at 816 N. Fulton Avenue, breaking glass in the front door and windows.
 
 The _Baltimore Sun_ expanded on this account writing:
 
@@ -221,11 +219,11 @@ In July 1950 after Ms. Beatrice Sessoms, a native of North Carolina who came to 
 
 Dr. Ed Orser quotes one black resident of Greater Rosemont recalling the history of white flight in the late 1940s:
 
-> Black people started moving out of the confined areas somewhere around 1947 or 1948, but what would happen was that whites would evacuate a block or two blocks, and black people would move in. The evacuation would take place first. I remember streets like Fulton Avenue, Monroe Street—they were once totally white, and they went through the transition and changed somewhere between 1946 and 1949—that was the time I was in service. When I went in, there were no black people when I came out, there they were black streets… But it wasn’t integration… it was an evacuation.
+> Black people started moving out of the confined areas somewhere around 1947 or 1948, but what would happen was that whites would evacuate a block or two blocks, and black people would move in. The evacuation would take place first. I remember streets like Fulton Avenue, Monroe Street—they were once totally white, and they went through the transition and changed somewhere between 1946 and 1949—that was the time I was in service. When I went in, there were no black people when I came out, there they were black streets… But it wasn’t integration… it was an evacuation[@orser_blockbusting_1994]
 
 These initial movements soon accelerated, particularly in west and northwest areas of Baltimore. Lula Jones Garrett, a columnist for the _Baltimore Afro_, observed in a column titled "Change-the-Address New Game on Baltimore Front" writing:
 
-> "What with the local yokels forsaking the ghettos and moving into swankier mansions, it takes a special edition of the directory to locate your best friends these days."
+> "What with the local yokels forsaking the ghettos and moving into swankier mansions, it takes a special edition of the directory to locate your best friends these days."[@garrett_change--address_1949]
 
 Among the new home-owners recently arrived on Bentalou Street were Everett Lane, attorney and Mrs. Lane who moved from Division Street, teacher Theresa Thompson, ARC executive Anne Fulwood, and Bettye Murphy and Frank Phillipses at 2047 Bentalou Street.
 
@@ -235,7 +233,8 @@ One example is found in the account offered by Tom Cripps to Antero Pietella, of
 
 ## 1952: Morgan State University study finds racially skewed affect with urban renewal in Waverly
 
-According to [https://indyreader.org/content/history-housing-policy-and-segregation-baltimore](https://indyreader.org/content/history-housing-policy-and-segregation-baltimore)
+According to [IndyReader](https://indyreader.org/content/history-housing-policy-and-segregation-baltimore):
+
 > According to a 1952 study by Morgan State University, the project displaced what was formally a racially mixed community with 61% African-American and 39% Caucasian, with many of the African American residents moving to segregated projects in the city.  The East Baltimore component of the City’s 1950’s redevelopment project expanded Johns Hopkins Hospital into the block bounded by Broadway, McElderry, Monument, and Caroline with housing for Hopkins students.
 
 ## 1953: Dr. Robert L. Jackson, W.A.C. Hughes protest clearance of Armory site for State Center
@@ -254,7 +253,7 @@ NAACP, represented by W.A.C. Hughes opposed the development, Hughes office locat
 
 The issue reached Edmondson Village around 1955, when the first black residents moved west of the Gwynns Falls to live in the southeast corner of the region, around the western end of the Baltimore Street Bridge. One white resident remarked on the experience, commenting to Dr. Ed Orser:
 
-> "When the [black] people started moving into the neighborhood, they did come in, literally block by block. I can recall when they came across the… bridge, everybody was very upset; they said, ‘Oh my God, they’re over the bridge now; our street will be next.’"
+> "When the [black] people started moving into the neighborhood, they did come in, literally block by block. I can recall when they came across the… bridge, everybody was very upset; they said, ‘Oh my God, they’re over the bridge now; our street will be next.’"[@orser_blockbusting_1994]
 
 In April 1958, the improvement group organized their annual meeting at School No. 88 located at Wildwood Parkway and Gelston Drive, hosting Chief Judge Delany Foster of the Orphans Court of Baltimore as the guest speaker. In July 1958, Association president L.E. Larsen gave the association’s support to a plan sponsored by the Baltimore Urban League, the Maryland Commission on Interracial Problems and Relations, and the Citizens Planning and Housing Association to "combat the conversion of Baltimore areas from all-white to all-Negro occupancy." Larsen observed that Edmondson Village:
 
@@ -262,7 +261,7 @@ In April 1958, the improvement group organized their annual meeting at School No
 
 An African American resident in this period later shared her experience in an oral history with Dr. Ed Orser, remarking:
 
-> "When we first moved to the neighborhood, it was more white – we were just about the second black family on this block... We could see the changes, because when we moved, there were so many sale signs all around, and it did make a difference in the neighborhood, because there was a change, and you had to get yourself adjusted to the people who were moving in, and you couldn’t really know the ones who were moving out, because they were leaving so fast, so we were really going through a transitional stage. People were moving in and out overnight; you didn’t really know who your neighbors were. It was a difficult period, because when we moved, we thought maybe the neighborhood would be stabilized; it just wasn’t."
+> "When we first moved to the neighborhood, it was more white – we were just about the second black family on this block... We could see the changes, because when we moved, there were so many sale signs all around, and it did make a difference in the neighborhood, because there was a change, and you had to get yourself adjusted to the people who were moving in, and you couldn’t really know the ones who were moving out, because they were leaving so fast, so we were really going through a transitional stage. People were moving in and out overnight; you didn’t really know who your neighbors were. It was a difficult period, because when we moved, we thought maybe the neighborhood would be stabilized; it just wasn’t."[@orser_blockbusting_1994]
 
 According to [Indyreader](https://indyreader.org/content/history-housing-policy-and-segregation-baltimore)
 
@@ -270,7 +269,7 @@ According to [Indyreader](https://indyreader.org/content/history-housing-policy-
 
 On May 26, 1957, the _Baltimore Sun_ reported, HOUSING SEEN RACE HURDLE: N.A.A.C.P. Official Assails Rent, Purchase Setup:
 
-> Negro and white families alike suffer from existing practices of segregation in housing. Clarence Mitchell, director of the Washington branch of the National Association for the Advancement of Colored People, said here last night.
+> Negro and white families alike suffer from existing practices of segregation in housing. Clarence Mitchell, director of the Washington branch of the National Association for the Advancement of Colored People, said here last night.[@_housing_1957]
 
 ## 1959: Baltimore Neighborhoods, Inc. founded by James Rouse, Ellsworth Rosen, and Sidney Hollander, Jr.
 
@@ -278,13 +277,13 @@ According to a [short history of Baltimore Neighborhoods, Inc.](http://www.bni-m
 
 > In the 1950's a group of enlightened Baltimore homeowners sought to enlist like-minded civic and neighborhood organizations and the business community to encourage stable, integrated neighborhood housing "white flight" from the City. Baltimore Neighborhoods, Inc. (BNI), incorporated in March of 1959 by James Rouse, Ellsworth Rosen, and Sidney Hollander, Jr.
 
-By 1960, however, the area south of Edmondson Village had changed from more than 99% white in 1950 to 62% black in 1960 and, a decade later, 92% black in 1970. Edmondson Village itself remained 99% white in 1960 but had changed to 97% black by 1970.
+By 1960, however, the area south of Edmondson Village had changed from more than 99% white in 1950 to 62% black in 1960 and, a decade later, 92% black in 1970. Edmondson Village itself remained 99% white in 1960 but had changed to 97% black by 1970.[@orser_blockbusting_1994]
 
 Although little evidence documents widespread physical violence on a scale comparable to white antagonists in Detroit or Chicago, the State Commission on Interracial Problems observed in 1958, "The problem it said, is not with violence 'but with the frigid withdrawal' of whites from the Negroes." During the late 1950s, the State Commission and others finally engaged with the ongoing process of racial transition with the beginning of advocacy and organizing efforts to promote "neighborhood stabilization."
 
 On Feb 27, 1961, the _Baltimore Sun _ reported under the headline "Minor Difference?: Race And Renewal," writing:
 
-> After leaders of the city's renewal agency and the Baltimore branch of the National Association for the Advancement of Colored People faced each other for two hours across the Mayor's office recently, Mayor Grady summed up their dispute as "a minor difference of words."
+> After leaders of the city's renewal agency and the Baltimore branch of the National Association for the Advancement of Colored People faced each other for two hours across the Mayor's office recently, Mayor Grady summed up their dispute as "a minor difference of words."[@lukas_minor_1961]
 
 # 1964 – 1976
 
@@ -310,7 +309,7 @@ Despite Mahoney’s success in the primary, he lost to Spiro Agnew in the genera
 
 ## 1969: The Activists organize to fight housing discrimination
 
-In 1969, a coalition of black and white civil rights advocates, including chairman Sampson Green, an African-American attorney, member of the Maryland Human Relations Commission, and housing committee chairman, and John J. Martinez, white Jesuit teacher at St. Bernadine’s, organized The Activists—an interracial fair housing organization. The group targeted the Morris Goldseker Company with protests outside its downtown offices highlighting its role as "block-busters." Operating under a variety of names, the Goldseker-related realty companies doubled the mark-up on house sales in Edmondson Village in comparison to other areas. The Activists described how companies purchased houses for an average of $7,320 and sold them for an average of $12,387, a markup of 69%, with the inescapable conclusion that, "The dollar in the hands of the white man buys more than the dollar in the hands of the black man."
+In 1969, a coalition of black and white civil rights advocates, including chairman Sampson Green, an African-American attorney, member of the Maryland Human Relations Commission, and housing committee chairman, and John J. Martinez, white Jesuit teacher at St. Bernadine’s, organized The Activists—an interracial fair housing organization. The group targeted the Morris Goldseker Company with protests outside its downtown offices highlighting its role as "block-busters." Operating under a variety of names, the Goldseker-related realty companies doubled the mark-up on house sales in Edmondson Village in comparison to other areas. The Activists described how companies purchased houses for an average of $7,320 and sold them for an average of $12,387, a markup of 69%, with the inescapable conclusion that, "The dollar in the hands of the white man buys more than the dollar in the hands of the black man."[@orser_blockbusting_1994]
 
 # 1976 - Present
 
