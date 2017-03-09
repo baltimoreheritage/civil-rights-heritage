@@ -7,7 +7,9 @@ This study covers over 140 years of Baltimore history beginning in 1831 and endi
 
 In this study, we describe how buildings, parks, monuments, and neighborhoods helped to shape and structure this long Civil Rights movement and, in turn, how racism and Civil Rights activism shaped the design and development of Baltimore’s architecture and cultural landscapes.
 
-## How is this study organized?
+## Organization
+
+### How is the study divided into different sections?
 
 The organization of this study follows a similar periodization to the National Historic Landmark (NHL) program study _Civil Rights in America: A Framework for Identifying Significant Sites_  (2002, rev. 2009). Rather than begin with the American Revolution and the War of 1812, we instead started the study with Nat Turner's Rebellion in Virginia—an event that had major consequences for free and enslaved black people living in Baltimore and Maryland. We also made changes to the periodization in the 20th century to support a closer look at black resistance to segregation and discrimination before World War II. This created six sections that each begin with major events that shaped the local and national context for African American Civil Rights:
 
@@ -18,12 +20,16 @@ The organization of this study follows a similar periodization to the National H
 5. [A Changing City: 1954 – 1968](/civil-rights-heritage/overview/1954-1968)
 6. [After the Riots: 1968 – 1976](/civil-rights-heritage/overview/1968-1976)
 
+### What topics does each section of the study cover?
+
 Following the approach suggested by the 2009 white paper _The Components of a Historic Contest_ by Barbara Wyatt, each of these section of this study describes:
 
 - how the Civil Rights movement developed and changed with the period;
 - why those changes took place;
 - what contributions individuals and groups made to those changes;
 - and what factors outside of Baltimore contributed to those changes.
+
+### What themes does the study cover?
 
 Additional context on specific themes supplements this chronology with more detailed descriptions of key events and patterns. To identify these themes, this study again followed the model of the NHL _Civil Rights Framework_ which suggested a list of key themes represented by the Civil Rights Act of 1964, the Voting Rights Act of 1965, and the Fair Housing Act of 1968:
 
@@ -38,6 +44,8 @@ Our goal with this approach is to connect the significance of associated histori
 
 ## What sources did we use for this study?
 
+### Secondary Sources
+
 Since we used  _Civil Rights in America: A Framework for Identifying Significant Sites_  (2002, rev. 2009), to establish the framework for this study, it made sense to use the related studies from the series as key sources:
 
 - Civil Rights in America: Racial Desegregation of Public Accommodations (2004, rev. 2009)
@@ -45,6 +53,8 @@ Since we used  _Civil Rights in America: A Framework for Identifying Significant
 - Civil Rights in America: Racial Voting Rights (2007, rev. 2009)
 
 The study draws on journal articles from Maryland Historical Magazine, Maryland Law Review, and the Journal of African American History. Other key sources include _Freedom's Port: The African American Community of Baltimore, 1790-1860_ (1997),  _Borders of Equality_ (2013), _The Politics of Public Housing_ (2004), and _Baltimore '68: Riots and Rebirth in an American City_ (2011).
+
+### Primary Sources
 
 In addition to these secondary sources, the study relied on a number of digitized primary sources including:
 
