@@ -34,6 +34,11 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.tags contains 'review' %}
+          <div class="notice--info">
+          Please share your comments, suggestions, or questions! You can contact us through <a href="http://baltimoreheritage.org/contact/">our website</a> or send us an email at <a href="mailto:info@baltimoreheritage.org">info@baltimoreheritage.org</a>. We also invite you to make comment using <a href="https://hypothes.is/">Hypothesis</a>. Set up <a href="https://hypothes.is/signup">a free account</a> then install Hypothesis <a href="https://chrome.google.com/webstore/detail/bjfhmglciegochdpefhhlphglcehbmek">Chrome plugin</a> or use the <a href="https://via.hypothes.is/{{ page.link }}">web service</a> to make notes and annotations on this page.
+          </div>
+        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
