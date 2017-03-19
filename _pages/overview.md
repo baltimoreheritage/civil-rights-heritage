@@ -1,6 +1,8 @@
 ---
 title: Overview
 permalink: /overview/
+sidebar:
+  nav: "overview"
 ---
 
 This study covers over 140 years of Baltimore history beginning in 1831 and ending in 1976. In 1830, Baltimore was the second largest city in the country. Baltimore City and County was home to 28,541 free and enslaved people of color. From 1831 through 1976, countless African Americans in Baltimore organized, advocated, and protested to protect and expand their Civil Rights. Individual activists living and working in Baltimore, among them teachers, doctors, lawyers and laborers, helped to lead and support these efforts. Working with neighbors, activists built citywide, statewide and national organizations to effect change for African American people in Baltimore.
