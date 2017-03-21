@@ -7,7 +7,7 @@ tags: draft
 
 # Introduction
 
-In highlighting the theme of criminal injustice, the National Historic Landmark program Civil Rights Framework notes the history of criminal injustice, police violence and brutality in the United States has “revealed how minority groups were categorized as antisocial and a menace to society.” African-Americans in Baltimore have fought against discrimination by the police, injustice before criminal courts and juries, and mistreatment within the prison system. This theme is closely associated with Baltimore’s police stations, court houses, jails, along with the homes of advocates of criminal justice reform, lawyers, and others.
+In highlighting the theme of criminal injustice, the National Historic Landmark program Civil Rights Framework notes the history of criminal injustice, police violence and brutality in the United States has "revealed how minority groups were categorized as antisocial and a menace to society." African-Americans in Baltimore have fought against discrimination by the police, injustice before criminal courts and juries, and mistreatment within the prison system. This theme is closely associated with Baltimore’s police stations, court houses, jails, along with the homes of advocates of criminal justice reform, lawyers, and others.
 
 Police brutality in Baltimore’s historically African-American neighborhoods has been a near constant challenge since the 1860s. Black communities have been **underpoliced** as the police or courts discriminate by not pursuing justice for black victims or not protecting black people in their custody from mistreatment while incarcerated. They have also been **overpoliced** with African-Americans particularly subject to police violence and brutality, false arrest, discriminatory sentencing. Concerned not just with local issues, however, black Baltimoreans have pushed for fairness in communities around the state particularly in the sustained campaigns against lynching in southern Maryland and the Eastern Shore, and discrimination in the application of the death penalty.
 
@@ -23,9 +23,9 @@ Police brutality in Baltimore’s historically African-American neighborhoods ha
 
 According to the Baltimore City Archives, in their [summary of police records](http://baltimorecityhistory.net/police-records/):
 
-> ”The first police force for Baltimore Town was created in 1784. Constables were appointed and given police powers to keep the peace. The State Legislature on March 16, 1853, passed a bill, “to provide for the better security … in the City of Baltimore.” This statute provided that police officers should be armed and that a badge and commission be furnished each member.”
+> "The first police force for Baltimore Town was created in 1784. Constables were appointed and given police powers to keep the peace. The State Legislature on March 16, 1853, passed a bill, "to provide for the better security … in the City of Baltimore." This statute provided that police officers should be armed and that a badge and commission be furnished each member."
 
-In 1793, the United States Congress passed the nation’s first fugitive slave law allowing for the prosecution of “runaways” and their return to the slave-holders who claimed them. In 1796, Maryland courts declared that black testimony would be inadmissible in freedom suits undermining the ability of enslaved African-Americans to claim their freedom based on their descent from white women (an option available since 1786).
+In 1793, the United States Congress passed the nation’s first fugitive slave law allowing for the prosecution of "runaways" and their return to the slave-holders who claimed them. In 1796, Maryland courts declared that black testimony would be inadmissible in freedom suits undermining the ability of enslaved African-Americans to claim their freedom based on their descent from white women (an option available since 1786).
 
 The Baltimore Jail was first established and built in 1801. During the early 19th century, the city used the Jail to hold enslaved people who had escaped to Baltimore or who were captured while traveling through the area on their way to a free state. The Jail was rebuilt in 1858-59. The state established the Maryland Penitentiary on an adjacent site on Forrest Street in 1811.
 
@@ -35,17 +35,17 @@ On March 9, 1826, the state transferred control of the local police to Baltimore
 
 In the wake of [Nat Turner’s Rebellion](https://en.wikipedia.org/wiki/Nat_Turner%27s_slave_rebellion), a slave revolt which took place on August 21, 1831 in Southampton, Virginia, Maryland joined other Southern states in passing legislation that placed new restrictions on free blacks. This 1832 law prohibited free African-Americans from entering the state, barred free blacks from owning firearms without a certificate from county officials, and outlawed the sale of alcohol, powder, and shot to blacks. The legislation even took away the right of African-American to hold religious meetings without the presence of a white minister.
 
-The decision by the U.S. Supreme Court in [Prigg v. Pennsylvania](https://en.wikipedia.org/wiki/Prigg_v._Pennsylvania) (1842) upheld the [Federal Fugitive Slave Act of 1793](https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1793) and struck down a Pennsylvania state law prohibiting African-Americans blacks from being transported out of Pennsylvania back into slavery. In 1846, Rev. Charles Torrey, an abolitionist and conductor on the “Underground Railroad,” died in the Maryland Penitentiary after his arrest and imprisonment for aiding, enticing or assisting enslaved blacks to run away.
+The decision by the U.S. Supreme Court in [Prigg v. Pennsylvania](https://en.wikipedia.org/wiki/Prigg_v._Pennsylvania) (1842) upheld the [Federal Fugitive Slave Act of 1793](https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1793) and struck down a Pennsylvania state law prohibiting African-Americans blacks from being transported out of Pennsylvania back into slavery. In 1846, Rev. Charles Torrey, an abolitionist and conductor on the "Underground Railroad," died in the Maryland Penitentiary after his arrest and imprisonment for aiding, enticing or assisting enslaved blacks to run away.
 
 Seth Rockman describes the challenges facing free people of color at the hands of the city watch in this period, writing:
 
->Consider two sets of petitions arriving at city hall in the 1830s. The first came from free people of color facing legal discrimination in trying to earn a living. To work past an evening curfew, hack driver Alexander Henson needed a white patron to testify he was “a sober, Honest man and worthy of the privilege he asks for.” David Roberts worked in the daytime as a porter and at night as an oyster shucker in a restaurant, but walking home late at night, he was “molested by the watch.” A white patron also had to petition on his behalf for a passport. Similar requests arrived for waiter Benjamin Ford and beer bottler Perry Boudley, whose brewery shift ran from 10 p.m. until 2 a.m.[@rockman_scraping_2010, 253]
+>Consider two sets of petitions arriving at city hall in the 1830s. The first came from free people of color facing legal discrimination in trying to earn a living. To work past an evening curfew, hack driver Alexander Henson needed a white patron to testify he was "a sober, Honest man and worthy of the privilege he asks for." David Roberts worked in the daytime as a porter and at night as an oyster shucker in a restaurant, but walking home late at night, he was "molested by the watch." A white patron also had to petition on his behalf for a passport. Similar requests arrived for waiter Benjamin Ford and beer bottler Perry Boudley, whose brewery shift ran from 10 p.m. until 2 a.m.[@rockman_scraping_2010, 253]
 
 ## September 18, 1850: Congress passes the Fugitive Slave Act of 1850
 
 Such conditions became even worse with the passage of the infamous [Fugitive Slave Act of 1850](https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850) – legislation passed by Congress on September 18, 1850 in an attempt to stem the tide of enslaved people escaped from bondage in the South including many who (with support from abolitionists citizens and sympathetic local courts) had been able to live free in the north.
 
-Baltimore’s courts, jails and police officers played an active role in enforcing this new legislation. They also began to professionalize in this same period. On March 16, 1853, the Maryland legislature passed a bill, "To provide for the better security for the citizens and property in the City of Baltimore,” that established new requirements that all Baltimore police officers be armed and be furnished with a badge and commission.
+Baltimore’s courts, jails and police officers played an active role in enforcing this new legislation. They also began to professionalize in this same period. On March 16, 1853, the Maryland legislature passed a bill, "To provide for the better security for the citizens and property in the City of Baltimore," that established new requirements that all Baltimore police officers be armed and be furnished with a badge and commission.
 
 The significant association between Baltimore’s jails and courts and efforts to suppress abolition work in the South dated back to the early 19th century. Additional research is needed on individuals such as Elisha Tyson - a Quaker merchant and influential abolitionist - whose [summer home](http://explore.baltimoreheritage.org/items/show/230) is still located in the Stone Hill neighborhood. Elisa Tyson’s life is chronicled in the [Life of Elisha Tyson, the philanthropist](https://archive.org/details/lifeofelishatyso00tyso) published 1825.
 
@@ -66,13 +66,13 @@ Richard Paul Fuke comments extensively on the relationship between the police an
 > Beginning immediately after emancipation, black Baltimoreans fell afoul of the law in unprecedented numbers, a fact that exacerbated tensions both within the black community and between it and neighboring whites. Between 1864 and 1870, a growing number of blacks were charged with petty theft, assault, and disorderly conduct. The picture that emerged from the records of the justice of the peace, the Baltimore Criminal Court, and the city jail was clearly that of people chronically at odds with the police and the justice system. […]
 > Unable to cope with the increased case load, and hard-pressed to find additional jail cells, city officials dismissed many such charges, especially those against minors, and accepted them as an unavoidable consequence of black migration and the shortage of incarceration space. [@fuke_imperfect_1999, 127-128]
 
-In a context where conservative newspapers like the _Baltimore Gazette_ charged the relationship between black migrants and crime was determined by the “inherent shortcomings,” Fuke concluded that:
+In a context where conservative newspapers like the _Baltimore Gazette_ charged the relationship between black migrants and crime was determined by the "inherent shortcomings," Fuke concluded that:
 
 > The degree and intensity of public attention to migration, poverty and crime and whites’ explanation of the relationship of each to the other made it difficult for blacks to defend themselves. Nor was it made any easier when the city’s main law enforcement agency—the police—operated on the basis of such assumptions. From the start, the police were quick to call attention to the presence of rural migrants, to seek their remove to the counties from whence they came, and—when that failed to keep a close eye on their behavior. Such vigilance led to constant police scrutiny of the black community and the instant deployment of armed squads whenever blacks participated in public occasions either on their own or with whites. In short, the actions of the police served as a constant reminder of white Baltimoreans’ perception of not only blacks’ place in the community, but also of the connection between it and civic disorder. [@fuke_imperfect_1999, 130]
 
 ## September 1867: Policeman Frey shoots and kills Eliza Taylor
 
-Historian Richard Paul Fuke noted the “fatal police shooting of Eliza Taylor, a black woman, in September 1867,” quoting the _Baltimore American_:
+Historian Richard Paul Fuke noted the "fatal police shooting of Eliza Taylor, a black woman, in September 1867," quoting the _Baltimore American_:
 
 > A colored woman was killed under circumstances which show the spirit of hate and oppression cherished toward that portion of the population by many of the police. [@fuke_imperfect_1999, 131]
 
@@ -92,7 +92,7 @@ This growth continued, in 1882, according to the [Maryland State Archives](http:
 
 # 1870 – 1905
 
-## 1870: Baltimore Police disarm black “military companies,” challenge public assembly
+## 1870: Baltimore Police disarm black "military companies," challenge public assembly
 
 According to local historian De Francias Folsom (whose account seems to rest solely on an obituary for Police Marshal John T. Gray) noted that the city’s police played a prominent role during the celebratory parade and political rally that followed the adoption of the [Fifteenth Amendment](https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution) in 1870, to prevent violent attacks on black participants:
 
@@ -104,7 +104,7 @@ While the accuracy of this account has not been fully verified, the efforts to u
 
 During the decades after the Civil War, the Baltimore City Police Department frequently broke up public assemblies by African-Americans, as Jeffrey Richardson Brackett noted in his study of _Colored People of Maryland since the War_, writing:
 
-> ”In this respect, again, the strong influence of the clergy and intelligent leaders, ambitious for the race, seems to be bearing fruit in a general progress. The expensive social and the promenade are less popular, and the entertainments and picnics that are held are, as a rule, more creditable. The cake-walks and drum-corp matches and there were nine colored drum-corps, a few years ago used often to end with necessary interference of the police, and the patrol-wagon has sometimes been summoned to the assembly halls. One who has for years played a violin at dances of the colored people, recalls, with a laugh, how he often had to retreat for safety beneath the stage, and bears witness to the improvement, now. But there is still vast room for improvement.”[@brackett_notes_1890, 59]
+> "In this respect, again, the strong influence of the clergy and intelligent leaders, ambitious for the race, seems to be bearing fruit in a general progress. The expensive social and the promenade are less popular, and the entertainments and picnics that are held are, as a rule, more creditable. The cake-walks and drum-corp matches and there were nine colored drum-corps, a few years ago used often to end with necessary interference of the police, and the patrol-wagon has sometimes been summoned to the assembly halls. One who has for years played a violin at dances of the colored people, recalls, with a laugh, how he often had to retreat for safety beneath the stage, and bears witness to the improvement, now. But there is still vast room for improvement."[@brackett_notes_1890, 59]
 
 A powerful example of the consequences of this practice can be found in the case of Daniel Brown’s shooting by Baltimore police officer Patrick McDonald in July 1875.
 
@@ -116,7 +116,7 @@ This expansion continued in 1884 when, on July 17, 1884, the Southwestern Distri
 
 ## July 31, 1875: Daniel Brown killed by Baltimore police officer Patrick McDonald
 
-In the early morning hours of Saturday, July 31, 1875, Baltimore Police officer Patrick McDonald shot and killed Daniel Brown at his home on Tyson Street. The *Baltimore Sun* described the shooting in an account published on August 2:
+In the early morning hours of Saturday, July 31, 1875, Baltimore Police officer Patrick McDonald shot and killed Daniel Brown at his home on Tyson Street. The _Baltimore Sun_ described the shooting in an account published on August 2:
 
 > Saturday morning, shortly before two o'clock, Daniel Brown, colored, of No. 41 Tyson street, was shot in the head by police officer Patrick McDonald, of the northwestern district, and in about half an hour died from the effects of the wound. A party or sociable entertainment was going on in Brown's house, and complaint of the noise having been made to policeman McDonald, he went to the place. Words were exchanged at the door of the house between the officer outside and the people inside. The result was that Brown was "tapped on the head" by the policeman's club. The policeman went into the house, and there, it is alleged, shot and killed Brown without provocation. Policeman McDonald on the other hand asserts that the shooting was in self-defense. He avers that he felt his life to be in imminent peril! A coroner's jury, after examining over a dozen witnesses rendered a verdict that "Daniel Brown came to his death by a pistolshot from the hands of policeman Patrick McDonald," and on the commitment of Coroner Ogle the accused was sent to jail by Captain Earhart.
 
@@ -158,11 +158,11 @@ In 1885, Everett J. Waring was admitted to practice law in Baltimore and became 
 
 # 1905 – 1929
 
-Some have attributed broader changes in the technology of policing and the relationship between police officers and local communities (e.g. the advent of motorized vehicles, the development of more efficient mass transportation systems, police officers not living in the same jurisdiction in which they patrolled) in creating a “breakdown in police–community relations.”
+Some have attributed broader changes in the technology of policing and the relationship between police officers and local communities (e.g. the advent of motorized vehicles, the development of more efficient mass transportation systems, police officers not living in the same jurisdiction in which they patrolled) in creating a "breakdown in police–community relations."
 
-In 1912, the Baltimore police acquired the first motorized transport wagons replacing the horse-drawn wagons. On May 29, 1914, the police organized the “Motor Unit” with just five members: Officers Schleigh, Bateman, Pepersack, Vocke and Louis.
+In 1912, the Baltimore police acquired the first motorized transport wagons replacing the horse-drawn wagons. On May 29, 1914, the police organized the "Motor Unit" with just five members: Officers Schleigh, Bateman, Pepersack, Vocke and Louis.
 
-In 1921, Maryland’s Commissioner of Motor Vehicles organized a new force of officers, deputized by county sheriffs with the statewide jurisdiction to enforce traffic and criminal laws. This followed a national trend as 23 states had already established a state law enforcement agencies or programs between 1915 and 1921. This effort was motivated by concern about “lawlessness” following WWI.
+In 1921, Maryland’s Commissioner of Motor Vehicles organized a new force of officers, deputized by county sheriffs with the statewide jurisdiction to enforce traffic and criminal laws. This followed a national trend as 23 states had already established a state law enforcement agencies or programs between 1915 and 1921. This effort was motivated by concern about "lawlessness" following WWI.
 
 In 1935, Maryland established the State Police as a distinct government agency funded by revenue from the Department of Commissioner of Motor Vehicles.
 
@@ -204,9 +204,9 @@ The conduct of officers under Gaither's oversight proved to be a powerful influe
 
 Williams continued to quote Marshall's recollection of what he heard, writing:
 
-> "We could hear police in there beating the hell out of people, saying, 'Black boy, why don't you just shut your goddamned mouth, you're going to talk yourself into the electric chair.’”[@williams_thurgood_2011, 40]
+> "We could hear police in there beating the hell out of people, saying, 'Black boy, why don't you just shut your goddamned mouth, you're going to talk yourself into the electric chair.’"[@williams_thurgood_2011, 40]
 
-Neither the original Colored High School building or the Northwest Police Station building are still extant. Williams further notes the powerful influence of Thurgood Marshall's father—Willie Marshall—who when he "wasn't working on the trains" was "a regular figure in the rear of courtrooms, a hat perched on his lap as he watched trials.”
+Neither the original Colored High School building or the Northwest Police Station building are still extant. Williams further notes the powerful influence of Thurgood Marshall's father—Willie Marshall—who when he "wasn't working on the trains" was "a regular figure in the rear of courtrooms, a hat perched on his lap as he watched trials."
 
 ## 1925: Conference of AME Ministers organizes to secure appointment of black police officers
 
@@ -233,7 +233,7 @@ On June 12, 1926, the Afro-American reported on an efforts by Baptist ministers 
 
 ## 1927: Clubbing of Henry Simuels prompts protest
 
-On April 27, 1927, the _Afro_ reported on “RAISE PROTEST OVER POLICE BRUTALITY: Commissioner Gaither Asked To Investigate Unprovoked Clubbing Of Henry Simuels”:
+On April 27, 1927, the _Afro_ reported on "RAISE PROTEST OVER POLICE BRUTALITY: Commissioner Gaither Asked To Investigate Unprovoked Clubbing Of Henry Simuels":
 
 > Police Commissioner Gaither has been asked to investigate what is claimed to have been a brutal and unprovoked attack on Henry Simuels, 804 N [… incomplete transcription]
 
@@ -273,7 +273,7 @@ According to the [Maryland State Archives](http://msa.maryland.gov/msa/mdmanual/
 
 ## December 12, 1931: Lynching of Matthew Williams covered in the Afro-American
 
-Afro publishes “Maryland’s Shame Edition,” covering the lynching of Matthew Williams in Salisbury, Maryland.[@farrar_baltimore_1998]
+Afro publishes "Maryland’s Shame Edition," covering the lynching of Matthew Williams in Salisbury, Maryland.[@farrar_baltimore_1998]
 
 ## 1932: Grand Jury recommends hiring black police
 
@@ -289,15 +289,15 @@ City editor William N. Jones assigned reporters Ralph Matthews Sr., Clarence Mit
 
 ## 1936: Governor Nice speech at City-Wide Young People’s Forum
 
-On Feb 22, 1936, the _Baltimore Sun_ reported on how the Young People's Forum “Launches Drive for police Appointments,” writing:
+On Feb 22, 1936, the _Baltimore Sun_ reported on how the Young People's Forum "Launches Drive for police Appointments," writing:
 
-> ”In a spirited meeting to which it had invited George Brennan, white, secretary to Comissioner Charles Gaither [… incomplete transcription]”
+> "In a spirited meeting to which it had invited George Brennan, white, secretary to Comissioner Charles Gaither [… incomplete transcription]"
 
 In a speech before the City-Wide Young People’s Forum, Governor Nice promised to appoint a police commissioner who would not discriminate against black people in hiring police officers.[@farrar_baltimore_1998]
 
 In _Street Justice: A History of Police Violence in New York City_ historian Marilynn S. Johnson noted:
 
-> ”In the landmark Brown v. Mississippi case in 1936, however, the Supreme Court excluded the confessions of three black murder suspects who had been tortured by Mississippi police. In a horrific case of racist southern justice, police openly admitted whipping the defendants and stringing up one of them on a lynch rope to force a confession. Shocked by this brutal treatment, the justices were even more outraged that the Mississippi high court had condoned such police torture. In ruling the confessions inadmissible, the court extended the common law rule to state and local cases under the due process clause of the Fourteenth Amendment. In the 1940s, the Supreme Court expanded this precedent to cases involving prolonged police grilling and psychological coercion as well.”
+> "In the landmark Brown v. Mississippi case in 1936, however, the Supreme Court excluded the confessions of three black murder suspects who had been tortured by Mississippi police. In a horrific case of racist southern justice, police openly admitted whipping the defendants and stringing up one of them on a lynch rope to force a confession. Shocked by this brutal treatment, the justices were even more outraged that the Mississippi high court had condoned such police torture. In ruling the confessions inadmissible, the court extended the common law rule to state and local cases under the due process clause of the Fourteenth Amendment. In the 1940s, the Supreme Court expanded this precedent to cases involving prolonged police grilling and psychological coercion as well."
 
 ## December 1937: Baltimore Police appoint Violet Hill Whyte as the first black police officer
 
@@ -316,9 +316,9 @@ On February 7, 1942, the Afro reported on the death of Thomas Broadus after he w
 
 By late April of 1942, protests over the shooting sparked Baltimore Civil Rights advocates to organize the March on Annapolis with around 1,800 African Americans traveling to the state capital to protest police brutality and racial discrimination. The march forced the Baltimore police to appoint the city's first uniformed black police officers and led Governor Herbert R. O'Conor to appoint a statewide Commission on Problems Affecting the Negro Population.
 
-On May 9, 1942, the _Afro_ reported – “Mrs. Bauernschmidt Urges Uniformed Colored Police, Member on School Board” – writing:
+On May 9, 1942, the _Afro_ reported – "Mrs. Bauernschmidt Urges Uniformed Colored Police, Member on School Board" – writing:
 
-> “The following is the speech given by Mrs. Marie O. Bauernschmidt, white, over Station WBAL on Monday evening, the fourth in a series of weekly talks made over the station”
+> "The following is the speech given by Mrs. Marie O. Bauernschmidt, white, over Station WBAL on Monday evening, the fourth in a series of weekly talks made over the station"
 
 On September 25, 1942, the _Afro_ reported that the commission released a report urging the Bender case to be reopened:
 
@@ -344,11 +344,11 @@ On June 10, 1946, the Baltimore Sun reported on the organized protests in respon
 
 On June 9, 1946, a meeting at the Leadenhall Baptist Church in South Baltimore rallied citizens concerned about police brutality, as the _Sun_ reported:
 
-> Calling for. a more militant attitude by the Negroes of Baltimore in the maintenance of their constitutional rights and privileges, speakers at a meeting held in Leadenhall Baptist Church yesterday afternoon charged the city's police with brutality toward both...
+> Calling for a more militant attitude by the Negroes of Baltimore in the maintenance of their constitutional rights and privileges, speakers at a meeting held in Leadenhall Baptist Church yesterday afternoon charged the city's police with brutality toward both...
 
-On August 22, 1946, George Cochran Doub campaigned as a Republican for the office of attorney general and highlighted the “too many complaints of brutality by policemen in Baltimore” as a violation of Citizens' Rights. Doub eventually served as the United States Attorney for Maryland from 1953 to 1956. He then became the Assistant Attorney General responsible for the Justice Department's civil division during President Eisenhower's second term.
+On August 22, 1946, George Cochran Doub campaigned as a Republican for the office of attorney general and highlighted the "too many complaints of brutality by policemen in Baltimore" as a violation of Citizens' Rights. Doub eventually served as the United States Attorney for Maryland from 1953 to 1956. He then became the Assistant Attorney General responsible for the Justice Department's civil division during President Eisenhower's second term.
 
-By 1950, the department had hired fifty black police officers hired and, upon Atkinson’s retirement in May 1950, the _Afro_ praised his tenure as “one devoted to serving all regardless of race”[@farrar_baltimore_1998]
+By 1950, the department had hired fifty black police officers hired and, upon Atkinson’s retirement in May 1950, the _Afro_ praised his tenure as "one devoted to serving all regardless of race"[@farrar_baltimore_1998]
 
 On May 16, 1950, a delegation of black Baltimoreans approached city police Commissioner Ober charging police brutality and identifying 16 cases for investigation, as the _Sun_ reported:
 
@@ -356,9 +356,9 @@ On May 16, 1950, a delegation of black Baltimoreans approached city police Commi
 
 # 1954 – 1968
 
-The Baltimore jail expanded substantially during this period. In 1952, Baltimore voters approved a $6 million loan to build a new facility but, after concern over the proposed location near City Hospital (now Johns Hopkins Bayview Medical Center), the city opted to renovate the existing building. Work began on the planned $2 million project in 1962 requiring, according to the _Baltimore Sun_ the “destruction of the interior of the building and the refacing of the exterior" to build a “gym, offices, and other improvements to accommodate an inmate population of 1,500.” The new expansion ultimately cost $3.8 million. Mayor Theodore R. McKeldin spoke at the dedication ceremony in 1967, noting:
+The Baltimore Jail expanded substantially during this period. In 1952, Baltimore voters approved a $6 million loan to build a new facility but, after concern over the proposed location near City Hospital (now Johns Hopkins Bayview Medical Center), the city opted to renovate the existing building. Work began on the planned $2 million project in 1962 requiring, according to the _Baltimore Sun_ the "destruction of the interior of the building and the refacing of the exterior" to build a "gym, offices, and other improvements to accommodate an inmate population of 1,500." The new expansion ultimately cost $3.8 million. Mayor Theodore R. McKeldin spoke at the dedication ceremony in 1967, noting:
 
-> ”building a new structure is not enough. We need substantiative rehabilitation programs for these men. ... They are an essential part of any crime-fighting program."
+> "building a new structure is not enough. We need substantiative rehabilitation programs for these men. ... They are an essential part of any crime-fighting program."
 
 ## June 22, 1964: Louis C. Petty dies after beating by police officers Glen Russell and Joseph Mulling
 
@@ -369,21 +369,21 @@ On June 23, 1964, the _Baltimore Sun_ reported on the death of Louis C. Petty fr
 
 ## July 11, 1964: Vernon Leopold shot and killed by William Ray
 
-On July 11, 1964, Vernon Leopold was shot and killed by Baltimore police officer William Ray, as the *Baltimore Sun* reported on July 18:
+On July 11, 1964, Vernon Leopold was shot and killed by Baltimore police officer William Ray, as the _Baltimore Sun_ reported on July 18:
 
 > Vernon Leopold, 28, was the Negro shot July 11 by Patrolman William Ray, 31, a veteran of 10 years on the Baltimore force. Police said Ray was attacked by Leopold. The NAACP said Ray provoked Leopold.
 
-On July 31, the *Baltimore Sun* reported on the testimony at a preliminary hearing on a charge of homicide against William Ray:
+On July 31, the _Baltimore Sun_ reported on the testimony at a preliminary hearing on a charge of homicide against William Ray:
 
 > Defense and prosecution witnesses differed sharply yesterday on the question as to whether Patrolman William Ray was drunk July 11 when he shot and killed 28-year-old Vernon Leopold. A day-long stream of witnesses poured into an unusual hearing in Central Municipal Court that was partially designed to meet the mounting criticism against secret grand jury hearings of cases involving the use of police force against private citizens during arrests.
 
-Witnesses and police officials who testified notably disagreed on whether William Ray was drunk at the time of shooting and on his role in provoking the conflict. Charges against William Ray were dismissed on July 31. The Maryland Conference of the NAACP responded by calling for a federal investigation of the Baltimore City Police Department, passing a resolution summarized by the *Baltimore Sun* on August 2:
+Witnesses and police officials who testified notably disagreed on whether William Ray was drunk at the time of shooting and on his role in provoking the conflict. Charges against William Ray were dismissed on July 31. The Maryland Conference of the NAACP responded by calling for a federal investigation of the Baltimore City Police Department, passing a resolution summarized by the _Baltimore Sun_ on August 2:
 
 > Statements made on the character of Negro witnesses during the extraordinary twenty-hour preliminary hearing on homicide charges against Patrolman William Ray were criticized in yesterday's resolution as: "…a deliberate effort to discredit the entire Negro community by creating the false impression that its leaders are without principle." The patrolman's attorney, Paul Berman, in his summation of his case, called the State's witnesses "murderers, cutthroats, thieves… and now, deliberate, inspired, manufactured perjurers."
 
 On December 4, 1961, the Baltimore City Council initiated an investigation into alleged racial discrimination in the city's Police Boys Clubs.
 
-On September 18, 1962, the _Baltimore Sun_ reported on demands by a N.A.A.C.P. Aide who sought a “Governor's Group Like '42 Unit” writing:
+On September 18, 1962, the _Baltimore Sun_ reported on demands by a N.A.A.C.P. Aide who sought a "Governor's Group Like '42 Unit" writing:
 
 > Appointment of a blue-ribbon commission to investigate complaints of police brutality and discrimination against Negroes was demanded yesterday by an integrationist leader.
 
@@ -391,11 +391,11 @@ On October 10, 1965, the _Baltimore Sun_ reported on the promotion of black offi
 
 > Baltimore's first Negro police captain, Dennis P. Mello, has attained his new rank and new position as head of the Westem police district because he is a Negro. Rather than as an exercise in reverse racial discrimination, his promotion may be viewed as an enlightened community experiment…
 
-In 1966, the Baltimore City police finally became “fully integrated” according to the [Baltimore Police History site](http://baltimorecitypolicehistory.com/) that notes:
+In 1966, the Baltimore City police finally became "fully integrated" according to the [Baltimore Police History site](http://baltimorecitypolicehistory.com/) that notes:
 
-> Prior to 1966, African American officers were limited to foot patrols as they were barred from the use of squad cars. These officers were quarantined in rank, barred from patrolling in white neighbourhoods, and would often only be given specialty assignments in positions in the Narcotics division or as undercover plainclothes officers. […] During this time African American officers were subject to racial slurs from white co-workers during roll call,and encountered degrading racial graffiti in the very districts/units they were assigned. During this time period, two future police commissioners of Baltimore,Bishop L. Robinson and Edward J. Tilghman were amongst Baltimore's African American police officers.
+> Prior to 1966, African American officers were limited to foot patrols as they were barred from the use of squad cars. These officers were quarantined in rank, barred from patrolling in white neighbourhoods, and would often only be given specialty assignments in positions in the Narcotics division or as undercover plainclothes officers. […] During this time African American officers were subject to racial slurs from white co-workers during roll call, and encountered degrading racial graffiti in the very districts/units they were assigned. During this time period, two future police commissioners of Baltimore, Bishop L. Robinson and Edward J. Tilghman were amongst Baltimore's African American police officers.
 
-In July 1967, again according to [Baltimore Police History](http://baltimorecitypolicehistory.com/), the Baltimore City Police established the first of four “Community Relations Store Front Operations” noting, “The purpose of these centers is to reach the community on an intimate basis. This was the first such project in the Northeastern region of the United States.”
+In July 1967, again according to [Baltimore Police History](http://baltimorecitypolicehistory.com/), the Baltimore City Police established the first of four "Community Relations Store Front Operations" noting, "The purpose of these centers is to reach the community on an intimate basis. This was the first such project in the Northeastern region of the United States."
 
 # 1968 – 1976
 
@@ -417,7 +417,7 @@ On July 27, 1971, according to [Baltimore Police History website](http://baltimo
 
 > the Community Relations and Youth Divisions were combined into a new division known as the Community Services Division. The creation of this division and the resulting centralization of Administrative functions provides an effective channel of communication between the Police Officer and the community he serves. The major thrust of our expanded Community Services function is aimed at our young people. It is the Division's job to keep clear the channel of communication between officers and the community. The accomplishment of this mi88ion is aided by the division's two Summer Camp operations located at Camp Perkins and Camp Ritchie. Also, our Officer Friendly Program geared for its first full year of operation.
 
-In 1972, according to the _Baltimore Sun_ “two black guards were promoted to captain at the Baltimore City Jail — the first such promotions in the jail's history. By that year, 60 percent of the facility's guards were black.”
+In 1972, according to the _Baltimore Sun_ "two black guards were promoted to captain at the Baltimore City Jail — the first such promotions in the jail's history. By that year, 60 percent of the facility's guards were black."
 
 Between 1968 and 1974, the Baltimore Police Department Inspectional Services Division (ISD) kept the homes of Parren Mitchell and other African-American politicians and activists under surveillance, illegally bugged home and office telephones, and placed paid informers in congressional campaigns. Beginning in 1971, Parren Mitchell began calling for the resignation of Baltimore Police Commissioner [Donald Pomerleau](https://en.wikipedia.org/wiki/Donald_Pomerleau). When the ISD surveillance program (and its close ties to the FBI) were revealed, Congressman Mitchell extended his criticism to the ISD.
 

@@ -25,7 +25,7 @@ Civil Rights advocacy efforts related to employment can be divided between **pub
 
 [Navassa riot](http://www.executedtoday.com/2013/05/18/1891-benjamin-harrison-spares-the-navassa-rioters/):
 
-> Not surprisingly, Navassa’s “convict” laboring population rebelled in 1889, and in a vicious hour-long riot slew five overseers while maiming several others.
+> Not surprisingly, Navassa’s "convict" laboring population rebelled in 1889, and in a vicious hour-long riot slew five overseers while maiming several others.
 > Warships calling on the island shipped 18 back to face murder charges; ultimately, three black guano-miners were sentenced to death for the affair.
 > However, a huge clemency push spearheaded by the Baltimore-based black fraternal organization the Grand United Order of Galilean Fishermen raised the cry to spare the condemned men.
 
@@ -44,11 +44,11 @@ Barbara Bair in _To Make Our World Anew_ wrote:
 
 James R. Grossman in _To Make Our World Anew_ writing about black small business (1900-1929):
 
-> ”In most cases, however, such businesses were precarious enterprises whose owners had little cash for emergencies or to tide them over during occasional slow months. The limited clientele had little to spend and often needed short-term credit […] Retail businesses were especially risky because whites (often European immigrants with few other business opportunities) could open stores in black neighborhoods and compete, largely because they had greater access to borrowed money and supplies. Barbering, undertaking, and beauty shops, on the other hand, did not face competition from white entrepreneurs reluctant to deal with black bodies.”[@kelley_make_2005, 95]
+> "In most cases, however, such businesses were precarious enterprises whose owners had little cash for emergencies or to tide them over during occasional slow months. The limited clientele had little to spend and often needed short-term credit […] Retail businesses were especially risky because whites (often European immigrants with few other business opportunities) could open stores in black neighborhoods and compete, largely because they had greater access to borrowed money and supplies. Barbering, undertaking, and beauty shops, on the other hand, did not face competition from white entrepreneurs reluctant to deal with black bodies."[@kelley_make_2005, 95]
 
 # 1905 – 1929
 
-In 1910, only 135 black people had non teaching government positions, 90 in “common labor”
+In 1910, only 135 black people had non teaching government positions, 90 in "common labor"
 
 In 1910, 90% of black male workers in Baltimore in domestic service or unskilled occupations; contrast only 8% of Baltimore’s white male workers were unskilled, rest skilled blue-collar, white-collar, or professional occupations
 
@@ -56,7 +56,7 @@ From Afro book:
 
 > In the years preceding the Great Depression, Baltimore’s blacks were employed at rates close to whites. Although their jobs were mostly poorly paid and dead-end, they were at least plentiful and provided black Baltimore with some economic stability in the 1910s and 1920s. The Great Depression wiped all that out.
 
-In 1906, “THEIR HOPE IS IN WORK”
+In 1906, "THEIR HOPE IS IN WORK"
 
 > Harry S. Cummings, the colored lawyer, delivered -an address Tuesday night tho Allen Literary and Christian League in Allen African Methodist pal Church, Lexington and Carlton streets. He said, in part:' "I am deeply concerned,' as this subject of work affects -the people of… [@_their_1906]
 
@@ -66,7 +66,7 @@ By 1930, only 1.7% of municipal workers were black, only 1,350 black people empl
 
 ## January 1931: Afro’s advertising department surveys Pennsylvania Avenue businesses
 
-Afro’s advertising department surveyed businesses along Pennsylvania Avenue, found few blacks owned or worked in businesses, suggested “Do not spend your money where you cannot work” as a rallying cry for a campaign urging the Urban League to pressure to employ more black people
+Afro’s advertising department surveyed businesses along Pennsylvania Avenue, found few blacks owned or worked in businesses, suggested "Do not spend your money where you cannot work" as a rallying cry for a campaign urging the Urban League to pressure to employ more black people
 
 ## 1931: City-Wide Young People’s Forum organized
 
@@ -98,11 +98,10 @@ According to an Urban League Study, 13% of Baltimore whites and 40% of Baltimore
 
 ## June 24, 1941: FDR issues Executive Order 8802, established Fair Employment Practices Committee (FEPC)
 
-
 Joe William Trotter, Jr. in _To Make Our World Anew_ wrote:
 
 > Despite the persistence of discrimination, as the wartime labor shortages increased, the FEPC played a key role in helping black workers find jobs in defense plants. The number of blacks in war production increased from less than three percent in March 1942 to over eight percent in 1944. […]
-> At its annual convention in 1941, for example, the CIO denounced racially discriminatory hiring policies as a “direct attack on our nation’s policy to build democracy in our fight against Hitlerism,” A year later, the organization established its own Committee to Abolish Racial Discrimination and urged its affiliates to support national policy against discrimination. [@kelley_make_2005, 166]
+> At its annual convention in 1941, for example, the CIO denounced racially discriminatory hiring policies as a "direct attack on our nation’s policy to build democracy in our fight against Hitlerism," A year later, the organization established its own Committee to Abolish Racial Discrimination and urged its affiliates to support national policy against discrimination. [@kelley_make_2005, 166]
 
 In Wages of War: The Shifting Landscape of Race and Gender in World War II Baltimore, Amy Bentley notes:
 
@@ -118,7 +117,7 @@ There is much more detail on women workers and black housing during the war:
 
 ## 1945: Campaign for black-owned cab service
 
-On April 29, 1945, the _Baltimore Sun_ reported “SEEKS NEGRO CAB SERVICE: J. F. Henry, Jr., Petitions PSC For Negro-Owned Company,” writing:
+On April 29, 1945, the _Baltimore Sun_ reported "SEEKS NEGRO CAB SERVICE: J. F. Henry, Jr., Petitions PSC For Negro-Owned Company," writing:
 
 > Asserting "it is impossible" for Negroes to obtain taxi service from Baltimore bus and railroad stations, Josiah F. Henry, Jr., has asked the Public Service Commission to issue permits needed to organize a Negro owned and operated company. [@_seeks_1945]
 
