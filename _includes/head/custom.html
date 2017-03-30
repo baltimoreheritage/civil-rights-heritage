@@ -44,4 +44,12 @@ jQuery(function() {
 });
 </script>
 
+{% if page.categories contains 'sheet' %}
+  <link rel="stylesheet" href="https://rawgit.com/jlord/federal-gov/master/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://rawgit.com/jlord/federal-gov/master/js/tabletop.js"></script>
+  <script type="text/javascript" src="https://rawgit.com/jlord/federal-gov/master/js/sheetsee.js"></script>
+{% endif %}
+
+
 <!-- end custom head snippets -->
