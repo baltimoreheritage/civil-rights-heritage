@@ -1,6 +1,11 @@
 ---
 title: About
 permalink: /about/
+modified: 2017-04-01
+excerpt: "Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement is an ongoing project to research and document the historic context for the African American Civil Rights movement in Baltimore."
+header:
+  overlay_color: "#225378"
+  overlay_filter: "0.5"
 ---
 
 **Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement** is an ongoing project to research and document the historic context for the African American Civil Rights movement in Baltimore. We are writing a National Register of Historic Places Multiple Property Documentation Form that documents the significance of the region's Civil Rights history and supports the designation and preservation of local landmarks that tell the story of the movement.
