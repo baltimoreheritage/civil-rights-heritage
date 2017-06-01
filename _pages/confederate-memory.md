@@ -87,7 +87,7 @@ Just days after the _Sun_ published Crane's letter, the proposal moved to the Se
 
 Despite this opposition, on March 31, 1880, the Society of the Army and Navy of the Confederate States in Maryland succeeded in pushing the second branch of the Baltimore City Council to approve the resolution and send it to Mayor Ferdinand C. Latrobe.
 
-On April 5, 1880, the Mayor returned the resolution to the first branch of the City Council—"without his approval"—writing:
+On April 5, 1880, the Mayor returned the resolution to the first branch of the City Council—"without his approval"—writing (emphasis added):
 
 > "During the late civil war the people of Baltimore were divided in sentiment and action on the questions which, after a prolonged and embittered struggle, were finally decided by the sword. The ardor, bravery and devotion to principle of the Maryland soldiers, and the honor due to the memory of those who fell upon the battle-field is universally acknowledged. But while the issues involved in the war have been settled by its result, in most cases the convictions of those who as actors or sympathizers took part in the contest continue to exist. Under these circumstances the erection at this time in one of the public squares of a memorial monument commemorative of the acts of those who fought upon either side would not fail to be repugnant to the opinions and sentiments of very many people. **The public highways and squares of the city are the common property of all, and we who are temporarily entrusted with their control, whatever our personal opinions may be, are not, in my judgment, justified in dedicating any portion of them to a purpose which would be in direct opposition to the sensibilities and wishes of large numbers of citizens.**”
 
@@ -478,12 +478,12 @@ The Civil War Baltimore/Maryland's Confederate Perspective from Loyola Universit
 
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-[^1]:	The Latin phrase “sic semper tyrannis” is translated “thus always to tyrants.” Virginia has used the phrase as their state motto since 1776.
+[^1]: The Latin phrase “sic semper tyrannis” is translated “thus always to tyrants.” Virginia has used the phrase as their state motto since 1776.
 
-[^2]:	See [the response](http://teachingamericanhistory.org/library/document/speech-on-the-dred-scott-decision-2/) to this decision by Frederick Douglass.
+[^2]: See [the response](http://teachingamericanhistory.org/library/document/speech-on-the-dred-scott-decision-2/) to this decision by Frederick Douglass.
 
-[^3]:	Baltimore’s Taney monument is a recast of the 1872 statue in Annapolis.
+[^3]: Baltimore’s Taney monument is a recast of the 1872 statue in Annapolis.
 
-[^4]:	Howard’s oration is available in full [through Google Books](https://books.google.com/books?id=5e717kjFdPIC&lpg=PA406-IA1&ots=ctHL-G_c_G&pg=PA407#v=onepage&q&f=false).
+[^4]: Howard’s oration is available in full [through Google Books](https://books.google.com/books?id=5e717kjFdPIC&lpg=PA406-IA1&ots=ctHL-G_c_G&pg=PA407#v=onepage&q&f=false).
 
 ---
