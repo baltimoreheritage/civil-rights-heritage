@@ -1,6 +1,7 @@
 ---
 title: "Resources"
 permalink: /resources/
+modified: 2017-06-13
 ---
 
 ## [Map](/civil-rights-heritage/map/)
@@ -19,9 +20,12 @@ Teach Baltimore's Civil Rights Movement with resources for classrooms and famili
 
 See also our [Zotero Group on Baltimore's Civil Rights Heritage](https://www.zotero.org/groups/baltimores_civil_rights_heritage).
 
-## Directory
+## Directories
 
-We are compiling a [directory of people and organizations](https://docs.google.com/spreadsheets/d/1v1MrWYA_eSRzwyU8_eG56vaYF7k8gfBAcoxgiNwYWBc/edit?usp=sharing) related to the Civil Rights movement in an open Google Sheet.
+- [People](https://baltimoreheritage.github.io/civil-rights-heritage/people/)
+- [Organizations](https://baltimoreheritage.github.io/civil-rights-heritage/organization/)
+
+We originally compiled directory of people and organizations related to the Civil Rights movement in [an open Google Sheet](https://docs.google.com/spreadsheets/d/1v1MrWYA_eSRzwyU8_eG56vaYF7k8gfBAcoxgiNwYWBc/edit?usp=sharing) then migrated the data to an Airtable database in June 2017.
 
 ## Charts and Data
 
