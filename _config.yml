@@ -138,7 +138,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - docs
+  - /docs
 keep_files:
   - .git
   - .svn
@@ -209,7 +209,7 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-pandoc
   - jekyll-paginate
   - jekyll-sitemap
