@@ -51,7 +51,7 @@ Over the past decade or more, the National Park Service has accepted several Mul
 - [African-American Resources in Manhattan, Kansas](http://cityofmhk.com/DocumentCenter/Home/View/9900 "African-American Resources in Manhattan MPDF") (2012)
 - [African American Resources in Wichita, Sedgwick County, Kansas, 1870-1972](http://www.kshs.org/resource/national_register/MPS/AfricanAmericanResourcesinWichitaKS.pdf) (2011)
 - [Historic and Architectural Resources of The Ville, St. Louis [Independent City], Missouri](http://dnr.mo.gov/shpo/nps-nr/64500318.pdf) (2011)
-- [African American Churches of Philadelphia, 1787-1949](http://www.portal.state.pa.us/portal/server.pt/document/1066712/african_american_churches_mpdf_pdf) (2010)
+- [African American Churches of Philadelphia, 1787-1949](https://www.dot7.state.pa.us/CRGIS_Attachments/Survey/1996-M001-101.pdf) (2010)
 - [The Rosenwald School Building Program in South Carolina, 1917-1932](http://www.nationalregister.sc.gov/MPS/MPS050.pdf) (2008)
 - [African-American Historic Resources of Prince George's County, Maryland](http://focus.nps.gov/pdfhost/docs/NRHP/Text/64500915.pdf) (2005)
 - [Civil Rights Movement in Birmingham, AL](http://www.nps.gov/nr/publications/sample_nominations/CivilRightsBirminghamMPS.pdf) (2004)
