@@ -28,23 +28,23 @@ The history of the house at 1232 Druid Hill Avenue, erected by local builder Ruf
 
 Druid Hill Park, established in 1860, reflected both the city’s interest in promoting development in northwest Baltimore and the need to protect some open space from prospective development. Following the end of the U.S. Civil War in 1865, the northwestern suburbs grew quickly. In just four years, between 1866 and 1870, building permits nearly tripled from 1,384 to 3,630.[^1] While many of these homes were primarily marketed towards wealthy buyers or investors, changes in homebuilding—notably innovative approaches to manufacturing better and cheaper bricks and the increasing use of prefabricated wooden elements for cornices and embellishments—helped to keep the cost within a range that a growing number of middle class Baltimoreans could afford.
 
-On April 1, 1864, Baltimore Mayor John Lee Chapman approved an ordinance changing the name of Ross Street between Eutaw Street and North Avenue to Druid Hill Avenue. On August 30, 1867, the _Sun_ reported on “Dwelling Improvements in the Western Section,” writing:
+On April 1, 1864, Baltimore Mayor John Lee Chapman approved an ordinance changing the name of Ross Street between Eutaw Street and North Avenue to Druid Hill Avenue. On August 30, 1867, the *Sun* reported on “Dwelling Improvements in the Western Section,” writing:
 
 > On Madison avenue, McCulloh street, Druid Hill avenue, Davidson street, McMechin and other streets, handsome dwellings are rapidly going up on lots which were but a few years ago open fields. Rufus Bennett, builder and owner, has **just finished six on Druid Hill avenue**, which are regarded as most stylish residences. On McMechin street, near the avenue, the same builder has five more in an advanced stage of completion, whilst **three at Druid Hill avenue and Lanvale street** and two at Lafayette square are under roof, under his superintendence.
 
-On November 13, 1867, a classified appeared in the _Sun_ advertising the Druid Hill Avenue houses for sale:
+On November 13, 1867, a classified appeared in the *Sun* advertising the Druid Hill Avenue houses for sale:
 
 > FOR SALE—One of those five new HOUSES on Druid Hill avenue, between Dolphin and Lanvale streets, just finished in the best manner, running back to a 16 foot paved alley. Apply to GEO. T. GOSNELL, on the premises.
 
-Subsequent classified advertisements published in the _Sun_ in May 1868 list additional homes for sale on the east side of Druid Hill Avenue and, on September 11, 1868, the _Sun_ ran an advertisement:
+Subsequent classified advertisements published in the *Sun* in May 1868 list additional homes for sale on the east side of Druid Hill Avenue and, on September 11, 1868, the *Sun* ran an advertisement:
 
 > For Sale—Three of those beautiful HOUSES on Druid Hill avenue, near Lanvale street, containing all modern conveniences and built out of the very best materials. Apply to the owners, HUBMER & WEBER ...
 
-These accounts support a date of construction for 1232 Druid Hill Avenue and the adjoining Italianate rowhouses between summer 1867 and spring 1868. Soon after the new homes were built, on November 27, 1867, the Baltimore City Commissioner's Office opened Lanvale Street, as the _Sun_ announced:
+These accounts support a date of construction for 1232 Druid Hill Avenue and the adjoining Italianate rowhouses between summer 1867 and spring 1868. Soon after the new homes were built, on November 27, 1867, the Baltimore City Commissioner's Office opened Lanvale Street, as the *Sun* announced:
 
 > Upon application to establish the lines and grade of Lanvale street, between Druid Hill avenue and Division street, notice is hereby given that the City Commissioner and Surveyor will meet on the premises on WEDNESDAY, the 4th of December, at 10 o'clock A.M., for that purpose. By order, GEO. P. WOODWARD Clerk to the City Commissioner
 
-Builder Rufus Bennett had a long and active career in Baltimore beginning as an apprentice around 1841 and continuing up through the late nineteenth century. The _Sun_ commented on his death on July 22, 1906:
+Builder Rufus Bennett had a long and active career in Baltimore beginning as an apprentice around 1841 and continuing up through the late nineteenth century. The *Sun* commented on his death on July 22, 1906:
 
 > Mr. Rufus Bennett, one of the oldest residents of the city and for years prominent in business circles, died at 6 A.M. yesterday at his home, 520 West Biddle street. General debility was the cause of his death.
 > Born in Carroll county, near Waters Mill, 82 years ago, Mr. Bennett was the son of the late William Bennett. He acquired his education at the public schools in the county and, when 17 years old, came to this city to learn a trade. He apprenticed himself with a contractor and builder and, about 55 years ago, opened an office for himself.
@@ -58,7 +58,7 @@ During the 1870s and early 1880s, the property on Druid Hill Avenue saw a variet
 
 Between 1872 and 1877, according to the Wood’s Baltimore City Directory (1872, 1873, 1875 and 1877), Francis A. Benson, employee of the firm J. Fussell & Co. lived at 272 Druid Hill Avenue. Beginning in 1875, the household included Albert C. Stabell. Stabell is initially identified as an employee of J. Fussell & Co. and, in [1877](https://archive.org/stream/woodsbaltimoreci1877balt/woodsbaltimoreci1877balt%5C_djvu.txt), as a dealer in ice cream and country produce with an office at the Saratoga Building on Saratoga Street near Calvert Street.
 
-On May 12, 1877, the house appeared for sale in a _Sun_ classified advertisement:
+On May 12, 1877, the house appeared for sale in a *Sun* classified advertisement:
 
 > FOR SALE—A strictly first-class HOUSE, No. 272 Druid Hill avenue, (next to the corner of Lanvale street,) containing 18 rooms, built out of the best material, hard wood finish, in complete order. Inquire, between 12 and 2 o'clock, of J. HUBNER, next door.
 
@@ -69,7 +69,7 @@ In 1878, residents in [Woods’ Baltimore City Directory](https://archive.org/st
 - William P. King, clerk
 - J.H. Mcllvain King, clerk
 
-The King household did not remain on Druid Hill Avenue long. On September 14, 1878, an advertisement appeared in the _Sun_ advertising an auction by F.W. Bennett & Co. auctioneers scheduled for September 19 of "FURNITURE, CARPETS, ETC., of a private family declining housekeeping.” Items up for auction included:
+The King household did not remain on Druid Hill Avenue long. On September 14, 1878, an advertisement appeared in the *Sun* advertising an auction by F.W. Bennett & Co. auctioneers scheduled for September 19 of "FURNITURE, CARPETS, ETC., of a private family declining housekeeping.” Items up for auction included:
 
 > Elegant WALNUT and EBONY PARLORSUITS, in good order.
 
@@ -79,7 +79,7 @@ By 1880, [Woods’ Baltimore City Directory](https://archive.org/stream/woodsbal
 - Thomas L. Mount, agent
 - Mrs. Laura M. Starr
 
-On April 27, 1882, a classified in the _Sun_ advertised the property for sale:
+On April 27, 1882, a classified in the *Sun* advertised the property for sale:
 
 > FOR SALE—No. 272 DRUID HILL AVENUE, near Lanvale Street 20 feet front, first-class in every particular. Will sell cheap. Apply on premises.
 
@@ -93,11 +93,11 @@ In 1883, the [Woods’ City Directory](https://archive.org/stream/woodsbaltimore
 - Alberts King, clerk
 - George W. King, King Brothers
 
-During his residence at the house, King evidently engaged in speculative development and renting houses within the neighborhood. On July 31, 1883, a classified appeared in the _Sun_  advertising a house nearby:
+During his residence at the house, King evidently engaged in speculative development and renting houses within the neighborhood. On July 31, 1883, a classified appeared in the *Sun*  advertising a house nearby:
 
 > For Rent—583 DRUID HILL AVENUE, new and complete in modern improvements. Rent very reasonable. Apply at 272 DRUID HILL AVE. or 162 W. BALTIMORE ST., up stairs.
 
-King also rented and repeatedly tried to sell a property at 2118 Druid Hill Avenue.  The _Baltimore Sun_  published a classified advertisement on Feb 4, 1887:
+King also rented and repeatedly tried to sell a property at 2118 Druid Hill Avenue. The _Baltimore Sun_  published a classified advertisement on Feb 4, 1887:
 
 > 2118 Druid Hill Avenue, 10 rooms, large parlor, dry cellar, nice yard. Apply 1232 DRUID HILL AVENUE.
 
@@ -108,7 +108,7 @@ Around this same time, the row house next door to George King’s home, 1234 Dru
 > Three-story DWELLING, front and rear, No. 1234 Druid Hill avenue, corner Lanvale street, 20 feet 6 inches front; all modern conveniences.
 > JOHN GLENN & CO., 12 St. Paul street.
 
-A subsequent classified advertisement, appearing in the _Sun_ on April 9, 1890, advertised rooms for rent:
+A subsequent classified advertisement, appearing in the *Sun* on April 9, 1890, advertised rooms for rent:
 
 > COMMUNICATING AND SINGLE ROOMS, with BOARD, also TABLE BOARD
 > No 1234 DRUID HILL AVENUE, corner Lanvale st.
@@ -128,9 +128,9 @@ Based on his last name, Abraham Briscoe and his family were likely descendants o
 
 Notably, Abraham Briscoe’s family included people born before the Civil War and those born after the end slavery in Maryland in 1864. Like many others, Abraham Briscoe, his brothers, his wife Harriet Briscoe, or possibly their parents came to the city seeking both economic opportunity and freedom from the oppressive violence and poverty affecting black communities in Maryland. Movement did not stop when they arrived in Baltimore. Abraham Briscoe moved to Druid Hill Avenue from a prior residence at 1419 Maryland Avenue – making his household one of many moving away from the city’s central neighborhoods into a growing African American community in northwest Baltimore.[^2]
 
-Despite present-day working class associations, working as drivers and waiters placed the Briscoe family in a relatively privileged position—a status also reflected in their ability to move to 1232 Druid Hill Avenue. In homes with fewer wage-earning adults, owners or tenants often brought in boarders to help cover the cost of the rent or mortgage. For example, on August 5, 1899, the Afro published a notice from Mrs. E. J. Cummings, wife of Councilman Harry S. Cummings, advertising "Boarding and Lodging" at 1234 Druid Hill Avenue.  
+Despite present-day working class associations, working as drivers and waiters placed the Briscoe family in a relatively privileged position—a status also reflected in their ability to move to 1232 Druid Hill Avenue. In homes with fewer wage-earning adults, owners or tenants often brought in boarders to help cover the cost of the rent or mortgage. For example, on August 5, 1899, the Afro published a notice from Mrs. E. J. Cummings, wife of Councilman Harry S. Cummings, advertising "Boarding and Lodging" at 1234 Druid Hill Avenue. 
 
-1232 Druid Hill Avenue also offered the Briscoe household the opportunity to host and entertain friends and relatives. On January 10, 1903, the _Afro-American_ published an account of “A New Year's Eve Reception” at 1232 Druid Hill Avenue:
+1232 Druid Hill Avenue also offered the Briscoe household the opportunity to host and entertain friends and relatives. On January 10, 1903, the *Afro-American* published an account of “A New Year's Eve Reception” at 1232 Druid Hill Avenue:
 
 > Messrs Joseph Briscoe and Columbus Ramsey entertained many of their friends at dinner, Wednesday evening, December 31st, at the former's residence 1232 Druid Hill Ave. The dining and drawing rooms were artistically decorated with holly, evergreen and smilax, while large potted plants completed the decoration. The Menu which was nicely prepared but more nicely consumed, consisted of oysters on the shell, bouillon, turkey stuffed with chestnuts, Smithfield ham, hominy on chafing, individual ices and beverages to the course. At the stroke of twelve the guest knelt down in silent prayer which was lead by Mr. Abram Briscoe.
 
@@ -138,7 +138,7 @@ Joseph and John Briscoe’s employment as waiters highlighted in their ability t
 
 After the Civil War, factories and industrial employers largely excluded black workers but service work remained an important source of support for black households. In the years after the Civil War, the number of African American waiters grew from 350 in 1864, 662 in 1868, and 798 in 1871. In total, the Woods’ City Directory in 1868 counted 8,000 employed black heads of households, a 100% increase over 1864. In a few cases, work as a waiter led to a more independent enterprise. For example, Richard Macks, born into slavery in Charles County, Maryland, arrived in Baltimore in 1868 and spent 17 years working as a waiter and butler before starting his own catering business in the late 1880s. Macks and other independent black caterers in the late 19th and early twentieth century (including James W. Hughes, Benjamin Simms, and Mrs. Emma Simmes) provided key financial support for black churches and early Civil Rights organizations. In many cases, however, conflict with white workers and white-owned businesses, and, for some African Americans, the perception of a waiter’s work as menial or degrading, made even the service sector a difficult place to work in the twentieth century.
 
-Family also played an important role in shaping both activism and socialization. One nearby relative was Ella B. Morris who lived at 524 Laurens Street as early as 1904. According to a _Sun_ report on December 17, 1900, Abraham Briscoe was a founding member of the "Ancient United Order Sons and Daughters, Brothers and Sisters of Moses," (an African American fraternal and civic organization) along with James M. Seward, Solomon A. Bond, John W. Henson, Louis H. Davenport, Andrew E. Bolden, Andrew A. Spriggs, Dennis Hall, John H. Bailey, James Harris, and Andrew Johnson. Abraham’s relatives Mrs. Ella B. Morris and Pinkney Briscoe were also involved in the Order of Moses, as the _Afro American_ noted on October 22, 1904:
+Family also played an important role in shaping both activism and socialization. One nearby relative was Ella B. Morris who lived at 524 Laurens Street as early as 1904. According to a *Sun* report on December 17, 1900, Abraham Briscoe was a founding member of the "Ancient United Order Sons and Daughters, Brothers and Sisters of Moses," (an African American fraternal and civic organization) along with James M. Seward, Solomon A. Bond, John W. Henson, Louis H. Davenport, Andrew E. Bolden, Andrew A. Spriggs, Dennis Hall, John H. Bailey, James Harris, and Andrew Johnson. Abraham’s relatives Mrs. Ella B. Morris and Pinkney Briscoe were also involved in the Order of Moses, as the _Afro American_ noted on October 22, 1904:
 
 > Mrs. Ella B. Morris, of 524 Laurens street, returned home last week after an extended trip in the mountains. She left the city again last week, in company with her brother, Mr. Pinkney Briscoe, to attend the annual convention of the Order of Moses which is in session in Brooklyn, N.Y.
 
@@ -168,7 +168,7 @@ Abraham Briscoe and his family moved away around 1908. By October 4, 1908, 1232 
 
 > ONLY $1,000.00 FOR 816 N. BOND ST., $2,500 for 1232 DRUID HILL AVE., $1,350 for 559 LAURENS ST.; Houses, small and large, in every section of the city for sale on very easy terms. C. MORTON, 209 St. Paul street.
 
-Evidently, the 1908 sale attempt proved unsuccessful as George W. King, Jr. retained ownership through at least May 1912. Around this same time Mrs. Mollie Giles, the recently widowed wife of [Darius Giles](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=52869211) (b. 1861 – d. 1908 June 4) moved into the building. On April 16, 1910, the _Afro-American_ reported:
+Evidently, the 1908 sale attempt proved unsuccessful as George W. King, Jr. retained ownership through at least May 1912. Around this same time Mrs. Mollie Giles, the recently widowed wife of [Darius Giles](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=52869211) (b. 1861 – d. 1908 June 4) moved into the building. On April 16, 1910, the *Afro-American* reported:
 
 > Mrs. Mollie Giles has moved from 1619 Druid Hill avenue to 1232 Druid Hill avenue.
 
@@ -181,35 +181,35 @@ Mrs. Giles, was one of six residents at 1232 Druid Hill Avenue recorded by the U
 - Thomas James, Lodger (b. 1863, Maryland) / Porter
 - Walter Brookings, Lodger (b. 1887, Pennsylvania) / Porter, Clothing Store
 
-Annie Boone is identified in the census form as black and the remainder of the residents of the house are identified as mulatto. On June 1, 1912, the _Afro-American_ reported again on Mrs. Molly Giles:
+Annie Boone is identified in the census form as black and the remainder of the residents of the house are identified as mulatto. On June 1, 1912, the *Afro-American* reported again on Mrs. Molly Giles:
 
 > Mrs. Mollie Giles, who left for Asbury Park, N.J. Tuesday, was tendered a reception at her home, 1232 Druid Hill avenue, Monday night. A number of the members of Brown's Circle, an organization of ladies with which Mrs. Giles is connected were also present. Miss Ella Sutton, of 1234 Druid Hill avenue, accompanied Mrs. Giles.
 
-The Brown’s Circle was likely a literary society, similar to Baltimore’s more prominent "Du Bois Circle" founded in 1906 for "social uplift and higher literary attainment” with regular meetings for discussion on both literature and current issues affecting the city's black community. In the 1890s, a resurgence of the antebellum lyceum movement across the United States, led many members of Baltimore's black middle class to form literary societies. Like the United Order of Moses and the Empty Stocking Circle, these groups often played an important role in providing mutual aid for African Americans and for organizing resistance to efforts to disenfranchise or segregate black Baltimoreans in the nineteenth and early twentieth century.  As “Organizing Black America” (2003) noted:
+The Brown’s Circle was likely a literary society, similar to Baltimore’s more prominent "Du Bois Circle" founded in 1906 for "social uplift and higher literary attainment” with regular meetings for discussion on both literature and current issues affecting the city's black community. In the 1890s, a resurgence of the antebellum lyceum movement across the United States, led many members of Baltimore's black middle class to form literary societies. Like the United Order of Moses and the Empty Stocking Circle, these groups often played an important role in providing mutual aid for African Americans and for organizing resistance to efforts to disenfranchise or segregate black Baltimoreans in the nineteenth and early twentieth century. As “Organizing Black America” (2003) noted:
 
 > Generally operating with limited funds and an all-black membership, the civic and self-help groups accomplished much in spite of seemingly insurmountable opposition.[^6]
 
 ## 1912: 1232 Druid Hill Avenue subdivided into apartments
 
-On May 20, 1912, a second advertisement for the property appeared in the _Sun_:
+On May 20, 1912, a second advertisement for the property appeared in the *Sun*:
 
 > FOR SALE—DWELLING 1232 DRUID HILL AVE. Apply GEORGE W. KING / 31 South Howard street.
 
-On August 9, 1912, the property was advertised for sale again in the _Afro-American_:
+On August 9, 1912, the property was advertised for sale again in the *Afro-American*:
 
 > In Fee—400 E. 25th, 1213 W. Lexington near Franklin Square; also 1232 Druid Hill ave., 609 N. Calhoun, opposite Harlem Square. CHARLES MORTON, 209 St. Paul St.
 
 It seems likely that around this time the property was subdivided into three separate apartments. The conversion of the building from a single-family to a boarding house in 1909 and from a single-unit into a multi-unit dwelling around 1912 reflects the continuing changes in the neighborhood as a growing number of working-class African Americans who sought and found housing in West Baltimore. From the 1910s up through the 1970s, 1232 Druid Hill Avenue and the surrounding neighborhood offered homes for working class black Baltimoreans moving to the city from rural Maryland, Virginia, and North Carolina. Men working as chauffeurs, waiters and laborers and women working as secretaries, domestics, and laundresses played a critical role in shaping the history of West Baltimore and the city as the whole, making 1232 Druid Hill Avenue a significant reminder of the Great Migration and Baltimore’s Civil Rights history before World War II.
 
-The diversity of residents in this period is documented in both US Census records and advertisements in the _Sun_ for residents at 1232 Druid Hill Avenue seeking work. For example, on March 27, 1909, a resident listed an advertisement under “Situation Wanted—Female”:
+The diversity of residents in this period is documented in both US Census records and advertisements in the *Sun* for residents at 1232 Druid Hill Avenue seeking work. For example, on March 27, 1909, a resident listed an advertisement under “Situation Wanted—Female”:
 
 > LAUNDRESS WANTS LAUNDRY WORK; finery specialty; housecleaning by day; can give references. 1232 DRUID HILL AVE.
 
-This advertisement may have been placed by Nellie Peaker, a resident of 1232 Druid Hill Avenue in 1913, whose occupation was listed in the city directory of that year as a dressmaker. Other residents in this period included Mrs. Harriett Swann, whose family appeared in the _Afro-American_ on January 9, 1915:
+This advertisement may have been placed by Nellie Peaker, a resident of 1232 Druid Hill Avenue in 1913, whose occupation was listed in the city directory of that year as a dressmaker. Other residents in this period included Mrs. Harriett Swann, whose family appeared in the *Afro-American* on January 9, 1915:
 
 > William Swann, of the United States Navy, is visiting relatives at 1232 Druid Hill avenue.
 
-The next year, on May 27, 1916, the _Afro-American_ reported:
+The next year, on May 27, 1916, the *Afro-American* reported:
 
 > Mr. and Mrs. Woods have returned home after spending a fortnight with Mrs. Woods' mother, Mrs. Harriett Swann at her home 1232 Druid Hill avenue.
 
@@ -251,19 +251,19 @@ Broadly excluded from employment opportunities in Baltimore’s growing industri
 
 > As the result of a pistol affray, Charles Coates, 429 Tyson street; Margaret Coates and Charles Clemens, 1232 Druid Hill avenue, colored were all slightly wounded yesterday morning at the house, 1232 Druid Hill avenue, and the two men were committed by Justice Tyson, at the Northwestern Police Station, on the charge of assaulting and shooting each other. The shooting occurred at about 9.15 o'clock in the morning and was concerning the woman. Clemens was shot in the left arm, Margaret Coates in the hand and Charles Coates in the hip.
 
-Another example is the arrest of 1232 Druid Hill Avenue resident Henry Larkins, noted as a chauffeur who appears in a report published in the _Afro-American_ on February 28, 1925:
+Another example is the arrest of 1232 Druid Hill Avenue resident Henry Larkins, noted as a chauffeur who appears in a report published in the *Afro-American* on February 28, 1925:
 
 > Thirteen men were taken in a raid on a game in the rear of 2025 Madison avenue, Saturday. The game  was in progress in a garage on the second floor of which is a chauffeur's club is conducted. […] Those who were fined $1 and costs were: […] Henry Larkins, 1232 Druid Hill avenue […]
 
-Other residents in the period included Rev. J. E.  Lee, whose thoughts the _Afro-American_ reported on January 5, 1929 under the headline “Inquiring Reporter Asks Baltimore Citizens Their Main Intention For 1929”:
+Other residents in the period included Rev. J. E. Lee, whose thoughts the *Afro-American* reported on January 5, 1929 under the headline “Inquiring Reporter Asks Baltimore Citizens Their Main Intention For 1929”:
 
 > Rev. J.E. Lee, 1232 Druid Hill avenue: "To be of a greater service to my fellow man."
 
-Around this same time, 1232 Druid Hill Avenue also served as offices for Mount Zion Cemetery, when H. E.  Walden, then cemetery superintendent, advertised in the  _Afro-American_ on February 16, 1929:
+Around this same time, 1232 Druid Hill Avenue also served as offices for Mount Zion Cemetery, when H. E. Walden, then cemetery superintendent, advertised in the  *Afro-American* on February 16, 1929:
 
 > Mount Zion Cemetery Notice! All lot owner in the Mount Zion Cemetery please communicate with the office in the next thirty days.
 
-The _Afro-American_ newspaper reported on March 8, 1930:
+The *Afro-American* newspaper reported on March 8, 1930:
 
 > Redemption of her maiden name was granted Mrs. Ida Barber, 1232 Druid Hill Avenue along with her decree of divorce from George Barber. Mrs. Barber was formerly Miss Ida King. She was married June 12, 1916, and abandoned June 4, 1920. There are no children.
 
@@ -328,7 +328,7 @@ Born in 1826, George W. King is a long-time local printer, remembered today  as 
 
 During the mid to late nineteenth century, the City Council regularly voted to elect a printing firm to serve as the “City Printers” (on an annual term basis). In this role, the King Brothers printed all Baltimore City government documents. In addition, the firm printed the School Board Annual reports, as well as local, congressional, and presidential election ballots, Maryland General Assembly documents for 1894 and 1896, and more.
 
-He had several partners over the course of his life. Originally, he founded the firm with his two brothers, but by the time of his death, his partner was relative Edwin W. King. His son, also named George W. King, succeeded his father in the business in 1897, up until the elder King's death in 1898. However, on January 4, 1899, an account in the _Sun_ announced that the firm of the King Brothers had been dissolved by the death of George W. King, but that the business would be continued under the same name by Edwin W. King. The notice stated that Edwin W. King purchased the entire interest of the firm, and planned to continue operating under the same name. George's son went on to found his own eponymously named printing company: George W. King Printing Company, in competition with King Brothers.
+He had several partners over the course of his life. Originally, he founded the firm with his two brothers, but by the time of his death, his partner was relative Edwin W. King. His son, also named George W. King, succeeded his father in the business in 1897, up until the elder King's death in 1898. However, on January 4, 1899, an account in the *Sun* announced that the firm of the King Brothers had been dissolved by the death of George W. King, but that the business would be continued under the same name by Edwin W. King. The notice stated that Edwin W. King purchased the entire interest of the firm, and planned to continue operating under the same name. George's son went on to found his own eponymously named printing company: George W. King Printing Company, in competition with King Brothers.
 
 George W. King engaged in a variety of other business and municipal activities beyond his work as a printer. In 1872, George W. King served as a Councilman for Ward 7. He also volunteered as an election judge for the 3rd, 4th and 7th precincts (according to a list appearing in the  _Baltimore Sun_ on September 19, 1889). King Brothers was one of 25 printers that organized into an Association of Employing Printers in 1877 and, a few years later, the Typographical Union. George King was also Vice-president of the Good Investment Building Association No. 3.
 
@@ -355,11 +355,11 @@ A combination of factors contributed to this pattern of emerging segregation. Ne
 
 ### 1890s-1910s: African Americans move into Northwest Baltimore
 
-One perspective on the movement of African Americans onto Druid Hill Avenue is found in a 1926 account published in the _Afro-American_ reflecting on the changes twenty-five years before:
+One perspective on the movement of African Americans onto Druid Hill Avenue is found in a 1926 account published in the *Afro-American* reflecting on the changes twenty-five years before:
 
 > The Baltimores' "Who's Who" has been constantly moving northwest in the city during the last 25 years, is revealed by a glance at old files which show the addresses of many families in the bygone days.
 > Although a few prominent families still live in the South and Northeast Baltimore, the bulk of the population now resides in that section of the city known as Northwest Baltimore. […]
-> Oxford and Orchard streets once housed many of Baltimore's [colored four hundred](http://digitalcollections.nypl.org/items/510d47dd-eac1-a3d9-e040-e00a18064a99). Even Sara Ann street, now one of the most dilapidated and one of the worst streets in the entire city, once boasted the names of now prominent families. From down in south and northeast Baltimore, however, have come most of the prominent families now in the northwest section.  […]
+> Oxford and Orchard streets once housed many of Baltimore's [colored four hundred](http://digitalcollections.nypl.org/items/510d47dd-eac1-a3d9-e040-e00a18064a99). Even Sara Ann street, now one of the most dilapidated and one of the worst streets in the entire city, once boasted the names of now prominent families. From down in south and northeast Baltimore, however, have come most of the prominent families now in the northwest section. […]
 > Even the aristocratic St. Paul street section once knew prominent residents of the race. John Henry Smith lived for some time at 517 St. Paul street, and this was the childhood home of his daughter who is now Mrs. Amie Williams. In this same block also lived the McCabbs, Jakes, the Browns, the Sykes and James Harris, caterer. This block was sandwiched in between some of the wealthiest white families in the city. Here also Mrs. Elizabeth Sykes conducted a school to which many prominent persons went.
 > Eighteen years ago [1908] Mrs. Williams moved from St. Paul street home to Druid Hill avenue, where she resided for five years, and then moved into the 500 block of Dolphin street.
 > Seventy years ago [1856] John A. Conkley's home was on Sharp street, between Baltimore street and Redwood, formerly German street, where he had a cabinet store and made fancy furniture. He was burnt out and afterwards moved to German street near Fremont avenue, around the St. Paul burial ground. His was the only colored family residing in either of these sections. Later, the Conkley family moved on St. Paul street, then on Richmond, between Park avenue, and Cathedral.
@@ -373,7 +373,7 @@ A closer look at the churches and schools in the vicinity of 1232 Druid Hill Ave
 - **Union Baptist Church** moved  located on Guilford Avenue between E. Lexington and E. Saratoga Streets. Union Baptist moved to Druid Hill Avenue in 1910.
 - **Bethel AME Church** purchased their building at Lanvale Street and Druid Hill Avenue from St. Peter's Protestant Episcopal Church on November 20, 1910 for $90,000 and held a dedication service on January 8, 1911.
 
-The example of St. Peter's Protestant Episcopal Church, designed by Baltimore architects N.H. Hutton and John Murdoch dated from 1868, is particularly revealing of the sentiments of many white residents regarding the presence of Abraham Briscoe and other African Americans in the neighborhood. In 1903, St. Paul's congregation refused to consider an offer by Union Baptist Church to purchase the building, publicly pledging their commitment to not sell the building to a black congregation at any price. On May 6, 1903, the _Sun_ quoted "a property owner on Druid Hill avenue above McMechen”:
+The example of St. Peter's Protestant Episcopal Church, designed by Baltimore architects N.H. Hutton and John Murdoch dated from 1868, is particularly revealing of the sentiments of many white residents regarding the presence of Abraham Briscoe and other African Americans in the neighborhood. In 1903, St. Paul's congregation refused to consider an offer by Union Baptist Church to purchase the building, publicly pledging their commitment to not sell the building to a black congregation at any price. On May 6, 1903, the *Sun* quoted "a property owner on Druid Hill avenue above McMechen”:
 
 > We intend to keep the negroes out of those blocks if we can. It is true there is one family in the block above Wilson street, but we hope property owners in this neighborhood will consider well before selling to negro purchasers.
 
@@ -387,7 +387,7 @@ The story of three nearby schools also  from segregation white to segregated bla
 - **Western Female High School** erected at Lafayette Avenue and McCulloh Street in 1896 with the annex completed in 1911. In January 1928, Western High School moved to a new building at Pulaski Street and Gwynns Falls Parkway and the Coppin Normal School, Colored Junior High School, and offices for the Baltimore colored school administration moved into the building on McCulloh Street.
 - **Colored High School** opened in January 1901 at the northeast corner of Pennsylvania Avenue and Dolphin Street occupying a building erected in 1891 for the English-German School No. 1 previously located on Druid Hill Avenue.
 
-Proponents of segregation in this period often couched their appeals in the context of preserving property values, rents and property tax revenue. This language can be found in a _Sun_ editorial in favor of residents protesting the move to use the Division Street school building for African American students:
+Proponents of segregation in this period often couched their appeals in the context of preserving property values, rents and property tax revenue. This language can be found in a *Sun* editorial in favor of residents protesting the move to use the Division Street school building for African American students:
 
 > It is a well-known fact that as soon as a colored family moves into a block white families begin to move away. The owners of the vacated houses deciding they cannot get white tenants are forced to take such as they can get. To rent to negroes means a reduction of rentals and a deterioration in the value of property… But perhaps even stronger than any question of values and revenues is another reason waged against the change of this school. That is the proximity to the Western Female High School, which is only two blocks distant. Every street leading to the high school would be filled morning and evening with throngs of negroes of both sexes and all ages up, perhaps, to 20 years. Morning and evening the young ladies attending the high school would encounter these negroes and it is not fair nor public spirited of the School Board to subject them to that. There is a growing disposition among negro men and boys all over the land to be unmannerly, insolent and violent to white women.
 

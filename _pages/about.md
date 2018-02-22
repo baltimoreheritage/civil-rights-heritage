@@ -21,7 +21,7 @@ header:
 
 The [National Park Service Heritage Initiatives](https://www.nps.gov/heritageinitiatives/) program awarded funding to the Maryland Historical Trust for this project in 2014 as part of a national effort to explore the ways in which the legacy of underrepresented groups can be recognized, preserved and interpreted for future generations.
 
-In 2015, the [Preservation Maryland Heritage Fund](http://preservationmaryland.org/programs/heritage-fund-grants/) awarded funding to the Maryland Historical Trust for this project. Baltimore Heritage has also recieved project funding from the [PNC Foundation](http://www1.pnc.com/pncfoundation/) in 2015 and 2016.
+In 2015, the [Preservation Maryland Heritage Fund](http://preservationmaryland.org/programs/heritage-fund-grants/) awarded funding to the Maryland Historical Trust for this project. Baltimore Heritage has also received project funding from the [PNC Foundation](http://www1.pnc.com/pncfoundation/) in 2015 and 2016.
 
 ## Feedback
 

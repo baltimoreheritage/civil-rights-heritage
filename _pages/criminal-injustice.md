@@ -128,7 +128,7 @@ The _Baltimore Sun_ described Brown writing:
 
 > "Daniel Brown, the deceased, was a dark mulatto, thirty-seven years of age, and leaves a wife but no children. He was industrious and sober, quite intelligent and strong in urging his own way. In the daytime of late he was employed as a laborer, and occasionally at night worked in Woods, Weeks & Co,'s sugar refinery."
 
-The _Sun_ continued to provide detailed coverage of McDonald's trial from mid to late November.
+The *Sun* continued to provide detailed coverage of McDonald's trial from mid to late November.
 
 On November 24, 1875, the jury returned the verdict: "Not guilty of murder, but guilty of manslaughter."
 
@@ -214,7 +214,7 @@ In 1925, the Conference of AME Ministers sets up a committee to consider the bes
 
 ## 1926: Afro reports on discrimination and capital punishment
 
-In a 1926 report on capital punishment in Maryland the _Afro-American_ newspaper pointed out that from 1903 to 1926 nine of ten men executed in Maryland for murder or rape were black and called for an end to the death penalty.[@farrar_baltimore_1998, 115-117]
+In a 1926 report on capital punishment in Maryland the *Afro-American* newspaper pointed out that from 1903 to 1926 nine of ten men executed in Maryland for murder or rape were black and called for an end to the death penalty.[@farrar_baltimore_1998, 115-117]
 
 ## May 31, 1926: Police officer James O. Jones beats Henry Boyer
 
@@ -257,7 +257,7 @@ On March 29, 1930, the _Afro_ reflect on the killing as a pattern of brutality b
 
 ## September 1, 1930: William Johnson dies after assault by police officer Harry Holley
 
-On September 6, 1930, the _Afro-American_ reported on the NAACP protesting to the governor after an assault on William Johnson by police officer Harry Holley left Johnson unconscious for two weeks before dying at the University Hospital:
+On September 6, 1930, the *Afro-American* reported on the NAACP protesting to the governor after an assault on William Johnson by police officer Harry Holley left Johnson unconscious for two weeks before dying at the University Hospital:
 
 > At an inquest at the Western police station Thursday night, Officer Harry Holly was exonerated in the killing of William Johnson who died after being struck with a blackjack by the officer. Fourteen witnesses testified that the officer brutally assaulted Johnson without provocation. One white man and the officer testified for the defense.
 > The death of William Johnson, 137 W. Camden Street, on September 1 at University Hospital after being hit with a blackjack by Policeman Harry Holley, white, of the Western district, aroused the city this week.
@@ -342,7 +342,7 @@ On June 10, 1946, the Baltimore Sun reported on the organized protests in respon
 
 > "We serve notice on the authorities that we now are acting as a group and not as individuals" […] "This is the first case in the city where the force of the Negro population can be shown," he added. "This is the best case we ever had."
 
-On June 9, 1946, a meeting at the Leadenhall Baptist Church in South Baltimore rallied citizens concerned about police brutality, as the _Sun_ reported:
+On June 9, 1946, a meeting at the Leadenhall Baptist Church in South Baltimore rallied citizens concerned about police brutality, as the *Sun* reported:
 
 > Calling for a more militant attitude by the Negroes of Baltimore in the maintenance of their constitutional rights and privileges, speakers at a meeting held in Leadenhall Baptist Church yesterday afternoon charged the city's police with brutality toward both...
 
@@ -350,7 +350,7 @@ On August 22, 1946, George Cochran Doub campaigned as a Republican for the offic
 
 By 1950, the department had hired fifty black police officers hired and, upon Atkinson’s retirement in May 1950, the _Afro_ praised his tenure as "one devoted to serving all regardless of race"[@farrar_baltimore_1998]
 
-On May 16, 1950, a delegation of black Baltimoreans approached city police Commissioner Ober charging police brutality and identifying 16 cases for investigation, as the _Sun_ reported:
+On May 16, 1950, a delegation of black Baltimoreans approached city police Commissioner Ober charging police brutality and identifying 16 cases for investigation, as the *Sun* reported:
 
 > Protests were made yesterday to Commissioner Beverly Ober regarding alleged Instances of police brutality in recent handling of Negro prisoners.
 

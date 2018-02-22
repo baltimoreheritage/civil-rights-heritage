@@ -83,7 +83,7 @@ On January 19, 1880, at the annual meeting of the Society of the Army and Navy o
 > I know that these views are opposed to some of my nearest and dearest friends, some of whom may be disposed to judge harshly my attitude in this matter. For this I am prepared. I believe I am right, and what is thought of me is of small consequence compared to the evils which I believe will follow the erection of the proposed monument.
 > I am, dear sir, yours very truly, Chas. T. Crane / Baltimore, March 26, 1880. [@sun_unveiling_1883]
 
-Just days after the _Sun_ published Crane's letter, the proposal moved to the Second Branch of the Baltimore City Council. [Dr. J. Pembroke Thom](https://books.google.com/books?id=jwhIAQAAMAAJ&lpg=PA190&ots=L3FVU5CEGf&pg=PA189#v=onepage&q&f=false), a member of the Council and also a Confederate veteran, opposed the proposed monument and presented into the record a memorial (in this case meaning a letter, a memo) of "residents on Eutaw Square and vicinity and elsewhere, against allowing the erection of a Confederate monument on the square." The letter from local residents, "expressed respect from the memory of the gallant dead, but opposed the movement as calculated to disturb harmony and good feeling between citizens of all shades of opinion." In addition, the Council received printed memorials "with several hundred signatures of officers and soldiers who served in the Union army and others, in opposition to allowing the erection of the proposed Confederate monument in Eutaw Square."
+Just days after the *Sun* published Crane's letter, the proposal moved to the Second Branch of the Baltimore City Council. [Dr. J. Pembroke Thom](https://books.google.com/books?id=jwhIAQAAMAAJ&lpg=PA190&ots=L3FVU5CEGf&pg=PA189#v=onepage&q&f=false), a member of the Council and also a Confederate veteran, opposed the proposed monument and presented into the record a memorial (in this case meaning a letter, a memo) of "residents on Eutaw Square and vicinity and elsewhere, against allowing the erection of a Confederate monument on the square." The letter from local residents, "expressed respect from the memory of the gallant dead, but opposed the movement as calculated to disturb harmony and good feeling between citizens of all shades of opinion." In addition, the Council received printed memorials "with several hundred signatures of officers and soldiers who served in the Union army and others, in opposition to allowing the erection of the proposed Confederate monument in Eutaw Square."
 
 Despite this opposition, on March 31, 1880, the Society of the Army and Navy of the Confederate States in Maryland succeeded in pushing the second branch of the Baltimore City Council to approve the resolution and send it to Mayor Ferdinand C. Latrobe.
 
@@ -189,7 +189,7 @@ The account described Captain Henry E. Shepherd, formerly Superintendent of Publ
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/baltimoreheritage/23297999990/in/album-72157659795697524/" title="Confederate Soldiers and Sailors Monument, Mount Royal Avenue"><img src="https://farm1.staticflickr.com/736/23297999990_87c5879b3e_b.jpg" width="1024" height="683" alt="Confederate Soldiers and Sailors Monument, Mount Royal Avenue"></a>
 
-On May 2, 1903, a group of veterans and residents gathered on on Mount Royal Terrace (now Mount Royal Avenue) to dedicate the Maryland Confederate Monument (known as the Confederate Soldiers and Sailors Monument or the "Spirit of the Confederacy”). The _Sun_ reported:
+On May 2, 1903, a group of veterans and residents gathered on on Mount Royal Terrace (now Mount Royal Avenue) to dedicate the Maryland Confederate Monument (known as the Confederate Soldiers and Sailors Monument or the "Spirit of the Confederacy”). The *Sun* reported:
 
 > Countless little banner, the battle flag of the old days predominating, were carried by the assemblage on the streets and here and there one fluttered from one of the open windows along the way. [...] Cheers and applause, with something here and there that sounded like a sob, marked the passing of the scarred old battle flags as they were born aloft by the old color-bearers. The lines came to rest along either side of the avenue, and the color-bearers took their stand, as a guard of honor, beside the monument. [...] "Maryland, My Maryland," was taken up by the band as the monument was revealed, and during the applause that followed great bunches and wreaths of flowers, which had been sent by the officers and chapters of the Maryland organization and by friends of the society, were placed at the base of the pedestal."
 
@@ -219,7 +219,7 @@ Continuing, the _Afro_ observed:
 
 In 1890, Maryland Senator [Arthur Pue Gorman](https://en.wikipedia.org/wiki/Arthur_Pue_Gorman) led the Congressional Democrats in defeating the [Lodge Force Bill](https://en.wikipedia.org/wiki/Lodge_Bill) and, around the same time, defeating the “Blair Education Bill” named for New Hampshire Senator [Henry W. Blair](https://en.wikipedia.org/wiki/Henry_W._Blair). If passed, the Lodge Bill would have granted the federal government the authority to enforce the fairness of local elections and challenge the disenfranchisement of black voters in Mississippi and elsewhere. Gorman had won his seat in the U.S. Senate in 1880 in an election reportedly influenced by large groups of "ward rounders" who shot and wounded black Republicans when they attempted to vote at Howard County polls.
 
-Like many other Democrats, Gorman and his family supported Confederate memorial efforts. In 1899, Arthur P. Gorman’s wife volunteered as a “patroness” (and his son as a member of the committee of arrangements) for a “summer vaudeville and dance” organized at the Academy of Music in Laurel for the Confederate Monument fund. In May 1900, the _Sun_ recorded Gorman’s contribution of $10 to a fund to erect a monument to the Confederate soldiers and sailors of Maryland (erected on Mount Royal Terrace in 1903).
+Like many other Democrats, Gorman and his family supported Confederate memorial efforts. In 1899, Arthur P. Gorman’s wife volunteered as a “patroness” (and his son as a member of the committee of arrangements) for a “summer vaudeville and dance” organized at the Academy of Music in Laurel for the Confederate Monument fund. In May 1900, the *Sun* recorded Gorman’s contribution of $10 to a fund to erect a monument to the Confederate soldiers and sailors of Maryland (erected on Mount Royal Terrace in 1903).
 
 By 1903, Gorman encouraged the Maryland state Democratic Party to follow other Southern states in disenfrachising black voters. In 1904, the Democratic controlled State Senate passed legislation to disenfranchise black voters but Governor Warfield did not sign the bill into law. Finally, in 1905, the proposal went before Maryland voters.
 
@@ -254,11 +254,11 @@ Historian Marvin C. Ross profiled two statues of Severn Teackle Wallis in a [195
 
 > ”The statue was first put up in front of The Walters Art Gallery but later, when Andrew O’Connor’s equestrian of Lafayette was erected below the Washington Monument, it was removed to the east of Mount Vernon Place where it now stands.”
 
-The continued currency of 19th century figures like Wallis and Roger Brooke Taney is highlighted by the way in which African American writers continued to use their history to illustrate the challenges of the city and nation in the present. On November 14, 1908, responding to the decision in [Berea College v. Kentucky](https://en.wikipedia.org/wiki/Berea_College_v._Kentucky) allowing private educational institutions to discriminate on the basis of race, the _Afro-American_ wrote:
+The continued currency of 19th century figures like Wallis and Roger Brooke Taney is highlighted by the way in which African American writers continued to use their history to illustrate the challenges of the city and nation in the present. On November 14, 1908, responding to the decision in [Berea College v. Kentucky](https://en.wikipedia.org/wiki/Berea_College_v._Kentucky) allowing private educational institutions to discriminate on the basis of race, the *Afro-American* wrote:
 
 > ”True to its traditions the Supreme Court of the United States has rendered another decision and has struck another blow at the black man in the United States. [...] Infamous Judge Taney, of the same count handed down a decision that the Negro had no rights the white man was bound to respect. There are some rights the Negro has that the white man is bound to respect, and there is no doubt but in the course of time he will be wise to the fact, in the instance as in the case of the decision of Taney, all is not lost that is in danger."
 
-On September 10, 1910, the _Afro-American_ editorialized in response to the debate surrounding a McCulloch Street home (a debate that led to the enactment of the country’s first municipal racial segregation ordinance), writing:
+On September 10, 1910, the *Afro-American* editorialized in response to the debate surrounding a McCulloch Street home (a debate that led to the enactment of the country’s first municipal racial segregation ordinance), writing:
 
 > [Some] white men evidently think [we are living] in the days of Dred Scott and Chief Justice Taney, and that the decision said to have been rendered in that famous case is still in force and governing in communities like Baltimore. Or perhaps they have been in a Rip Van Winkle sleep and have forgotten the war is over.
 
@@ -294,11 +294,11 @@ The monument was built and dedicated in Druid Hill Park on November 6, 1909. Bal
 
 In 1914, the General Assembly of Maryland approved a bill entitled "An act to erect a suitable monument in the city of Baltimore to commemorate the heroism, devotion and self-sacrifice of the women of Maryland in their service to the wounded Confederate soldiers who came under their care in the war between the States—1861-1865."
 
-The act appropriated $12,000 in state funding and a large number of private contributions to "The Maryland Confederate Women's Monument Fund" On October 28, 1916, the _Sun_ reported:
+The act appropriated $12,000 in state funding and a large number of private contributions to "The Maryland Confederate Women's Monument Fund" On October 28, 1916, the *Sun* reported:
 
 > ”The unveiling ceremonies will be conducted by the Rev. William M. Dame, D.D. and the orator of the day will be James McC. Trippe, whose daughter, Miss Mary Ringgold Trippe, will unveil the monument at the close of the oration.”
 
-On November 3, the _Sun_ continued with an account of the unveiling ceremonies (“braving the cutting wind”) attended by a “crowd of several hundred persons, composed of former supporters of the Confederacy, their friends and descendants,” noting:
+On November 3, the *Sun* continued with an account of the unveiling ceremonies (“braving the cutting wind”) attended by a “crowd of several hundred persons, composed of former supporters of the Confederacy, their friends and descendants,” noting:
 
 > ”The monument, which is the work of J. Maxwell Miller and represents a mother holding a dying hero in her arms, in front of a figure typifying the devoted women of the Confederacy, was veiled with the Stars and Stripes and the Stars and Bars, both being drawn aside by Miss Mary Ringgold Trippe, grand-daughter of the late Gen. Anew C. Trippe, chairman of the monument commission.”
 
@@ -358,7 +358,7 @@ Writing on May 1, 1948, _The Sun_ editorialized that “the laymen, or at least 
 
 > ”They are willing to believe, here and now, that this monument will be loved at and enjoyed by people who know little and care less about the incident it commemorates. They rejoice in its setting, and the appropriateness of its pedestal. They hold, and we go along with them, that here is one memorial which raises the average of our public art and helps support our reputation as the Monumental City.”
 
-That same day, 3,000 people came out to see the dedication (many waving Confederate flags reportedly sold by “hawkers” selling them for just $1 each). The _Sun_ reported on Governor [William Preston Lane Jr.](https://en.wikipedia.org/wiki/William_Preston_Lane,_Jr.)’s remarks about the monument to "two men who best typify the gallantry and statesmanship of the Confederacy.”
+That same day, 3,000 people came out to see the dedication (many waving Confederate flags reportedly sold by “hawkers” selling them for just $1 each). The *Sun* reported on Governor [William Preston Lane Jr.](https://en.wikipedia.org/wiki/William_Preston_Lane,_Jr.)’s remarks about the monument to "two men who best typify the gallantry and statesmanship of the Confederacy.”
 
 > Emphasizing that the scars of the Civil War have long since been healed, the Governor asserted "our might is the sole remaining bulwark on which the free peoples of the world rest their hopes for remaining free, and to which they look for succor agains the juggernaut of oppression that is threatening to engulf them. The Governor explained the monument "is symbolic of our unity of purpose, as a nation, to preserve those things which our forefathers, and those of our generations, have fought, and in the attainment of them, raised among us men of the stature of Robert E. Lee and Stonewall Jackson.”
 > "We honor here in this bronze, the character and the ability, the strength of conviction and the devotion to a cause, of two men who were great Americans, albeit they rose in this greatness and enshrined themselves in the hearts of their countrymen in a cause that was lost."
@@ -383,13 +383,13 @@ Writing on May 15, 1948, the editorial board of _The Baltimore Afro-American_ to
 
 The States' Rights Democratic Party (better known as the Dixiecrats) was a short-lived effort to encourage Southern voters to vote in opposition to civil rights by supporting then South Carolina Governor [Strom Thurmond](https://en.wikipedia.org/wiki/Strom_Thurmond) as a candidate for President. In October 1948, Thurmond travelled to Maryland to campaign in Baltimore. Initial plans, reported on October 1, 1948, called for Strom Thurmond to gather at the Lee-Jackson Monument with Bertram L. Coone, 2d, Maryland Secretary of State, representing Governor Lane; the eight States' Rights Democrat electors; Miss Frances Munford, women's chairman for Maryland and other officers of the party.
 
-The next day, the _Sun_ reported on the visit, writing:
+The next day, the *Sun* reported on the visit, writing:
 
 > Governor Thurmond's main speech was made last night at the Lyric Theater, after a day of appearances that attracted little attention in the city. […]
 > The next stop of the Thurmond car with its waving flag of the Southern Confederacy was at the Lee-Jackson monument near the Museum of Art. There the Governor was greeted by David Maguire, a Loyola College student, garbed in the rented uniform of a Confederate brigadier-general. Pictures were taken. There was no speech. The crowd was even smaller than the one at the armory. The Loyola College student said the outfit was the idea of The Greyhound, Loyola publication, but did not indicate any support for the States' Rights candidate. "We might pull another stunt for Governor Dewey or President Truman if they come here," he said. […]
 > At a press conference in the Southern Hotel, Governor Thurmond said many people "are deceived by the name 'Civil Rights' given to the legislative proposals which we challenge as violating these principles."
 
-In a separate editorial, the _Sun_ plaintively asked “Why Not Leave Lee and Jackson Out of It?” continuing:
+In a separate editorial, the *Sun* plaintively asked “Why Not Leave Lee and Jackson Out of It?” continuing:
 
 > The Lee-Jackson monument has been highly praised as a work of art and the sentiment attaching to it could not fail to make it appeal to any southerner. On a sight-seeing tour of the city by a person from below the Potomac it obviously is a must.
 > There will be some, however, who will regret the propagandist aspects attending Governor Thurmond's visit to the monument, just as they have regretted the use of General Lee's picture in connection with other public demonstrations of the Dixiecrats. General Lee and General Jackson were professional soldiers who kept clear of politics. Neither was active in the movement for secession that preceded war. When the time came to make a decision, it is true that both embraced the cause of their State against the Federal Union. Certainly in the case of Lee, the decision was made with great reluctance.
@@ -403,7 +403,7 @@ On January 12, 1952, the _Afro_ reported under the headline, “Confederate Flag
 
 > The South is on the defensive. Its violation of the 14th Amendment to the United States Constitution is notorious.
 
-In 1955, a parade by United Nations forces encourages Baltimore to depart from its tradition of flying Confederate flags, as the _Sun_ [reported](http://search.proquest.com/hnpbaltimoresun/docview/541410386/6E17C0059C34899PQ/331?accountid=10750):
+In 1955, a parade by United Nations forces encourages Baltimore to depart from its tradition of flying Confederate flags, as the *Sun* [reported](http://search.proquest.com/hnpbaltimoresun/docview/541410386/6E17C0059C34899PQ/331?accountid=10750):
 
 > “Confederate flags, a fixture of Baltimore parades for years, were missing from the scene and so were the blue and white emblems of the United Nations.”
 

@@ -67,7 +67,7 @@ Roland Park …
 
 ## 1898: Ministerial Union calls for investigation into colored housing
 
-On April 11, 1898, the _Sun_ reported under the headline "HOMES OF COLORED PERSONS: The Ministerial Union To Have An Investigation Made In The Interest Of Public Health":
+On April 11, 1898, the *Sun* reported under the headline "HOMES OF COLORED PERSONS: The Ministerial Union To Have An Investigation Made In The Interest Of Public Health":
 
 > At the next meeting of the Ministerial Union, the first Thursday in May, committees will be appointed to visit various sections of the city where colored persons reside, principally and report as to the condition of the dwellings and the sanitary arrangements thereof, with a view of furnishing data for public meetings to be held...[@_homes_1898]
 
@@ -96,7 +96,7 @@ Emily Lieb in _"We Clean-Up, Paint-Up, and Fix-Up Our Neighborhoods"_ writes:
 
 ## 1909: Colonel Clotworthy advocates for clearance of "undesirable homes"
 
-In 1909, Colonel C. Baker Clotworthy, commander of the Fifth Regiment, wrote to the _Sun_ advocating for the extension of Howard Street north of the Richmond Market as a way of demolishing black households:
+In 1909, Colonel C. Baker Clotworthy, commander of the Fifth Regiment, wrote to the *Sun* advocating for the extension of Howard Street north of the Richmond Market as a way of demolishing black households:
 
 > I would be deeply interested in this improvement because it means so much more than simply tearing down some houses and opening a street. Everyone in the city is familiar with the steady decrease which has taken place in the value of property in this neighborhood for the last 20 years.
 > All about Richmond Market, and extending north, there are hundreds of undesirable houses and, in many cases, huts. This sore is spreading rapidly. A great many negroes, not of the best class,  gradually tenant the houses on the edge of this district and immediately the white people move from the block invaded. If this continues no one knows where it will stop.[@_favors_1909]
@@ -105,25 +105,25 @@ In 1909, Colonel C. Baker Clotworthy, commander of the Fifth Regiment, wrote to 
 
 In response to the attempt by George W. F. McMechen to move into 1834 McCulloh Street <!-- TODO: This may be incorrect – Power mentioned something about McMechen actually acting as an agent for someone else in this transaction – maybe his law partner? --> in the early summer of 1910, Baltimore moved to establish a formal segregation ordinance which forbid black residents from moving to designated "white blocks" and white residents from moving to designated "colored blocks."[@power_apartheid_1983, 298]
 
-Violent white reaction against attempts by black residents to move onto the 1800 block of McCulloh Street continued on September 9, 1910, when the _Sun_ reported on "NEGRO HOMES STONED: Windows And Vestibules Damaged On McCulloh Street WHITE RESIDENTS WORRIED Third Family Of Negroes Now Moving Into No. 1804 Causes Neighbors To Fear For Their Property", writing:
+Violent white reaction against attempts by black residents to move onto the 1800 block of McCulloh Street continued on September 9, 1910, when the *Sun* reported on "NEGRO HOMES STONED: Windows And Vestibules Damaged On McCulloh Street WHITE RESIDENTS WORRIED Third Family Of Negroes Now Moving Into No. 1804 Causes Neighbors To Fear For Their Property", writing:
 
 > "I expect to live here permanently," yesterday declared William B. Hamer, the negro who created a stir among his white neighbors on Wednesday when he moved into the house at 1802 McCulloh street.[@_negro_1910]
 
-On September 26, the _Sun_ chronicles further attacks on two houses occupied by African American families at 1324 Mosher Street and 828 N. Stricker Street.[@_negro_1913-3]
+On September 26, the *Sun* chronicles further attacks on two houses occupied by African American families at 1324 Mosher Street and 828 N. Stricker Street.[@_negro_1913-3]
 
 On December 20, 1910, Baltimore Mayor John Barry Mahool signed into law the West Segregation Ordinance, named for sponsor Council Samuel L. West, which identified each block in the city according to the racial identity of the majority of each block’s residents in 1910. While the West Segregation Ordinance was soon overturned as unconstitutional, its passage and the multiple subsequent attempts to enact a municipal law to enforce racial segregation reflected the deep resistance of white Baltimore residents to racial integration. As a consequence, the area of Old West Baltimore, including the neighborhoods of Harlem Park, Sandtown-Winchester, and Upton, became a predominantly African American community and together with a segregated area in East Baltimore some of the only areas open to African American residents.[@power_apartheid_1983]
 
 ## 1917: Mayor Preston creates new committee on housing conditions for African Americans
 
-On February 27, 1917, Mayor Preston organized a committee as a _Sun_ report headlined "TO PLAN NEGRO HOUSING: Mayor Names Committee To Consider Baltimore's Problem Of Health Conditions" noted:
+On February 27, 1917, Mayor Preston organized a committee as a *Sun* report headlined "TO PLAN NEGRO HOUSING: Mayor Names Committee To Consider Baltimore's Problem Of Health Conditions" noted:
 
 > Mayor Preston took another step yesterday in the movement to provide better housing and living conditions for the 90,000 negroes in Baltimore by appointing the committee authorized at the City Hall conference last Friday to study the problem and recommend a plan looking to its solution.[@_plan_1917]
 
-On March 26, 1917, the _Sun_ reported:
+On March 26, 1917, the *Sun* reported:
 
 > NEW CITY LOAN INDORSED: Improvements Declared To Mean Much For Baltimore's Future DR. WELCH SEES BIG BENEFITS Says Solution Of Negro Housing Problem Alone Would Be Inestimable Public Service / A solution of the problem of better housing for Baltimore's 90,000 negroes will be offered to the voters of Baltimore in November when they will to asked to approve a bond issue of $3,000.000 which will serve a four-fold purpose without cost to the taxpayers.[@_new_1917]
 
-On June 18, 1919, the _Sun_ reported that little had been done, writing:
+On June 18, 1919, the *Sun* reported that little had been done, writing:
 
 > PARK BOARD IS WILLING: Ready To Provide Breathing Place In Congested Negro Area CANNOT GO AHEAD, HOWEVER And Project Apparently Is Halted Unless Mayor Recognizes Preston Commission Of 1917 / All that the Park Board is waiting -for the to create a big breathing space in Congested negro districts of Baltimore is for somebody to take; the initiative. …"[@_park_1919]
 
@@ -157,7 +157,7 @@ First planned public housing project, Poe Homes – 298 3-story garden apartment
 
 > "One Housing Authority manager recognized that the McCulloh Homes project planned for West Baltimore would create ‘a splendid barrier against the encroachment of coloreds’ into the adjoining white neighborhood of Bolton Hill."
 
-On June 3, 1935, the _Sun_ reported:
+On June 3, 1935, the *Sun* reported:
 
 > FHA "WORTHLESS," SAYS RABBI ISRAEL: He Holds It Valueless In So Far As Providing Housing For The Very Poor SLUM HOMES DEPLORED Hundreds Of Children Murdered In City Because Of Conditions, Is Claim In Speech / Public housing for "those who need it most," rather than for "those best able to pay for it," was advocated by Rabbi Edward L. Israel, last night in an address during which he described tho Federal Housing Administration—for any social purposes — as. "absolutely worthless."[@_fha_1935]
 
@@ -173,7 +173,7 @@ During the 1910s and 1920s, racial transition in West Baltimore neighborhoods wa
 
 ## 1941: Baltimore approves new Ordinance on the Hygiene of Housing to address overcrowding, "slums"
 
-On October 3, 1941, the _Sun_ reported:
+On October 3, 1941, the *Sun* reported:
 
 > NEGRO HOUSING HELD HEALTH MENACE HERE: Colored Doctor Tells Plan Body Of Race Overcrowding Warns Contagious Disease May Spread As Result  / Large areas of the city populated by Negroes are overcrowded to the point where it is almost impossible to secure living quarters of even the most primitive type and there is grave danger that this condition may result in a spread of contagious disease, it was asserted yesterday at the City Hall.[@_negro_1941]
 
@@ -239,7 +239,7 @@ According to [IndyReader](https://indyreader.org/content/history-housing-policy-
 
 ## 1953: Dr. Robert L. Jackson, W.A.C. Hughes protest clearance of Armory site for State Center
 
-In 1953, plans for the redevelopment of the "Armory site" came before the City Planning Commission. Dr. Robert L. Jackson, only black member of the City Planning Commission, opposed the proposal for the area arguing, "950 colored families must move out of the area, and he [Jackson] could not ascertain how many can come back." In response, Richard L. Steiner, director of the local redevelopment program said that he, "figured there will be room for about 370 families in the new apartments to be built in the area adjoining the State office site but couldn't state how many would be colored." The _Sun_ quotes Steiner suggesting that the city could not be obligated to replace the housing lost in the process, noting  "That's in the hands of the redeveloper."
+In 1953, plans for the redevelopment of the "Armory site" came before the City Planning Commission. Dr. Robert L. Jackson, only black member of the City Planning Commission, opposed the proposal for the area arguing, "950 colored families must move out of the area, and he [Jackson] could not ascertain how many can come back." In response, Richard L. Steiner, director of the local redevelopment program said that he, "figured there will be room for about 370 families in the new apartments to be built in the area adjoining the State office site but couldn't state how many would be colored." The *Sun* quotes Steiner suggesting that the city could not be obligated to replace the housing lost in the process, noting  "That's in the hands of the redeveloper."
 
 The Armory site had been selected not with support from the district’s residents but instead with support from the nearby Mt. Royal Improvement Association, which in 1953, rallied over 200 people to support the selection of the site as an urban renewal area calling it "best means of salvaging a run down area."
 
