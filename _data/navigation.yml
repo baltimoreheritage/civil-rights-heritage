@@ -20,18 +20,14 @@ resources:
 overview:
   - title: "Overview"
     url: /overview/
-  - title: "1831–1870"
-    url: /overview/1831-1870/
-  - title: "1870–1905"
-    url: /overview/1870-1905/
-  - title: "1905–1929"
-    url: /overview/1905-1929/
-  - title: "1929–1954"
-    url: /overview/1929-1954/
-  - title: "1954–1968"
-    url: /overview/1954-1968/
-  - title: "1968-1976"
-    url: /overview/1968-1976/
+  - title: "1831-1884"
+    url: /overview/1831-1884/
+  - title: "1885-1929"
+    url: /overview/1885-1929/
+  - title: "1930-1965"
+    url: /overview/1930-1965/
+  - title: "1966-1976"
+    url: /overview/1966-1976/
 
 themes:
   - title: "Equal Education"
