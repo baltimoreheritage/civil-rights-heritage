@@ -1,6 +1,6 @@
 ---
 title: Public Accommodation
-permalink: /public-accomodation/
+permalink: /public-accommodation/
 categories: bigfoot
 tags: draft
 ---
@@ -100,7 +100,7 @@ Boycott in Maryland was one of many in this period:
 
 ## 1912: Protest against Jim Crow on the B&O Railroad
 
-_Afro-American_, UP IN ARMS AGAINST B. & O. RAILROAD:
+*Afro-American*, UP IN ARMS AGAINST B. & O. RAILROAD:
 
 > The publication of the fact in last week's issue of the Afro-Amercian Ledger that the Baltimore and Ohio Railroad had provided Jim Crow arrangements for its colored...
 

@@ -26,11 +26,11 @@ By 1910, the U.S. Census recorded Joseph Briscoe and Rosie Briscoe living with a
 
 By 1918, lived at 590 Prestman Street and is described as a tall, slender man by a World War I Draft Registration Card (1917-1918).
 
-In 1925, Principal Briscoe presented at a meeting of A.M.E. Preachers held at Bethel Church, reported in the _Afro-American_ newspaper on November 21. The preachers had invited Briscoe to “give a talk on the school and the work it is doing,” and he explained that the work is “intended primarily for those boys who drop out of school instead of going to high school.” At the same meeting, Rev. Ernest Lyons “scored the management o the Community Fund for its jim crow method of attempting to collect funds from colored people,” quoting Lyons:
+In 1925, Principal Briscoe presented at a meeting of A.M.E. Preachers held at Bethel Church, reported in the *Afro-American* newspaper on November 21. The preachers had invited Briscoe to “give a talk on the school and the work it is doing,” and he explained that the work is “intended primarily for those boys who drop out of school instead of going to high school.” At the same meeting, Rev. Ernest Lyons “scored the management o the Community Fund for its jim crow method of attempting to collect funds from colored people,” quoting Lyons:
 
 > They are so afraid we want to eat with them that they had a little special meeting down at the Sharp Street Community House, and furnished the dinner, I told them I had a dinner at home.
 
-In 1932, Briscoe spoke before the Department of Public Welfare in Government of the Maryland League of Women Voters. The _Sun_ reported on November 5, 1932, writing:
+In 1932, Briscoe spoke before the Department of Public Welfare in Government of the Maryland League of Women Voters. The *Sun* reported on November 5, 1932, writing:
 
 > Joseph C. Briscoe, Negro principal of the Colored Vocational School, asserted that if the history of inmates of juvenile and adult penal institutions were available, a large number of cases would disclose that the individuals in question never had been trained for a job. It costs $300 a year to keep a convict imprisoned and $100 a year to education a child, he emphasized.
 
@@ -63,7 +63,7 @@ On November 3, 1940, Governor O’Connor announced the appointment of four new m
 - Edward S. Lewis, “Negro, executive secretary of the Baltimore Urban League”
 - Sidney R. Traub, Baltimore attorney
 
-On December 11, 1944, the _Sun_ reported on Briscoe’s death, writing:
+On December 11, 1944, the *Sun* reported on Briscoe’s death, writing:
 
 > Joseph C. Briscoe, Negro, principal of the George Carver Vocational Training School, died yesterday morning at his home at **1303 Madison avenue**.
 > He was a member of the board of Cheltenham School for Boys and of the board of the Provident Hospital.
