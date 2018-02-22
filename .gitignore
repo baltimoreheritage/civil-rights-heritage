@@ -4,3 +4,4 @@ _site/
 *.plist
 .UlyssesRoot
 tmp
+.bundle
