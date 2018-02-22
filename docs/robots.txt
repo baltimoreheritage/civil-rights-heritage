@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/civil-rights-heritage/sitemap.xml
+Sitemap: https://baltimoreheritage.github.io/civil-rights-heritage/sitemap.xml
