@@ -8,7 +8,7 @@ sidebar:
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qAMj9BlkYeYCg-DAcM4M6rSItWqwuB_c0Dvq2OLlg6U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
 </p>
 
-Explore a timeline highlighting key events in the fight for Civil Rights from Baltimore, Maryland, and the nation.  [View the timeline full-screen.](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qAMj9BlkYeYCg-DAcM4M6rSItWqwuB_c0Dvq2OLlg6U&font=Default&lang=en&initial_zoom=2&height=650)
+Explore a timeline highlighting key events in the fight for Civil Rights from Baltimore, Maryland, and the nation. [View the timeline full-screen.](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qAMj9BlkYeYCg-DAcM4M6rSItWqwuB_c0Dvq2OLlg6U&font=Default&lang=en&initial_zoom=2&height=650)
 
 We created this timeline using  [TimelineJS](http://timeline.knightlab.com/) and [Google Sheets](https://www.google.com/sheets/about/). You can make your own timeline based on the timeline above. Make a copy [our sheet](https://docs.google.com/spreadsheets/d/1t75HcQTpt42j5mOdeFxmGccL3CxWTsAcTMtLy1MNZfQ/edit?usp=sharing), add or remove events, and then use [TimelineJS](http://timeline.knightlab.com/) to create an custom timeline for your personal website, classroom, or community group.
 
