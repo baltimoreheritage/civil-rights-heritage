@@ -174,8 +174,6 @@ incremental: false
 
 pandoc:
   extensions:
-    - normalize
-    - smart
     - csl: _styles/chicago-note-bibliography.csl
     - bibliography: assets/bibtex/references.bib
 
