@@ -1,11 +1,11 @@
 var store = [{
         "title": "A new site for a new project",
-        "excerpt":"Welcome to our new site for Baltimore’s Civil Rights Heritage! At Baltimore Heritage, we are passionate about trying out new ways to make our work accessible, engaging and useful. We created this site (using an open-source tool known as [Jekyll](http://jekyllrb.com)) to openly share our writing, research notes, and other resources...","categories": [],
+        "excerpt":"Welcome to our new site for Baltimore’s Civil Rights Heritage! At Baltimore Heritage, we are passionate about trying out new ways to make our work accessible, engaging and useful. We created this site (using an open-source tool known as Jekyll) to openly share our writing, research notes, and other resources...","categories": [],
         "tags": [],
         "url": "https://baltimoreheritage.github.io/civil-rights-heritage/new-site/",
         "teaser":"https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/1870-loc-01767v.jpg"},{
         "title": "Documenting the George W. King/Abraham Briscoe House for potential landmark designation",
-        "excerpt":"We are working on a study of 1232 Druid Hill Avenue in response to the [recent demolition of the Freedom House](http://baltimoreheritage.org/preservation/freedom-house-demolition-is-a-wake-up-call-for-preservation-in-west-baltimore/) at 1234 Druid Hill Avenue. We've [published the draft study](/civil-rights-heritage/places/1232-druid-hill-avenue/) to help open up the process of our research, writing and documentation of this important landmark in the Upton...","categories": [],
+        "excerpt":"We are working on a study of 1232 Druid Hill Avenue in response to the recent demolition of the Freedom House at 1234 Druid Hill Avenue. We’ve published the draft study to help open up the process of our research, writing and documentation of this important landmark in the Upton...","categories": [],
         "tags": [],
         "url": "https://baltimoreheritage.github.io/civil-rights-heritage/joseph-briscoe-house/",
         "teaser":"https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/1870-loc-01767v.jpg"},{

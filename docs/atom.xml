@@ -4,8 +4,8 @@
  <title>Baltimore’s Civil Rights Heritage</title>
  <link href="https://baltimoreheritage.github.io/civil-rights-heritage/atom.xml" rel="self"/>
  <link href="https://baltimoreheritage.github.io/civil-rights-heritage/"/>
- <updated>2018-02-22T12:10:41-05:00</updated>
- <id>https://baltimoreheritage.github.io</id>
+ <updated>2018-03-20T22:36:22-04:00</updated>
+ <id>https://baltimoreheritage.github.io/civil-rights-heritage</id>
  <author>
    <name>Baltimore Heritage</name>
    <email>info@baltimoreheritage.org</email>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>How we organized a South Baltimore Civil Rights walking tour for Digital Harbor High School</title>
-   <link href="https://baltimoreheritage.github.io/digital-harbor-hs-tour/"/>
+   <link href="https://baltimoreheritage.github.io/civil-rights-heritage/digital-harbor-hs-tour/"/>
    <updated>2015-11-23T00:00:00-05:00</updated>
    <id>https://baltimoreheritage.github.io/civil-rights-heritage/digital-harbor-hs-tour</id>
    <content type="html">&lt;p&gt;Last Friday, I put together a walking tour program for a group of students from Digital Harbor High School who are learning about the history of African Americans and the Civil Rights movement in South Baltimore as part of our ongoing educational outreach around this project. As a resource for anyone who might be interested in retracing our steps, we are publishing a copy of our notes here with plans to expand this post into a resource on how we’re approaching our school outreach this fall.&lt;/p&gt;
@@ -96,7 +96,7 @@
  
  <entry>
    <title>Documenting the George W. King/Abraham Briscoe House for potential landmark designation</title>
-   <link href="https://baltimoreheritage.github.io/joseph-briscoe-house/"/>
+   <link href="https://baltimoreheritage.github.io/civil-rights-heritage/joseph-briscoe-house/"/>
    <updated>2015-11-19T00:00:00-05:00</updated>
    <id>https://baltimoreheritage.github.io/civil-rights-heritage/joseph-briscoe-house</id>
    <content type="html">&lt;p&gt;We are working on a study of 1232 Druid Hill Avenue in response to the &lt;a href=&quot;http://baltimoreheritage.org/preservation/freedom-house-demolition-is-a-wake-up-call-for-preservation-in-west-baltimore/&quot;&gt;recent demolition of the Freedom House&lt;/a&gt; at 1234 Druid Hill Avenue. We’ve &lt;a href=&quot;/civil-rights-heritage/places/1232-druid-hill-avenue/&quot;&gt;published the draft study&lt;/a&gt; to help open up the process of our research, writing and documentation of this important landmark in the Upton neighborhood.&lt;/p&gt;
@@ -106,7 +106,7 @@
  
  <entry>
    <title>A new site for a new project</title>
-   <link href="https://baltimoreheritage.github.io/new-site/"/>
+   <link href="https://baltimoreheritage.github.io/civil-rights-heritage/new-site/"/>
    <updated>2015-08-20T00:00:00-04:00</updated>
    <id>https://baltimoreheritage.github.io/civil-rights-heritage/new-site</id>
    <content type="html">&lt;p&gt;Welcome to our new site for Baltimore’s Civil Rights Heritage! At &lt;a href=&quot;http://baltimoreheritage.org/&quot;&gt;Baltimore Heritage&lt;/a&gt;, we are passionate about trying out new ways to make our work accessible, engaging and useful. We created this site (using an open-source tool known as &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;) to openly share our writing, research notes, and other resources as we put together a historic context and &lt;a href=&quot;http://www.nps.gov/nr/publications/bulletins/nrb16b/&quot;&gt;National Register multiple property designation form&lt;/a&gt;.&lt;/p&gt;
