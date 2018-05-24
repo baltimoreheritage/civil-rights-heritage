@@ -54,6 +54,7 @@ Over the past decade or more, the National Park Service has accepted several Mul
 - [African American Churches of Philadelphia, 1787-1949](https://www.dot7.state.pa.us/CRGIS_Attachments/Survey/1996-M001-101.pdf) (2010)
 - [The Rosenwald School Building Program in South Carolina, 1917-1932](http://www.nationalregister.sc.gov/MPS/MPS050.pdf) (2008)
 - [African-American Historic Resources of Prince George's County, Maryland](http://focus.nps.gov/pdfhost/docs/NRHP/Text/64500915.pdf) (2005)
+- [Resources Associated with Segregation in Columbia, South Carolina, 1880–1960](http://www.nationalregister.sc.gov/MPS/MPS048.pdf) (2005)
 - [Civil Rights Movement in Birmingham, AL](http://www.nps.gov/nr/publications/sample_nominations/CivilRightsBirminghamMPS.pdf) (2004)
 - [African American Historic Resources of Alexandria, Virginia](http://dhr.virginia.gov/registers/Cities/Alexandria/NR_Alexandria_AfricanAmericanHeritageMPD_text.pdf) (2004)
 - [Historic and Architectural Resources of African American Neighborhoods in Northeastern Winston-Sale, North Carolina, ca. 1900-1947](https://www.cityofws.org/portals/0/pdf/planning/publications/historic/AfAmNbhds_NE_WS.pdf) (1997)
