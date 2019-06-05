@@ -1,9 +1,9 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.11.1 by Michael Rose
-  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
 <html lang="en" class="no-js">
   <head>
@@ -60,7 +60,7 @@
 
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "Organization",
       "url": "https://baltimoreheritage.github.io/civil-rights-heritage",
       "logo": "https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/1870-loc-01767v.jpg"
@@ -71,7 +71,7 @@
 
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Baltimore Heritage",
       "url": "https://baltimoreheritage.github.io/civil-rights-heritage",
@@ -90,9 +90,7 @@
 
 <link href="/civil-rights-heritage/feed.xml" type="application/atom+xml" rel="alternate" title="Baltimore’s Civil Rights Heritage Feed">
 
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
+<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
@@ -102,7 +100,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/civil-rights-heritage/assets/css/main.css">
 
-<!--[if lte IE 9]>
+<!--[if IE ]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -116,6 +114,7 @@
     }
   </style>
 <![endif]-->
+
 
 
     <!-- start custom head snippets -->
@@ -162,7 +161,7 @@ jQuery(function() {
 });
 </script>
 
-
+<!--  -->
 
 
 <!-- end custom head snippets -->
@@ -175,43 +174,33 @@ jQuery(function() {
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
 
-    <div class="masthead">
+    
+
+<div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
+        
         <a class="site-title" href="/civil-rights-heritage/">Baltimore’s Civil Rights Heritage</a>
-        <ul class="visible-links">
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/about/" >About</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/overview/" >Historical Overview</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/themes/" >Themes</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/resources/" >Resources</a>
-            </li>
-          
-        </ul>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/about/" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/overview/" >Historical Overview</a>
+            </li><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/themes/" >Themes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/resources/" >Resources</a>
+            </li></ul>
         
         <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
           <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
             <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
           </svg>
         </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle Menu</span>
+          <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
@@ -219,6 +208,7 @@ jQuery(function() {
     </div>
   </div>
 </div>
+
 
     <div class="initial-content">
       
@@ -231,6 +221,7 @@ jQuery(function() {
   
   
     
+      
       
       
       
@@ -303,14 +294,15 @@ jQuery(function() {
         
 
         
-        
+
         <p>This is an incomplete directory of organizations related to the Civil Rights movement in Baltimore. This directory is a working draft and <em>may contain errors</em>. We initially compiled this directory using <a href="https://sheets.google.com">Google Sheets</a> but migrated the data to <a href="https://airtable.com/">Airtable</a> in June 2017.</p>
+
 <div class="full">
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrSgG19Cd6UAn3k9?backgroundColor=yellow&amp;viewControls=on" frameborder="0" onmousewheel width="100%" height="533" style="background: transparent; border: 1px solid #ccc;">
-</iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrSgG19Cd6UAn3k9?backgroundColor=yellow&amp;viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 </div>
+
 <div class="notice--info">
-<p>Please help us make this directory better! Helpful comments include suggesting organizations that we are missing or correcting any inaccurate information. You can also contact us through <a href="http://baltimoreheritage.org/contact/">our website</a> or send us an email at <a href="mailto:info@baltimoreheritage.org">info@baltimoreheritage.org</a>.</p>
+Please help us make this directory better! Helpful comments include suggesting organizations that we are missing or correcting any inaccurate information. You can also contact us through [our website](http://baltimoreheritage.org/contact/) or send us an email at [info@baltimoreheritage.org](mailto:info@baltimoreheritage.org).
 </div>
 
         
@@ -340,8 +332,9 @@ jQuery(function() {
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="text" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+        <div class="search-content__inner-wrap"><input type="search" id="search" aria-placeholder="Enter your search term..." class="search-input" tabindex="-1" placeholder="Enter your search term..." />
     <div id="results" class="results"></div></div>
+
       </div>
     
 
@@ -359,17 +352,21 @@ jQuery(function() {
   <ul class="social-icons">
     
     
-      <li><a href="https://twitter.com/bmoreheritage"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      <li><a href="https://twitter.com/bmoreheritage"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     
     
-      <li><a href="https://www.facebook.com/baltimoreheritage"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      <li><a href="https://www.facebook.com/baltimoreheritage"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     
     
-      <li><a href="https://github.com/baltimoreheritage"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/baltimoreheritage"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
+      <li><a href="https://instagram.com/bmoreheritage"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
     
-    <li><a href="https://baltimoreheritage.github.io/civil-rights-heritage/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+      <li><a href="https://flickr.com/baltimoreheritage"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
+    
+    <li><a href="/civil-rights-heritage/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -382,7 +379,7 @@ jQuery(function() {
 
     
   <script src="/civil-rights-heritage/assets/js/main.min.js"></script>
-  <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
 
 
 
@@ -390,6 +387,8 @@ jQuery(function() {
 <script src="/civil-rights-heritage/assets/js/lunr/lunr.min.js"></script>
 <script src="/civil-rights-heritage/assets/js/lunr/lunr-store.js"></script>
 <script src="/civil-rights-heritage/assets/js/lunr/lunr-en.js"></script>
+
+
 
 
 

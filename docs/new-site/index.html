@@ -1,9 +1,9 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.11.1 by Michael Rose
-  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
 <html lang="en" class="no-js">
   <head>
@@ -64,7 +64,7 @@
 
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "Organization",
       "url": "https://baltimoreheritage.github.io/civil-rights-heritage",
       "logo": "https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/1870-loc-01767v.jpg"
@@ -75,7 +75,7 @@
 
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Baltimore Heritage",
       "url": "https://baltimoreheritage.github.io/civil-rights-heritage",
@@ -94,9 +94,7 @@
 
 <link href="/civil-rights-heritage/feed.xml" type="application/atom+xml" rel="alternate" title="Baltimore’s Civil Rights Heritage Feed">
 
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
+<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
@@ -106,7 +104,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/civil-rights-heritage/assets/css/main.css">
 
-<!--[if lte IE 9]>
+<!--[if IE ]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -120,6 +118,7 @@
     }
   </style>
 <![endif]-->
+
 
 
     <!-- start custom head snippets -->
@@ -166,7 +165,7 @@ jQuery(function() {
 });
 </script>
 
-
+<!--  -->
 
 
 <!-- end custom head snippets -->
@@ -179,43 +178,33 @@ jQuery(function() {
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
 
-    <div class="masthead">
+    
+
+<div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
+        
         <a class="site-title" href="/civil-rights-heritage/">Baltimore’s Civil Rights Heritage</a>
-        <ul class="visible-links">
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/about/" >About</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/overview/" >Historical Overview</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/themes/" >Themes</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/resources/" >Resources</a>
-            </li>
-          
-        </ul>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/about/" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/overview/" >Historical Overview</a>
+            </li><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/themes/" >Themes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/resources/" >Resources</a>
+            </li></ul>
         
         <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
           <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
             <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
           </svg>
         </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle Menu</span>
+          <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
@@ -223,6 +212,7 @@ jQuery(function() {
     </div>
   </div>
 </div>
+
 
     <div class="initial-content">
       
@@ -244,7 +234,7 @@ jQuery(function() {
           <h1 class="page__title" itemprop="headline">A new site for a new project
 </h1>
           
-            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+            <p class="page__meta"><i class="fas fa-clock-o" aria-hidden="true"></i> 
 
 
 
@@ -259,10 +249,13 @@ jQuery(function() {
         
 
         
-        
+
         <p>Welcome to our new site for Baltimore’s Civil Rights Heritage! At <a href="http://baltimoreheritage.org/">Baltimore Heritage</a>, we are passionate about trying out new ways to make our work accessible, engaging and useful. We created this site (using an open-source tool known as <a href="http://jekyllrb.com">Jekyll</a>) to openly share our writing, research notes, and other resources as we put together a historic context and <a href="http://www.nps.gov/nr/publications/bulletins/nrb16b/">National Register multiple property designation form</a>.</p>
+
 <p>In the past, when we are working to nominate a building to the National Register of Historic Places, we don’t share anything until the nomination is nearly complete. A single nomination can involve months of solitary research and writing. When the draft is complete, we seek out revisions and comments from neighborhood residents, scholars, and Maryland Historical Trust staff before the nomination is finalized and sent on to the National Park Service for review. For this project, we wanted to try something different — an experiment with <strong>“Open Notebook History”</strong> where anyone at all can look over our shoulder and share their thoughts on what we’re writing from beginning to end.</p>
+
 <p>Of course, the material we publish here won’t be perfect. We think the risk of making any public errors or embarrassing omissions are outweighed the benefits of opening up this effort for more people to learn, share and help shape the collection of research and documentation we are building. For more on the issues and advantages of this approach, be sure to read historian W. Caleb McDaniel’s <a href="http://wcm1.web.rice.edu/open-notebook-history.html">2013 post on Open Notebook History</a>.</p>
+
 <p>We’ve already published <a href="/civil-rights-heritage/historiography">a historiography</a> first drafted in early June and <a href="/civil-rights-heritage/educational-resources">a resource guide</a> for teachers and families. In the next few weeks, we plan to share essays summarizing our research on the themes of housing and criminal injustice. Please learn more <a href="/civil-rights-heritage/about">about the project</a>, take a look around the new site, and <a href="http://baltimoreheritage.org/contact">get in touch</a> with your questions or suggestions.</p>
 
         
@@ -274,7 +267,7 @@ jQuery(function() {
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2015-08-20T00:00:00-04:00">August 20, 2015</time></p>
+          <p class="page__date"><strong><i class="fas fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2015-08-20T00:00:00-04:00">August 20, 2015</time></p>
         
       </footer>
 
@@ -284,8 +277,6 @@ jQuery(function() {
   <a href="https://twitter.com/intent/tweet?via=bmoreheritage&text=A+new+site+for+a+new+project%20http%3A%2F%2Flocalhost%3A4000%2Fcivil-rights-heritage%2Fnew-site%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
   <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fcivil-rights-heritage%2Fnew-site%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
-
-  <a href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A4000%2Fcivil-rights-heritage%2Fnew-site%2F" class="btn btn--google-plus" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Google Plus"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fcivil-rights-heritage%2Fnew-site%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
@@ -318,7 +309,7 @@ jQuery(function() {
 
 
 <div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
         <img src=
@@ -343,17 +334,17 @@ jQuery(function() {
   10 minute read
 </p>
     
-    <p class="archive__item-excerpt" itemprop="description">
-Last Friday, I put together a walking tour program for a group of students from Digital Harbor High School who are learning about the history of African Ame...</p>
+    <p class="archive__item-excerpt" itemprop="description">Last Friday, I put together a walking tour program for a group of students from Digital Harbor High School who are learning about the history of African Amer...</p>
   </article>
 </div>
+
         
           
 
 
 
 <div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
         <img src=
@@ -378,48 +369,14 @@ Last Friday, I put together a walking tour program for a group of students from 
   less than 1 minute read
 </p>
     
-    <p class="archive__item-excerpt" itemprop="description">
-We are working on a study of 1232 Druid Hill Avenue in response to the recent demolition of the Freedom House at 1234 Druid Hill Avenue. We’ve published the...</p>
+    <p class="archive__item-excerpt" itemprop="description">We are working on a study of 1232 Druid Hill Avenue in response to the recent demolition of the Freedom House at 1234 Druid Hill Avenue. We’ve published the ...</p>
   </article>
 </div>
-        
-          
 
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "/civil-rights-heritage/assets/images/1870-loc-01767v.jpg"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/civil-rights-heritage/new-site/" rel="permalink">A new site for a new project
-</a>
-      
-    </h2>
-    
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
-
-
-
-
-  1 minute read
-</p>
-    
-    <p class="archive__item-excerpt" itemprop="description">
-Welcome to our new site for Baltimore’s Civil Rights Heritage! At Baltimore Heritage, we are passionate about trying out new ways to make our work accessibl...</p>
-  </article>
-</div>
         
       </div>
     </div>
+  
   
 </div>
 
@@ -427,8 +384,9 @@ Welcome to our new site for Baltimore’s Civil Rights Heritage! At Baltimore He
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="text" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+        <div class="search-content__inner-wrap"><input type="search" id="search" aria-placeholder="Enter your search term..." class="search-input" tabindex="-1" placeholder="Enter your search term..." />
     <div id="results" class="results"></div></div>
+
       </div>
     
 
@@ -446,17 +404,21 @@ Welcome to our new site for Baltimore’s Civil Rights Heritage! At Baltimore He
   <ul class="social-icons">
     
     
-      <li><a href="https://twitter.com/bmoreheritage"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      <li><a href="https://twitter.com/bmoreheritage"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     
     
-      <li><a href="https://www.facebook.com/baltimoreheritage"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      <li><a href="https://www.facebook.com/baltimoreheritage"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     
     
-      <li><a href="https://github.com/baltimoreheritage"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/baltimoreheritage"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
+      <li><a href="https://instagram.com/bmoreheritage"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
     
-    <li><a href="https://baltimoreheritage.github.io/civil-rights-heritage/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+      <li><a href="https://flickr.com/baltimoreheritage"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
+    
+    <li><a href="/civil-rights-heritage/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -469,7 +431,7 @@ Welcome to our new site for Baltimore’s Civil Rights Heritage! At Baltimore He
 
     
   <script src="/civil-rights-heritage/assets/js/main.min.js"></script>
-  <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
 
 
 
@@ -477,6 +439,8 @@ Welcome to our new site for Baltimore’s Civil Rights Heritage! At Baltimore He
 <script src="/civil-rights-heritage/assets/js/lunr/lunr.min.js"></script>
 <script src="/civil-rights-heritage/assets/js/lunr/lunr-store.js"></script>
 <script src="/civil-rights-heritage/assets/js/lunr/lunr-en.js"></script>
+
+
 
 
 

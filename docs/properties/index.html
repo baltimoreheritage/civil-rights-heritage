@@ -1,9 +1,9 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.11.1 by Michael Rose
-  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.16.4 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
 <html lang="en" class="no-js">
   <head>
@@ -60,7 +60,7 @@
 
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "Organization",
       "url": "https://baltimoreheritage.github.io/civil-rights-heritage",
       "logo": "https://baltimoreheritage.github.io/civil-rights-heritage/assets/images/1870-loc-01767v.jpg"
@@ -71,7 +71,7 @@
 
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "Organization",
       "name": "Baltimore Heritage",
       "url": "https://baltimoreheritage.github.io/civil-rights-heritage",
@@ -90,9 +90,7 @@
 
 <link href="/civil-rights-heritage/feed.xml" type="application/atom+xml" rel="alternate" title="Baltimore’s Civil Rights Heritage Feed">
 
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
+<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
@@ -102,7 +100,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="/civil-rights-heritage/assets/css/main.css">
 
-<!--[if lte IE 9]>
+<!--[if IE ]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -116,6 +114,7 @@
     }
   </style>
 <![endif]-->
+
 
 
     <!-- start custom head snippets -->
@@ -162,7 +161,7 @@ jQuery(function() {
 });
 </script>
 
-
+<!--  -->
 
 
 <!-- end custom head snippets -->
@@ -175,43 +174,33 @@ jQuery(function() {
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
 
-    <div class="masthead">
+    
+
+<div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
+        
         <a class="site-title" href="/civil-rights-heritage/">Baltimore’s Civil Rights Heritage</a>
-        <ul class="visible-links">
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/about/" >About</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/overview/" >Historical Overview</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/themes/" >Themes</a>
-            </li>
-          
-            
-            <li class="masthead__menu-item">
-              <a href="https://baltimoreheritage.github.io/civil-rights-heritage/resources/" >Resources</a>
-            </li>
-          
-        </ul>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/about/" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/overview/" >Historical Overview</a>
+            </li><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/themes/" >Themes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/civil-rights-heritage/resources/" >Resources</a>
+            </li></ul>
         
         <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
           <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
             <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
           </svg>
         </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle Menu</span>
+          <span class="visually-hidden">Toggle menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
@@ -219,6 +208,7 @@ jQuery(function() {
     </div>
   </div>
 </div>
+
 
     <div class="initial-content">
       
@@ -247,29 +237,40 @@ jQuery(function() {
         
 
         
-        
+
         <p>We are assembling an inventory of associated historic places associated the Civil Rights movement. We are using this list to define a set of categories or historic property types for the Multiple Property Documentation Form. The inventory also helps us identify properties that may be eligible for listing on the National Register of Historic Places as an individual landmark or as part of a larger historic district.</p>
+
 <h2 id="inventory">Inventory</h2>
+
 <p>We have identified over 160 extant historic buildings (buildings that are still standing) with potential associations to the history of Civil Rights in the Baltimore area. To support the broader historic context, this inventory also includes a larger number of sites and nonextant (demolished) buildings to help us understand the changing context of Baltimore’s Civil Rights history. We are in the process of writing descriptions for each property and adding clear citations for the short descriptions that have been added.</p>
-<p>This inventory is <a href="https://docs.google.com/spreadsheets/d/1tYRFKry3eg_zNDWcC4KTYZnx_R-1DiccaM3_44BTne0/edit?usp=sharing">available online as a Google Sheet</a>. We encourage you to share your comments, questions, or suggestion for the inventory as comments on the Google Sheet or you can <a href="http://baltimoreheritage.org/contact/">contact us through our website</a>. You can also explore the inventory as <a href="/civil-rights-heritage/map">an interactive map</a>.</p>
-<p class="message">
-<strong>The inventory is a work-in-progress. You may find errors or places where we are missing important information.</strong>. We plan to update the inventory as we continue our research adding new entries based on additional primary and secondary research as well as feedback from Baltimore residents.
-</p>
+
+<p>This inventory is  <a href="https://docs.google.com/spreadsheets/d/1tYRFKry3eg_zNDWcC4KTYZnx_R-1DiccaM3_44BTne0/edit?usp=sharing">available online  as a Google Sheet</a>. We encourage you to share your comments, questions, or suggestion for the inventory as comments on the Google Sheet or you can <a href="http://baltimoreheritage.org/contact/">contact us through our website</a>. You can also explore the inventory as <a href="/civil-rights-heritage/map">an interactive map</a>.</p>
+
+<p class="message"><strong>The inventory is a work-in-progress. You may find errors or places where we are missing important information.</strong>. We plan to update the inventory as we continue our research adding new entries based on additional primary and secondary research as well as feedback from Baltimore residents.</p>
+
 <h2 id="historic-property-types">Historic Property Types</h2>
+
 <p>Following the example of earlier Multiple Property Documentation form submissions for Selma and Birmingham (as well as the guidelines of the National Park Service in its theme study of school desegregation), we have identified six categories or “historic property types” associated with the Civil Rights movement in Baltimore. As we revise the inventory, each property can be match to one or more of these types.</p>
+
 <p>These six types include:</p>
-<ol type="1">
-<li>strategy centers;</li>
-<li>conflict centers;</li>
-<li>resolution centers;</li>
-<li>properties associated with prominent persons;</li>
-<li>properties associated with community groups, ethnic organizations, and institutions;</li>
-<li>and historic districts.</li>
+
+<ol>
+  <li>strategy centers;</li>
+  <li>conflict centers;</li>
+  <li>resolution centers;</li>
+  <li>properties associated with prominent persons;</li>
+  <li>properties associated with community groups, ethnic organizations, and institutions;</li>
+  <li>and historic districts.</li>
 </ol>
+
 <p><strong>Strategy Centers</strong> are properties, where prominent persons who represented local, state, or national institutions and organizations held meetings and strategy sessions both in support of, and in opposition to, the Civil Rights Movement.</p>
+
 <p><strong>Conflict Centers</strong> are properties associated with conflict or confrontation and include properties that were attacked by groups in opposition to the Civil Rights Movement. Conflict Centers include offices, public buildings, churches, parks, private homes, neighborhoods, and businesses where actual physical conflict and/or demonstrations took place either in support of, or in opposition to, the Civil Rights Movement. These properties also include local, state, and federal buildings where legal and political conflict took place.</p>
+
 <p><strong>Reconciliation Centers</strong> are properties where meetings and activities took place that either sought solutions to Civil Rights strife or that served to memorialize and/or bring reconciliation to the activities of people, institutions, or events significant to the story of the Civil Rights Movement.</p>
+
 <p><strong>Properties associated with prominent persons,community groups, ethnic organizations, and institutions.</strong> For this study, prominent persons are individuals who were significantly involved as leaders of significant organizations or agencies in the Civil Rights events in Baltimore. These organizations and agencies include the National Association for the Advancement of Colored People, the Urban League, and the Congress on Racial Equality.</p>
+
 <p><strong>Historic Districts</strong> are properties that share physical proximity and that are related by significant events, pattern of events, persons, and/or institutions and agencies to a significant degree that the themes of social history and African American ethnic identity related to the Civil Rights Movement are important associations with the historic district.</p>
 
         
@@ -299,8 +300,9 @@ jQuery(function() {
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="text" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+        <div class="search-content__inner-wrap"><input type="search" id="search" aria-placeholder="Enter your search term..." class="search-input" tabindex="-1" placeholder="Enter your search term..." />
     <div id="results" class="results"></div></div>
+
       </div>
     
 
@@ -318,17 +320,21 @@ jQuery(function() {
   <ul class="social-icons">
     
     
-      <li><a href="https://twitter.com/bmoreheritage"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      <li><a href="https://twitter.com/bmoreheritage"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     
     
-      <li><a href="https://www.facebook.com/baltimoreheritage"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      <li><a href="https://www.facebook.com/baltimoreheritage"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     
     
-      <li><a href="https://github.com/baltimoreheritage"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/baltimoreheritage"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     
     
+      <li><a href="https://instagram.com/bmoreheritage"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
     
-    <li><a href="https://baltimoreheritage.github.io/civil-rights-heritage/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+      <li><a href="https://flickr.com/baltimoreheritage"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
+    
+    <li><a href="/civil-rights-heritage/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
 </div>
 
@@ -341,7 +347,7 @@ jQuery(function() {
 
     
   <script src="/civil-rights-heritage/assets/js/main.min.js"></script>
-  <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
 
 
 
@@ -349,6 +355,8 @@ jQuery(function() {
 <script src="/civil-rights-heritage/assets/js/lunr/lunr.min.js"></script>
 <script src="/civil-rights-heritage/assets/js/lunr/lunr-store.js"></script>
 <script src="/civil-rights-heritage/assets/js/lunr/lunr-en.js"></script>
+
+
 
 
 
