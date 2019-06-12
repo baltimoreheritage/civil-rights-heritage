@@ -161,14 +161,17 @@ jQuery(function() {
 });
 </script>
 
-<!--  -->
-
-
-<!-- end custom head snippets -->
-
   </head>
 
   <body class="layout--single">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -543,21 +546,50 @@ jQuery(function() {
 
 <p>A smaller number of congregations built new sanctuaries using services from white builders and architects. Examples include <a href="https://explore.baltimoreheritage.org/items/show/345">St. Peter Claver Catholic Church</a> (B-4443), built at Fremont and Pennsylvania Avenues in 1888, and <a href="https://explore.baltimoreheritage.org/items/show/585">Union Baptist Church</a> (B-2965), built on Druid Hill Avenue in 1905. <a href="https://explore.baltimoreheritage.org/items/show/520">Sharp Street Church</a> (B-2963) purchased an existing church at Dolphin and Etting Streets but then tore it down in 1892 to erect the new building that still stands today.</p>
 
-<p>+———————-+———————————-+——————————————————–+————————————–+
-| 1.  <strong>Year of move</strong> | 2.  <strong>Church</strong>                   | 3.  <strong>Prior location</strong>                                 | 4.  <strong>New location</strong>                 |
-+———————-+———————————-+——————————————————–+————————————–+
-| 1888                 | St. Peter Claver Catholic Church | Calvert and Pleasant Streets                           | Fremont and Pennsylvania Avenues     |
-+———————-+———————————-+——————————————————–+————————————–+
-| 1898                 | Sharp Street Church              | Sharp and Pratt Streets                                | Dolphin and Etting Streets           |
-+———————-+———————————-+——————————————————–+————————————–+
-| 1901                 | St. James Episcopal Church       | Lexington Street and Guilford Avenue                   | Park Avenue and Preston Street       |
-+———————-+———————————-+——————————————————–+————————————–+
-| 1905                 | Union Baptist Church             | Guilford Avenue between Saratoga and Lexington Streets | Druid Hill Avenue and Dolphin Street |
-+———————-+———————————-+——————————————————–+————————————–+
-| 1911                 | Bethel A.M.E. Church             | Saratoga and Gay Streets                               | Druid Hill Avenue and Lanvale Street |
-+———————-+———————————-+——————————————————–+————————————–+</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right"><strong>Year of move</strong></th>
+      <th><strong>Church</strong></th>
+      <th><strong>Prior location</strong></th>
+      <th><strong>New location</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">1888</td>
+      <td>St. Peter Claver Catholic Church</td>
+      <td>Calvert and Pleasant Streets</td>
+      <td>Fremont and Pennsylvania Avenues</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">1898</td>
+      <td>Sharp Street Church</td>
+      <td>Sharp and Pratt Streets</td>
+      <td>Dolphin and Etting Streets</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">1901</td>
+      <td>St. James Episcopal Church</td>
+      <td>Lexington Street and Guilford Avenue</td>
+      <td>Park Avenue and Preston Street</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">1905</td>
+      <td>Union Baptist Church</td>
+      <td>Guilford Avenue between Saratoga and Lexington Streets</td>
+      <td>Druid Hill Avenue and Dolphin Street</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">1911</td>
+      <td>Bethel A.M.E. Church</td>
+      <td>Saratoga and Gay Streets</td>
+      <td>Druid Hill Avenue and Lanvale Street</td>
+    </tr>
+  </tbody>
+</table>
 
-<p>Table 1: Examples of black congregations relocating to northwest Baltimore.</p>
+<p><em>Table: Examples of black congregations relocating to northwest Baltimore.</em></p>
 
 <p>By the late 1920s, the area occupied by black residents, churches, and schools in west Baltimore included most of the neighborhoods now known as Madison Park, Upton, Druid Heights, Harlem Park, and Sandtown-Winchester. In 1926, the <em>Afro-American</em> recalled the rapid changes residents had witnessed since the beginning of the century:</p>
 
@@ -747,6 +779,8 @@ jQuery(function() {
 
 <p>While the passage of the Fourteenth and Fifteenth amendments to the US Constitution brought the promise of equality to black Marylanders, the reality was that black residents continued to experience deeply unequal conditions in the late nineteenth and early twentieth centuries. Racially segregated housing and public accommodations, voter disenfranchisement, an unequal and underfunded educational system, and an unfair criminal justice system served frustrate efforts by advocates seeking to improve material conditions or expand political power for black residents. The growth of white supremacy and the hardening of legal protections for segregation following <em>Plessy v. Ferguson</em> posed an enormous barrier to the early civil rights movement. Black churches, fraternal organizations, and individual civic leaders sustained the fight to reject these policies and set a foundation for future success in the mid-twentieth century.</p>
 
+<hr />
+
 <div class="footnotes">
   <ol>
     <li id="fn:1">
@@ -786,13 +820,13 @@ jQuery(function() {
       <p>The “Lost Cause” was a popular ideological movement that mythologizes the Confederate cause as heroic and frames the Civil War as an honorable struggle for “state’s rights”, while minimizing or denying the central role of slavery to the conflict. For more on memorialization of the Civil War in Maryland, see Charles W. Mitchell, <em>Maryland Voices of the Civil War</em> (Baltimore, MD: Johns Hopkins University Press, 2007), 469–476. <a href="#fnref:12" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:13">
-      <p>Carl H. Nightingale, “The Transnational Contexts of Early Twentieth-Century American Urban Segregation,” <em>Journal of Social History</em> 39, no. 3 (April 2006), 667–702, 671; Pamphlets, books, and other publications played a central role in the local and national distribution of racist ideas in the late nineteenth and early twentieth centuries. One notable work that helped to spread the idea of “scientific racism” was <a href="https://en.wikipedia.org/wiki/Frederick_Ludwig_Hoffman">[Frederick Hoffman’s]{.underline}</a> <em>Race Traits and Tendencies of the American Negro</em> published in 1896. William C. Bruce went on to serve as a state senator from 1894 to 1896 and a legal officer for Baltimore City from 1903 to 1908, and US Senator from 1923 to 1929. <a href="#fnref:13" class="reversefootnote">&#8617;</a></p>
+      <p>Carl H. Nightingale, “The Transnational Contexts of Early Twentieth-Century American Urban Segregation,” <em>Journal of Social History</em> 39, no. 3 (April 2006), 667–702, 671; Pamphlets, books, and other publications played a central role in the local and national distribution of racist ideas in the late nineteenth and early twentieth centuries. One notable work that helped to spread the idea of “scientific racism” was Frederick Hoffman’s](https://en.wikipedia.org/wiki/Frederick_Ludwig_Hoffman) <em>Race Traits and Tendencies of the American Negro</em> published in 1896. William C. Bruce went on to serve as a state senator from 1894 to 1896 and a legal officer for Baltimore City from 1903 to 1908, and US Senator from 1923 to 1929. <a href="#fnref:13" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:14">
       <p>Isabel Wilkerson, <em>The Warmth of Other Suns: The Epic Story of America’s Great Migration</em>, First Edition (New York: Random House, 2010), 40. <a href="#fnref:14" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:15">
-      <p>Eli Pousson, “Baltimore’s Confederate Memory &amp; Monuments,” Baltimore’s Civil Rights Heritage, October 24, 2016, <a href="https://baltimoreheritage.github.io/civil-rights-heritage/confederate-memory/">[https://baltimoreheritage.github.io/civil-rights-heritage/confederate-memory/]{.underline}</a>. <a href="#fnref:15" class="reversefootnote">&#8617;</a></p>
+      <p>Eli Pousson, “Baltimore’s Confederate Memory &amp; Monuments,” Baltimore’s Civil Rights Heritage, October 24, 2016, https://baltimoreheritage.github.io/civil-rights-heritage/confederate-memory/](https://baltimoreheritage.github.io/civil-rights-heritage/confederate-memory/). <a href="#fnref:15" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:16">
       <p>“To Confederate Valor: Monument on Mount Royal Avenue Is Unveiled; Music, Eloquence; Flowers; Veterans March Again with the Old Flags and Are Greeted with Cheers Along the Line,” <em>The Sun,</em> May 1903. For more on the role of monuments in memorializing the Civil War and promoting “Lost Cause” myths, see Cynthia Mills and Pamela Hemenway Simpson, <em>Monuments to the Lost Cause: Women, Art, and the Landscapes of Southern Memory</em> (Univ. of Tennessee Press, 2003); Kirk Savage, <em>Standing Soldiers, Kneeling Slaves: Race, War, and Monument in Nineteenth-Century America</em> (Princeton University Press, 1999). <a href="#fnref:16" class="reversefootnote">&#8617;</a></p>
@@ -1023,7 +1057,7 @@ jQuery(function() {
       <p>Mary Ellen Hayward, “Old East Baltimore Historic District (B-1395),” National Register of Historic Places Registration Form, (Washington, DC: Department of the Interior, National Park Service, 2005), 88. <a href="#fnref:91" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:92">
-      <p>Dennis P. Halpin, “‘The Struggle for Land and Liberty’ Segregation, Violence, and African American Resistance in Baltimore, 1898-1918,” <em>Journal of Urban History</em>, July 2015, 1–22, doi:<a href="https://doi.org/10.1177/0096144215589923">[10.1177/0096144215589923]{.underline}</a>. <a href="#fnref:92" class="reversefootnote">&#8617;</a></p>
+      <p>Dennis P. Halpin, “‘The Struggle for Land and Liberty’ Segregation, Violence, and African American Resistance in Baltimore, 1898-1918,” <em>Journal of Urban History</em>, July 2015, 1–22, doi:10.1177/0096144215589923](https://doi.org/10.1177/0096144215589923). <a href="#fnref:92" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:93">
       <p>“Colored Family Scared: Claim That Their House, on Druid Hill Avenue, Is Bombarded,” <em>The Sun</em>, September 1, 1899. <a href="#fnref:93" class="reversefootnote">&#8617;</a></p>
@@ -1041,7 +1075,7 @@ jQuery(function() {
       <p>“Anti-Race Feeling Costly,” <em>The Sun</em>, January 23, 1911, 4; 18 S. Spring Street is presently the location of a vacant lot surrounded by a chain-link fence. <a href="#fnref:97" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:98">
-      <p>As the first residential segregation law in the country, the ordinance has been the subject of detailed scholarly study over the past thirty years. Garrett Power, “Apartheid Baltimore Style: The Residential Segregation Ordinances of 1910-1913,” <em>Maryland Law Review</em> 42 (1983); Nightingale, “The Transnational Contexts of Early Twentieth-Century American Urban Segregation.”; Roberts Jr., <em>Infectious Fear</em>; Gretchen Boger, “The Meaning of Neighborhood in the Modern City Baltimore’s Residential Segregation Ordinances, 1910-1913,” <em>Journal of Urban History</em> 35, no. 2 (January 2009): 236–58, doi:<a href="https://doi.org/10.1177/0096144208327915">[10.1177/0096144208327915]{.underline}</a>; Halpin, “Reforming Charm City.”; Halpin, “‘The Struggle for Land and Liberty’ Segregation, Violence, and African American Resistance in Baltimore, 1898–1918.” <a href="#fnref:98" class="reversefootnote">&#8617;</a></p>
+      <p>As the first residential segregation law in the country, the ordinance has been the subject of detailed scholarly study over the past thirty years. Garrett Power, “Apartheid Baltimore Style: The Residential Segregation Ordinances of 1910-1913,” <em>Maryland Law Review</em> 42 (1983); Nightingale, “The Transnational Contexts of Early Twentieth-Century American Urban Segregation.”; Roberts Jr., <em>Infectious Fear</em>; Gretchen Boger, “The Meaning of Neighborhood in the Modern City Baltimore’s Residential Segregation Ordinances, 1910-1913,” <em>Journal of Urban History</em> 35, no. 2 (January 2009): 236–58, doi:10.1177/0096144208327915](https://doi.org/10.1177/0096144208327915); Halpin, “Reforming Charm City.”; Halpin, “‘The Struggle for Land and Liberty’ Segregation, Violence, and African American Resistance in Baltimore, 1898–1918.” <a href="#fnref:98" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:99">
       <p>“Anti-Race Feeling Costly.” <a href="#fnref:99" class="reversefootnote">&#8617;</a></p>
@@ -1053,7 +1087,7 @@ jQuery(function() {
       <p>“Baltimore, Md., Ordinance 692,” May 1911. <a href="#fnref:101" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:102">
-      <p>“Segregation Law Decided Invalid.” <em>Afro-American.</em> August 9, 1913; Garrett Power, “Apartheid Baltimore Style: The Residential Segregation Ordinances of 1910-1913,” <em>Maryland Law Review</em> 42 (1983), <a href="http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=2498&amp;context=mlr">[ http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=2498&amp;context=mlr]{.underline}</a>; Dennis P. Halpin, “‘The Struggle for Land and Liberty’ Segregation, Violence, and African American Resistance in Baltimore, 1898-1918,” <em>Journal of Urban History</em>, July 3, 2015, 1–22, <a href="https://doi.org/10.1177/0096144215589923">[ https://doi.org/10.1177/0096144215589923]{.underline}</a>. <a href="#fnref:102" class="reversefootnote">&#8617;</a></p>
+      <p>“Segregation Law Decided Invalid.” <em>Afro-American.</em> August 9, 1913; Garrett Power, “Apartheid Baltimore Style: The Residential Segregation Ordinances of 1910-1913,” <em>Maryland Law Review</em> 42 (1983),  http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=2498&amp;context=mlr](http://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=2498&amp;context=mlr); Dennis P. Halpin, “‘The Struggle for Land and Liberty’ Segregation, Violence, and African American Resistance in Baltimore, 1898-1918,” <em>Journal of Urban History</em>, July 3, 2015, 1–22,  https://doi.org/10.1177/0096144215589923](https://doi.org/10.1177/0096144215589923). <a href="#fnref:102" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:103">
       <p>Halpin, “Reforming Charm City,” 204. <a href="#fnref:103" class="reversefootnote">&#8617;</a></p>
@@ -1062,7 +1096,7 @@ jQuery(function() {
       <p>Dennis Anthony Doster, “"To Strike for Right, to Strike with Might": African Americans and the Struggle for Civil Rights in Baltimore, 1910-1930” (PhD diss., University of Maryland, College Park, 2015). <a href="#fnref:104" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:105">
-      <p>Paige Glotzer, “Exclusion in Arcadia: How Suburban Developers Circulated Ideas About Discrimination, 1890–1950,” <em>Journal of Urban History</em> 41, no. 3 (May 2015): 481, doi:<a href="https://doi.org/10.1177/0096144214566964">[10.1177/0096144214566964]{.underline}</a>. <a href="#fnref:105" class="reversefootnote">&#8617;</a></p>
+      <p>Paige Glotzer, “Exclusion in Arcadia: How Suburban Developers Circulated Ideas About Discrimination, 1890–1950,” <em>Journal of Urban History</em> 41, no. 3 (May 2015): 481, doi:10.1177/0096144214566964](https://doi.org/10.1177/0096144214566964). <a href="#fnref:105" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:106">
       <p>Ibid., 488. <a href="#fnref:106" class="reversefootnote">&#8617;</a></p>
@@ -1248,7 +1282,7 @@ jQuery(function() {
       <p>Mamiya, “A Social History of the Bethel African Methodist Episcopal Church in Baltimore,” 250–51. <a href="#fnref:166" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:167">
-      <p>For additional information on the history of lynching in America in southern states, students and researchers should look at the <a href="http://www.americanlynchingdata.com/">[American Lynching website]{.underline}</a> and the Equal Justice Institute’s report <a href="http://eji.org/reports/lynching-in-america">[“Lynching in America: Confronting the Legacy of Racial Terror”]{.underline}</a>. <a href="#fnref:167" class="reversefootnote">&#8617;</a></p>
+      <p>For additional information on the history of lynching in America in southern states, students and researchers should look at the American Lynching website](http://www.americanlynchingdata.com/) and the Equal Justice Institute’s report “Lynching in America: Confronting the Legacy of Racial Terror”](http://eji.org/reports/lynching-in-america). <a href="#fnref:167" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:168">
       <p>Farrar, <em>The Baltimore Afro-American, 1892–1950</em>, 118-123; Farrar includes a detailed account of the efforts of Baltimore activists lobbying for federal anti-lynching legislation. <a href="#fnref:168" class="reversefootnote">&#8617;</a></p>
@@ -1338,7 +1372,7 @@ jQuery(function() {
       </div>
     
 
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
 

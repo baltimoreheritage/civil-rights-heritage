@@ -161,14 +161,17 @@ jQuery(function() {
 });
 </script>
 
-<!--  -->
-
-
-<!-- end custom head snippets -->
-
   </head>
 
   <body class="layout--archive">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -394,6 +397,12 @@ jQuery(function() {
 
 <!-- Push to group_names -->
 
+
+
+
+
+
+<!-- If not equal to previous then it must be unique as sorted -->
 
 
 
@@ -1139,7 +1148,7 @@ jQuery(function() {
       </div>
     
 
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         <!-- start custom footer snippets -->
 
