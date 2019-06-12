@@ -1,55 +1,87 @@
 ---
 layout: splash
 author_profile: false
-excerpt: "We are researching and documenting the long history of the African American Civil Rights movement in Baltimore and the connections between the movement and local historic places."
+excerpt: "Explore the long history of the African American Civil Rights movement in Baltimore and the movement's connections to local historic places."
 header:
   overlay_image: "/assets/images/07916v-loc.jpg"
   overlay_filter: .5
-  cta_label: "Learn more"
-  cta_url: "https://baltimoreheritage.github.io/civil-rights-heritage/about"
+  cta_label: "About the project"
+  cta_url: "/about"
   caption: "The Presentation, of a gold snuff box to the Rev. R.T. Breckenridge, Bethel AME Church, 1845. _Courtesy [Library of Congress](http://www.loc.gov/pictures/item/2003674536/)._"
+introduction:
+  - image_path: assets/images/2018-09-26-druid-hill-avenue.jpg
+    alt: "Rowhouses on the 1300 block of Druid Hill Avenue, September, 26, 2018."
+    title: "Introduction"
+    excerpt: "Since Baltimore first began, the city’s African American residents have fought to secure, protect, and expand their individual and collective rights and opportunities in America. Learn more about the history of the local civil rights movement and associated historic places from a series of essays covering over 140 years of regional history."
+    url: "/introduction"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 group1:
   - image_path: assets/images/00400v-loc.jpg
     alt: "Unidentified African American soldier in Union uniform with wife and two daughters, c. 1863-1865"
-    title: "1831-1884"
+    title: "1831-1884: Abolition and Emancipation"
     excerpt: "From Nat Turner's Rebellion to the U.S. Civil War and Emancipation."
-    url: "https://baltimoreheritage.github.io/civil-rights-heritage/overview/1831-1884"
+    url: "/1831-1884"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/uva-lib_330943.jpg
     alt: "Carnegie Hall at Morgan College (now Morgan State University) by Jackson Davis, 1921 November 3"
-    title: "1885-1929"
+    title: "1885-1929: Segregation and the Fourteenth Amendment"
     excerpt: "Organizing against Jim Crow segregation and disenfranchisement."
-    url: "https://baltimoreheritage.github.io/civil-rights-heritage/overview/1885-1929"
+    url: "/1885-1929"
     btn_label: "Read More"
     btn_class: "btn--primary"
 group2:
   - image_path: assets/images/nypl.digitalcollections.510d47de-8195-a3d9-e040-e00a18064a99.001.w.jpg
     alt: "Manpower: Negro bomber plant workers, 1942. U.S. Office of War Information."
-    title: "1930-1965"
+    title: "1930-1965: The Great Depression and World War II"
     excerpt: "Fighting through the Great Depression, WWWII, and the reaction to *Brown v. Board*."
-    url: "https://baltimoreheritage.github.io/civil-rights-heritage/overview/1930-1965"
+    url: "/1930-1965"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/1976-08-07-afram-charles-plaza.jpg
     alt: "Charles Plaza during the first Afro-American (AFRAM) Exposition, August 7-8, 1976"
-    title: "1966-1976"
+    title: "1966-1976: After the Unrest"
     excerpt: "New militancy in the movement, community development, and white reaction in politics."
-    url: "https://baltimoreheritage.github.io/civil-rights-heritage/overview/1966-1976"
+    url: "/1966-1976"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+conclusion:
+  - image_path: /assets/images/1991-05-04-mayor-schmoke-ubarchives.jpg
+    alt: "Mayor Schmoke tours Lakeview Avenue at Whitelock Street, May 4, 1991"
+    title: "Conclusion"
+    excerpt: "A brief overview of the recent history of the movement from the 1980s through the Baltimore Uprising and the aftermath of the massive 2015 protests illustrate the clear continuity between the civil rights movement of the past and the continued struggle of activists in Baltimore today."
+    url: "/conclusion"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+features_title:
+  - title: "Featured Essays"
+    excerpt: "This study included research on a number of featured historic places including an individual National Register nomination for the Arch Social Club and a detailed investigation into the history of Confederate memory and monuments."
+group4:
+  - image_path: /assets/images/MD_BaltimoreCity_ArchSocialClub_0002.jpg
+    alt: "Front facade of the Arch Social Club on Pennsylvania Avenue."
+    title: "Arch Social Club"
+    excerpt: "Home to Baltimore's oldest black social club and a reminder of Pennsylvania Avenue cultural history."
+    url: "/places/arch-social-club"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/4a24916v-loc.jpg
+    alt: "Confederate Soldiers and Sailors Monument in the median of Mount Royal Avenue."
+    title: "Confederate Memory & Monuments"
+    excerpt: "Historic context prepared for the Special Commission to Review Baltimore's Public Confederate Monuments."
+    url: "/confederate-memory"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="introduction" type="left" %}
 
 {% include feature_row id="group1" type="left" %}
 
 {% include feature_row id="group2" type="left" %}
 
-<!--{% include base_path %}
+{% include feature_row id="conclusion" type="left" %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+{% include feature_row id="features_title" type="center" %}
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %} -->
+{% include feature_row id="group4" type="left" %}

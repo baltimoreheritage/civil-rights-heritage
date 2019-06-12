@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.6"
+gem "jekyll", "~> 3.6", group: :jekyll_plugins
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
@@ -15,4 +15,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-gist"
   gem "jekyll-redirect-from"
+  gem "jekyll-include-cache"
 end

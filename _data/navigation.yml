@@ -18,16 +18,18 @@ resources:
     url: /educational-resources/
 
 overview:
-  - title: "Overview"
-    url: /overview/
+  - title: "Introduction"
+    url: /introduction/
   - title: "1831-1884"
-    url: /overview/1831-1884/
+    url: /1831-1884/
   - title: "1885-1929"
-    url: /overview/1885-1929/
+    url: /1885-1929/
   - title: "1930-1965"
-    url: /overview/1930-1965/
+    url: /1930-1965/
   - title: "1966-1976"
-    url: /overview/1966-1976/
+    url: /1966-1976/
+  - title: "Conclusion"
+    url: /conclusion/
 
 themes:
   - title: "Equal Education"

@@ -10,7 +10,7 @@ tags:
 Baltimore Heritage prepared and submitted this study as a CHAP Landmark Designation Report to support the landmark designation of 1232 Druid Hill Avenue on January 12, 2015. This document was written by Eli Pousson, Director of Preservation & Outreach on November 19, 2015, expanded on December 22, 2015 and substantially revised January 4-9, 2016. Please contact Eli Pousson with any questions or corrections at [pousson@baltimoreheritage.org](mailto:pousson@baltimoreheritage.org).
 </div>
 
-![Photograph of 1232 Druid Hill Avenue, November 2015.](http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg "1232-1234 Druid Hill Avenue, Baltimore, MD")
+{% include figure image_path="http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg" alt="" caption="Photograph of 1232 Druid Hill Avenue, November 2015." %}
 
 # Significance Summary: 1232 Druid Hill Avenue
 
@@ -128,7 +128,7 @@ Based on his last name, Abraham Briscoe and his family were likely descendants o
 
 Notably, Abraham Briscoe’s family included people born before the Civil War and those born after the end slavery in Maryland in 1864. Like many others, Abraham Briscoe, his brothers, his wife Harriet Briscoe, or possibly their parents came to the city seeking both economic opportunity and freedom from the oppressive violence and poverty affecting black communities in Maryland. Movement did not stop when they arrived in Baltimore. Abraham Briscoe moved to Druid Hill Avenue from a prior residence at 1419 Maryland Avenue – making his household one of many moving away from the city’s central neighborhoods into a growing African American community in northwest Baltimore.[^2]
 
-Despite present-day working class associations, working as drivers and waiters placed the Briscoe family in a relatively privileged position—a status also reflected in their ability to move to 1232 Druid Hill Avenue. In homes with fewer wage-earning adults, owners or tenants often brought in boarders to help cover the cost of the rent or mortgage. For example, on August 5, 1899, the Afro published a notice from Mrs. E. J. Cummings, wife of Councilman Harry S. Cummings, advertising "Boarding and Lodging" at 1234 Druid Hill Avenue. 
+Despite present-day working class associations, working as drivers and waiters placed the Briscoe family in a relatively privileged position—a status also reflected in their ability to move to 1232 Druid Hill Avenue. In homes with fewer wage-earning adults, owners or tenants often brought in boarders to help cover the cost of the rent or mortgage. For example, on August 5, 1899, the Afro published a notice from Mrs. E. J. Cummings, wife of Councilman Harry S. Cummings, advertising "Boarding and Lodging" at 1234 Druid Hill Avenue.
 
 1232 Druid Hill Avenue also offered the Briscoe household the opportunity to host and entertain friends and relatives. On January 10, 1903, the *Afro-American* published an account of “A New Year's Eve Reception” at 1232 Druid Hill Avenue:
 

@@ -51,9 +51,18 @@ staticman:
 reCaptcha:
   siteKey                :
   secret                 :
+
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
 search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+powered_by             : true # true (default), false
 
 # SEO Related
 google_site_verification :
@@ -152,7 +161,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: Pandoc
+markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -160,22 +169,22 @@ incremental: false
 
 
 # Markdown Processing
-# kramdown:
-#  input: GFM
-#  hard_wrap: false
-#  auto_ids: true
-#  footnote_nr: 1
-#  entity_output: as_char
-#  toc_levels: 1..6
-#  smart_quotes: lsquo,rsquo,ldquo,rdquo
-#  enable_coderay: false
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 # Pandoc Markdown processing
 
-pandoc:
-  extensions:
-    - csl: _styles/chicago-note-bibliography.csl
-    - bibliography: assets/bibtex/references.bib
+# pandoc:
+#  extensions:
+#    - csl: _styles/chicago-note-bibliography.csl
+#    - bibliography: assets/bibtex/references.bib
 
 # Defaults
 defaults:
@@ -213,7 +222,6 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 
 # Plugins
 plugins:
-  - jekyll-pandoc
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
@@ -221,6 +229,8 @@ plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jekyll-include-cache
+#  - jekyll-pandoc
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -231,6 +241,7 @@ whitelist:
   - jemoji
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Archives
 #  Type
