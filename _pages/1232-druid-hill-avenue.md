@@ -1,16 +1,17 @@
 ---
-title: 1232 Druid Hill Avenue – George W. King/Abraham Briscoe House
+title: "George W. King/Abraham Briscoe House (1232 Druid Hill Avenue)"
+excerpt: "The Abraham Briscoe/George W. King House at 1232 Druid Hill Avenue is a three-story rowhouse erected by local builder Rufus Bennett around 1867 or 1868."
 permalink: /places/1232-druid-hill-avenue/
-categories: bigfoot
 tags:
 - housing
+header:
+  teaser: /assets/images/2015-1232-druid-hill-avenue.jpg
+  overlay_image: /assets/images/2015-1232-druid-hill-avenue.jpg
+  overlay_filter: .5
 ---
 
-<div class="notice--info">
 Baltimore Heritage prepared and submitted this study as a CHAP Landmark Designation Report to support the landmark designation of 1232 Druid Hill Avenue on January 12, 2015. This document was written by Eli Pousson, Director of Preservation & Outreach on November 19, 2015, expanded on December 22, 2015 and substantially revised January 4-9, 2016. Please contact Eli Pousson with any questions or corrections at [pousson@baltimoreheritage.org](mailto:pousson@baltimoreheritage.org).
-</div>
-
-{% include figure image_path="http://baltimoreheritage.org/wp-content/uploads/2015/11/P1010056.jpg" alt="" caption="Photograph of 1232 Druid Hill Avenue, November 2015." %}
+{: .notice--info}
 
 # Significance Summary: 1232 Druid Hill Avenue
 
