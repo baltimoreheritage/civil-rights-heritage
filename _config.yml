@@ -65,7 +65,7 @@ algolia:
 powered_by             : true # true (default), false
 
 # SEO Related
-google_site_verification :
+google_site_verification : "JdyRDLK2LsuUhbaH7Ub001tyROMY1gvKCWbA1MhzWy8"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -90,6 +90,7 @@ analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-16215864-7"
+    anonymize_ip         : true
 
 
 # Site Author
