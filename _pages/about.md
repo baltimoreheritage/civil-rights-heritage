@@ -10,6 +10,8 @@ header:
 
 **Baltimore’s Civil Rights Heritage: Looking for Landmarks from the Movement** is an ongoing project to research and document the historic context for the African American Civil Rights movement in Baltimore. We are writing a National Register of Historic Places Multiple Property Documentation Form that documents the significance of the region's Civil Rights history and supports the designation and preservation of local landmarks that tell the story of the movement.
 
+Baltimore Heritage concluded this project in the spring of 2019 with the submission of the Multiple Property Documentation Form to the Maryland Historical Trust for listing on the National Register of Historic Places. While this website is not being regularly updated, we still welcome your feedback, suggestions, and corrections as we maintain this website as an educational resource for local historians, educators, and residents interested in the history of Baltimore's civil rights movement.{: .notice--info}
+
 ## Project Partners
 
 - [Baltimore Heritage](http://baltimoreheritage.org/)
