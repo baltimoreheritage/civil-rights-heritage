@@ -1,9 +1,9 @@
 ---
 title: Preston Gardens
 permalink: /places/preston-gardens/
-categories: bigfoot
+toc: true
+toc_label: "Contents"
 tags:
-- draft
 - housing
 - places
 ---
@@ -86,7 +86,7 @@ The Afro moved in August 1899 to 307 St. Paul Street into a building they descri
 
 ## 1903: Attack on Cortland Street Masonic Temple
 
-Why did African-Americans move to northwest Baltimore? Some had been displaced in South Baltimore, by the expansion of the B&O railroad yards around Camden Station. Downtown neighborhoods also often had older homes without access to more modern amenities. The city’s growing segregation and a clear antagonism towards black residents in some area’s also clearly played a role. 
+Why did African-Americans move to northwest Baltimore? Some had been displaced in South Baltimore, by the expansion of the B&O railroad yards around Camden Station. Downtown neighborhoods also often had older homes without access to more modern amenities. The city’s growing segregation and a clear antagonism towards black residents in some area’s also clearly played a role.
 
 On November 7, 1903 the *Afro-American*  reported on an incident of "mob violence" leading:
 
@@ -159,7 +159,7 @@ Although some long-time residents of the area had left, many remained up until t
 
 ## 1917: Demolition begins on St. Paul Street
 
-On June 23, 1917, the *Afro-American* reported on the "Passing of Former Aristocratic Section" writing:  
+On June 23, 1917, the *Afro-American* reported on the "Passing of Former Aristocratic Section" writing:
 
 > Pedestrians on St. Paul street, north of Saratoga, and vicinity, are struck these days by the changed aspect of things. The plan of the city to clear the east side of St. Paul street out to Centre and thence back along the west side of St. Paul street, carries with it the destruction of properties well known to Baltimoreans.
 > The 500 block of St. Paul street was a sort of aristocratic neighborhood for colored people over a quarter of a century ago. There lived the Jakes and other prominent families. Today its aristocratic past is but a memory.

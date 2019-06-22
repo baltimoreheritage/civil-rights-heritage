@@ -2,6 +2,8 @@
 title: Introduction
 excerpt: "Since Baltimore first began, the city's African American residents have fought to secure, protect, and expand their individual and collective rights and opportunities in America."
 permalink: /introduction/
+toc: true
+toc_label: "Contents"
 redirect_from:
   - /overview/
 modified: 2019-05-04
@@ -51,7 +53,7 @@ Race and Language
 
 The language used by Baltimore residents to discuss race, freedom, and civil rights has changed continuously through the period of this study. These changes not only reflect the changing identities of Baltimoreans but also shape how historians are able to gather and interpret about Baltimore\'s past. For example, the US Census has used a wide range of terminology between 1790 and 1980 when categorizing Americans by race. At different times, census-takers have recorded black Baltimoreans as "colored," "Negro," and "African American." Before 1960, census-takers assigned individuals to a racial category rather than allowing individuals to select which category matched their identity.[^8]
 
-In discussing the city\'s history before the Civil War and the end of slavery in Maryland, this study follows the recommendations of the National Park Service Network to Freedom](https://www.nps.gov/subjects/ugrr/discover_history/terminology.htm) by using the terms "enslaved person" and "slaveholder" and avoiding any use of the terms "slave" and "slave owner." In addition, the term free "people of color" is used interchangeably with free black Baltimoreans. While some black Baltimoreans identified as \"mulatto\" (of mixed-race ancestry) in the nineteenth century, it is important to note that this group as \"mulatto\" never became a distinct, \"elite economic group"--- in contrast to mulatto free people of color living Charleston and other Southern cities. Moreover, historian Christopher Phillips has argued that white Baltimoreans before the Civil War made few or no distinctions between people they identified as \"mulattoes" or "Negroes."[^9]
+In discussing the city\'s history before the Civil War and the end of slavery in Maryland, this study follows the recommendations of the [National Park Service Network to Freedom](https://www.nps.gov/subjects/ugrr/discover_history/terminology.htm) by using the terms "enslaved person" and "slaveholder" and avoiding any use of the terms "slave" and "slave owner." In addition, the term free "people of color" is used interchangeably with free black Baltimoreans. While some black Baltimoreans identified as \"mulatto\" (of mixed-race ancestry) in the nineteenth century, it is important to note that this group as \"mulatto\" never became a distinct, \"elite economic group"--- in contrast to mulatto free people of color living Charleston and other Southern cities. Moreover, historian Christopher Phillips has argued that white Baltimoreans before the Civil War made few or no distinctions between people they identified as \"mulattoes" or "Negroes."[^9]
 
 The debate over how to write and talk about race, identity, and rights has always been a serious concern for black Baltimoreans. At the 1894 meeting of the American Association of Educators of Colored Youth, held at Madison Street Presbyterian Church, E. A. Johnson observed:
 

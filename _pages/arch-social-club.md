@@ -2,6 +2,8 @@
 title: Arch Social Club
 permalink: /places/arch-social-club/
 excerpt: "Founded in 1905, the Arch Social Club is one of the oldest black social and civic organizations in Baltimore and the second oldest secular African American men's club in the United States. Today, the club occupied the former Schanze Theatre erected at Pennsylvania and North Avenue in 1912."
+toc: true
+toc_label: "Contents"
 categories:
   - places
 header:
