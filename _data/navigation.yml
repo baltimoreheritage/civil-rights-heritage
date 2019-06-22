@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Historical Overview"
-    url: /overview/
-  - title: "Themes"
-    url: /themes/
+  - title: "Introduction"
+    url: /introduction/
+  - title: "Map"
+    url: /map/
   - title: "Resources"
     url: /resources/
 
