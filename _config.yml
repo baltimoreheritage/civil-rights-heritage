@@ -82,7 +82,7 @@ og_image                 : "/assets/images/1870-loc-01767v.jpg" # Open Graph/Twi
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Organization" # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "Baltimore Heritage" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
@@ -96,33 +96,47 @@ analytics:
 # Site Author
 author:
   name             : "Baltimore Heritage"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "..."
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A nonprofit historic preservation organization."
   location         : "Baltimore, MD"
-  email            : "info@baltimoreheritage.org"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           : "baltimoreheritage"
-  facebook         : *facebook
-  foursquare       :
-  github           : "baltimoreheritage"
-  google_plus      :
-  keybase          :
-  instagram        : "bmoreheritage"
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : *twitter
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "baltimoreheritage"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:info@baltimoreheritage.org
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://baltimoreheritage.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bmoreheritage"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/baltimoreheritage"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/baltimoreheritage"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/bmoreheritage"
+
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bmoreheritage"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/baltimoreheritage"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/baltimoreheritage"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/bmoreheritage"
+
 
 
 # Reading Files
