@@ -117,7 +117,7 @@ The concerns of black activists and even other Confederate veterans did not limi
 
 ## November 12, 1887: Chief Justice Taney statue unveiled in Mount Vernon Place
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/baltimoreheritage/23591479045/in/album-72157659795697524/" title="Roger B. Taney Monument, Mount Vernon Place"><img src="https://farm1.staticflickr.com/719/23591479045_156710e984_b.jpg" width="1024" height="683" alt="Roger B. Taney Monument, Mount Vernon Place"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/baltimoreheritage/23591479045/in/album-72157659795697524/" title="Roger B. Taney Monument, Mount Vernon Place"><img src="https://live.staticflickr.com/719/23591479045_156710e984_b.jpg" width="1024" height="683" alt="Roger B. Taney Monument, Mount Vernon Place"></a>
 
 Memorial and reunion efforts often drew support from Baltimore’s wealthiest and most influential residents, among them William T. Walters who supported the installation of a monument to Chief Justice Roger B. Taney in the north square of Mount Vernon Place in 1887. Walters arrived in Baltimore from Pennsylvania in 1841 and, beginning in 1847, built a fortune as a liquor wholesaler. In the summer of 1861, Walters left Baltimore for Paris where he remained until 1865.
 
@@ -187,7 +187,7 @@ The account described Captain Henry E. Shepherd, formerly Superintendent of Publ
 
 ## May 2, 1903: Maryland Confederate Monument dedicated on Mount Royal Avenue
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/baltimoreheritage/23297999990/in/album-72157659795697524/" title="Confederate Soldiers and Sailors Monument, Mount Royal Avenue"><img src="https://farm1.staticflickr.com/736/23297999990_87c5879b3e_b.jpg" width="1024" height="683" alt="Confederate Soldiers and Sailors Monument, Mount Royal Avenue"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/baltimoreheritage/23297999990/in/album-72157659795697524/" title="Confederate Soldiers and Sailors Monument, Mount Royal Avenue"><img src="https://live.staticflickr.com/736/23297999990_87c5879b3e_b.jpg" width="1024" height="683" alt="Confederate Soldiers and Sailors Monument, Mount Royal Avenue"></a>
 
 On May 2, 1903, a group of veterans and residents gathered on on Mount Royal Terrace (now Mount Royal Avenue) to dedicate the Maryland Confederate Monument (known as the Confederate Soldiers and Sailors Monument or the "Spirit of the Confederacy”). The *Sun* reported:
 
@@ -290,7 +290,7 @@ The monument was built and dedicated in Druid Hill Park on November 6, 1909. Bal
 
 ## November 2, 1918: Confederate Women's Monument erected on University Parkway
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/baltimoreheritage/23597205735/in/album-72157659795697524/" title="Confederate Women&#x27;s Monument, Bishop&#x27;s Park, Charles Street and University Parkway"><img src="https://farm6.staticflickr.com/5746/23597205735_727d33f5f1_b.jpg" width="1024" height="683" alt="Confederate Women&#x27;s Monument, Bishop&#x27;s Park, Charles Street and University Parkway"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/baltimoreheritage/23597205735/in/album-72157659795697524/" title="Confederate Women&#x27;s Monument, Bishop&#x27;s Park, Charles Street and University Parkway"><img src="https://live.staticflickr.com/5746/23597205735_727d33f5f1_b.jpg" width="1024" height="683" alt="Confederate Women&#x27;s Monument, Bishop&#x27;s Park, Charles Street and University Parkway"></a>
 
 In 1914, the General Assembly of Maryland approved a bill entitled "An act to erect a suitable monument in the city of Baltimore to commemorate the heroism, devotion and self-sacrifice of the women of Maryland in their service to the wounded Confederate soldiers who came under their care in the war between the States—1861-1865."
 
@@ -344,7 +344,7 @@ In October 1947, the Maryland Division of the United Daughters of the Confederac
 
 ## May 1, 1948: Lee-Jackson Monument dedicated at Wyman Park Dell
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/baltimoreheritage/23597386795/in/album-72157659795697524/" title="Lee-Jackson Monument, Wyman Park Dell"><img src="https://farm6.staticflickr.com/5678/23597386795_917e4335a0_b.jpg" width="1024" height="683" alt="Lee-Jackson Monument, Wyman Park Dell"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/baltimoreheritage/23597386795/in/album-72157659795697524/" title="Lee-Jackson Monument, Wyman Park Dell"><img src="https://live.staticflickr.com/5678/23597386795_917e4335a0_b.jpg" width="1024" height="683" alt="Lee-Jackson Monument, Wyman Park Dell"></a>
 
 In 1946, the Sun discussed the long delayed Lee-Jackson Monument writing:
 
