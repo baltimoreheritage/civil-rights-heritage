@@ -1,8 +1,6 @@
 ---
 title: Criminal Injustice
 permalink: /criminal-injustice/
-categories: bigfoot
-tags: draft
 ---
 
 # Introduction

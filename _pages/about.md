@@ -47,7 +47,7 @@ The Multiple Property Documentation Form is a cover document and not a nominatio
 
 ### What are examples of similar research projects?
 
-Over the past decade or more, the National Park Service has accepted several Multiple Property Document Forms dedicated to documenting African-American historic resources, historically black neighborhoods, and the Civil Rights movement. These related MPD forms include:
+Over the past decade or more, the National Park Service has accepted several Multiple Property Document Forms dedicated to documenting African-American historic resources, historically Black neighborhoods, and the Civil Rights movement. These related MPD forms include:
 
 - [The Civil Rights Movement in Selma, Alabama, 1865-1972](http://www.nps.gov/nr/feature/places/pdfs/64501182.pdf) (2013)
 - [African-American Resources in Manhattan, Kansas](http://cityofmhk.com/DocumentCenter/Home/View/9900 "African-American Resources in Manhattan MPDF") (2012)
